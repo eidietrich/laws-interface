@@ -10,16 +10,16 @@ from functions import write_json, read_json
 
 
 bill_list = BillList(BILL_LIST_URL,
-                     use_html_cache=True,
-                     fetch_bill_actions=True,
+                     use_html_bill_list_cache=True,
                      use_verbose_logging=True)
 
 
-# raw_bills = read_json('raw/bills.json')
-# bill_id = 'HB 530'
+# raw_bills = read_json('output/all-bills.json')
+# bill_id = 'SR 99'
 # raw_bill = [bill for bill in raw_bills if bill['key'] == bill_id][0]
 
 # bill = Bill(raw_bill, use_verbose_logging=True)
+# print(bill.export_votes())
 # write_json(bill.export(), './raw/demo-bill.json')
 # write_json(bill.export_actions(), './raw/demo-bill-actions.json')
 # write_json(bill.export_votes(), './raw/demo-bill-votes.json')

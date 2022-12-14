@@ -2,29 +2,41 @@ import json
 import re
 import requests
 from bs4 import BeautifulSoup
-from os.path import exists
+from os.path import exists, join
 
 from models.bill_action import BillAction
 
-from config import BASE_URL
+from config import BASE_URL, BILL_HTML_CACHE
+
+from functions import make_bill_key
 
 
 class Bill:
     """
     Data structure for Montana Legislature bill
 
+    - needs_refresh - flag for determining whether bill needs new data freshed, vs. falling back to cached HTML
+    - write_cache - flag for whether newly fetched bill HTML is written to cache
+    - fetch_actions - flag for whether to fetch bill actions (for faster development)
+    - use_verbose_logging - flag for loquacious console messages 
 
     """
 
-    def __init__(self, input, use_cache=True, fetch_actions=True, use_verbose_logging=True):
+    def __init__(self, input, needs_refresh=True, write_cache=True, fetch_actions=True, use_verbose_logging=True):
         self.key = input['key']
+        self.urlKey = make_bill_key(input['key'])
         self.url = input['billPageUrl']
-        self.use_cache = use_cache
+
+        self.needs_refresh = needs_refresh
+        self.write_cache = write_cache
+
         self.use_verbose_logging = use_verbose_logging
         self.fetch_actions = fetch_actions
 
+        BILL_CACHE_PATH = join(BILL_HTML_CACHE, f'{self.key}.html')
+
         if use_verbose_logging:
-            print('##', self.key)
+            print(f'\n## {self.key} - (refreshing: {self.needs_refresh})')
 
         # Use input as starting point for building out bill data
         self.data = {
@@ -41,27 +53,26 @@ class Bill:
             'lastAction': input['lastAction'],
         }
 
-        self.get_bill_page_data()
-
-    def get_bill_page_data(self, write_cache=True):
-
-        BILL_CACHE_PATH = f'cache-bills/{self.key}.html'
-        if self.use_cache and exists(BILL_CACHE_PATH):
+        if not self.needs_refresh and exists(BILL_CACHE_PATH):
             if self.use_verbose_logging:
-                print(f'- Fetching {self.key} data from html cache')
+                print(f'- Reading {self.key} data from html cache')
             with open(BILL_CACHE_PATH) as f:
                 text = f.read()
         else:
             if self.use_verbose_logging:
-                print(f'- Fetching {self.key} data from', self.url)
+                print(f'+ Fetching {self.key} data from', self.url)
             r = requests.get(self.url)
             text = r.text
-            if write_cache:
+            if self.write_cache:
                 if self.use_verbose_logging:
-                    print(f'- {self.key} html written to cache',
+                    print(f'o Writing {self.key} to cache',
                           BILL_CACHE_PATH)
                 with open(BILL_CACHE_PATH, 'w') as f:
                     f.write(text)
+
+        # Parse HTML to populate bill data whether coming from fresh fetch or cache
+        # Doing it like this so data structure tweaks don't necessitate deleting the cache
+        # and re-fetching the entire bill corpus from scratch
         self.parse_bill_html(text)
 
     def parse_bill_html(self, text):
@@ -128,6 +139,7 @@ class Bill:
         def search_table(label):
             return additional_bill_info_table.find(
                 text=label).find_parent('td').find_next_sibling().text
+
         deadline_category = search_table("Category:")
         transmittal_deadline = search_table("Transmittal Date:")
         amended_return_deadline = search_table(
@@ -146,7 +158,7 @@ class Bill:
                 tr=tr,
                 bill_key=self.key,
                 action_key=i,
-                skip_remote_vote_fetch=self.use_cache,
+                bill_needs_refresh=self.needs_refresh,
                 use_verbose_logging=self.use_verbose_logging,
             )
                 for i, tr in enumerate(actions_table.find_all('tr')[1:][::-1])]

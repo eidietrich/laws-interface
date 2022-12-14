@@ -10,11 +10,17 @@ class BillAction:
     Data structure for bill action
 
     Some but not all actions have associated votes
+
+    - bill_needs_refresh - flag for whether parent bill needs a data refresh in current scrape
+
+    TODO - use bill_needs_refresh flag to be smarter about whether votes need to be fetched
+
+
     """
 
-    def __init__(self, tr, bill_key, action_key, skip_remote_vote_fetch=False, use_verbose_logging=False):
+    def __init__(self, tr, bill_key, action_key, bill_needs_refresh=True, use_verbose_logging=False):
+        self.bill_needs_refresh = bill_needs_refresh
         self.use_verbose_logging = use_verbose_logging
-        self.skip_remote_vote_fetch = skip_remote_vote_fetch
 
         bill_key_ns = bill_key.replace(' ', '')
         action_id = f'{bill_key_ns}-{action_key:04}'
@@ -61,8 +67,9 @@ class BillAction:
                 'type': vote_type,
                 'bill_page_vote_count': vote_count,
             },
-                skip_remote_vote_fetch=self.skip_remote_vote_fetch,
-                use_verbose_logging=self.use_verbose_logging)
+                bill_needs_refresh=self.bill_needs_refresh,
+                use_verbose_logging=self.use_verbose_logging
+            )
         else:
             self.vote = None
 

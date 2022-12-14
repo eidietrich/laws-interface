@@ -1,11 +1,17 @@
 import json
 
 
-def write_json(data, path, pretty=True):
+def make_bill_key(identifier):
+    # Makes URL/filename friendly key from "HB XX"-style identfier
+    return identifier.replace(' ', '-').lower()
+
+
+def write_json(data, path, pretty=True, log=True):
     indent = 4 if pretty else 0
     with open(path, 'w') as f:
         json.dump(data, f, indent=indent)
-    print('Written to', path)
+    if log:
+        print('Written to', path)
 
 
 def read_json(path):

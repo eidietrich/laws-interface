@@ -3,21 +3,24 @@ import requests
 import re
 from bs4 import BeautifulSoup
 from datetime import date
-from os.path import exists
+from os.path import exists, join
 
 
 from functions import write_json, read_json
 
 from models.bill import Bill
 
-from config import BASE_URL
+from config import BASE_URL, BILL_HTML_CACHE
 
-BILL_LIST_HTML_CACHE_PATH = 'cache-bills/all-introduced-bills.html'
-RAW_BILL_PATH = 'raw/bills.json'
+BILL_LIST_HTML_CACHE_PATH = join(BILL_HTML_CACHE, 'all-introduced-bills.html')
 
-PRIOR_SCRAPE_DATA_PATH = 'cache-data/last-scrape-bills.json'
 
-# BASE_URL = 'http://laws.leg.mt.gov/legprd/'
+# RAW_BILL_PATH = 'outputs/all-bills.json'
+
+OUTPUT_BASE_PATH = 'output'
+LAST_SCRAPE_BILLS_PATH = join(OUTPUT_BASE_PATH, 'all-bills.json')
+LAST_SCRAPE_ACTIONS_PATH = join(OUTPUT_BASE_PATH, 'all-bill-actions.json')
+LAST_SCRAPE_VOTES_PATH = join(OUTPUT_BASE_PATH, 'all-votes.json')
 
 TODAY = date.today().strftime('%m/%d/%Y')
 
@@ -31,16 +34,14 @@ class BillList:
     """
 
     def __init__(self, url,
-                 fetch_bill_actions=True,
                  use_html_bill_list_cache=False,
                  use_verbose_logging=False):
         bill_list = self.get_bill_list(url, use_cache=use_html_bill_list_cache)
         self.use_verbose_logging = use_verbose_logging
 
-        # write_json(raw_bills, RAW_BILL_PATH)
-
-        if exists(PRIOR_SCRAPE_DATA_PATH):
-            self.last_scrape_bills = read_json(PRIOR_SCRAPE_DATA_PATH)
+        if exists(LAST_SCRAPE_BILLS_PATH):
+            # self.last_scrape_bills = read_json(LAST_SCRAPE_BILLS_PATH)
+            self.last_scrape_bills = read_json(LAST_SCRAPE_BILLS_PATH)
         else:
             self.last_scrape_bills = []
 
@@ -49,13 +50,12 @@ class BillList:
             matches = [
                 last for last in self.last_scrape_bills if last['key'] == raw['key']
             ]
-            can_use_cache = len(matches) > 0 \
-                and (raw['statusDate'] == matches[0]['statusDate']) \
-                and (raw['lastAction'] == matches[0]['lastAction']) \
-                and (raw['statusDate'] != TODAY)
+            needs_refresh = len(matches) == 0 \
+                or (raw['statusDate'] != matches[0]['statusDate']) \
+                or (raw['lastAction'] != matches[0]['lastAction']) \
+                or (raw['statusDate'] == TODAY)
             bill = Bill(raw,
-                        use_cache=can_use_cache,
-                        fetch_actions=fetch_bill_actions,
+                        needs_refresh=needs_refresh,
                         use_verbose_logging=self.use_verbose_logging)
             self.bills.append(bill)
 
@@ -126,14 +126,27 @@ class BillList:
         return bill
 
     def export(self):
-        bill_list = [bill.export() for bill in self.bills]
+        bill_list = []
         action_list = []
         vote_list = []
         for bill in self.bills:
-            action_list += bill.export_actions()
-            vote_list += bill.export_votes()
 
-        write_json(bill_list, PRIOR_SCRAPE_DATA_PATH)
-        write_json(bill_list, './raw/bills.json')
-        write_json(action_list, './raw/actions.json')
-        write_json(vote_list, './raw/votes.json')
+            bill_data = bill.export()
+            write_json(bill_data, join(
+                OUTPUT_BASE_PATH, f'{bill.urlKey}--data.json'), log=False)
+            bill_list += bill_data
+
+            actions = bill.export_actions()
+            write_json(actions, join(
+                OUTPUT_BASE_PATH, f'{bill.urlKey}--actions.json'), log=False)
+            action_list += actions
+
+            votes = bill.export_votes()
+            vote_list += votes
+            write_json(actions, join(
+                OUTPUT_BASE_PATH, f'{bill.urlKey}--votes.json'), log=False)
+
+        # Write combined files
+        write_json(bill_list, 'all-bills.json')
+        write_json(action_list, 'all-bill-actions.json')
+        write_json(vote_list, 'all-votes.json')

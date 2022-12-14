@@ -4,8 +4,9 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 from PyPDF2 import PdfReader
-import os
+from os.path import exists, join
 
+from config import VOTE_HTML_CACHE
 
 FLOOR_DATE_FORMAT = '%B %m, %Y'
 
@@ -13,21 +14,17 @@ FLOOR_DATE_FORMAT = '%B %m, %Y'
 class Vote:
     """Data structure for Montana Legislature vote
 
-        Can be a committtee or floor vote.
+        Can be a committtee, floor or mail veto override vote.
     """
 
     def __init__(self, inputs,
-                 use_cache=True,
-                 skip_remote_vote_fetch=False,
+                 bill_needs_refresh=False,
                  use_verbose_logging=False):
         self.id = inputs['action_id']
         self.inputs = inputs
-        self.use_cache = use_cache
+        self.bill_needs_refresh = bill_needs_refresh
+        self.use_cache = True  # TODO - decide how to make this smarter
         self.use_verbose_logging = use_verbose_logging
-        self.skip_remote_vote_fetch = skip_remote_vote_fetch
-
-        # if self.use_verbose_logging:
-        #     print('### Vote', self.id)
 
         self.data = {
             'url': inputs['url'],
@@ -49,21 +46,23 @@ class Vote:
         Parse HTML floor vote page,
         e.g. http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2050&P_SESS=20211
         """
-        CACHE_PATH = f'cache-votes/{self.id}.html'
+        CACHE_PATH = join(VOTE_HTML_CACHE, f'{self.id}.html')
 
-        if os.path.exists(CACHE_PATH) and self.use_cache:
+        if exists(CACHE_PATH) and self.use_cache:
             if self.use_verbose_logging:
                 print('--- Reading floor vote data from', CACHE_PATH)
             with open(CACHE_PATH, 'r') as f:
                 text = f.read()
-        elif self.use_cache and self.skip_remote_vote_fetch:
-            # Skips effort to fetch uncached URL, saving time for broken vote links
-            # Should trigger for bills that don't need an update
-            print(f'--- Skipping floor data for ${self.id} from', url)
-            self.data['error'] = 'Missing vote page'
+        elif not exists(CACHE_PATH) and not self.bill_needs_refresh:
+            # Skips effort to fetch uncached bills from URL, saving time for broken vote links
+            # that weren't fetched successfully last time
+            # Should trigger only for bills that don't need an update
+            print(f'ooo Skipping missing floor data for {self.id} from', url)
+            self.data['error'] = 'Skipped previously missing vote page'
+            return None
         else:
             if self.use_verbose_logging:
-                print(f'--- Fetching floor vote data for {self.id} from', url)
+                print(f'+++ Fetching floor vote data for {self.id} from', url)
             response = requests.get(url)
             text = response.text
             if "No Vote Records Found for this Action." in text:
@@ -71,7 +70,7 @@ class Vote:
                 self.data['error'] = 'Missing vote page'
                 err = self.data['error']
                 if self.use_verbose_logging:
-                    print(f'*** {err} fetching {self.id}. URL:', url)
+                    print(f'  * {err} fetching {self.id}. URL:', url)
                 return None
 
             # Write cache
@@ -119,20 +118,26 @@ class Vote:
         Parse PDF committee vote page,
         e.g. https://leg.mt.gov/bills/2021/minutes/house/votesheets/HB0701TAH210401.pdf
         """
-        CACHE_PATH = f'cache-votes/{self.id}.pdf'
+        CACHE_PATH = join(VOTE_HTML_CACHE, f'{self.id}.pdf')
 
         self.data['seq_number'] = None  # Only for floor votes
         self.data['error'] = None
 
-        if os.path.exists(CACHE_PATH) and self.use_cache:
+        if exists(CACHE_PATH) and self.use_cache:
             if self.use_verbose_logging:
-                print('--- Reading committee vote data from cache', CACHE_PATH)
+                print('--- Reading committee vote data from', CACHE_PATH)
             # Read existing PDF below for either method
+        elif not exists(CACHE_PATH) and not self.bill_needs_refresh:
+            # Skips effort to fetch uncached bills from URL, saving time for broken vote links
+            # Should trigger only for bills that don't need an update
+            print(f'ooo Skipping missing committee vote data for {self.id}')
+            self.data['error'] = 'Skipped previously missing vote page'
+            return None
         elif url is not None:
             if self.use_verbose_logging:
-                print('--- Fetching committee vote data from URL', url)
+                print('+++ Fetching committee vote data from URL', url)
             response = requests.get(url)
-            if response.status_code == '200':
+            if response.status_code == 200:
                 raw = response.content
                 with open(CACHE_PATH, 'wb') as f:
                     f.write(raw)
@@ -145,7 +150,7 @@ class Vote:
             # Terminate data parsing here and move on
             err = self.data['error']
             if self.use_verbose_logging:
-                print(f'*** {err} fetching {self.id}. URL:', url)
+                print(f'  * {err} fetching {self.id}. URL:', url)
             return None
 
         with open(CACHE_PATH, 'rb') as f:
@@ -156,7 +161,6 @@ class Vote:
                 r'(?s).+(?=\nYEAS \- \d+\s+ NAYS \- \d+)', text).group(0).split('\n')
             total_row = re.search(r'YEAS \- \d+\s+ NAYS \- \d+', text).group(0)
             vote_re = re.compile(r'(Y|N|E|A) .+')
-            # vote_rows = text.split('\n')[len(header_rows)+1:]
             vote_rows = list(filter(vote_re.match, text.split('\n')))
 
             # Assuming header rows are consistent
