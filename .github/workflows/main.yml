@@ -30,4 +30,4 @@ jobs:
       env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
       with:
-          text: [TEST] Scrape was successful
+          text: "[TEST] Scrape was successful"
