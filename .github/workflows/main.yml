@@ -16,3 +16,11 @@ jobs:
       run: pip install -r requirements.txt
     - name: Run scraper
       run: python3 hello-scraper.py
+    - name: Add and commit
+      run: |-
+        git add .
+        git config user.name "Automated"
+        git config user.email "action@users.noreply.github.com"
+        git commit -m "Latest data"
+    - name: Push
+      run: git push
