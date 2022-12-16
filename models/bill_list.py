@@ -60,7 +60,7 @@ class BillList:
 
     def get_bill_list(self, list_url, use_cache=False, write_cache=True):
         if use_cache:
-            print("Fetching bill list from cache", BILL_LIST_HTML_CACHE_PATH)
+            print("Reading bill list from", BILL_LIST_HTML_CACHE_PATH)
             with open(BILL_LIST_HTML_CACHE_PATH, 'r') as f:
                 text = f.read()
                 parsed = self.parse_bill_list_html(text)
@@ -70,7 +70,7 @@ class BillList:
             r = requests.get(list_url)
             text = r.text
             if write_cache:
-                print("Fetched bill list written to cache at",
+                print("Writing bill list to",
                       BILL_LIST_HTML_CACHE_PATH)
                 with open(BILL_LIST_HTML_CACHE_PATH, 'w') as f:
                     f.write(text)
