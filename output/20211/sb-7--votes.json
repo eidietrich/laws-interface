@@ -1,484 +1,974 @@
 [
     {
-        "id": "SB7-0000",
+        "url": "http://leg.mt.gov/bills/2021/minutes/senate/votesheets/SB0007TAS210129.pdf",
         "bill": "SB 7",
-        "action": "(C) Draft Request Received",
-        "actionUrl": null,
-        "date": "08/28/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0001",
-        "bill": "SB 7",
-        "action": "(C) Draft in Legal Review",
-        "actionUrl": null,
-        "date": "09/23/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0002",
-        "bill": "SB 7",
-        "action": "(C) Draft in Edit",
-        "actionUrl": null,
-        "date": "10/13/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0003",
-        "bill": "SB 7",
-        "action": "(C) Draft to Drafter - Edit Review",
-        "actionUrl": null,
-        "date": "10/27/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0004",
-        "bill": "SB 7",
-        "action": "(C) Draft in Input/Proofing",
-        "actionUrl": null,
-        "date": "10/27/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0005",
-        "bill": "SB 7",
-        "action": "(C) Draft in Final Drafter Review",
-        "actionUrl": null,
-        "date": "11/27/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0006",
-        "bill": "SB 7",
-        "action": "(C) Bill Draft Text Available Electronically",
-        "actionUrl": null,
-        "date": "11/27/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0007",
-        "bill": "SB 7",
-        "action": "(C) Draft in Input/Proofing",
-        "actionUrl": null,
-        "date": "11/30/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0008",
-        "bill": "SB 7",
-        "action": "(C) Draft in Final Drafter Review",
-        "actionUrl": null,
-        "date": "12/01/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0009",
-        "bill": "SB 7",
-        "action": "(C) Bill Draft Text Available Electronically",
-        "actionUrl": null,
-        "date": "12/01/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0010",
-        "bill": "SB 7",
-        "action": "(C) Executive Director Review",
-        "actionUrl": null,
-        "date": "12/01/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0011",
-        "bill": "SB 7",
-        "action": "(C) Draft in Assembly",
-        "actionUrl": null,
-        "date": "12/01/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0012",
-        "bill": "SB 7",
-        "action": "(S) Introduced",
-        "actionUrl": null,
-        "date": "12/12/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0013",
-        "bill": "SB 7",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "12/12/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0014",
-        "bill": "SB 7",
-        "action": "(S) Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "12/23/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0015",
-        "bill": "SB 7",
-        "action": "(S) Referred to Committee",
-        "actionUrl": null,
-        "date": "12/23/2020",
-        "hasVote": false,
-        "committee": "(S) Taxation",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0016",
-        "bill": "SB 7",
-        "action": "(S) First Reading",
-        "actionUrl": null,
-        "date": "01/04/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0017",
-        "bill": "SB 7",
-        "action": "(S) Hearing",
-        "actionUrl": null,
-        "date": "01/08/2021",
-        "hasVote": false,
-        "committee": "(S) Taxation",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/39824?agendaId=179761",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/40452?agendaId=179767"
+        "action_id": "SB7-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January  29, 2021",
+        "description": "SB 7 - DO PASS AS AMENDED",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Blasdel, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "N"
+            },
+            {
+                "name": "Hoven, Brian",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Pomnichowski, JP",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Gordon",
+                "vote": "N"
+            }
         ]
     },
     {
-        "id": "SB7-0018",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S337&P_SESS=20211",
         "bill": "SB 7",
-        "action": "(S) Fiscal Note Received",
-        "actionUrl": null,
-        "date": "01/11/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0019",
-        "bill": "SB 7",
-        "action": "(C) Amendments Available",
-        "actionUrl": null,
-        "date": "01/11/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0020",
-        "bill": "SB 7",
-        "action": "(S) Fiscal Note Printed",
-        "actionUrl": null,
-        "date": "01/12/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0021",
-        "bill": "SB 7",
-        "action": "(S) Committee Executive Action--Bill Passed as Amended",
-        "actionUrl": null,
-        "date": "01/29/2021",
-        "hasVote": true,
-        "committee": "(S) Taxation",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0022",
-        "bill": "SB 7",
-        "action": "(S) Committee Report--Bill Passed as Amended",
-        "actionUrl": null,
-        "date": "02/01/2021",
-        "hasVote": false,
-        "committee": "(S) Taxation",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0023",
-        "bill": "SB 7",
-        "action": "(S) Revised Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "02/02/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0024",
-        "bill": "SB 7",
-        "action": "(S) Revised Fiscal Note Received",
-        "actionUrl": null,
-        "date": "02/04/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0025",
-        "bill": "SB 7",
-        "action": "(S) Revised Fiscal Note Printed",
-        "actionUrl": null,
-        "date": "02/05/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0026",
-        "bill": "SB 7",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/15/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0027",
-        "bill": "SB 7",
-        "action": "(S) 2nd Reading Motion to Amend Carried",
-        "actionUrl": null,
-        "date": "02/15/2021",
-        "hasVote": true,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0028",
-        "bill": "SB 7",
-        "action": "(S) 2nd Reading Passed as Amended",
-        "actionUrl": null,
-        "date": "02/15/2021",
-        "hasVote": true,
-        "committee": "  ",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/41115?agendaId=227986",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42416?agendaId=228003"
+        "action_id": "SB7-0027",
+        "type": "floor",
+        "seq_number": "S337",
+        "date": "February 15, 2021",
+        "description": "AMD-001 Hertz D/PASS",
+        "totals": {
+            "Y": 31,
+            "N": 19,
+            "E": 0,
+            "A": 0
+        },
+        "votes": [
+            {
+                "name": "Ankney, Duane",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Bennett, Bryce",
+                "vote": "N"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Blasdel, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Gauthier, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Sands, Diane",
+                "vote": "N"
+            },
+            {
+                "name": "Boland, Carlie",
+                "vote": "N"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith (Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Cary",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "McNally, Mary",
+                "vote": "N"
+            },
+            {
+                "name": "Sweeney, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "N"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel (Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Gordon",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Hoven, Brian",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Howard, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Osmundson, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Jacobson, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Pomnichowski, JP",
+                "vote": "N"
+            }
         ]
     },
     {
-        "id": "SB7-0029",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S338&P_SESS=20211",
         "bill": "SB 7",
-        "action": "(S) Rereferred to Committee",
-        "actionUrl": null,
-        "date": "02/15/2021",
-        "hasVote": false,
-        "committee": "(S) Finance and Claims",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0030",
-        "bill": "SB 7",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "02/15/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0031",
-        "bill": "SB 7",
-        "action": "(S) Hearing",
-        "actionUrl": null,
-        "date": "02/18/2021",
-        "hasVote": false,
-        "committee": "(S) Finance and Claims",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42492?agendaId=198017",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42414?agendaId=188727"
+        "action_id": "SB7-0028",
+        "type": "floor",
+        "seq_number": "S338",
+        "date": "February 15, 2021",
+        "description": "Do Pass As Amended",
+        "totals": {
+            "Y": 31,
+            "N": 19,
+            "E": 0,
+            "A": 0
+        },
+        "votes": [
+            {
+                "name": "Ankney, Duane",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Bennett, Bryce",
+                "vote": "N"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Blasdel, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Gauthier, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Sands, Diane",
+                "vote": "N"
+            },
+            {
+                "name": "Boland, Carlie",
+                "vote": "N"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith (Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Cary",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "McNally, Mary",
+                "vote": "N"
+            },
+            {
+                "name": "Sweeney, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "N"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel (Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Gordon",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Hoven, Brian",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Howard, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Osmundson, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Jacobson, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Pomnichowski, JP",
+                "vote": "N"
+            }
         ]
     },
     {
-        "id": "SB7-0032",
+        "url": "http://leg.mt.gov/bills/2021/minutes/senate/votesheets/SB0007FCS210218.pdf",
         "bill": "SB 7",
-        "action": "(S) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "02/18/2021",
-        "hasVote": true,
-        "committee": "(S) Finance and Claims",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0033",
-        "bill": "SB 7",
-        "action": "(S) Committee Report--Bill Passed",
-        "actionUrl": null,
-        "date": "02/19/2021",
-        "hasVote": false,
-        "committee": "(S) Finance and Claims",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0034",
-        "bill": "SB 7",
-        "action": "(S) 2nd Reading Indefinitely Postpone Motion Failed",
-        "actionUrl": null,
-        "date": "02/20/2021",
-        "hasVote": true,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0035",
-        "bill": "SB 7",
-        "action": "(S) Scheduled for 3rd Reading",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0036",
-        "bill": "SB 7",
-        "action": "(S) 3rd Reading Passed",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": true,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0037",
-        "bill": "SB 7",
-        "action": "(S) Transmitted to House",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0038",
-        "bill": "SB 7",
-        "action": "(H) Referred to Committee",
-        "actionUrl": null,
-        "date": "02/24/2021",
-        "hasVote": false,
-        "committee": "(H) Taxation",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0039",
-        "bill": "SB 7",
-        "action": "(H) First Reading",
-        "actionUrl": null,
-        "date": "02/24/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0040",
-        "bill": "SB 7",
-        "action": "(S) Revised Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "03/09/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0041",
-        "bill": "SB 7",
-        "action": "(S) Revised Fiscal Note Received",
-        "actionUrl": null,
-        "date": "03/10/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0042",
-        "bill": "SB 7",
-        "action": "(H) Hearing Canceled",
-        "actionUrl": null,
-        "date": "03/11/2021",
-        "hasVote": false,
-        "committee": "(H) Taxation",
-        "recordings": []
-    },
-    {
-        "id": "SB7-0043",
-        "bill": "SB 7",
-        "action": "(S) Revised Fiscal Note Printed",
-        "actionUrl": null,
-        "date": "03/11/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB7-0044",
-        "bill": "SB 7",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "04/09/2021",
-        "hasVote": false,
-        "committee": "(H) Taxation",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/43270?agendaId=214063",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/43217?agendaId=214057"
+        "action_id": "SB7-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "February  18, 2021",
+        "description": "SB 7 - DO PASS",
+        "totals": {
+            "Y": 12,
+            "N": 7
+        },
+        "votes": [
+            {
+                "name": "Ankney, Duane",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Howard, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Jacobson, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Kary, Douglas(Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "McNally, Mary",
+                "vote": "N"
+            },
+            {
+                "name": "Morigeau, ShaneA.",
+                "vote": "N"
+            },
+            {
+                "name": "Osmundson, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, DanielR.",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Cary",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, JeffreyW.",
+                "vote": "Y"
+            }
         ]
     },
     {
-        "id": "SB7-0045",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S449&P_SESS=20211",
         "bill": "SB 7",
-        "action": "(H) Tabled in Committee",
-        "actionUrl": null,
-        "date": "04/09/2021",
-        "hasVote": false,
-        "committee": "(H) Taxation",
-        "recordings": []
+        "action_id": "SB7-0034",
+        "type": "floor",
+        "seq_number": "S449",
+        "date": "February 20, 2021",
+        "description": "Indefinitely Postpone SB 7-Cohenour",
+        "totals": {
+            "Y": 20,
+            "N": 29,
+            "E": 1,
+            "A": 0
+        },
+        "votes": [
+            {
+                "name": "Ankney, Duane",
+                "vote": "N"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Keenan, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "N"
+            },
+            {
+                "name": "Bennett, Bryce",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "N"
+            },
+            {
+                "name": "Blasdel, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Gauthier, Terry",
+                "vote": "N"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "N"
+            },
+            {
+                "name": "Sands, Diane",
+                "vote": "Y"
+            },
+            {
+                "name": "Boland, Carlie",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "N"
+            },
+            {
+                "name": "McClafferty, Edith (Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Small, Jason",
+                "vote": "N"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "N"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Smith, Cary",
+                "vote": "N"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "McNally, Mary",
+                "vote": "Y"
+            },
+            {
+                "name": "Sweeney, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "N"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "N"
+            },
+            {
+                "name": "Tempel, Russel (Russ)",
+                "vote": "N"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "N"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Gordon",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Hoven, Brian",
+                "vote": "N"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellsworth, Jason",
+                "vote": "N"
+            },
+            {
+                "name": "Howard, David",
+                "vote": "N"
+            },
+            {
+                "name": "Osmundson, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "E"
+            },
+            {
+                "name": "Jacobson, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Pomnichowski, JP",
+                "vote": "Y"
+            }
+        ]
     },
     {
-        "id": "SB7-0046",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S468&P_SESS=20211",
         "bill": "SB 7",
-        "action": "(H) Died in Standing Committee",
-        "actionUrl": null,
-        "date": "04/29/2021",
-        "hasVote": false,
-        "committee": "(H) Taxation",
-        "recordings": []
+        "action_id": "SB7-0036",
+        "type": "floor",
+        "seq_number": "S468",
+        "date": "February 22, 2021",
+        "description": "Do Pass",
+        "totals": {
+            "Y": 28,
+            "N": 22,
+            "E": 0,
+            "A": 0
+        },
+        "votes": [
+            {
+                "name": "Ankney, Duane",
+                "vote": "N"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Bennett, Bryce",
+                "vote": "N"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Blasdel, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Gauthier, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Sands, Diane",
+                "vote": "N"
+            },
+            {
+                "name": "Boland, Carlie",
+                "vote": "N"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith (Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Cary",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "McNally, Mary",
+                "vote": "N"
+            },
+            {
+                "name": "Sweeney, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "N"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel (Russ)",
+                "vote": "N"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Gordon",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Hoven, Brian",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Howard, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Osmundson, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "N"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Jacobson, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Pomnichowski, JP",
+                "vote": "N"
+            }
+        ]
     }
 ]

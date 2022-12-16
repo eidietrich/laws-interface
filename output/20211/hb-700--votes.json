@@ -1,338 +1,503 @@
 [
     {
-        "id": "HB700-0000",
+        "url": "http://leg.mt.gov/bills/2021/minutes/house/votesheets/HB0700AGH210401.pdf",
         "bill": "HB 700",
-        "action": "(C) Draft Request Received",
-        "actionUrl": null,
-        "date": "12/12/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0001",
-        "bill": "HB 700",
-        "action": "(C) Draft On Hold",
-        "actionUrl": null,
-        "date": "12/21/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0002",
-        "bill": "HB 700",
-        "action": "(C) Draft Taken Off Hold",
-        "actionUrl": null,
-        "date": "03/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0003",
-        "bill": "HB 700",
-        "action": "(C) Draft to Requester for Review",
-        "actionUrl": null,
-        "date": "03/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0004",
-        "bill": "HB 700",
-        "action": "(C) Draft in Legal Review",
-        "actionUrl": null,
-        "date": "03/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0005",
-        "bill": "HB 700",
-        "action": "(C) Draft in Edit",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0006",
-        "bill": "HB 700",
-        "action": "(C) Draft to Drafter - Edit Review",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0007",
-        "bill": "HB 700",
-        "action": "(C) Draft in Input/Proofing",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0008",
-        "bill": "HB 700",
-        "action": "(C) Draft in Final Drafter Review",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0009",
-        "bill": "HB 700",
-        "action": "(C) Bill Draft Text Available Electronically",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0010",
-        "bill": "HB 700",
-        "action": "(C) Executive Director Review",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0011",
-        "bill": "HB 700",
-        "action": "(C) Draft in Assembly",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0012",
-        "bill": "HB 700",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0013",
-        "bill": "HB 700",
-        "action": "(C) Executive Director Final Review",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0014",
-        "bill": "HB 700",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "03/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0015",
-        "bill": "HB 700",
-        "action": "(C) Draft Delivered to Requester",
-        "actionUrl": null,
-        "date": "03/25/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0016",
-        "bill": "HB 700",
-        "action": "(H) Introduced",
-        "actionUrl": null,
-        "date": "03/26/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0017",
-        "bill": "HB 700",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "03/27/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0018",
-        "bill": "HB 700",
-        "action": "(H) Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "03/29/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0019",
-        "bill": "HB 700",
-        "action": "(H) Referred to Committee",
-        "actionUrl": null,
-        "date": "03/29/2021",
-        "hasVote": false,
-        "committee": "(H) Agriculture",
-        "recordings": []
-    },
-    {
-        "id": "HB700-0020",
-        "bill": "HB 700",
-        "action": "(H) First Reading",
-        "actionUrl": null,
-        "date": "03/29/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0021",
-        "bill": "HB 700",
-        "action": "(C) Amendments Available",
-        "actionUrl": null,
-        "date": "04/01/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0022",
-        "bill": "HB 700",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "04/01/2021",
-        "hasVote": false,
-        "committee": "(H) Agriculture",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/43226?agendaId=212868",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/41627?agendaId=212860"
+        "action_id": "HB700-0023",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 1, 2021",
+        "description": "HB 700 - DO PASS AS AMENDED",
+        "totals": {
+            "Y": 17,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Funk, Moffie",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "WhitemanPena, Rynalea",
+                "vote": "Y"
+            }
         ]
     },
     {
-        "id": "HB700-0023",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1473&P_SESS=20211",
         "bill": "HB 700",
-        "action": "(H) Committee Executive Action--Bill Passed as Amended",
-        "actionUrl": null,
-        "date": "04/01/2021",
-        "hasVote": true,
-        "committee": "(H) Agriculture",
-        "recordings": []
-    },
-    {
-        "id": "HB700-0024",
-        "bill": "HB 700",
-        "action": "(H) Fiscal Note Received",
-        "actionUrl": null,
-        "date": "04/05/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0025",
-        "bill": "HB 700",
-        "action": "(H) Fiscal Note Signed",
-        "actionUrl": null,
-        "date": "04/05/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0026",
-        "bill": "HB 700",
-        "action": "(H) Fiscal Note Printed",
-        "actionUrl": null,
-        "date": "04/05/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0027",
-        "bill": "HB 700",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/06/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0028",
-        "bill": "HB 700",
-        "action": "(H) Committee Report--Bill Passed as Amended",
-        "actionUrl": null,
-        "date": "04/06/2021",
-        "hasVote": false,
-        "committee": "(H) Agriculture",
-        "recordings": []
-    },
-    {
-        "id": "HB700-0029",
-        "bill": "HB 700",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/07/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0030",
-        "bill": "HB 700",
-        "action": "(H) 2nd Reading Not Passed",
-        "actionUrl": null,
-        "date": "04/07/2021",
-        "hasVote": true,
-        "committee": "",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/41089?agendaId=213715",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/43253?agendaId=213752"
+        "action_id": "HB700-0030",
+        "type": "floor",
+        "seq_number": "H1473",
+        "date": "April 07, 2021",
+        "description": "Do Pass",
+        "totals": {
+            "Y": 39,
+            "N": 61,
+            "E": 0,
+            "A": 0
+        },
+        "votes": [
+            {
+                "name": "Abbott, Kim",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "N"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "N"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "N"
+            },
+            {
+                "name": "Kerr-Carpenter, Emma",
+                "vote": "N"
+            },
+            {
+                "name": "Ricci, Vince",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "N"
+            },
+            {
+                "name": "Funk, Moffie",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Rhonda",
+                "vote": "N"
+            },
+            {
+                "name": "Running Wolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "N"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "N"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "N"
+            },
+            {
+                "name": "Schillinger, Jerry",
+                "vote": "N"
+            },
+            {
+                "name": "Bedey, David",
+                "vote": "N"
+            },
+            {
+                "name": "Galt, Wylie",
+                "vote": "N"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "N"
+            },
+            {
+                "name": "Berglee, Seth",
+                "vote": "N"
+            },
+            {
+                "name": "Garner, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "N"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "N"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "N"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "N"
+            },
+            {
+                "name": "Skees, Derek",
+                "vote": "N"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "N"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "N"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "N"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Greef, Sharon",
+                "vote": "Y"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "N"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "N"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "N"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "Y"
+            },
+            {
+                "name": "Stewart Peregoy, Sharon",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "N"
+            },
+            {
+                "name": "Hamilton, Jim",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Stromswold, Mallerie",
+                "vote": "N"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Caferro, Mary",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Mercer, Bill",
+                "vote": "N"
+            },
+            {
+                "name": "Tenenbaum, Danny",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "N"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Hill, Ed",
+                "vote": "N"
+            },
+            {
+                "name": "Moore, Terry",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "N"
+            },
+            {
+                "name": "Custer, Geraldine",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "N"
+            },
+            {
+                "name": "Nave, Fiona",
+                "vote": "N"
+            },
+            {
+                "name": "Tschida, Brad",
+                "vote": "N"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "N"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "N"
+            },
+            {
+                "name": "Dunwell, Mary Ann",
+                "vote": "Y"
+            },
+            {
+                "name": "Holmlund, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Novak, Sara",
+                "vote": "Y"
+            },
+            {
+                "name": "Vinton, Sue",
+                "vote": "N"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "N"
+            },
+            {
+                "name": "Hopkins, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Farris-Olsen, Robert",
+                "vote": "Y"
+            },
+            {
+                "name": "Jones, Llew",
+                "vote": "N"
+            },
+            {
+                "name": "Patelis, Jimmy",
+                "vote": "N"
+            },
+            {
+                "name": "Weatherwax, Marvin",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "Y"
+            },
+            {
+                "name": "Karjala, Jessica",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "N"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "N"
+            },
+            {
+                "name": "Putnam, Brian",
+                "vote": "Y"
+            },
+            {
+                "name": "Whiteman Pena, Rynalea",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "N"
+            },
+            {
+                "name": "Keane, Jim",
+                "vote": "N"
+            },
+            {
+                "name": "Read, Joe",
+                "vote": "N"
+            },
+            {
+                "name": "Whitman, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fleming, Frank",
+                "vote": "N"
+            },
+            {
+                "name": "Kelker, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Matt",
+                "vote": "N"
+            },
+            {
+                "name": "Windy Boy, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Keogh, Connie",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "N"
+            }
         ]
-    },
-    {
-        "id": "HB700-0031",
-        "bill": "HB 700",
-        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
-        "actionUrl": null,
-        "date": "04/08/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB700-0032",
-        "bill": "HB 700",
-        "action": "(H) Died in Process",
-        "actionUrl": null,
-        "date": "04/29/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
     }
 ]

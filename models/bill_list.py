@@ -140,7 +140,7 @@ class BillList:
 
             votes = bill.export_votes()
             vote_list += votes
-            write_json(actions, join(
+            write_json(votes, join(
                 OUTPUT_BASE_PATH, f'{bill.urlKey}--votes.json'), log=False)
 
         # Write combined files

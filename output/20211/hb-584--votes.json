@@ -1,331 +1,511 @@
 [
     {
-        "id": "HB584-0000",
+        "url": "http://leg.mt.gov/bills/2021/minutes/house/votesheets/HB0584JUH210224.pdf",
         "bill": "HB 584",
-        "action": "(C) Draft Request Received",
-        "actionUrl": null,
-        "date": "12/13/2020",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0001",
-        "bill": "HB 584",
-        "action": "(C) Draft in Legal Review",
-        "actionUrl": null,
-        "date": "02/17/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0002",
-        "bill": "HB 584",
-        "action": "(C) Draft in Edit",
-        "actionUrl": null,
-        "date": "02/17/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0003",
-        "bill": "HB 584",
-        "action": "(C) Draft to Drafter - Edit Review",
-        "actionUrl": null,
-        "date": "02/20/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0004",
-        "bill": "HB 584",
-        "action": "(C) Draft in Input/Proofing",
-        "actionUrl": null,
-        "date": "02/20/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0005",
-        "bill": "HB 584",
-        "action": "(C) Draft in Final Drafter Review",
-        "actionUrl": null,
-        "date": "02/21/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0006",
-        "bill": "HB 584",
-        "action": "(C) Bill Draft Text Available Electronically",
-        "actionUrl": null,
-        "date": "02/21/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0007",
-        "bill": "HB 584",
-        "action": "(C) Executive Director Review",
-        "actionUrl": null,
-        "date": "02/21/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0008",
-        "bill": "HB 584",
-        "action": "(C) Draft in Assembly",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0009",
-        "bill": "HB 584",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0010",
-        "bill": "HB 584",
-        "action": "(C) Executive Director Final Review",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0011",
-        "bill": "HB 584",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0012",
-        "bill": "HB 584",
-        "action": "(C) Draft Delivered to Requester",
-        "actionUrl": null,
-        "date": "02/22/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0013",
-        "bill": "HB 584",
-        "action": "(H) Introduced",
-        "actionUrl": null,
-        "date": "02/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0014",
-        "bill": "HB 584",
-        "action": "(H) Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "02/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0015",
-        "bill": "HB 584",
-        "action": "(H) Referred to Committee",
-        "actionUrl": null,
-        "date": "02/23/2021",
-        "hasVote": false,
-        "committee": "(H) Judiciary",
-        "recordings": []
-    },
-    {
-        "id": "HB584-0016",
-        "bill": "HB 584",
-        "action": "(H) First Reading",
-        "actionUrl": null,
-        "date": "02/23/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0017",
-        "bill": "HB 584",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "02/24/2021",
-        "hasVote": false,
-        "committee": "(H) Judiciary",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/40522?agendaId=229102",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42589?agendaId=202407"
+        "action_id": "HB584-0019",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "February  24, 2021",
+        "description": "HB 584 - DO PASS",
+        "totals": {
+            "Y": 17,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Berglee, Seth",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "N"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Farris-Olsen, Robert",
+                "vote": "Y"
+            },
+            {
+                "name": "Fleming, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, DennisR.",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            },
+            {
+                "name": "Skees, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Stromswold, Mallerie",
+                "vote": "Y"
+            },
+            {
+                "name": "Tenenbaum, Danny",
+                "vote": "N"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            }
         ]
     },
     {
-        "id": "HB584-0018",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H908&P_SESS=20211",
         "bill": "HB 584",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "02/24/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0019",
-        "bill": "HB 584",
-        "action": "(H) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "02/24/2021",
-        "hasVote": true,
-        "committee": "(H) Judiciary",
-        "recordings": []
-    },
-    {
-        "id": "HB584-0020",
-        "bill": "HB 584",
-        "action": "(H) Fiscal Note Received",
-        "actionUrl": null,
-        "date": "03/01/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0021",
-        "bill": "HB 584",
-        "action": "(C) Fiscal Note Unsigned",
-        "actionUrl": null,
-        "date": "03/01/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0022",
-        "bill": "HB 584",
-        "action": "(H) Fiscal Note Printed",
-        "actionUrl": null,
-        "date": "03/01/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0023",
-        "bill": "HB 584",
-        "action": "(H) Sponsor Rebuttal to Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "03/01/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0024",
-        "bill": "HB 584",
-        "action": "(H) Committee Report--Bill Passed",
-        "actionUrl": null,
-        "date": "03/01/2021",
-        "hasVote": false,
-        "committee": "(H) Judiciary",
-        "recordings": []
-    },
-    {
-        "id": "HB584-0025",
-        "bill": "HB 584",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "03/02/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0026",
-        "bill": "HB 584",
-        "action": "(H) 2nd Reading Passed",
-        "actionUrl": null,
-        "date": "03/02/2021",
-        "hasVote": true,
-        "committee": "",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42672?agendaId=204021",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42167?agendaId=203977"
+        "action_id": "HB584-0026",
+        "type": "floor",
+        "seq_number": "H908",
+        "date": "March 02, 2021",
+        "description": "Do Pass",
+        "totals": {
+            "Y": 59,
+            "N": 39,
+            "E": 0,
+            "A": 2
+        },
+        "votes": [
+            {
+                "name": "Abbott, Kim",
+                "vote": "N"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "N"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "N"
+            },
+            {
+                "name": "Kerr-Carpenter, Emma",
+                "vote": "N"
+            },
+            {
+                "name": "Ricci, Vince",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "N"
+            },
+            {
+                "name": "Funk, Moffie",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Rhonda",
+                "vote": "Y"
+            },
+            {
+                "name": "Running Wolf, Tyson",
+                "vote": "N"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "N"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "Schillinger, Jerry",
+                "vote": "Y"
+            },
+            {
+                "name": "Bedey, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Galt, Wylie",
+                "vote": "N"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "N"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Berglee, Seth",
+                "vote": "Y"
+            },
+            {
+                "name": "Garner, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "N"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "N"
+            },
+            {
+                "name": "Skees, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "N"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "N"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "N"
+            },
+            {
+                "name": "Greef, Sharon",
+                "vote": "Y"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "N"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "N"
+            },
+            {
+                "name": "Stewart Peregoy, Sharon",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "Y"
+            },
+            {
+                "name": "Hamilton, Jim",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Stromswold, Mallerie",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Caferro, Mary",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "N"
+            },
+            {
+                "name": "Mercer, Bill",
+                "vote": "Y"
+            },
+            {
+                "name": "Tenenbaum, Danny",
+                "vote": "N"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Hill, Ed",
+                "vote": "A"
+            },
+            {
+                "name": "Moore, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "N"
+            },
+            {
+                "name": "Custer, Geraldine",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            },
+            {
+                "name": "Nave, Fiona",
+                "vote": "Y"
+            },
+            {
+                "name": "Tschida, Brad",
+                "vote": "A"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, Mary Ann",
+                "vote": "Y"
+            },
+            {
+                "name": "Holmlund, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Novak, Sara",
+                "vote": "Y"
+            },
+            {
+                "name": "Vinton, Sue",
+                "vote": "N"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Hopkins, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Farris-Olsen, Robert",
+                "vote": "N"
+            },
+            {
+                "name": "Jones, Llew",
+                "vote": "N"
+            },
+            {
+                "name": "Patelis, Jimmy",
+                "vote": "N"
+            },
+            {
+                "name": "Weatherwax, Marvin",
+                "vote": "N"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "N"
+            },
+            {
+                "name": "Karjala, Jessica",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "N"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "Y"
+            },
+            {
+                "name": "Putnam, Brian",
+                "vote": "N"
+            },
+            {
+                "name": "Whiteman Pena, Rynalea",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Keane, Jim",
+                "vote": "N"
+            },
+            {
+                "name": "Read, Joe",
+                "vote": "N"
+            },
+            {
+                "name": "Whitman, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fleming, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Matt",
+                "vote": "N"
+            },
+            {
+                "name": "Windy Boy, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Keogh, Connie",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
         ]
-    },
-    {
-        "id": "HB584-0027",
-        "bill": "HB 584",
-        "action": "(H) Rereferred to Committee",
-        "actionUrl": null,
-        "date": "03/02/2021",
-        "hasVote": false,
-        "committee": "(H) Appropriations",
-        "recordings": []
-    },
-    {
-        "id": "HB584-0028",
-        "bill": "HB 584",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "03/09/2021",
-        "hasVote": false,
-        "committee": "(H) Appropriations",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42763?agendaId=213535",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/42674?agendaId=213530"
-        ]
-    },
-    {
-        "id": "HB584-0029",
-        "bill": "HB 584",
-        "action": "(H) Tabled in Committee",
-        "actionUrl": null,
-        "date": "03/09/2021",
-        "hasVote": false,
-        "committee": "(H) Appropriations",
-        "recordings": []
-    },
-    {
-        "id": "HB584-0030",
-        "bill": "HB 584",
-        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
-        "actionUrl": null,
-        "date": "04/08/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB584-0031",
-        "bill": "HB 584",
-        "action": "(H) Died in Process",
-        "actionUrl": null,
-        "date": "04/29/2021",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
     }
 ]
