@@ -1,33 +1,35 @@
 name: Run scrape
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
-  
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-        cache: 'pip'
-    - name: Install Python libraries
-      run: pip install -r requirements.txt
-    - name: Run scraper
-      run: python3 hello-scraper.py
-    - name: Add and commit
-      uses: EndBug/add-and-commit@v8
-      with:
-        committer_name: "Automated"
-        committer_email: "action@users.noreply.github.com"
-        message: "Latest data"
-    - name: Push
-      run: git push
-    - name: Slack Notification on SUCCESS
-      if: success()
-      uses: tokorom/action-slack-incoming-webhook@main
-      env:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pip"
+      - name: Install Python libraries
+        run: pip install -r requirements.txt
+      - name: Run scraper
+        run: python3 main.py
+      - name: Add and commit
+        uses: EndBug/add-and-commit@v8
+        with:
+          committer_name: "Automated"
+          committer_email: "action@users.noreply.github.com"
+          message: "Latest data"
+      - name: Push
+        run: git push
+      - name: Slack Notification on SUCCESS
+        if: success()
+        uses: tokorom/action-slack-incoming-webhook@main
+        env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
-      with:
+        with:
           text: "[TEST] Scrape was successful"

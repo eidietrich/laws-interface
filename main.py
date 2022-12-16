@@ -9,17 +9,17 @@ from models.vote import Vote
 from functions import write_json, read_json
 
 
-bill_list = BillList(BILL_LIST_URL,
-                     use_html_bill_list_cache=True,
-                     use_verbose_logging=True)
+# bill_list = BillList(BILL_LIST_URL,
+#                      use_html_bill_list_cache=True,
+#                      use_verbose_logging=True)
 
 
-# raw_bills = read_json('output/all-bills.json')
-# bill_id = 'SR 99'
-# raw_bill = [bill for bill in raw_bills if bill['key'] == bill_id][0]
+raw_bills = read_json('output/all-bills.json')
+bill_id = 'HB 102'
+raw_bill = [bill for bill in raw_bills if bill['key'] == bill_id][0]
 
-# bill = Bill(raw_bill, use_verbose_logging=True)
-# print(bill.export_votes())
+bill = Bill(raw_bill, use_verbose_logging=True)
+
 # write_json(bill.export(), './raw/demo-bill.json')
 # write_json(bill.export_actions(), './raw/demo-bill-actions.json')
 # write_json(bill.export_votes(), './raw/demo-bill-votes.json')
@@ -38,4 +38,4 @@ bill_list = BillList(BILL_LIST_URL,
 #     "bill": "HB 701",
 #     "action_id": "HB701-0027",
 #     "type": "committee"
-# }, use_verbose_logging=True, use_cache=False)
+# }, use_verbose_logging=True)
