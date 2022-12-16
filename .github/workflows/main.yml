@@ -19,7 +19,7 @@ jobs:
       - name: Run scraper
         run: python3 main.py
       - name: Add and commit
-        uses: EndBug/add-and-commit@v8
+        uses: EndBug/add-and-commit@v9
         with:
           committer_name: "Automated"
           committer_email: "action@users.noreply.github.com"
