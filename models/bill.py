@@ -6,7 +6,7 @@ from os.path import exists, join
 
 from models.bill_action import BillAction
 
-from config import BASE_URL, BILL_HTML_CACHE
+from config import CACHE_BASE_PATH
 
 from functions import make_bill_key
 
@@ -33,10 +33,11 @@ class Bill:
         self.use_verbose_logging = use_verbose_logging
         self.fetch_actions = fetch_actions
 
-        BILL_CACHE_PATH = join(BILL_HTML_CACHE, f'{self.key}.html')
+        BILL_CACHE_PATH = join(CACHE_BASE_PATH, 'bills', f'{self.key}.html')
 
         if use_verbose_logging:
-            print(f'\n## {self.key} - (refreshing: {self.needs_refresh})')
+            print(
+                f'\n## {self.key} - (Fetching new data: {self.needs_refresh})')
 
         # Use input as starting point for building out bill data
         self.data = {
@@ -55,7 +56,7 @@ class Bill:
 
         if not self.needs_refresh and exists(BILL_CACHE_PATH):
             if self.use_verbose_logging:
-                print(f'- Reading {self.key} data from html cache')
+                print(f'- Reading {self.key} data from {BILL_CACHE_PATH}')
             with open(BILL_CACHE_PATH) as f:
                 text = f.read()
         else:

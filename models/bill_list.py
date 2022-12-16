@@ -10,14 +10,11 @@ from functions import write_json, read_json
 
 from models.bill import Bill
 
-from config import BASE_URL, BILL_HTML_CACHE
+from config import BASE_URL, CACHE_BASE_PATH, OUTPUT_BASE_PATH
 
-BILL_LIST_HTML_CACHE_PATH = join(BILL_HTML_CACHE, 'all-introduced-bills.html')
+BILL_LIST_HTML_CACHE_PATH = join(CACHE_BASE_PATH, 'all-introduced-bills.html')
+BILL_DATA_CACHE = join(CACHE_BASE_PATH, 'last-scrape-bill-data.json')
 
-
-# RAW_BILL_PATH = 'outputs/all-bills.json'
-
-OUTPUT_BASE_PATH = 'output'
 LAST_SCRAPE_BILLS_PATH = join(OUTPUT_BASE_PATH, 'all-bills.json')
 LAST_SCRAPE_ACTIONS_PATH = join(OUTPUT_BASE_PATH, 'all-bill-actions.json')
 LAST_SCRAPE_VOTES_PATH = join(OUTPUT_BASE_PATH, 'all-votes.json')
@@ -39,10 +36,11 @@ class BillList:
         bill_list = self.get_bill_list(url, use_cache=use_html_bill_list_cache)
         self.use_verbose_logging = use_verbose_logging
 
-        if exists(LAST_SCRAPE_BILLS_PATH):
-            # self.last_scrape_bills = read_json(LAST_SCRAPE_BILLS_PATH)
-            self.last_scrape_bills = read_json(LAST_SCRAPE_BILLS_PATH)
+        if exists(BILL_DATA_CACHE):
+            self.last_scrape_bills = read_json(BILL_DATA_CACHE)
         else:
+            if use_verbose_logging:
+                print('No bill data cache found at', BILL_DATA_CACHE)
             self.last_scrape_bills = []
 
         self.bills = []

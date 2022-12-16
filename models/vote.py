@@ -6,7 +6,7 @@ from datetime import datetime
 from PyPDF2 import PdfReader
 from os.path import exists, join
 
-from config import VOTE_HTML_CACHE
+from config import CACHE_BASE_PATH
 
 FLOOR_DATE_FORMAT = '%B %m, %Y'
 
@@ -46,7 +46,7 @@ class Vote:
         Parse HTML floor vote page,
         e.g. http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2050&P_SESS=20211
         """
-        CACHE_PATH = join(VOTE_HTML_CACHE, f'{self.id}.html')
+        CACHE_PATH = join(CACHE_BASE_PATH, 'votes', f'{self.id}.html')
 
         if exists(CACHE_PATH) and self.use_cache:
             if self.use_verbose_logging:
@@ -118,7 +118,7 @@ class Vote:
         Parse PDF committee vote page,
         e.g. https://leg.mt.gov/bills/2021/minutes/house/votesheets/HB0701TAH210401.pdf
         """
-        CACHE_PATH = join(VOTE_HTML_CACHE, f'{self.id}.pdf')
+        CACHE_PATH = join(CACHE_BASE_PATH, 'votes', f'{self.id}.pdf')
 
         self.data['seq_number'] = None  # Only for floor votes
         self.data['error'] = None

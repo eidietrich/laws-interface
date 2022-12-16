@@ -1,7 +1,11 @@
+from os.path import join
+
 BASE_URL = 'http://laws.leg.mt.gov/legprd/'
 
-# 2021 Bills for testing
-BILL_LIST_URL = 'http://laws.leg.mt.gov/legprd/LAW0217W$BAIV.return_all_bills?P_SESS=20211'
+SESSION_ID = '20211'  # 2021 regular session
+# SESSION_ID = '20231' # 2023 regular session
 
-BILL_HTML_CACHE = 'cache-bill-html'
-VOTE_HTML_CACHE = 'cache-votes'
+BILL_LIST_URL = f'http://laws.leg.mt.gov/legprd/LAW0217W$BAIV.return_all_bills?P_SESS={SESSION_ID}'
+
+CACHE_BASE_PATH = join('cache', SESSION_ID)
+OUTPUT_BASE_PATH = join('output', SESSION_ID)
