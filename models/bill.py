@@ -22,7 +22,7 @@ class Bill:
 
     """
 
-    def __init__(self, input, needs_refresh=True, write_cache=True, fetch_actions=True, use_verbose_logging=True):
+    def __init__(self, input, needs_refresh=True, write_cache=True, fetch_actions=True, use_verbose_logging=True, cache_base_path=CACHE_BASE_PATH):
         self.key = input['key']
         self.urlKey = make_bill_key(input['key'])
         self.url = input['billPageUrl']
@@ -33,7 +33,7 @@ class Bill:
         self.use_verbose_logging = use_verbose_logging
         self.fetch_actions = fetch_actions
 
-        BILL_CACHE_PATH = join(CACHE_BASE_PATH, 'bills', f'{self.key}.html')
+        BILL_CACHE_PATH = join(cache_base_path, 'bills', f'{self.key}.html')
 
         if use_verbose_logging:
             print(

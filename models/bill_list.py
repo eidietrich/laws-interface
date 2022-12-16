@@ -16,8 +16,8 @@ BILL_LIST_HTML_CACHE_PATH = join(CACHE_BASE_PATH, 'all-introduced-bills.html')
 BILL_DATA_CACHE = join(CACHE_BASE_PATH, 'last-scrape-bill-data.json')
 
 LAST_SCRAPE_BILLS_PATH = join(OUTPUT_BASE_PATH, 'all-bills.json')
-LAST_SCRAPE_ACTIONS_PATH = join(OUTPUT_BASE_PATH, 'all-bill-actions.json')
-LAST_SCRAPE_VOTES_PATH = join(OUTPUT_BASE_PATH, 'all-votes.json')
+# LAST_SCRAPE_ACTIONS_PATH = join(OUTPUT_BASE_PATH, 'all-bill-actions.json')
+# LAST_SCRAPE_VOTES_PATH = join(OUTPUT_BASE_PATH, 'all-votes.json')
 
 TODAY = date.today().strftime('%m/%d/%Y')
 
@@ -30,10 +30,11 @@ class BillList:
 
     """
 
-    def __init__(self, url,
+    def __init__(self, bill_list_url,
                  use_html_bill_list_cache=False,
                  use_verbose_logging=False):
-        bill_list = self.get_bill_list(url, use_cache=use_html_bill_list_cache)
+        bill_list = self.get_bill_list(
+            bill_list_url, use_cache=use_html_bill_list_cache)
         self.use_verbose_logging = use_verbose_logging
 
         if exists(BILL_DATA_CACHE):
@@ -56,8 +57,6 @@ class BillList:
                         needs_refresh=needs_refresh,
                         use_verbose_logging=self.use_verbose_logging)
             self.bills.append(bill)
-
-        self.export()
 
     def get_bill_list(self, list_url, use_cache=False, write_cache=True):
         if use_cache:
