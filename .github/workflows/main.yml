@@ -30,22 +30,4 @@ jobs:
       env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
       with:
-          text: Scrape was successful
-          attachments: |
-          [
-              {
-              "color": "good",
-              "author_name": "${{ github.actor }}",
-              "author_icon": "${{ github.event.sender.avatar_url }}",
-              "fields": [
-                  {
-                  "title": "GitHub Actions URL",
-                  "value": "https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}"
-                  },
-                  {
-                  "title": "Commit URL",
-                  "value": "https://github.com/${{github.repository}}/commits"
-                  }
-              ]
-              }
-          ] 
+          text: [TEST] Scrape was successful
