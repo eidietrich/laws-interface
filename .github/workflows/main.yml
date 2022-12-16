@@ -13,6 +13,6 @@ jobs:
         python-version: '3.10'
         cache: 'pip'
     - name: Install Python libraries
-    - run: pip install -r requirements.txt
+      run: pip install -r requirements.txt
     - name: Run scraper
-    - run: python3 hello-scraper.py
+      run: python3 hello-scraper.py
