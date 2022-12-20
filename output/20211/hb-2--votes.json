@@ -11836,7 +11836,11 @@
         "action_id": "HB2-0215",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 5,
+            "N": 1
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2019&P_SESS=20211",

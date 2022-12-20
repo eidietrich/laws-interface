@@ -53,7 +53,11 @@
         "action_id": "SB57-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 5,
+            "N": 3
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S123&P_SESS=20211",

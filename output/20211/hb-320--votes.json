@@ -915,6 +915,10 @@
         "action_id": "HB320-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 9,
+            "N": 3
+        }
     }
 ]

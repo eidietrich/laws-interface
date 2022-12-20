@@ -2431,7 +2431,11 @@
         "action_id": "HB188-0073",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 4,
+            "N": 2
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2119&P_SESS=20211",

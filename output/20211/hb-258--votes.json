@@ -5,7 +5,11 @@
         "action_id": "HB258-0026",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 12,
+            "N": 7
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H669&P_SESS=20211",

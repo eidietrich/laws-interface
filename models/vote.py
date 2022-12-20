@@ -61,6 +61,7 @@ class Vote:
             # that weren't fetched successfully last time
             # Should trigger only for bills that don't need an update
             print(f'ooo Skipping missing floor data for {self.id} from', url)
+            self.data['totals'] = self.inputs['bill_page_vote_count']
             self.data['error'] = 'Skipped previously missing vote page'
             return None
         else:
@@ -70,6 +71,7 @@ class Vote:
             text = response.text
             if "No Vote Records Found for this Action." in text:
                 # Missing vote page error. Label as error and move on
+                self.data['totals'] = self.inputs['bill_page_vote_count']
                 self.data['error'] = 'Missing vote page'
                 err = self.data['error']
                 if self.use_verbose_logging:
@@ -134,6 +136,7 @@ class Vote:
             # Skips effort to fetch uncached bills from URL, saving time for broken vote links
             # Should trigger only for bills that don't need an update
             print(f'ooo Skipping missing committee vote data for {self.id}')
+            self.data['totals'] = self.inputs['bill_page_vote_count']
             self.data['error'] = 'Skipped previously missing vote page'
             return None
         elif url is not None:
@@ -145,8 +148,10 @@ class Vote:
                 with open(CACHE_PATH, 'wb') as f:
                     f.write(raw)
             else:
+                self.data['totals'] = self.inputs['bill_page_vote_count']
                 self.data['error'] = 'Missing PDF'
         else:
+            self.data['totals'] = self.inputs['bill_page_vote_count']
             self.data['error'] = 'Missing URL'
 
         if self.data['error'] is not None:

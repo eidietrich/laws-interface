@@ -1408,7 +1408,11 @@
         "action_id": "HB102-0033",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2021/minutes/senate/votesheets/HB0102JUS210129.pdf",

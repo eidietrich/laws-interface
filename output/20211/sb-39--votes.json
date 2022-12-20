@@ -65,7 +65,11 @@
         "action_id": "SB39-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S120&P_SESS=20211",
@@ -1811,7 +1815,11 @@
         "action_id": "SB39-0046",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 6,
+            "N": 0
+        }
     },
     {
         "url": null,
@@ -1819,7 +1827,11 @@
         "action_id": "SB39-0048",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 6,
+            "N": 0
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1730&P_SESS=20211",

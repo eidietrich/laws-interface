@@ -5,7 +5,11 @@
         "action_id": "HB121-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 16,
+            "N": 1
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2021/minutes/house/votesheets/HB0121BUH210225.pdf",

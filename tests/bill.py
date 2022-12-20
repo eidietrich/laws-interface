@@ -10,12 +10,14 @@ from functions import read_json
 from models.bill import Bill
 
 raw_bills = read_json('output/20211/all-bills.json')
-bill_id = 'HB 102'
+# bill_id = 'HB 102'
+bill_id = 'HB 1'
 raw_bill = [bill for bill in raw_bills if bill['key'] == bill_id][0]
 bill = Bill(raw_bill,
-            bill_needs_refresh=True,
+            needs_refresh=True,
             cache_base_path='cache/tests',
             use_verbose_logging=True)
 
 print('## Bill data:')
 print(json.dumps(bill.export(), indent=4))
+print(json.dumps(bill.export_votes(), indent=4))

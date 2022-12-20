@@ -915,7 +915,11 @@
         "action_id": "HB648-0036",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 6,
+            "N": 6
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2021/minutes/senate/votesheets/HB0648NAS210416.pdf",
@@ -1814,7 +1818,11 @@
         "action_id": "HB648-0050",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page"
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 6,
+            "N": 0
+        }
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1991&P_SESS=20211",
