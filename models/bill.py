@@ -6,7 +6,7 @@ from os.path import exists, join
 
 from models.bill_action import BillAction
 
-from config import CACHE_BASE_PATH
+from config import SESSION_ID, CACHE_BASE_PATH
 
 from functions import make_bill_key
 
@@ -42,6 +42,7 @@ class Bill:
         # Use input as starting point for building out bill data
         self.data = {
             'key': input['key'],
+            'session': SESSION_ID,
             'billPageUrl': input['billPageUrl'],
             'billTextUrl': input['billTextUrl'],
             'billPdfUrl': input['billPdfUrl'],

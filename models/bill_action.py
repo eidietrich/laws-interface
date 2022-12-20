@@ -1,6 +1,6 @@
 import json
 
-from config import BASE_URL
+from config import SESSION_ID, BASE_URL
 
 from models.vote import Vote
 
@@ -81,6 +81,7 @@ class BillAction:
         self.data = {
             'id': action_id,
             'bill': bill_key,
+            'session': SESSION_ID,
             'action': action_description,
             'actionUrl': tds[0].get('href'),
             'date': action_date,

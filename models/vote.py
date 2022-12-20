@@ -6,7 +6,7 @@ from datetime import datetime
 from PyPDF2 import PdfReader
 from os.path import exists, join
 
-from config import CACHE_BASE_PATH
+from config import SESSION_ID, CACHE_BASE_PATH
 
 FLOOR_DATE_FORMAT = '%B %m, %Y'
 
@@ -32,6 +32,7 @@ class Vote:
         self.data = {
             'url': inputs['url'],
             'bill': inputs['bill'],
+            'session': SESSION_ID,
             'action_id': inputs['action_id'],
             'type': inputs['type'],
         }
