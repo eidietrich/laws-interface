@@ -128,20 +128,20 @@ class BillList:
         vote_list = []
         for bill in self.bills:
 
-            bill_data += bill.export()
+            bill_data = bill.export()
             write_json(bill_data, join(
                 OUTPUT_BASE_PATH, f'{bill.urlKey}--data.json'), log=False)
-            bill_list += bill_data
+            bill_list.append(bill_data)
 
             actions = bill.export_actions()
             write_json(actions, join(
                 OUTPUT_BASE_PATH, f'{bill.urlKey}--actions.json'), log=False)
-            action_list += actions
+            action_list.append(actions)
 
             votes = bill.export_votes()
-            vote_list += votes
             write_json(votes, join(
                 OUTPUT_BASE_PATH, f'{bill.urlKey}--votes.json'), log=False)
+            vote_list.append(votes)
 
         # Write combined files
         write_json(bill_list, join(OUTPUT_BASE_PATH, 'all-bills.json'))
