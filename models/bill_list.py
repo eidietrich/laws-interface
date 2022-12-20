@@ -144,6 +144,7 @@ class BillList:
                 OUTPUT_BASE_PATH, f'{bill.urlKey}--votes.json'), log=False)
 
         # Write combined files
-        write_json(bill_list, 'all-bills.json')
-        write_json(action_list, 'all-bill-actions.json')
-        write_json(vote_list, 'all-votes.json')
+        write_json(bill_list, join(OUTPUT_BASE_PATH, 'all-bills.json'))
+        write_json(action_list, join(
+            OUTPUT_BASE_PATH, 'all-bill-actions.json'))
+        write_json(vote_list, join(OUTPUT_BASE_PATH, 'all-votes.json'))
