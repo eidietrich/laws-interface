@@ -1,6 +1,8 @@
 name: Run scrape
 
 on:
+  schedule:
+    - cron: "*/20 * * * *"
   # push:
   #   branches: [main]
   workflow_dispatch:
