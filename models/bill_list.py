@@ -58,6 +58,8 @@ class BillList:
                         use_verbose_logging=self.use_verbose_logging)
             self.bills.append(bill)
 
+        self.write_bill_data_cache()
+
     def get_bill_list(self, list_url, use_cache=False, write_cache=True):
         if use_cache:
             print("Reading bill list from", BILL_LIST_HTML_CACHE_PATH)
@@ -121,6 +123,13 @@ class BillList:
             'lastAction': raw['Status'].replace('|', ''),
         }
         return bill
+
+    def write_bill_data_cache(self):
+        bill_list = []
+        for bill in self.bills:
+            bill_data = bill.export()
+            bill_list.append(bill_data)
+        write_json(bill_list, BILL_DATA_CACHE)
 
     def export(self):
         bill_list = []
