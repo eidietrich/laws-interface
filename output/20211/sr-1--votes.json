@@ -83,7 +83,7 @@
         "action_id": "SR1-0017",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 15,
             "N": 0
@@ -292,6 +292,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
             }
         ]
     },
@@ -497,6 +509,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "Y"
             }
         ]

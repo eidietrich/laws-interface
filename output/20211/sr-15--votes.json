@@ -6,7 +6,7 @@
         "action_id": "SR15-0018",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 8,
             "N": 0
@@ -214,6 +214,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "Y"
             }
         ]

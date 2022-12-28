@@ -6,7 +6,7 @@
         "action_id": "HB630-0022",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 24,
             "N": 0
@@ -1144,6 +1144,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
             }
         ]
     },
@@ -1349,6 +1361,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "Y"
             }
         ]

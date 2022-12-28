@@ -75,7 +75,7 @@
         "action_id": "SB9-0014",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 3
@@ -284,6 +284,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
             }
         ]
     },
@@ -489,6 +501,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "N"
             }
         ]

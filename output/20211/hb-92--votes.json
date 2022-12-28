@@ -517,7 +517,7 @@
         "action_id": "HB92-0041",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 17,
             "N": 6
@@ -1623,6 +1623,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
             }
         ]
     },
@@ -1921,6 +1933,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "N"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "Y"
             }
         ]
@@ -3800,6 +3824,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
             }
         ]
     },
@@ -4005,6 +4041,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "N"
             }
         ]

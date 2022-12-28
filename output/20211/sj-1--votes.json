@@ -83,7 +83,7 @@
         "action_id": "SJ1-0012",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 6
@@ -292,6 +292,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
             }
         ]
     },
@@ -498,6 +510,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
             }
         ]
     },
@@ -508,7 +532,7 @@
         "action_id": "SJ1-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 13,
             "N": 7
@@ -1553,6 +1577,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
             }
         ]
     },
@@ -1563,7 +1599,7 @@
         "action_id": "SJ1-0033",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 4,
             "N": 2
@@ -2190,6 +2226,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
             }
         ]
     },
@@ -2813,6 +2861,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "N"
             }
         ]

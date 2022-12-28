@@ -5,6 +5,7 @@ from models.bill_list import BillList
 
 # Run scrape
 bill_list = BillList(
+    force_refresh=False,
     bill_list_url=BILL_LIST_URL,
     use_verbose_logging=True
 )

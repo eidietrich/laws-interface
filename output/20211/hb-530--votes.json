@@ -935,7 +935,7 @@
         "action_id": "HB530-0048",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 4,
             "N": 4
@@ -951,7 +951,7 @@
             "Y": 26,
             "N": 24
         },
-        "error": "Skipped previously missing vote page"
+        "error": "Missing vote page"
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1910&P_SESS=20211",
@@ -1155,6 +1155,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "N"
             }
         ]
@@ -1362,6 +1374,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
             }
         ]
     },
@@ -1567,6 +1591,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "N"
             }
         ]

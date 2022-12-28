@@ -6,7 +6,7 @@
         "action_id": "SR7-0018",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 7,
             "N": 4
@@ -22,6 +22,6 @@
             "Y": 31,
             "N": 19
         },
-        "error": "Skipped previously missing vote page"
+        "error": "Missing vote page"
     }
 ]

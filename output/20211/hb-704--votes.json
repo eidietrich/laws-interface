@@ -521,7 +521,7 @@
         "action_id": "HB704-0034",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 16,
             "N": 8
@@ -1209,6 +1209,18 @@
             {
                 "name": "Pomnichowski, JP",
                 "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
             }
         ]
     },
@@ -1507,6 +1519,18 @@
             },
             {
                 "name": "Pomnichowski, JP",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kary, Douglas (Doug)",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
                 "vote": "Y"
             }
         ]

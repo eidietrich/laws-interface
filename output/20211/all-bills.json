@@ -292,9 +292,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/08/2021",
@@ -3976,7 +3976,7 @@
         "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/20211/AmdPublicWeb/?bill=HB0102",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Seth Berglee",

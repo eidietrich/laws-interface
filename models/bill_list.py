@@ -31,6 +31,7 @@ class BillList:
     """
 
     def __init__(self, bill_list_url,
+                 force_refresh=False,
                  use_html_bill_list_cache=False,
                  use_verbose_logging=False):
         bill_list = self.get_bill_list(
@@ -49,7 +50,8 @@ class BillList:
             matches = [
                 last for last in self.last_scrape_bills if last['key'] == raw['key']
             ]
-            needs_refresh = len(matches) == 0 \
+            needs_refresh = force_refresh \
+                or len(matches) == 0 \
                 or (raw['statusDate'] != matches[0]['statusDate']) \
                 or (raw['lastAction'] != matches[0]['lastAction']) \
                 or (raw['statusDate'] == TODAY)
