@@ -121,6 +121,39 @@
         "recordings": []
     },
     {
+        "id": "HB1-0011",
+        "bill": "HB 1",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "12/23/2022",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB1-0012",
+        "bill": "HB 1",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "12/23/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB1-0013",
+        "bill": "HB 1",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
         "id": "HB2-0000",
         "bill": "HB 2",
         "session": "20231",
@@ -236,7 +269,7 @@
         "session": "20231",
         "action": "(H) Hearing Canceled",
         "actionUrl": null,
-        "date": "12/21/2022",
+        "date": "12/27/2022",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
@@ -369,6 +402,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB3-0012",
+        "bill": "HB 3",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
@@ -534,6 +578,17 @@
         "action": "(H) Hearing Canceled",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB4-0015",
+        "bill": "HB 4",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
@@ -1723,7 +1778,7 @@
         "actionUrl": null,
         "date": "12/20/2022",
         "hasVote": false,
-        "committee": null,
+        "committee": "(H) Appropriations",
         "recordings": []
     },
     {
@@ -1884,9 +1939,9 @@
         "id": "HB13-0014",
         "bill": "HB 13",
         "session": "20231",
-        "action": "(H) Hearing Canceled",
+        "action": "(H) Hearing",
         "actionUrl": null,
-        "date": "12/21/2022",
+        "date": "01/03/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
@@ -2244,6 +2299,17 @@
         "recordings": []
     },
     {
+        "id": "HB16-0015",
+        "bill": "HB 16",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
         "id": "HB17-0000",
         "bill": "HB 17",
         "session": "20231",
@@ -2536,6 +2602,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/19/2022",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB18-0012",
+        "bill": "HB 18",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
@@ -3140,7 +3217,7 @@
         "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
-        "date": "01/04/2023",
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": []
@@ -3248,9 +3325,9 @@
         "id": "HB23-0009",
         "bill": "HB 23",
         "session": "20231",
-        "action": "(C) Fiscal Note Probable",
+        "action": "(C) Draft Delivered to Requester",
         "actionUrl": null,
-        "date": "11/28/2022",
+        "date": "11/05/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -3259,7 +3336,7 @@
         "id": "HB23-0010",
         "bill": "HB 23",
         "session": "20231",
-        "action": "(H) Introduced",
+        "action": "(C) Fiscal Note Probable",
         "actionUrl": null,
         "date": "11/28/2022",
         "hasVote": false,
@@ -3270,9 +3347,9 @@
         "id": "HB23-0011",
         "bill": "HB 23",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(H) Introduced",
         "actionUrl": null,
-        "date": "11/30/2022",
+        "date": "11/28/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -3281,7 +3358,7 @@
         "id": "HB23-0012",
         "bill": "HB 23",
         "session": "20231",
-        "action": "(H) Fiscal Note Requested",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
         "date": "11/30/2022",
         "hasVote": false,
@@ -3292,9 +3369,9 @@
         "id": "HB23-0013",
         "bill": "HB 23",
         "session": "20231",
-        "action": "(C) Draft Delivered to Requester",
+        "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
-        "date": "12/13/2022",
+        "date": "11/30/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -3921,7 +3998,7 @@
         "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
-        "date": "01/04/2023",
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
         "recordings": []
@@ -4076,6 +4153,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/19/2022",
+        "hasVote": false,
+        "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB28-0014",
+        "bill": "HB 28",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
         "recordings": []
@@ -4774,6 +4862,17 @@
         "recordings": []
     },
     {
+        "id": "HB32-0016",
+        "bill": "HB 32",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
         "id": "HB33-0000",
         "bill": "HB 33",
         "session": "20231",
@@ -4939,6 +5038,17 @@
         "recordings": []
     },
     {
+        "id": "HB33-0015",
+        "bill": "HB 33",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
         "id": "HB34-0000",
         "bill": "HB 34",
         "session": "20231",
@@ -5068,6 +5178,17 @@
         "date": "12/05/2022",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB34-0012",
+        "bill": "HB 34",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
         "recordings": []
     },
     {
@@ -5211,6 +5332,17 @@
         "date": "12/05/2022",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB35-0013",
+        "bill": "HB 35",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Local Government",
         "recordings": []
     },
     {
@@ -5847,6 +5979,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB39-0014",
+        "bill": "HB 39",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": []
@@ -7007,6 +7150,17 @@
         "recordings": []
     },
     {
+        "id": "HB46-0017",
+        "bill": "HB 46",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
         "id": "HB47-0000",
         "bill": "HB 47",
         "session": "20231",
@@ -7167,6 +7321,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB47-0015",
+        "bill": "HB 47",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -8096,6 +8261,17 @@
         "recordings": []
     },
     {
+        "id": "HB53-0012",
+        "bill": "HB 53",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
         "id": "HB54-0000",
         "bill": "HB 54",
         "session": "20231",
@@ -8223,6 +8399,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB54-0012",
+        "bill": "HB 54",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": []
@@ -8586,6 +8773,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB56-0015",
+        "bill": "HB 56",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -9603,6 +9801,17 @@
         "recordings": []
     },
     {
+        "id": "HB62-0015",
+        "bill": "HB 62",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
         "id": "HB63-0000",
         "bill": "HB 63",
         "session": "20231",
@@ -9779,6 +9988,17 @@
         "recordings": []
     },
     {
+        "id": "HB63-0016",
+        "bill": "HB 63",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
         "id": "HB64-0000",
         "bill": "HB 64",
         "session": "20231",
@@ -9922,6 +10142,17 @@
         "recordings": []
     },
     {
+        "id": "HB64-0013",
+        "bill": "HB 64",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
         "id": "HB65-0000",
         "bill": "HB 65",
         "session": "20231",
@@ -10049,6 +10280,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB65-0012",
+        "bill": "HB 65",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": []
@@ -12122,6 +12364,17 @@
         "recordings": []
     },
     {
+        "id": "HB78-0015",
+        "bill": "HB 78",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
         "id": "HB79-0000",
         "bill": "HB 79",
         "session": "20231",
@@ -12276,6 +12529,17 @@
         "recordings": []
     },
     {
+        "id": "HB79-0014",
+        "bill": "HB 79",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
         "id": "HB80-0000",
         "bill": "HB 80",
         "session": "20231",
@@ -12414,6 +12678,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB80-0013",
+        "bill": "HB 80",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -12584,6 +12859,17 @@
         "recordings": []
     },
     {
+        "id": "HB81-0015",
+        "bill": "HB 81",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB82-0000",
         "bill": "HB 82",
         "session": "20231",
@@ -12733,6 +13019,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB82-0014",
+        "bill": "HB 82",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -13173,6 +13470,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB85-0012",
+        "bill": "HB 85",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": []
@@ -13640,6 +13948,17 @@
         "recordings": []
     },
     {
+        "id": "HB88-0012",
+        "bill": "HB 88",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
         "id": "HB89-0000",
         "bill": "HB 89",
         "session": "20231",
@@ -13794,6 +14113,17 @@
         "recordings": []
     },
     {
+        "id": "HB89-0014",
+        "bill": "HB 89",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB90-0000",
         "bill": "HB 90",
         "session": "20231",
@@ -13921,6 +14251,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB90-0012",
+        "bill": "HB 90",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -14102,6 +14443,17 @@
         "recordings": []
     },
     {
+        "id": "HB91-0016",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB92-0000",
         "bill": "HB 92",
         "session": "20231",
@@ -14240,6 +14592,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB92-0013",
+        "bill": "HB 92",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
@@ -15686,6 +16049,17 @@
         "recordings": []
     },
     {
+        "id": "HB101-0015",
+        "bill": "HB 101",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
         "id": "HB102-0000",
         "bill": "HB 102",
         "session": "20231",
@@ -15989,6 +16363,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/20/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB103-0015",
+        "bill": "HB 103",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -16445,6 +16830,17 @@
         "recordings": []
     },
     {
+        "id": "HB106-0014",
+        "bill": "HB 106",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB107-0000",
         "bill": "HB 107",
         "session": "20231",
@@ -16599,6 +16995,17 @@
         "recordings": []
     },
     {
+        "id": "HB107-0014",
+        "bill": "HB 107",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB108-0000",
         "bill": "HB 108",
         "session": "20231",
@@ -16748,6 +17155,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB108-0014",
+        "bill": "HB 108",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -16918,6 +17336,17 @@
         "recordings": []
     },
     {
+        "id": "HB109-0015",
+        "bill": "HB 109",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB110-0000",
         "bill": "HB 110",
         "session": "20231",
@@ -17067,6 +17496,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB110-0014",
+        "bill": "HB 110",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
         "recordings": []
@@ -17534,6 +17974,17 @@
         "recordings": []
     },
     {
+        "id": "HB113-0013",
+        "bill": "HB 113",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
         "id": "HB114-0000",
         "bill": "HB 114",
         "session": "20231",
@@ -17996,6 +18447,17 @@
         "recordings": []
     },
     {
+        "id": "HB116-0013",
+        "bill": "HB 116",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
         "id": "HB117-0000",
         "bill": "HB 117",
         "session": "20231",
@@ -18145,6 +18607,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB117-0014",
+        "bill": "HB 117",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -18442,6 +18915,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB119-0013",
+        "bill": "HB 119",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/11/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -18887,6 +19371,17 @@
         "recordings": []
     },
     {
+        "id": "HB122-0012",
+        "bill": "HB 122",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
         "id": "HB123-0000",
         "bill": "HB 123",
         "session": "20231",
@@ -19025,6 +19520,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB123-0013",
+        "bill": "HB 123",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -19327,6 +19833,17 @@
         "recordings": []
     },
     {
+        "id": "HB125-0013",
+        "bill": "HB 125",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB126-0000",
         "bill": "HB 126",
         "session": "20231",
@@ -19503,6 +20020,17 @@
         "recordings": []
     },
     {
+        "id": "HB126-0016",
+        "bill": "HB 126",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB127-0000",
         "bill": "HB 127",
         "session": "20231",
@@ -19674,6 +20202,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB127-0016",
+        "bill": "HB 127",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -19872,6 +20411,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB128-0018",
+        "bill": "HB 128",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -20196,6 +20746,17 @@
         "recordings": []
     },
     {
+        "id": "HB130-0012",
+        "bill": "HB 130",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
         "id": "HB131-0000",
         "bill": "HB 131",
         "session": "20231",
@@ -20455,6 +21016,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB132-0012",
+        "bill": "HB 132",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -20724,6 +21296,17 @@
         "recordings": []
     },
     {
+        "id": "HB134-0012",
+        "bill": "HB 134",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB135-0000",
         "bill": "HB 135",
         "session": "20231",
@@ -20873,6 +21456,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB135-0014",
+        "bill": "HB 135",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -21032,6 +21626,17 @@
         "recordings": []
     },
     {
+        "id": "HB136-0014",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB137-0000",
         "bill": "HB 137",
         "session": "20231",
@@ -21181,6 +21786,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB137-0014",
+        "bill": "HB 137",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -21395,6 +22011,17 @@
         "recordings": []
     },
     {
+        "id": "HB138-0019",
+        "bill": "HB 138",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
         "id": "HB139-0000",
         "bill": "HB 139",
         "session": "20231",
@@ -21533,6 +22160,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB139-0013",
+        "bill": "HB 139",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -21692,6 +22330,17 @@
         "recordings": []
     },
     {
+        "id": "HB140-0014",
+        "bill": "HB 140",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": false,
+        "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
         "id": "HB141-0000",
         "bill": "HB 141",
         "session": "20231",
@@ -21846,6 +22495,17 @@
         "recordings": []
     },
     {
+        "id": "HB141-0014",
+        "bill": "HB 141",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
         "id": "HB142-0000",
         "bill": "HB 142",
         "session": "20231",
@@ -21983,7 +22643,18 @@
         "session": "20231",
         "action": "(H) Referred to Committee",
         "actionUrl": null,
-        "date": "12/21/2022",
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB142-0013",
+        "bill": "HB 142",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -22176,6 +22847,17 @@
         "recordings": []
     },
     {
+        "id": "HB143-0017",
+        "bill": "HB 143",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB144-0000",
         "bill": "HB 144",
         "session": "20231",
@@ -22341,6 +23023,17 @@
         "recordings": []
     },
     {
+        "id": "HB144-0015",
+        "bill": "HB 144",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
         "id": "HB145-0000",
         "bill": "HB 145",
         "session": "20231",
@@ -22479,6 +23172,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB145-0013",
+        "bill": "HB 145",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -22924,6 +23628,17 @@
         "recordings": []
     },
     {
+        "id": "HB148-0013",
+        "bill": "HB 148",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HB149-0000",
         "bill": "HB 149",
         "session": "20231",
@@ -23210,6 +23925,17 @@
         "recordings": []
     },
     {
+        "id": "HB150-0012",
+        "bill": "HB 150",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
         "id": "HB151-0000",
         "bill": "HB 151",
         "session": "20231",
@@ -23337,6 +24063,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB151-0012",
+        "bill": "HB 151",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
@@ -23826,6 +24563,28 @@
         "recordings": []
     },
     {
+        "id": "HB154-0013",
+        "bill": "HB 154",
+        "session": "20231",
+        "action": "(H) Hearing Canceled",
+        "actionUrl": null,
+        "date": "12/27/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB154-0014",
+        "bill": "HB 154",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
         "id": "HB155-0000",
         "bill": "HB 155",
         "session": "20231",
@@ -24129,6 +24888,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB156-0014",
+        "bill": "HB 156",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -24723,6 +25493,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB160-0013",
+        "bill": "HB 160",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -25520,6 +26301,17 @@
         "recordings": []
     },
     {
+        "id": "HB165-0013",
+        "bill": "HB 165",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
         "id": "HB166-0000",
         "bill": "HB 166",
         "session": "20231",
@@ -25663,6 +26455,17 @@
         "recordings": []
     },
     {
+        "id": "HB166-0013",
+        "bill": "HB 166",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
         "id": "HB167-0000",
         "bill": "HB 167",
         "session": "20231",
@@ -25790,6 +26593,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/21/2022",
+        "hasVote": false,
+        "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB167-0012",
+        "bill": "HB 167",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
         "recordings": []
@@ -25955,6 +26769,17 @@
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "12/19/2022",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HJ1-0015",
+        "bill": "HJ 1",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
@@ -31009,6 +31834,17 @@
         "recordings": []
     },
     {
+        "id": "SB30-0011",
+        "bill": "SB 30",
+        "session": "20231",
+        "action": "(C) Draft Delivered to Requester",
+        "actionUrl": null,
+        "date": "12/22/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB31-0000",
         "bill": "SB 31",
         "session": "20231",
@@ -35159,7 +35995,7 @@
         "id": "SB61-0007",
         "bill": "SB 61",
         "session": "20231",
-        "action": "(C) Executive Director Review",
+        "action": "(C) Draft Delivered to Requester",
         "actionUrl": null,
         "date": "11/30/2022",
         "hasVote": false,
@@ -35170,7 +36006,7 @@
         "id": "SB61-0008",
         "bill": "SB 61",
         "session": "20231",
-        "action": "(C) Draft in Assembly",
+        "action": "(C) Executive Director Review",
         "actionUrl": null,
         "date": "11/30/2022",
         "hasVote": false,
@@ -35181,9 +36017,9 @@
         "id": "SB61-0009",
         "bill": "SB 61",
         "session": "20231",
-        "action": "(S) Introduced",
+        "action": "(C) Draft in Assembly",
         "actionUrl": null,
-        "date": "12/13/2022",
+        "date": "11/30/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -35192,7 +36028,7 @@
         "id": "SB61-0010",
         "bill": "SB 61",
         "session": "20231",
-        "action": "(C) Draft Delivered to Requester",
+        "action": "(S) Introduced",
         "actionUrl": null,
         "date": "12/13/2022",
         "hasVote": false,
@@ -38888,9 +39724,9 @@
         "id": "SB89-0009",
         "bill": "SB 89",
         "session": "20231",
-        "action": "(C) Fiscal Note Probable",
+        "action": "(C) Draft Delivered to Requester",
         "actionUrl": null,
-        "date": "12/15/2022",
+        "date": "12/14/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -38899,7 +39735,7 @@
         "id": "SB89-0010",
         "bill": "SB 89",
         "session": "20231",
-        "action": "(S) Introduced",
+        "action": "(C) Fiscal Note Probable",
         "actionUrl": null,
         "date": "12/15/2022",
         "hasVote": false,
@@ -38910,9 +39746,9 @@
         "id": "SB89-0011",
         "bill": "SB 89",
         "session": "20231",
-        "action": "(C) Draft Delivered to Requester",
+        "action": "(S) Introduced",
         "actionUrl": null,
-        "date": "12/16/2022",
+        "date": "12/15/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
