@@ -112,7 +112,7 @@ class Vote:
         for td in vote_cells:
             text = td.text
             if len(text.strip()) == 0:
-                break
+                continue
             votes_by_name.append({
                 'name': re.search(r'(?<=^(Y|N|E|A)).+', text).group(0).strip(),
                 'vote': re.search(r'^(Y|N|E|A)', text).group(0),

@@ -4,9 +4,9 @@ import json
 from models.vote import Vote
 
 vote = Vote({
-    "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1412&P_SESS=20211",
-    "bill": "HB 701",
-    "action_id": "HB701-0040",
+    "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S204&P_SESS=20211",
+    "bill": "HB 102",
+    "action_id": "HB102-0038",
     "type": "floor"
 },
     bill_needs_refresh=True,
