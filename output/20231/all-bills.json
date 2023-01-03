@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -6628,6 +6628,168 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
+        "key": "HB 171",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=171&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1409.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1409.pdf",
+        "lc": "LC1409",
+        "title": "Revise education laws related to residential treatment facilities",
+        "sponsor": "David Bedey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 86",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "David Bedey",
+        "subjects": [
+            {
+                "subject": "Institutions  (see also: Dev. Dis., Persons With; Mental Illness)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "School Finance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 172",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=172&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1412.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1412.pdf",
+        "lc": "LC1412",
+        "title": "Revise laws related to post-election audits",
+        "sponsor": "David Bedey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 86",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "David Bedey",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 173",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=173&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1413.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1413.pdf",
+        "lc": "LC1413",
+        "title": "Revise laws related to security of vote tabulating machines",
+        "sponsor": "David Bedey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 86",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "David Bedey",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 174",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=174&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1944.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1944.pdf",
+        "lc": "LC1944",
+        "title": "Requiring certain costs paid to detention centers to be based on actual costs",
+        "sponsor": "Kerri Seekins-Crowe",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 43",
+        "statusDate": "01/03/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kerri Seekins-Crowe",
+        "subjects": [
+            {
+                "subject": "Corrections",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -8625,8 +8787,8 @@
         "sponsor": "Theresa Manzella",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 44",
-        "statusDate": "01/06/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
+        "statusDate": "12/28/2022",
+        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
