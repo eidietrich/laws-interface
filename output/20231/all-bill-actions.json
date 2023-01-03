@@ -2918,9 +2918,20 @@
         "id": "HB20-0012",
         "bill": "HB 20",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) First Reading",
         "actionUrl": null,
-        "date": "01/06/2023",
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB20-0013",
+        "bill": "HB 20",
+        "session": "20231",
+        "action": "(H) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/02/2023",
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": []
@@ -13423,9 +13434,31 @@
         "id": "HB83-0014",
         "bill": "HB 83",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) Fiscal Note Received",
         "actionUrl": null,
-        "date": "01/04/2023",
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB83-0015",
+        "bill": "HB 83",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB83-0016",
+        "bill": "HB 83",
+        "session": "20231",
+        "action": "(H) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/02/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
@@ -25028,20 +25061,20 @@
         "id": "HB154-0013",
         "bill": "HB 154",
         "session": "20231",
-        "action": "(H) Hearing Canceled",
+        "action": "(H) First Reading",
         "actionUrl": null,
-        "date": "12/27/2022",
+        "date": "01/02/2023",
         "hasVote": false,
-        "committee": "(H) Business and Labor",
+        "committee": null,
         "recordings": []
     },
     {
         "id": "HB154-0014",
         "bill": "HB 154",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) Hearing Canceled",
         "actionUrl": null,
-        "date": "01/06/2023",
+        "date": "01/02/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
@@ -31053,6 +31086,39 @@
         "recordings": []
     },
     {
+        "id": "SB21-0016",
+        "bill": "SB 21",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB21-0017",
+        "bill": "SB 21",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB21-0018",
+        "bill": "SB 21",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
         "id": "SB22-0000",
         "bill": "SB 22",
         "session": "20231",
@@ -31237,6 +31303,28 @@
         "date": "12/08/2022",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB22-0017",
+        "bill": "SB 22",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB22-0018",
+        "bill": "SB 22",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
     },
     {
@@ -36894,6 +36982,28 @@
         "recordings": []
     },
     {
+        "id": "SB59-0012",
+        "bill": "SB 59",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB59-0013",
+        "bill": "SB 59",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
         "id": "SB60-0000",
         "bill": "SB 60",
         "session": "20231",
@@ -39210,6 +39320,28 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/28/2022",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SB75-0017",
+        "bill": "SB 75",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB75-0018",
+        "bill": "SB 75",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/04/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
