@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
+            "2/3 of Each House",
             "3/4 of Each House",
-            "2/3 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -11140,6 +11140,168 @@
             },
             {
                 "subject": "Liability  (see also: Remedies; Torts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 109",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=109&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0056.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0056.pdf",
+        "lc": "LC0056",
+        "title": "Revise laws related to redistricting the PSC",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Utilities",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 110",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=110&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0057.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0057.pdf",
+        "lc": "LC0057",
+        "title": "Provide property tax assistance to elderly homeowners by fixing appraised value",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/07/2023",
+        "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "SB 111",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=111&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1039.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1039.pdf",
+        "lc": "LC1039",
+        "title": "Establish the Jacob Allmendinger memorial highway",
+        "sponsor": "Carl Glimm",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 2",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Carl Glimm",
+        "subjects": [
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 112",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=112&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0208.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0208.pdf",
+        "lc": "LC0208",
+        "title": "Revise pharmacist prescribing authority",
+        "sponsor": "Tom McGillvray",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 23",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom McGillvray",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations O-Z",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
