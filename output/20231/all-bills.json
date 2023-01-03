@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -10578,6 +10578,44 @@
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/07/2023",
         "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "SB 99",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=99&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1360.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1360.pdf",
+        "lc": "LC1360",
+        "title": "Provide for a youth health protection act",
+        "sponsor": "John Fuller",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 4",
+        "statusDate": "01/03/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "John Fuller",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
     },
     {
         "key": "SJ 1",
