@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -6608,16 +6608,16 @@
         "key": "HB 172",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=172&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1413.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1413.pdf",
-        "lc": "LC1413",
-        "title": "Revise laws related to security of vote tabulating machines",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1412.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1412.pdf",
+        "lc": "LC1412",
+        "title": "Revise laws related to post-election audits",
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
         "statusDate": "01/04/2023",
         "lastAction": "(H) Introduced",
-        "billStatus": "In Drafting Process",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6636,16 +6636,6 @@
             },
             {
                 "subject": "Rule Making",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Crimes",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Elections  (see also: Ballot Issues)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -6658,40 +6648,25 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
-        "key": "HB 172",
+        "key": "HB 173",
         "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=172&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1412.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1412.pdf",
-        "lc": "LC1412",
-        "title": "Revise laws related to post-election audits",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=173&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1413.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1413.pdf",
+        "lc": "LC1413",
+        "title": "Revise laws related to security of vote tabulating machines",
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/03/2023",
-        "lastAction": "(C) Draft Delivered to Requester",
-        "billStatus": "In Drafting Process",
+        "statusDate": "01/04/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "David Bedey",
         "subjects": [
-            {
-                "subject": "Elections  (see also: Ballot Issues)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Local Government  (see also: City Subjects; County Subjects)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Rule Making",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
             {
                 "subject": "Crimes",
                 "fiscalCode": "",
