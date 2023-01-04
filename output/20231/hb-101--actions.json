@@ -168,9 +168,31 @@
         "id": "HB101-0015",
         "bill": "HB 101",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB101-0016",
+        "bill": "HB 101",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
-        "date": "01/04/2023",
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB101-0017",
+        "bill": "HB 101",
+        "session": "20231",
+        "action": "(H) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/03/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": []
