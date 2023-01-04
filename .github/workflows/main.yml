@@ -10,6 +10,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    environment: MTFP projects
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v4
@@ -28,6 +29,14 @@ jobs:
           message: "Latest data"
       - name: Push
         run: git push
+      - name: Trigger frontend redeploy
+        if: success()
+        run: |
+          curl -X POST \
+          -H "Authorization: Bearer ${{secrets.GH_ACCESS_TOKEN}}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/eidietrich/capitol-tracker-2023/actions/workflows/main.yml/dispatches \
+          -d '{"ref": "main"}'
       - name: Slack Notification on SUCCESS
         if: success()
         uses: tokorom/action-slack-incoming-webhook@main
