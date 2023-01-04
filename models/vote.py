@@ -167,18 +167,20 @@ class Vote:
             text = pdf.getPage(0).extractText()
 
             header_rows = re.search(
-                r'(?s).+(?=\nYEAS \- \d+\s+ NAYS \- \d+)', text).group(0).split('\n')
-            total_row = re.search(r'YEAS \- \d+\s+ NAYS \- \d+', text).group(0)
+                r'(?s).+(?=\nYEAS (\-|–) [0-9]+\s+NAYS (\-|–) [0-9]+)', text).group(0).split('\n')
+            total_row = re.search(
+                r'YEAS (\-|–) [0-9]+\s+NAYS (\-|–) [0-9]+', text).group(0)
             vote_re = re.compile(r'(Y|N|E|A) .+')
-            vote_rows = list(filter(vote_re.match, text.split('\n')))
+            vote_rows = list(
+                filter(vote_re.match, text.split('\n')[len(header_rows):]))
 
             # Assuming header rows are consistent
             self.data['date'] = header_rows[1]
             self.data['description'] = header_rows[-1]
 
             self.data['totals'] = {
-                'Y': int(re.search(r'(?<=YEAS \- )\d+', total_row).group(0)),
-                'N': int(re.search(r'(?<=NAYS \- )\d+', total_row).group(0)),
+                'Y': int(re.search(r'(?<=YEAS (\-|–) )\d+', total_row).group(0)),
+                'N': int(re.search(r'(?<=NAYS (\-|–) )\d+', total_row).group(0)),
             }
 
             votes_by_name = []
