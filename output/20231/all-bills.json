@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple",
-            "2/3 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -2097,10 +2097,10 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "01/09/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "12/20/2022",
+        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0052",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "Department of Public Service Regulation",
@@ -6778,6 +6778,87 @@
             },
             {
                 "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 175",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=175&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1243.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1243.pdf",
+        "lc": "LC1243",
+        "title": "Amend state ARPA funding session law",
+        "sponsor": "Edward Buttrey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 21",
+        "statusDate": "12/28/2022",
+        "lastAction": "(C) Draft Ready for Delivery",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Edward Buttrey",
+        "subjects": [
+            {
+                "subject": "Appropriation Process",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Federal Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/07/2023",
+        "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "HB 176",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=176&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2805.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2805.pdf",
+        "lc": "LC2805",
+        "title": "Revising county utility permitting laws",
+        "sponsor": "Steven Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 24",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steven Galloway",
+        "subjects": [
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Utilities",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
