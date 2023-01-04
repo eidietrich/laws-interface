@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "3/4 of Each House",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -11860,9 +11860,9 @@
         "amendedReturnDeadline": "04/26/2023"
     },
     {
-        "key": "SB 125",
+        "key": "SB 126",
         "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=125&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=126&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
         "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0326.htm",
         "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0326.pdf",
         "lc": "LC0326",
@@ -11896,6 +11896,120 @@
             },
             {
                 "subject": "Workers' Compensation  (see also: Labor and Employment)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 127",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=127&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0311.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0311.pdf",
+        "lc": "LC0311",
+        "title": "Require Montana to provide funding for enforcement of PL280",
+        "sponsor": "Greg Hertz",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 6",
+        "statusDate": "01/04/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Greg Hertz",
+        "subjects": [
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Law Enforcement  (see also: Criminal Procedure)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 128",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=128&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2976.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2976.pdf",
+        "lc": "LC2976",
+        "title": "Generally revise laws relating legislative exempt personal staff",
+        "sponsor": "Jason W Ellsworth",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 43",
+        "statusDate": "01/04/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Ellsworth",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 129",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=129&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0340.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0340.pdf",
+        "lc": "LC0340",
+        "title": "Revise laws related to compulsory attendance",
+        "sponsor": "Russel (Russ) Tempel",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 14",
+        "statusDate": "01/02/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Russel (Russ) Tempel",
+        "subjects": [
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
