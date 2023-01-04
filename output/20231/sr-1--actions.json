@@ -146,9 +146,42 @@
         "id": "SR1-0013",
         "bill": "SR 1",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR1-0014",
+        "bill": "SR 1",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/03/2023",
+        "hasVote": false,
+        "committee": "(S) Rules",
+        "recordings": []
+    },
+    {
+        "id": "SR1-0015",
+        "bill": "SR 1",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Resolution Adopted",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": true,
+        "committee": "(S) Rules",
+        "recordings": []
+    },
+    {
+        "id": "SR1-0016",
+        "bill": "SR 1",
+        "session": "20231",
+        "action": "(S) Committee Report--Resolution Adopted",
+        "actionUrl": null,
+        "date": "01/04/2023",
         "hasVote": false,
         "committee": "(S) Rules",
         "recordings": []
