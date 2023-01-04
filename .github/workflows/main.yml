@@ -44,19 +44,10 @@ jobs:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
         with:
           text: "Data scrape from LAWS was successful"
-          attachments: |
-            [
-              {
-                "color": "good",
-                "fields": [
-                  {
-                    "title": "Action URL",
-                    "value": "${{ github.event.repository.url }}/actions/runs/${{ github.run_id }}"
-                  },
-                  {
-                    "title": "Compare URL",
-                    "value": "${{ github.event.compare }}"
-                  },
-                ]
-              }
-            ]
+      - name: Slack Notification on FAIL
+        if: failure()
+        uses: tokorom/action-slack-incoming-webhook@main
+        env:
+          INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
+        with:
+          text: "ERROR - something broke with data scrape from LAWS"
