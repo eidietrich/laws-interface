@@ -1,6 +1,19 @@
 [
     {
         "url": null,
+        "bill": "HB 24",
+        "session": "20231",
+        "action_id": "HB24-0014",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 20,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
         "bill": "HB 25",
         "session": "20231",
         "action_id": "HB25-0021",
@@ -128,8 +141,8 @@
         "seq_number": null,
         "error": "Missing URL",
         "totals": {
-            "Y": 12,
-            "N": 7
+            "Y": 19,
+            "N": 0
         }
     },
     {
