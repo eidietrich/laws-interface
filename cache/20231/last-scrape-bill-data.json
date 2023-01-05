@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
+            "Simple",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -4153,6 +4153,39 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
+        "key": "HB 104",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=104&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0104.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0104.pdf",
+        "lc": "LC0383",
+        "title": "Revise aerial hunting requirements",
+        "sponsor": "Becky Beard",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 40",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Agriculture",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": "Department of Livestock",
+        "primarySponsor": "Becky Beard",
+        "subjects": [
+            {
+                "subject": "Livestock (see also: Agriculture; Taxation--Agriculture/Livestock)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
         "key": "HB 105",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=105&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -4335,7 +4368,7 @@
         "sponsor": "Laurie Bishop",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 60",
-        "statusDate": "01/11/2023; 08:00 AM, Rm 455",
+        "statusDate": "01/11/2023; 09:00 AM, Rm 455",
         "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -4735,10 +4768,10 @@
         "sponsor": "Marta Bertoglio",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 75",
-        "statusDate": "01/11/2023; 08:00 AM, Rm 455",
+        "statusDate": "01/11/2023; 09:00 AM, Rm 455",
         "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0119",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "State Administration and Veterans' Affairs Interim Committee",
@@ -12919,6 +12952,39 @@
             },
             {
                 "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 133",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=133&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0293.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0293.pdf",
+        "lc": "LC0293",
+        "title": "Generally review gambling laws related to parimutuel wagering",
+        "sponsor": "Tom McGillvray",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 23",
+        "statusDate": "01/05/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom McGillvray",
+        "subjects": [
+            {
+                "subject": "Gambling",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
