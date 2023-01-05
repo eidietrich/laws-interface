@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
+            "Simple",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -2204,6 +2204,69 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
         "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 55",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=55&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0055.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0055.pdf",
+        "lc": "LC0506",
+        "title": "An act establishing a tax on electric vehicle charging stations",
+        "sponsor": "Denley M Loge",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 14",
+        "statusDate": "12/20/2022",
+        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0055",
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": "Transportation Interim Committee",
+        "primarySponsor": "Denley Loge",
+        "subjects": [
+            {
+                "subject": "Energy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/07/2023",
+        "amendedReturnDeadline": "04/26/2023"
     },
     {
         "key": "HB 56",
@@ -6796,6 +6859,39 @@
         "subjects": [
             {
                 "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 178",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=178&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0169.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0169.pdf",
+        "lc": "LC0169",
+        "title": "Revise workers' compensation laws relating to social or recreational activity",
+        "sponsor": "Kenneth Walsh",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 71",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Walsh",
+        "subjects": [
+            {
+                "subject": "Workers' Compensation  (see also: Labor and Employment)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
