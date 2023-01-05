@@ -146,10 +146,32 @@
         "id": "HB50-0013",
         "bill": "HB 50",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB50-0014",
+        "bill": "HB 50",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/03/2023",
         "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB50-0015",
+        "bill": "HB 50",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": true,
         "committee": "(H) Business and Labor",
         "recordings": []
     }
