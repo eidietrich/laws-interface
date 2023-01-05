@@ -2,16 +2,16 @@
     "key": "SB 125",
     "session": "20231",
     "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=125&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-    "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0326.htm",
-    "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0326.pdf",
-    "lc": "LC0326",
-    "title": "Provide funding for Montana State Fund",
+    "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0303.htm",
+    "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0303.pdf",
+    "lc": "LC0303",
+    "title": "Limit certain property tax levies to 5 years without reapproval",
     "sponsor": "Greg Hertz",
     "sponsorParty": "R",
     "sponsorDistrict": "SD 6",
-    "statusDate": "01/04/2023",
-    "lastAction": "(C) Draft Delivered to Requester",
-    "billStatus": "In Drafting Process",
+    "statusDate": "01/05/2023",
+    "lastAction": "(S) Introduced",
+    "billStatus": "In First House--Introduced",
     "fiscalNotesListUrl": null,
     "amendmentListUrl": null,
     "draftRequestor": null,
@@ -19,22 +19,32 @@
     "primarySponsor": "Greg Hertz",
     "subjects": [
         {
-            "subject": "Insurance",
+            "subject": "Ballot Issues  (see also: Elections)",
             "fiscalCode": "",
             "voteReq": "Simple"
         },
         {
-            "subject": "Money Transfer",
+            "subject": "Elections  (see also: Ballot Issues)",
             "fiscalCode": "",
             "voteReq": "Simple"
         },
         {
-            "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+            "subject": "Local Finance  (see also: City Finance; County Finance)",
             "fiscalCode": "",
             "voteReq": "Simple"
         },
         {
-            "subject": "Workers' Compensation  (see also: Labor and Employment)",
+            "subject": "School Finance",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Taxation (Generally)",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Taxation--Property",
             "fiscalCode": "",
             "voteReq": "Simple"
         }

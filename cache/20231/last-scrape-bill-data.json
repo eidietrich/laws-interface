@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "Simple",
             "3/4 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -9088,8 +9088,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "01/10/2023; 03:00 PM, Rm 405",
-        "lastAction": "(S) Hearing -- (S) Highways and Transportation",
+        "statusDate": "12/28/2022",
+        "lastAction": "(S) Referred to Committee -- (S) Highways and Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0033",
         "amendmentListUrl": null,
@@ -11942,6 +11942,49 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
+        "key": "SB 106",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=106&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0676.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0676.pdf",
+        "lc": "LC0676",
+        "title": "Revise vehicle and vessel title laws relating to transfer",
+        "sponsor": "Steve Fitzpatrick",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 10",
+        "statusDate": "01/05/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Fitzpatrick",
+        "subjects": [
+            {
+                "subject": "Estates and Trusts",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
         "key": "SB 107",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=107&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
@@ -12178,6 +12221,49 @@
             },
             {
                 "subject": "Professions and Occupations O-Z",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 113",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=113&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0526.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0526.pdf",
+        "lc": "LC0526",
+        "title": "Make permanent certain notification requirements in CPS cases",
+        "sponsor": "Dennis R Lenz",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 27",
+        "statusDate": "01/05/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Dennis Lenz",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -12676,6 +12762,64 @@
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/07/2023",
         "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "SB 125",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=125&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0303.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0303.pdf",
+        "lc": "LC0303",
+        "title": "Limit certain property tax levies to 5 years without reapproval",
+        "sponsor": "Greg Hertz",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 6",
+        "statusDate": "01/05/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Greg Hertz",
+        "subjects": [
+            {
+                "subject": "Ballot Issues  (see also: Elections)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Finance  (see also: City Finance; County Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "School Finance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
     },
     {
         "key": "SB 126",
