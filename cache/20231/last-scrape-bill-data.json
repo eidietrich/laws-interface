@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "2/3 of Each House",
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -4163,9 +4163,9 @@
         "sponsor": "Becky Beard",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 40",
-        "statusDate": "12/13/2022",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Agriculture",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6534,9 +6534,9 @@
         "sponsor": "Tony Brockman",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
-        "statusDate": "01/04/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6572,9 +6572,9 @@
         "sponsor": "Steve Gunderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 1",
-        "statusDate": "01/04/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6605,9 +6605,9 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/04/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Education",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6648,9 +6648,9 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/04/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -7287,6 +7287,125 @@
             },
             {
                 "subject": "Taxation--Coal  (see also: Appropriations, Coal Tax Fund Principal)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 189",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=189&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0946.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0946.pdf",
+        "lc": "LC0946",
+        "title": "Revise property tax assistance program",
+        "sponsor": "George Nikolakakos",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 26",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "George Nikolakakos",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/07/2023",
+        "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "HB 190",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=190&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1160.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1160.pdf",
+        "lc": "LC1160",
+        "title": "Provide for a state government performance and results act",
+        "sponsor": "Bill Mercer",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 46",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bill Mercer",
+        "subjects": [
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 191",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=191&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2732.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2732.pdf",
+        "lc": "LC2732",
+        "title": "Eliminating class D motor carrier regulation",
+        "sponsor": "Brad Barker",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 58",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Barker",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Utilities",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -8764,10 +8883,10 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "12/28/2022",
-        "lastAction": "(S) Referred to Committee -- (S) Highways and Transportation",
+        "statusDate": "01/10/2023; 03:00 PM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Highways and Transportation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0033",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "Department of Public Service Regulation",
