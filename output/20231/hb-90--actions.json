@@ -135,10 +135,32 @@
         "id": "HB90-0012",
         "bill": "HB 90",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB90-0013",
+        "bill": "HB 90",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/04/2023",
         "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB90-0014",
+        "bill": "HB 90",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": true,
         "committee": "(H) State Administration",
         "recordings": []
     }
