@@ -179,6 +179,39 @@
         "id": "SB20-0016",
         "bill": "SB 20",
         "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB20-0017",
+        "bill": "SB 20",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB20-0018",
+        "bill": "SB 20",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB20-0019",
+        "bill": "SB 20",
+        "session": "20231",
         "action": "(S) Hearing Canceled",
         "actionUrl": null,
         "date": "12/30/2022",
@@ -187,7 +220,7 @@
         "recordings": []
     },
     {
-        "id": "SB20-0017",
+        "id": "SB20-0020",
         "bill": "SB 20",
         "session": "20231",
         "action": "(S) Hearing Canceled",
@@ -198,7 +231,7 @@
         "recordings": []
     },
     {
-        "id": "SB20-0018",
+        "id": "SB20-0021",
         "bill": "SB 20",
         "session": "20231",
         "action": "(S) First Reading",
@@ -209,12 +242,23 @@
         "recordings": []
     },
     {
-        "id": "SB20-0019",
+        "id": "SB20-0022",
         "bill": "SB 20",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
         "actionUrl": null,
         "date": "01/02/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB20-0023",
+        "bill": "SB 20",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": []
