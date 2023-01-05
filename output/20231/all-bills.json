@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "Simple",
+            "3/4 of Each House",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -991,10 +991,10 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/03/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Taxation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0025",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "Revenue Interim Committee",
@@ -2712,8 +2712,8 @@
         "sponsor": "Nelly Nicol",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 53",
-        "statusDate": "01/04/2023; 08:00 AM, Rm 172",
-        "lastAction": "(H) Hearing -- (H) Business and Labor",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0067",
         "amendmentListUrl": null,
@@ -2844,11 +2844,11 @@
         "sponsor": "Denley M Loge",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 14",
-        "statusDate": "01/03/2023; 08:00 AM, Rm 172",
-        "lastAction": "(H) Hearing -- (H) Business and Labor",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0071",
         "draftRequestor": null,
         "billRequestor": "Department of Revenue",
         "primarySponsor": "Denley Loge",
@@ -7491,9 +7491,9 @@
         "sponsor": "Fred Anderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 20",
-        "statusDate": "01/04/2023",
-        "lastAction": "(C) Draft Delivered to Requester",
-        "billStatus": "In Drafting Process",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -12800,6 +12800,54 @@
         "subjects": [
             {
                 "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 132",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=132&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0149.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0149.pdf",
+        "lc": "LC0149",
+        "title": "Revise agricultural education laws",
+        "sponsor": "Becky Beard",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 40",
+        "statusDate": "01/03/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Becky Beard",
+        "subjects": [
+            {
+                "subject": "Agriculture  (see also: Livestock; Taxation--Agriculture/Livestock)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "School Finance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
