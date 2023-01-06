@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
+            "Simple",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -6156,8 +6156,8 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "12/21/2022",
-        "lastAction": "(H) Referred to Committee -- (H) Business and Labor",
+        "statusDate": "01/10/2023; 08:30 AM, Rm 172",
+        "lastAction": "(H) Hearing -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -6222,8 +6222,8 @@
         "sponsor": "Wayne Rusk",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 88",
-        "statusDate": "12/21/2022",
-        "lastAction": "(H) Referred to Committee -- (H) Business and Labor",
+        "statusDate": "01/10/2023; 08:30 AM, Rm 172",
+        "lastAction": "(H) Hearing -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -14186,6 +14186,44 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
+        "key": "SB 141",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=141&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4217.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4217.pdf",
+        "lc": "LC4217",
+        "title": "Create indigenous people's day",
+        "sponsor": "Shane A Morigeau",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 48",
+        "statusDate": "01/06/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Shane Morigeau",
+        "subjects": [
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -14196,7 +14234,7 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/04/2023",
+        "statusDate": "01/06/2023",
         "lastAction": "(S) Committee Report--Bill Passed as Amended",
         "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,

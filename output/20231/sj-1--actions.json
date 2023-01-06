@@ -162,7 +162,9 @@
         "date": "01/03/2023",
         "hasVote": false,
         "committee": "(S) Rules",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45046?agendaId=243065"
+        ]
     },
     {
         "id": "SJ1-0015",
@@ -179,22 +181,55 @@
         "id": "SJ1-0016",
         "bill": "SJ 1",
         "session": "20231",
-        "action": "(S) Committee Report--Bill Passed as Amended",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/04/2023",
         "hasVote": false,
-        "committee": "(S) Rules",
+        "committee": null,
         "recordings": []
     },
     {
         "id": "SJ1-0017",
         "bill": "SJ 1",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
-        "date": "01/04/2023",
+        "date": "01/06/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ1-0018",
+        "bill": "SJ 1",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ1-0019",
+        "bill": "SJ 1",
+        "session": "20231",
+        "action": "(S) Motion Carried",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ1-0020",
+        "bill": "SJ 1",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(S) Rules",
         "recordings": []
     }
 ]
