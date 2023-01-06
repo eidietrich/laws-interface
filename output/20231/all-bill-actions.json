@@ -6703,10 +6703,10 @@
         "id": "HB38-0020",
         "bill": "HB 38",
         "session": "20231",
-        "action": "(H) Committee Report--Bill Passed as Amended",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
         "date": "01/06/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
     },
@@ -6714,10 +6714,10 @@
         "id": "HB38-0021",
         "bill": "HB 38",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "action": "(H) Committee Report--Bill Passed as Amended",
         "actionUrl": null,
         "date": "01/06/2023",
-        "hasVote": true,
+        "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
     },
@@ -14343,6 +14343,17 @@
         "date": "01/06/2023",
         "hasVote": true,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB78-0019",
+        "bill": "HB 78",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -45351,20 +45362,9 @@
         "id": "SB33-0018",
         "bill": "SB 33",
         "session": "20231",
-        "action": "(S) Hearing Canceled",
+        "action": "(S) Hearing",
         "actionUrl": null,
-        "date": "01/05/2023",
-        "hasVote": false,
-        "committee": "(S) Highways and Transportation",
-        "recordings": []
-    },
-    {
-        "id": "SB33-0019",
-        "bill": "SB 33",
-        "session": "20231",
-        "action": "(S) Hearing Canceled",
-        "actionUrl": null,
-        "date": "01/05/2023",
+        "date": "01/12/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": []
@@ -49289,9 +49289,64 @@
         "id": "SB57-0013",
         "bill": "SB 57",
         "session": "20231",
+        "action": "(S) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "12/14/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB57-0014",
+        "bill": "SB 57",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "12/14/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB57-0015",
+        "bill": "SB 57",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "12/14/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB57-0016",
+        "bill": "SB 57",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/28/2022",
+        "hasVote": false,
+        "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB57-0017",
+        "bill": "SB 57",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB57-0018",
+        "bill": "SB 57",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": []
@@ -58823,6 +58878,17 @@
         "recordings": []
     },
     {
+        "id": "SB111-0020",
+        "bill": "SB 111",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
         "id": "SB112-0000",
         "bill": "SB 112",
         "session": "20231",
@@ -60564,7 +60630,7 @@
         "id": "SB120-0017",
         "bill": "SB 120",
         "session": "20231",
-        "action": "(S) First Reading",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/04/2023",
         "hasVote": false,
@@ -60578,6 +60644,28 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB120-0019",
+        "bill": "SB 120",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB120-0020",
+        "bill": "SB 120",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/12/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": []
