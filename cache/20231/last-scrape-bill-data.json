@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
+            "2/3 of Each House",
             "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -7611,6 +7611,87 @@
             },
             {
                 "subject": "Military Affairs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 195",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=195&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1510.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1510.pdf",
+        "lc": "LC1510",
+        "title": "Generally revise consumer rights laws to repair powered wheelchairs",
+        "sponsor": "Alice Buckley",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 63",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Alice Buckley",
+        "subjects": [
+            {
+                "subject": "Consumer Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Safety  (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 196",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=196&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1942.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1942.pdf",
+        "lc": "LC1942",
+        "title": "Revise election laws related to the counting of votes",
+        "sponsor": "Lyn Hellegaard",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 97",
+        "statusDate": "01/05/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Lyn Hellegaard",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
