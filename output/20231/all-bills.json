@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
+            "Simple",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -453,6 +453,44 @@
             },
             {
                 "subject": "Water",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/07/2023",
+        "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "HB 12",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=12&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0012.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0012.pdf",
+        "lc": "LC0012",
+        "title": "Montana historic preservation grants",
+        "sponsor": "Mike Hopkins",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 92",
+        "statusDate": "01/13/2023; 08:00 AM, Rm 317B",
+        "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long-Range Planning",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": "Office of Budget and Program Planning",
+        "primarySponsor": "Mike Hopkins",
+        "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Arts and Antiquities",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -3416,9 +3454,9 @@
         "sponsor": "Kenneth Walsh",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 71",
-        "statusDate": "01/04/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0086",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -3887,9 +3925,9 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "01/05/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6042,9 +6080,9 @@
         "sponsor": "Brandon Ler",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 35",
-        "statusDate": "01/05/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -8222,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
