@@ -973,6 +973,32 @@
     },
     {
         "url": null,
+        "bill": "HB 61",
+        "session": "20231",
+        "action_id": "HB61-0015",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 18,
+            "N": 1
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 63",
+        "session": "20231",
+        "action_id": "HB63-0018",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
         "bill": "HB 67",
         "session": "20231",
         "action_id": "HB67-0020",
@@ -1553,6 +1579,19 @@
         "type": "committee",
         "seq_number": null,
         "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
+        "bill": "HJ 1",
+        "session": "20231",
+        "action_id": "HJ1-0018",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0

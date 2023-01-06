@@ -146,10 +146,34 @@
         "id": "HB61-0013",
         "bill": "HB 61",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB61-0014",
+        "bill": "HB 61",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/05/2023",
         "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45489?agendaId=243522"
+        ]
+    },
+    {
+        "id": "HB61-0015",
+        "bill": "HB 61",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": true,
         "committee": "(H) Business and Labor",
         "recordings": []
     }
