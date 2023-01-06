@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -3102,11 +3102,11 @@
         "sponsor": "Steven Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 24",
-        "statusDate": "01/04/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0077",
         "draftRequestor": null,
         "billRequestor": "Public Safety Officer Standards and Training Council",
         "primarySponsor": "Steven Galloway",
@@ -7704,6 +7704,164 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
+        "key": "HB 197",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=197&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1074.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1074.pdf",
+        "lc": "LC1074",
+        "title": "Constitutional amendment on article X, section 9",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Constitutional Amendment Proposals",
+                "fiscalCode": "",
+                "voteReq": "2/3 of Entire Legislature"
+            },
+            {
+                "subject": "University System (see also:  Colleges)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple",
+            "2/3 of Entire Legislature"
+        ],
+        "deadlineCategory": "REFERENDUM PROPOSALS",
+        "transmittalDeadline": "04/07/2023",
+        "amendedReturnDeadline": "04/26/2023"
+    },
+    {
+        "key": "HB 198",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=198&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1505.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1505.pdf",
+        "lc": "LC1505",
+        "title": "Provide for municipal authority regarding encroachments",
+        "sponsor": "Julie Dooling",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 70",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Julie Dooling",
+        "subjects": [
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 199",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=199&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3459.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3459.pdf",
+        "lc": "LC3459",
+        "title": "Generally revise office of economic development",
+        "sponsor": "Tony Brockman",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 9",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tony Brockman",
+        "subjects": [
+            {
+                "subject": "Economic Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 200",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=200&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0533.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0533.pdf",
+        "lc": "LC0533",
+        "title": "Revise the Montana Safe Haven Newborn Protection Act",
+        "sponsor": "Sherry Essmann",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 52",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Sherry Essmann",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -9126,10 +9284,10 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "12/28/2022",
-        "lastAction": "(S) Referred to Committee -- (S) Natural Resources",
+        "statusDate": "01/06/2023; 03:00 PM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0032",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -9506,8 +9664,8 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "12/28/2022",
-        "lastAction": "(S) Referred to Committee -- (S) Natural Resources",
+        "statusDate": "01/06/2023; 03:00 PM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13432,9 +13590,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/05/2023",
-        "lastAction": "(S) Resolution Adopted",
-        "billStatus": "Became Law",
+        "statusDate": "01/06/2023",
+        "lastAction": "(S) Sent to Enrolling",
+        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
