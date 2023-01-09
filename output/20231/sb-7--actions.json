@@ -124,7 +124,7 @@
         "id": "SB7-0011",
         "bill": "SB 7",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(C) Fiscal Note Unsigned",
         "actionUrl": null,
         "date": "11/29/2022",
         "hasVote": false,
@@ -135,6 +135,39 @@
         "id": "SB7-0012",
         "bill": "SB 7",
         "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "11/29/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB7-0013",
+        "bill": "SB 7",
+        "session": "20231",
+        "action": "(S) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "11/29/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB7-0014",
+        "bill": "SB 7",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "11/29/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB7-0015",
+        "bill": "SB 7",
+        "session": "20231",
         "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
         "date": "12/01/2022",
@@ -143,7 +176,7 @@
         "recordings": []
     },
     {
-        "id": "SB7-0013",
+        "id": "SB7-0016",
         "bill": "SB 7",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -154,7 +187,29 @@
         "recordings": []
     },
     {
-        "id": "SB7-0014",
+        "id": "SB7-0017",
+        "bill": "SB 7",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB7-0018",
+        "bill": "SB 7",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB7-0019",
         "bill": "SB 7",
         "session": "20231",
         "action": "(S) Hearing",
@@ -162,6 +217,30 @@
         "date": "01/04/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47231?agendaId=243259"
+        ]
+    },
+    {
+        "id": "SB7-0020",
+        "bill": "SB 7",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB7-0021",
+        "bill": "SB 7",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
