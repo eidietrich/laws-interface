@@ -135,10 +135,45 @@
         "id": "SB34-0012",
         "bill": "SB 34",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB34-0013",
+        "bill": "SB 34",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/04/2023",
         "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47248?agendaId=243381"
+        ]
+    },
+    {
+        "id": "SB34-0014",
+        "bill": "SB 34",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB34-0015",
+        "bill": "SB 34",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": true,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     }
