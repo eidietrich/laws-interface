@@ -11856,7 +11856,7 @@
         "action_id": "SB2-0017",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 4,
             "N": 7
@@ -11906,6 +11906,22 @@
             "Y": 9,
             "N": 0
         }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0091JUS230106.pdf",
+        "bill": "SB 91",
+        "session": "20231",
+        "action_id": "SB91-0019",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 06, 2023",
+        "description": "Sen. Brown made a Motion that SB 91 Do Pass",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SJ0001RUS230104.pdf",

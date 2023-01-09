@@ -146,6 +146,28 @@
         "id": "SB91-0013",
         "bill": "SB 91",
         "session": "20231",
+        "action": "(S) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "12/21/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB91-0014",
+        "bill": "SB 91",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "12/21/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB91-0015",
+        "bill": "SB 91",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/28/2022",
@@ -154,12 +176,58 @@
         "recordings": []
     },
     {
-        "id": "SB91-0014",
+        "id": "SB91-0016",
+        "bill": "SB 91",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB91-0017",
+        "bill": "SB 91",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB91-0018",
         "bill": "SB 91",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/06/2023",
+        "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47206?agendaId=243859"
+        ]
+    },
+    {
+        "id": "SB91-0019",
+        "bill": "SB 91",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB91-0020",
+        "bill": "SB 91",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/09/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": []
