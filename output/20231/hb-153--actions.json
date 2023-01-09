@@ -207,6 +207,30 @@
         "actionUrl": null,
         "date": "01/06/2023",
         "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47217?agendaId=244016"
+        ]
+    },
+    {
+        "id": "HB153-0019",
+        "bill": "HB 153",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB153-0020",
+        "bill": "HB 153",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
