@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -5520,8 +5520,8 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/05/2023; 08:30 AM, Rm 172",
-        "lastAction": "(H) Hearing -- (H) Business and Labor",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0138",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0138",
@@ -14356,6 +14356,44 @@
             },
             {
                 "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 143",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=143&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3562.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3562.pdf",
+        "lc": "LC3562",
+        "title": "Allow for a referendum to terminate citizen initiated zoning district",
+        "sponsor": "John Esp",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 30",
+        "statusDate": "01/09/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "John Esp",
+        "subjects": [
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
