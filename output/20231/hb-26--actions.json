@@ -190,10 +190,67 @@
         "id": "HB26-0017",
         "bill": "HB 26",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB26-0018",
+        "bill": "HB 26",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB26-0019",
+        "bill": "HB 26",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB26-0020",
+        "bill": "HB 26",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB26-0021",
+        "bill": "HB 26",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/06/2023",
         "hasVote": false,
+        "committee": "(H) Transportation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47234?agendaId=243938"
+        ]
+    },
+    {
+        "id": "HB26-0022",
+        "bill": "HB 26",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": true,
         "committee": "(H) Transportation",
         "recordings": []
     }
