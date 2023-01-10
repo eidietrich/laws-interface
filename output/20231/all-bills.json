@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "Simple",
             "3/4 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -5034,10 +5034,10 @@
         "sponsor": "Fred Anderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 20",
-        "statusDate": "01/10/2023; 09:00 AM, Rm 455",
-        "lastAction": "(H) Hearing -- (H) State Administration",
+        "statusDate": "12/21/2022",
+        "lastAction": "(H) Referred to Committee -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0126",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "Department of Commerce",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/07/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -8491,6 +8491,44 @@
             },
             {
                 "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "HB 216",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=216&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1163.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1163.pdf",
+        "lc": "LC1163",
+        "title": "Generally revise laws related to public employees and labor organizations",
+        "sponsor": "Bill Mercer",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 46",
+        "statusDate": "01/10/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bill Mercer",
+        "subjects": [
+            {
+                "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
