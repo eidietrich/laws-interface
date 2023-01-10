@@ -157,10 +157,67 @@
         "id": "HB22-0014",
         "bill": "HB 22",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0015",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0016",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0017",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0018",
+        "bill": "HB 22",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/06/2023",
         "hasVote": false,
+        "committee": "(H) Education",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47220?agendaId=243877"
+        ]
+    },
+    {
+        "id": "HB22-0019",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
         "committee": "(H) Education",
         "recordings": []
     }

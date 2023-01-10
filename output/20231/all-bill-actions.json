@@ -746,7 +746,7 @@
         "actionUrl": null,
         "date": "01/16/2023",
         "hasVote": false,
-        "committee": "(H) Joint Appropriations Subcommittee on General Government",
+        "committee": "(H) Joint Appropriations Subcommittee on Education",
         "recordings": []
     },
     {
@@ -757,7 +757,7 @@
         "actionUrl": null,
         "date": "01/16/2023",
         "hasVote": false,
-        "committee": "(H) Joint Appropriations Subcommittee on Health and Human Services",
+        "committee": "(H) Joint Appropriations Subcommittee on General Government",
         "recordings": []
     },
     {
@@ -766,9 +766,9 @@
         "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
-        "date": "01/17/2023",
+        "date": "01/16/2023",
         "hasVote": false,
-        "committee": "(H) Joint Appropriations Subcommittee on Health and Human Services",
+        "committee": "(H) Joint Appropriations Subcommittee on Natural Resources and Transportation",
         "recordings": []
     },
     {
@@ -777,9 +777,53 @@
         "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": "(H) Joint Appropriations Subcommittee on Health and Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB2-0047",
+        "bill": "HB 2",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": "(H) Joint Approps Subcom on Judicial Branch, Law Enforcement, and Justice",
+        "recordings": []
+    },
+    {
+        "id": "HB2-0048",
+        "bill": "HB 2",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": "(H) Joint Appropriations Subcommittee on Health and Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB2-0049",
+        "bill": "HB 2",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
         "date": "01/17/2023",
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on General Government",
+        "recordings": []
+    },
+    {
+        "id": "HB2-0050",
+        "bill": "HB 2",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": "(H) Joint Appropriations Subcommittee on Natural Resources and Transportation",
         "recordings": []
     },
     {
@@ -2188,6 +2232,28 @@
         "date": "12/20/2022",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB11-0011",
+        "bill": "HB 11",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB11-0012",
+        "bill": "HB 11",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": "(H) Joint Appropriations Subcommittee on Long-Range Planning",
         "recordings": []
     },
     {
@@ -3747,10 +3813,34 @@
         "id": "HB21-0012",
         "bill": "HB 21",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB21-0013",
+        "bill": "HB 21",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/06/2023",
         "hasVote": false,
+        "committee": "(H) Education",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47220?agendaId=243876"
+        ]
+    },
+    {
+        "id": "HB21-0014",
+        "bill": "HB 21",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
         "committee": "(H) Education",
         "recordings": []
     },
@@ -3912,10 +4002,67 @@
         "id": "HB22-0014",
         "bill": "HB 22",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0015",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0016",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0017",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0018",
+        "bill": "HB 22",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/06/2023",
         "hasVote": false,
+        "committee": "(H) Education",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47220?agendaId=243877"
+        ]
+    },
+    {
+        "id": "HB22-0019",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
         "committee": "(H) Education",
         "recordings": []
     },
