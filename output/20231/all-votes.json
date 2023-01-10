@@ -865,30 +865,36 @@
         "votes": []
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0021EDH230109.pdf",
         "bill": "HB 21",
         "session": "20231",
         "action_id": "HB21-0014",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "January 09, 2023",
+        "description": "Rep. Reksten made a Motion that HB 21 Do Pass",
         "totals": {
             "Y": 13,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0022EDH230109.pdf",
         "bill": "HB 22",
         "session": "20231",
         "action_id": "HB22-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "January 09, 2023",
+        "description": "Rep. Reksten made a Motion that HB 22 Do Pass",
         "totals": {
             "Y": 13,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0024TAH230105.pdf",
@@ -13694,6 +13700,19 @@
         "totals": {
             "Y": 4,
             "N": 7
+        }
+    },
+    {
+        "url": null,
+        "bill": "SB 5",
+        "session": "20231",
+        "action_id": "SB5-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 9,
+            "N": 0
         }
     },
     {
