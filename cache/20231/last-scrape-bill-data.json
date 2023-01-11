@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple",
-            "2/3 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -1401,11 +1401,11 @@
         "sponsor": "Larry Brewster",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 44",
-        "statusDate": "01/10/2023; 03:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Local Government",
+        "statusDate": "01/10/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0035",
         "draftRequestor": null,
         "billRequestor": "Local Government Interim Committee",
         "primarySponsor": "Larry Brewster",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/07/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -10821,10 +10821,10 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "01/05/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "statusDate": "01/06/2023",
+        "lastAction": "(S) Tabled in Committee * -- (S) Judiciary",
+        "billStatus": "In First House Committee--Tabled",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0044",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -15317,6 +15317,77 @@
             },
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 157",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=157&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2977.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2977.pdf",
+        "lc": "LC2977",
+        "title": "Generally revise laws relating to legislative exempt staff",
+        "sponsor": "Jason W Ellsworth",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 43",
+        "statusDate": "01/11/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Ellsworth",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 158",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=158&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2975.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2975.pdf",
+        "lc": "LC2975",
+        "title": "Revise family transfer law",
+        "sponsor": "Jason W Ellsworth",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 43",
+        "statusDate": "01/11/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Ellsworth",
+        "subjects": [
+            {
+                "subject": "Family Law  (see also: Minors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
