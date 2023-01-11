@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "2/3 of Each House",
             "Simple",
-            "2/3 of Each House"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/07/2023",
@@ -15198,8 +15198,8 @@
         "key": "SB 149",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=149&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0548.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0548.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0149.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0149.pdf",
         "lc": "LC0548",
         "title": "Establish penalties for false reporting in child protective services cases",
         "sponsor": "Dennis R Lenz",
