@@ -3887,7 +3887,7 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "01/12/2023; 03:00 PM, Rm 172",
+        "statusDate": "01/12/2023; 08:30 AM, Rm 172",
         "lastAction": "(H) Hearing -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0097",
@@ -4163,8 +4163,8 @@
         "sponsor": "Becky Beard",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 40",
-        "statusDate": "01/05/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Agriculture",
+        "statusDate": "01/12/2023; 03:00 PM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Agriculture",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -7127,8 +7127,8 @@
         "sponsor": "Nelly Nicol",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 53",
-        "statusDate": "01/12/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "01/06/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -7557,7 +7557,7 @@
         "sponsor": "Fred Anderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 20",
-        "statusDate": "01/13/2023; 08:00 AM, Rm 137",
+        "statusDate": "01/12/2023; 08:00 AM, Rm 137",
         "lastAction": "(H) Hearing -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/07/2023",
@@ -15274,6 +15274,49 @@
             },
             {
                 "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SB 156",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=156&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1935.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1935.pdf",
+        "lc": "LC1935",
+        "title": "Require elected county clerks to run nonpartisan",
+        "sponsor": "Wendy McKamey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 12",
+        "statusDate": "01/10/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Wendy McKamey",
+        "subjects": [
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "County Officers  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
