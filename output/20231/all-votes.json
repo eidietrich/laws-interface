@@ -6,7 +6,7 @@
         "action_id": "HB1-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 19,
             "N": 4
@@ -5231,7 +5231,7 @@
         "action_id": "HB44-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 17,
             "N": 0
@@ -15160,6 +15160,19 @@
         ]
     },
     {
+        "url": null,
+        "bill": "HB 91",
+        "session": "20231",
+        "action_id": "HB91-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0098BUH230105.pdf",
         "bill": "HB 98",
         "session": "20231",
@@ -16901,6 +16914,19 @@
             "N": 0
         },
         "votes": []
+    },
+    {
+        "url": null,
+        "bill": "HB 117",
+        "session": "20231",
+        "action_id": "HB117-0019",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0120BUH230105.pdf",
@@ -18653,6 +18679,19 @@
     },
     {
         "url": null,
+        "bill": "HB 132",
+        "session": "20231",
+        "action_id": "HB132-0014",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
         "bill": "HB 133",
         "session": "20231",
         "action_id": "HB133-0014",
@@ -19173,7 +19212,7 @@
         "action_id": "HB153-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 17,
             "N": 0
