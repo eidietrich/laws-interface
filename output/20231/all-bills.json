@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -991,9 +991,9 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0025",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -1025,8 +1025,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "HB 26",
@@ -1211,9 +1211,9 @@
         "sponsor": "Alice Buckley",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 63",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0030",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0030",
         "draftRequestor": null,
@@ -1230,8 +1230,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 31",
@@ -1245,8 +1245,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 17",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0031",
         "draftRequestor": null,
@@ -1670,8 +1670,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 30",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0041",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0041",
         "draftRequestor": null,
@@ -1951,8 +1951,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0048",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -2746,8 +2746,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 26",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0068",
         "draftRequestor": null,
@@ -2779,8 +2779,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 8",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0069",
         "draftRequestor": null,
@@ -2812,8 +2812,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 8",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -4401,9 +4401,9 @@
         "sponsor": "Bill Mercer",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 46",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0110",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -4425,8 +4425,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 111",
@@ -4839,9 +4839,9 @@
         "sponsor": "Russel Miner",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 19",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0121",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -4873,8 +4873,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "HB 122",
@@ -5520,9 +5520,9 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0138",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0138",
         "draftRequestor": null,
@@ -5539,8 +5539,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 139",
@@ -5553,9 +5553,9 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0139",
         "draftRequestor": null,
@@ -5572,8 +5572,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 140",
@@ -5672,9 +5672,9 @@
         "sponsor": "Jennifer Lynch",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 73",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -5691,8 +5691,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 143",
@@ -6223,8 +6223,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 88",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6321,9 +6321,9 @@
         "sponsor": "Derek J Harvey",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 74",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6340,8 +6340,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 161",
@@ -6392,9 +6392,9 @@
         "sponsor": "Braxton Mitchell",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 3",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -6411,8 +6411,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 163",
@@ -6502,8 +6502,8 @@
         "sponsorParty": "D",
         "sponsorDistrict": "HD 74",
         "statusDate": "01/12/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0165",
         "draftRequestor": null,
@@ -9452,6 +9452,39 @@
         "amendedReturnDeadline": "04/14/2023"
     },
     {
+        "key": "HB 239",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=239&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2265.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2265.pdf",
+        "lc": "LC2265",
+        "title": "Revise who may serve as a judge pro tempore in justice's courts",
+        "sponsor": "Brandon Ler",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 35",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brandon Ler",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -12351,11 +12384,11 @@
         "sponsor": "Daniel R Salomon",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 47",
-        "statusDate": "01/06/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0071",
         "draftRequestor": null,
         "billRequestor": "Department of Livestock",
         "primarySponsor": "Daniel Salomon",
@@ -12370,8 +12403,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 72",
@@ -12683,9 +12716,9 @@
         "sponsor": "Mike Fox",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 16",
-        "statusDate": "01/11/2023",
-        "lastAction": "(S) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0080",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -12707,8 +12740,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 81",
@@ -13533,8 +13566,8 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/11/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13552,8 +13585,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 101",
@@ -13566,8 +13599,8 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/11/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13585,8 +13618,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 102",
@@ -13824,8 +13857,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/10/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13853,8 +13886,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 108",
@@ -13867,11 +13900,11 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "01/11/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0108",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Barry Usher",
@@ -13896,8 +13929,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 109",
@@ -16300,6 +16333,97 @@
             },
             {
                 "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 169",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=169&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0929.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0929.pdf",
+        "lc": "LC0929",
+        "title": "Generally revise punitive damage laws",
+        "sponsor": "Greg Hertz",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 6",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Greg Hertz",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Liability  (see also: Remedies; Torts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Remedies  (see also: Liability; Torts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Torts  (see also: Remedies;  Liabilities)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 170",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=170&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0724.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0724.pdf",
+        "lc": "LC0724",
+        "title": "Allow for administrative minor subdivision process",
+        "sponsor": "Forrest Mandeville",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 29",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Forrest Mandeville",
+        "subjects": [
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
