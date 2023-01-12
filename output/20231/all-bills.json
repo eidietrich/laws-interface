@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/07/2023",
@@ -8867,8 +8867,8 @@
         "sponsor": "Derek J Harvey",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 74",
-        "statusDate": "01/11/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "statusDate": "01/16/2023; 03:00 PM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -8891,8 +8891,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 225",
@@ -9645,6 +9645,49 @@
         "subjects": [
             {
                 "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 244",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=244&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1957.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1957.pdf",
+        "lc": "LC1957",
+        "title": "Revise laws governing the housing Montana fund",
+        "sponsor": "Dave Fern",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 5",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Dave Fern",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
