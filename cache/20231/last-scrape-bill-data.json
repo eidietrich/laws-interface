@@ -48,8 +48,8 @@
         "sponsor": "Llew Jones",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 18",
-        "statusDate": "01/18/2023; 09:00 AM, Rm 317C",
-        "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Natural Resources and Transportation",
+        "statusDate": "01/19/2023; 08:30 AM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -67,8 +67,8 @@
             "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "HB 3",
@@ -200,7 +200,7 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "01/18/2023; 08:00 AM, Rm 317B",
+        "statusDate": "01/19/2023; 08:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -244,8 +244,8 @@
             "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "HB 7",
@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -437,7 +437,7 @@
         "sponsor": "John Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 77",
-        "statusDate": "01/18/2023; 08:00 AM, Rm 472",
+        "statusDate": "01/19/2023; 08:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -461,8 +461,8 @@
             "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "HB 12",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/07/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9100,6 +9100,249 @@
         "amendedReturnDeadline": "04/17/2023"
     },
     {
+        "key": "HB 230",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=230&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1480.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1480.pdf",
+        "lc": "LC1480",
+        "title": "Provide continuous eligibility for young children covered by CHIP and Medicaid",
+        "sponsor": "Ed Stafman",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 62",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ed Stafman",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 231",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=231&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2278.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2278.pdf",
+        "lc": "LC2278",
+        "title": "Eliminate certification standards and practices advisory council",
+        "sponsor": "Brandon Ler",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 35",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brandon Ler",
+        "subjects": [
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Teachers",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 232",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=232&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3158.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3158.pdf",
+        "lc": "LC3158",
+        "title": "Allow DOA to enter into leases for consolidation purposes without LRBP approval",
+        "sponsor": "Mike Hopkins",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 92",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Hopkins",
+        "subjects": [
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Contracts  (see also: Contracts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 233",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=233&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1354.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1354.pdf",
+        "lc": "LC1354",
+        "title": "Require the refund of residential lease application fees",
+        "sponsor": "Kelly Kortum",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 65",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kelly Kortum",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Landlord and Tenant",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 234",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=234&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0892.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0892.pdf",
+        "lc": "LC0892",
+        "title": "Revise dissemination of obscene material to minors laws",
+        "sponsor": "Bob Phalen",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 36",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Phalen",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 235",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=235&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1516.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1516.pdf",
+        "lc": "LC1516",
+        "title": "Revise social security income taxation",
+        "sponsor": "Jonathan Karlen",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 96",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jonathan Karlen",
+        "subjects": [
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -9826,10 +10069,10 @@
         "sponsor": "Shannon O'Brien",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 46",
-        "statusDate": "12/02/2022",
-        "lastAction": "(S) Referred to Committee -- (S) Taxation",
+        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0015",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "Revenue Interim Committee",
@@ -9860,8 +10103,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 16",
@@ -13032,10 +13275,10 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/03/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Taxation",
+        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0097",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -13086,8 +13329,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 98",
@@ -13596,7 +13839,7 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/17/2023; 08:00 PM",
+        "statusDate": "01/17/2023; 08:00 AM",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -13630,8 +13873,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 111",
@@ -13968,7 +14211,7 @@
         "sponsor": "Susan Webber",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 8",
-        "statusDate": "01/17/2023; 08:00 PM",
+        "statusDate": "01/17/2023; 08:00 AM",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -14007,8 +14250,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 120",
@@ -14059,7 +14302,7 @@
         "sponsor": "Becky Beard",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 40",
-        "statusDate": "01/17/2023; 08:00 PM",
+        "statusDate": "01/17/2023; 08:00 AM",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -14088,8 +14331,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 122",
@@ -14102,8 +14345,8 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/04/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Taxation",
+        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -14136,8 +14379,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 123",
@@ -14150,8 +14393,8 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/04/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Taxation",
+        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -14194,8 +14437,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 124",
@@ -14208,10 +14451,10 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/17/2023; 08:00 PM",
+        "statusDate": "01/17/2023; 08:00 AM",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0124",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -14237,8 +14480,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 125",
@@ -15051,8 +15294,8 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/09/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Taxation",
+        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -15100,8 +15343,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/07/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "SB 146",
@@ -15448,8 +15691,8 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/11/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "01/17/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -15467,8 +15710,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 155",
