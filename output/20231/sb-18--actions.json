@@ -151,7 +151,10 @@
         "date": "01/09/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46730?agendaId=244384",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46730?agendaId=244684"
+        ]
     },
     {
         "id": "SB18-0014",
@@ -183,6 +186,17 @@
         "actionUrl": null,
         "date": "01/12/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB18-0017",
+        "bill": "SB 18",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
