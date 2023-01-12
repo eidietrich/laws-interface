@@ -251,8 +251,10 @@
         "actionUrl": null,
         "date": "01/09/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46099?agendaId=244488"
+        ]
     },
     {
         "id": "HB120-0023",
@@ -291,6 +293,17 @@
         "id": "HB120-0026",
         "bill": "HB 120",
         "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB120-0027",
+        "bill": "HB 120",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/11/2023",
@@ -299,7 +312,7 @@
         "recordings": []
     },
     {
-        "id": "HB120-0027",
+        "id": "HB120-0028",
         "bill": "HB 120",
         "session": "20231",
         "action": "(S) First Reading",
@@ -307,6 +320,17 @@
         "date": "01/11/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB120-0029",
+        "bill": "HB 120",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
     }
 ]
