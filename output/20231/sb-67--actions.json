@@ -157,7 +157,7 @@
         "id": "SB67-0014",
         "bill": "SB 67",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(S) Fiscal Note Received",
         "actionUrl": null,
         "date": "12/21/2022",
         "hasVote": false,
@@ -168,6 +168,17 @@
         "id": "SB67-0015",
         "bill": "SB 67",
         "session": "20231",
+        "action": "(S) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "12/21/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB67-0016",
+        "bill": "SB 67",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/28/2022",
@@ -176,7 +187,7 @@
         "recordings": []
     },
     {
-        "id": "SB67-0016",
+        "id": "SB67-0017",
         "bill": "SB 67",
         "session": "20231",
         "action": "(S) First Reading",
@@ -187,13 +198,59 @@
         "recordings": []
     },
     {
-        "id": "SB67-0017",
+        "id": "SB67-0018",
+        "bill": "SB 67",
+        "session": "20231",
+        "action": "(S) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB67-0019",
+        "bill": "SB 67",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB67-0020",
         "bill": "SB 67",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/09/2023",
         "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46678?agendaId=244374"
+        ]
+    },
+    {
+        "id": "SB67-0021",
+        "bill": "SB 67",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB67-0022",
+        "bill": "SB 67",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": true,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     }
