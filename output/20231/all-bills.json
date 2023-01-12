@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
+            "2/3 of Each House",
             "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -8627,7 +8627,7 @@
         "sponsor": "Scot Kerns",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 23",
-        "statusDate": "01/12/2023; 09:00 AM, Rm 152",
+        "statusDate": "01/18/2023; 09:00 AM, Rm 152",
         "lastAction": "(H) Hearing -- (H) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -16495,6 +16495,44 @@
             },
             {
                 "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 173",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=173&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0962.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0962.pdf",
+        "lc": "LC0962",
+        "title": "Revise county road abandonment process laws",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Highways and Roads",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
