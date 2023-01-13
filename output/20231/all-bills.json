@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/07/2023",
@@ -2910,7 +2910,7 @@
         "sponsor": "Denley M Loge",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 14",
-        "statusDate": "01/17/2023; 03:00 PM, Rm 422",
+        "statusDate": "01/17/2023; 02:30 PM, Rm 422",
         "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -2929,8 +2929,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 74",
@@ -3454,7 +3454,7 @@
         "sponsor": "Kenneth Walsh",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 71",
-        "statusDate": "01/17/2023; 03:00 PM, Rm 422",
+        "statusDate": "01/17/2023; 02:30 PM, Rm 422",
         "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0086",
@@ -3478,8 +3478,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HB 87",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9688,6 +9688,289 @@
             },
             {
                 "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 245",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=245&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0820.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0820.pdf",
+        "lc": "LC0820",
+        "title": "Revise tax credit for trades education and training",
+        "sponsor": "Sue Vinton",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 56",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Sue Vinton",
+        "subjects": [
+            {
+                "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
+    },
+    {
+        "key": "HB 246",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=246&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1669.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1669.pdf",
+        "lc": "LC1669",
+        "title": "Allow for the zoning of tiny dwelling units",
+        "sponsor": "Scot Kerns",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 23",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Scot Kerns",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 247",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=247&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3061.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3061.pdf",
+        "lc": "LC3061",
+        "title": "Revise laws relating to exemptions to the practice of real estate",
+        "sponsor": "Sue Vinton",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 56",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Sue Vinton",
+        "subjects": [
+            {
+                "subject": "Communications  (see also: Information Technology)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Information Technology  (see also: Communications)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations O-Z",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 248",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=248&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1479.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1479.pdf",
+        "lc": "LC1479",
+        "title": "Provide supplemental payments for behavioral health services",
+        "sponsor": "Ed Stafman",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 62",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ed Stafman",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
+    },
+    {
+        "key": "HB 249",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=249&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1483.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1483.pdf",
+        "lc": "LC1483",
+        "title": "Create a child tax credit for the individual income tax",
+        "sponsor": "Ed Stafman",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 62",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ed Stafman",
+        "subjects": [
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
+    },
+    {
+        "key": "HB 250",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=250&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3510.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3510.pdf",
+        "lc": "LC3510",
+        "title": "Revise alcohol laws relating to server training",
+        "sponsor": "Kelly Kortum",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 65",
+        "statusDate": "01/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kelly Kortum",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -14196,7 +14479,7 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/17/2023; 08:00 AM",
+        "statusDate": "01/17/2023; 08:00 AM, Rm 405",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -14568,10 +14851,10 @@
         "sponsor": "Susan Webber",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 8",
-        "statusDate": "01/17/2023; 08:00 AM",
+        "statusDate": "01/17/2023; 08:00 AM, Rm 405",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0119",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -14659,7 +14942,7 @@
         "sponsor": "Becky Beard",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 40",
-        "statusDate": "01/17/2023; 08:00 AM",
+        "statusDate": "01/17/2023; 08:00 AM, Rm 405",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -14808,7 +15091,7 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/17/2023; 08:00 AM",
+        "statusDate": "01/17/2023; 08:00 AM, Rm 405",
         "lastAction": "(S) Hearing -- (S) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0124",
@@ -15413,7 +15696,7 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "01/17/2023; 03:00 PM, Rm 422",
+        "statusDate": "01/17/2023; 02:30 PM, Rm 422",
         "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -15432,8 +15715,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 140",
@@ -17006,6 +17289,44 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
         "amendedReturnDeadline": "04/17/2023"
+    },
+    {
+        "key": "SJ 6",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=6&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3923.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3923.pdf",
+        "lc": "LC3923",
+        "title": "Joint resolution to recognize the Indian boarding school experience",
+        "sponsor": "Susan Webber",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 8",
+        "statusDate": "01/12/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Susan Webber",
+        "subjects": [
+            {
+                "subject": "Federal Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SR 1",
