@@ -37241,17 +37241,20 @@
         }
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0002JUS230104.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0002JUS230106.pdf",
         "bill": "SB 2",
         "session": "20231",
-        "action_id": "SB2-0017",
+        "action_id": "SB2-0018",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 06, 2023",
+        "description": "Sen. Usher made a Motion that SB 2 To Table",
         "totals": {
-            "Y": 4,
-            "N": 7
-        }
+            "Y": 11,
+            "N": 0
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0003TAS230111.pdf",
@@ -40157,6 +40160,19 @@
         }
     },
     {
+        "url": null,
+        "bill": "SB 58",
+        "session": "20231",
+        "action_id": "SB58-0019",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 0
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0059BUS230110.pdf",
         "bill": "SB 59",
         "session": "20231",
@@ -40284,6 +40300,19 @@
             "N": 0
         },
         "votes": []
+    },
+    {
+        "url": null,
+        "bill": "SB 76",
+        "session": "20231",
+        "action_id": "SB76-0015",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0080BUS230110.pdf",
@@ -40530,6 +40559,19 @@
         "totals": {
             "Y": 6,
             "N": 3
+        }
+    },
+    {
+        "url": null,
+        "bill": "SB 88",
+        "session": "20231",
+        "action_id": "SB88-0014",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 0
         }
     },
     {
