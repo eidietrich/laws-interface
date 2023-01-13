@@ -14947,9 +14947,9 @@
         "sponsor": "Susan Webber",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 8",
-        "statusDate": "01/12/2023",
-        "lastAction": "(S) Tabled in Committee * -- (S) Highways and Transportation",
-        "billStatus": "In First House Committee--Tabled",
+        "statusDate": "01/13/2023",
+        "lastAction": "(S) Taken from Committee; Placed on 2nd Reading",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0120",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -17220,8 +17220,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/12/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "01/17/2023; 12:00 PM, Rm 152",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SJ0001",
@@ -17436,6 +17436,44 @@
             },
             {
                 "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SJ 7",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=7&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0849.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0849.pdf",
+        "lc": "LC0849",
+        "title": "Joint resolution recognizing Ireland on St. Patrick's Day",
+        "sponsor": "Shannon O'Brien",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 46",
+        "statusDate": "01/13/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Shannon O'Brien",
+        "subjects": [
+            {
+                "subject": "International Relations",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
