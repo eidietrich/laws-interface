@@ -15554,6 +15554,19 @@
     },
     {
         "url": null,
+        "bill": "HB 64",
+        "session": "20231",
+        "action_id": "HB64-0015",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 21,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
         "bill": "HB 66",
         "session": "20231",
         "action_id": "HB66-0015",
@@ -34779,6 +34792,19 @@
         "votes": []
     },
     {
+        "url": null,
+        "bill": "HB 202",
+        "session": "20231",
+        "action_id": "HB202-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 13,
+            "N": 6
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HJ0001JUH230106.pdf",
         "bill": "HJ 1",
         "session": "20231",
@@ -40367,17 +40393,20 @@
         }
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0074STS230111.pdf",
         "bill": "SB 74",
         "session": "20231",
-        "action_id": "SB74-0019",
+        "action_id": "SB74-0018",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 11, 2023",
+        "description": "Sen. McKamey made a Motion that SB 74 Do Pass",
         "totals": {
             "Y": 10,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0075BUS230110.pdf",
@@ -40396,17 +40425,20 @@
         "votes": []
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0076FIS230112.pdf",
         "bill": "SB 76",
         "session": "20231",
         "action_id": "SB76-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "January 12, 2023",
+        "description": "Sen. McClafferty made a Motion that SB 76 Do Pass as Amended",
         "totals": {
             "Y": 12,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0080BUS230110.pdf",
@@ -40656,17 +40688,20 @@
         }
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0088FIS230112.pdf",
         "bill": "SB 88",
         "session": "20231",
         "action_id": "SB88-0014",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "January 12, 2023",
+        "description": "Sen. Hinebauch made a Motion that SB 88 Do Pass",
         "totals": {
             "Y": 12,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0091JUS230106.pdf",
