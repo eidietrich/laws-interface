@@ -15591,6 +15591,22 @@
         }
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0065HUH230112.pdf",
+        "bill": "HB 65",
+        "session": "20231",
+        "action_id": "HB65-0015",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 12, 2023",
+        "description": "Rep. Sheldon-Galloway made a Motion that HB 65 Do Pass as Amended",
+        "totals": {
+            "Y": 21,
+            "N": 0
+        },
+        "votes": []
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0066AGH230112.pdf",
         "bill": "HB 66",
         "session": "20231",
@@ -25681,6 +25697,22 @@
         "votes": []
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0116HUH230112.pdf",
+        "bill": "HB 116",
+        "session": "20231",
+        "action_id": "HB116-0015",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 12, 2023",
+        "description": "Rep. Sheldon-Galloway made a Motion that HB 116 Do Pass",
+        "totals": {
+            "Y": 21,
+            "N": 0
+        },
+        "votes": []
+    },
+    {
         "url": null,
         "bill": "HB 117",
         "session": "20231",
@@ -34835,7 +34867,7 @@
         "action_id": "HB175-0022",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 22,
             "N": 0
