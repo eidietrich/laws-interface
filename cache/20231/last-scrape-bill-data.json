@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "2/3 of Each House",
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -3526,8 +3526,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 17",
         "statusDate": "01/16/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -4531,8 +4531,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 38",
         "statusDate": "01/16/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -10391,8 +10391,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 4",
         "statusDate": "01/16/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(H) Referred to Committee -- (H) Legislative Administration",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -10401,6 +10401,44 @@
         "subjects": [
             {
                 "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 261",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=261&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2387.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2387.pdf",
+        "lc": "LC2387",
+        "title": "Revise e-bike laws",
+        "sponsor": "Steve Gunderson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 1",
+        "statusDate": "01/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Gunderson",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Recreation/Parks/Sports",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -16946,11 +16984,11 @@
         "sponsor": "Jason W Ellsworth",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 43",
-        "statusDate": "01/13/2023; 02:00 PM, Rm 405",
-        "lastAction": "(S) Hearing -- (S) Local Government",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0158",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Jason Ellsworth",
@@ -17878,9 +17916,9 @@
         "sponsor": "Susan Webber",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 8",
-        "statusDate": "01/12/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Public Health, Welfare and Safety",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -17955,8 +17993,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 43",
         "statusDate": "01/16/2023",
-        "lastAction": "(C) Draft Ready for Delivery",
-        "billStatus": "In Drafting Process",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
