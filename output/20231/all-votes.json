@@ -32899,26 +32899,10 @@
         "votes": []
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0124TAH230106.pdf",
-        "bill": "HB 124",
-        "session": "20231",
-        "action_id": "HB124-0016",
-        "type": "committee",
-        "seq_number": null,
-        "error": null,
-        "date": "January 06, 2023",
-        "description": "Rep. Welch made a Motion that HB 124 Do Pass",
-        "totals": {
-            "Y": 19,
-            "N": 0
-        },
-        "votes": []
-    },
-    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H54&P_SESS=20231",
         "bill": "HB 124",
         "session": "20231",
-        "action_id": "HB124-0019",
+        "action_id": "HB124-0018",
         "type": "floor",
         "seq_number": "H54",
         "date": "January 10, 2023",
@@ -33336,7 +33320,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H82&P_SESS=20231",
         "bill": "HB 124",
         "session": "20231",
-        "action_id": "HB124-0021",
+        "action_id": "HB124-0020",
         "type": "floor",
         "seq_number": "H82",
         "date": "January 11, 2023",
@@ -33749,6 +33733,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 124",
+        "session": "20231",
+        "action_id": "HB124-0023",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 20,
+            "N": 0
+        }
     },
     {
         "url": null,
