@@ -3,6 +3,7 @@ name: Run scrape
 on:
   schedule:
     - cron: "*/20 * * * *"
+    - cron: "5 6 * * *"
   # push:
   #   branches: [main]
   workflow_dispatch:
@@ -19,8 +20,12 @@ jobs:
           cache: "pip"
       - name: Install Python libraries
         run: pip install -r requirements.txt
-      - name: Run scraper
-        run: python3 main.py
+      - name: Scrape updated bills
+        if: github.event_name == 'schedule' && github.event.schedule != "*/20 * * * *"
+        run: python3 scrape-cached.py
+      - name: Scrape all bills
+        if: github.event_name == 'schedule' && github.event.schedule != "5 6 * * *"
+        run: python3 scrape-full.py
       - name: Add and commit
         uses: EndBug/add-and-commit@v9
         with:
@@ -37,13 +42,20 @@ jobs:
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/eidietrich/capitol-tracker-23/actions/workflows/main.yml/dispatches \
           -d '{"ref": "main"}'
-      - name: Slack Notification on SUCCESS
-        if: success()
+      - name: Slack Notification on cached scrape SUCCESS
+        if: ${{ success() && github.event_name == 'schedule' && github.event.schedule != "*/20 * * * *"}}
         uses: tokorom/action-slack-incoming-webhook@main
         env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
         with:
-          text: "Data scrape from LAWS was successful"
+          text: "Shallow data scrape from LAWS was successful"
+      - name: Slack Notification on cached scrape SUCCESS
+        if: ${{ success() && github.event_name == 'schedule' && github.event.schedule != "5 6 * * *"}}
+        uses: tokorom/action-slack-incoming-webhook@main
+        env:
+          INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
+        with:
+          text: "Deep data scrape from LAWS was successful"
       - name: Slack Notification on FAIL
         if: failure()
         uses: tokorom/action-slack-incoming-webhook@main
