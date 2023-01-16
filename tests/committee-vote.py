@@ -4,12 +4,20 @@
 import json
 from models.vote import Vote
 
-vote = Vote({
-    "url": "https://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0027TRH230109.pdf",
-    "bill": "HB 27",
-    "action_id": "HB27-0001",
-    "type": "committee"
-},
+vote = Vote(
+    # {
+    #     "url": "https://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0027TRH230109.pdf",
+    #     "bill": "HB 27",
+    #     "action_id": "HB27-0001",
+    #     "type": "committee"
+    # },
+    {
+        "url": "https://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0038JUH230106.pdf",
+        "bill": "HB 38",
+        "action_id": "HB38-0001",
+        "type": "committee"
+    },
+
     bill_needs_refresh=True,
     cache_base_path='cache/tests',
     use_verbose_logging=True)
