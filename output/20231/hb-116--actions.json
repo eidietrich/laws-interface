@@ -146,9 +146,44 @@
         "id": "HB116-0013",
         "bill": "HB 116",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB116-0014",
+        "bill": "HB 116",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/04/2023",
+        "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47246?agendaId=243360"
+        ]
+    },
+    {
+        "id": "HB116-0015",
+        "bill": "HB 116",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": true,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB116-0016",
+        "bill": "HB 116",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/13/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": []

@@ -201,6 +201,17 @@
         "id": "SB111-0018",
         "bill": "SB 111",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB111-0019",
+        "bill": "SB 111",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/04/2023",
@@ -209,7 +220,7 @@
         "recordings": []
     },
     {
-        "id": "SB111-0019",
+        "id": "SB111-0020",
         "bill": "SB 111",
         "session": "20231",
         "action": "(S) First Reading",
@@ -220,12 +231,69 @@
         "recordings": []
     },
     {
-        "id": "SB111-0020",
+        "id": "SB111-0021",
+        "bill": "SB 111",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB111-0022",
+        "bill": "SB 111",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB111-0023",
         "bill": "SB 111",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(S) Highways and Transportation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47098?agendaId=244758"
+        ]
+    },
+    {
+        "id": "SB111-0024",
+        "bill": "SB 111",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
+        "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB111-0025",
+        "bill": "SB 111",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB111-0026",
+        "bill": "SB 111",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/12/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": []

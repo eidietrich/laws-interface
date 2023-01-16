@@ -168,7 +168,7 @@
         "id": "SB102-0015",
         "bill": "SB 102",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/03/2023",
         "hasVote": false,
@@ -179,7 +179,7 @@
         "id": "SB102-0016",
         "bill": "SB 102",
         "session": "20231",
-        "action": "(S) First Reading",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/03/2023",
         "hasVote": false,
@@ -190,6 +190,17 @@
         "id": "SB102-0017",
         "bill": "SB 102",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB102-0018",
+        "bill": "SB 102",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/03/2023",
@@ -198,7 +209,7 @@
         "recordings": []
     },
     {
-        "id": "SB102-0018",
+        "id": "SB102-0019",
         "bill": "SB 102",
         "session": "20231",
         "action": "(S) Hearing Canceled",
@@ -209,7 +220,7 @@
         "recordings": []
     },
     {
-        "id": "SB102-0019",
+        "id": "SB102-0020",
         "bill": "SB 102",
         "session": "20231",
         "action": "(S) Hearing",
@@ -217,6 +228,86 @@
         "date": "01/10/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45835?agendaId=244608",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45835?agendaId=244846"
+        ]
+    },
+    {
+        "id": "SB102-0021",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SB102-0022",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SB102-0023",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB102-0024",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB102-0025",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB102-0026",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB102-0027",
+        "bill": "SB 102",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

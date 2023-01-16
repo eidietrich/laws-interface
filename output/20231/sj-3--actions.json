@@ -179,9 +179,55 @@
         "id": "SJ3-0016",
         "bill": "SJ 3",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ3-0017",
+        "bill": "SJ 3",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45400?agendaId=244642"
+        ]
+    },
+    {
+        "id": "SJ3-0018",
+        "bill": "SJ 3",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ3-0019",
+        "bill": "SJ 3",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SJ3-0020",
+        "bill": "SJ 3",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/16/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": []

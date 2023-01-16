@@ -146,7 +146,7 @@
         "id": "SB27-0013",
         "bill": "SB 27",
         "session": "20231",
-        "action": "(S) Fiscal Note Printed",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "12/12/2022",
         "hasVote": false,
@@ -157,7 +157,7 @@
         "id": "SB27-0014",
         "bill": "SB 27",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(S) Fiscal Note Received",
         "actionUrl": null,
         "date": "12/12/2022",
         "hasVote": false,
@@ -168,17 +168,6 @@
         "id": "SB27-0015",
         "bill": "SB 27",
         "session": "20231",
-        "action": "(S) Fiscal Note Received",
-        "actionUrl": null,
-        "date": "12/12/2022",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB27-0016",
-        "bill": "SB 27",
-        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/28/2022",
@@ -187,12 +176,23 @@
         "recordings": []
     },
     {
-        "id": "SB27-0017",
+        "id": "SB27-0016",
         "bill": "SB 27",
         "session": "20231",
         "action": "(S) First Reading",
         "actionUrl": null,
         "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB27-0017",
+        "bill": "SB 27",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/10/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -204,6 +204,30 @@
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/10/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45746?agendaId=244580"
+        ]
+    },
+    {
+        "id": "SB27-0019",
+        "bill": "SB 27",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB27-0020",
+        "bill": "SB 27",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/12/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": []

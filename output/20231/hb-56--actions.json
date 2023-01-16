@@ -229,8 +229,10 @@
         "actionUrl": null,
         "date": "01/09/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46099?agendaId=244484"
+        ]
     },
     {
         "id": "HB56-0021",
@@ -241,6 +243,61 @@
         "date": "01/10/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB56-0022",
+        "bill": "HB 56",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB56-0023",
+        "bill": "HB 56",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB56-0024",
+        "bill": "HB 56",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB56-0025",
+        "bill": "HB 56",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB56-0026",
+        "bill": "HB 56",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
         "recordings": []
     }
 ]
