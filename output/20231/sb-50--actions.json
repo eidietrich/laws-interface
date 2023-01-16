@@ -168,10 +168,34 @@
         "id": "SB50-0015",
         "bill": "SB 50",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB50-0016",
+        "bill": "SB 50",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
+        "committee": "(S) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46731?agendaId=245087"
+        ]
+    },
+    {
+        "id": "SB50-0017",
+        "bill": "SB 50",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
         "committee": "(S) State Administration",
         "recordings": []
     }

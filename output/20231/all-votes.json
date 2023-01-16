@@ -15947,19 +15947,6 @@
         "votes": []
     },
     {
-        "url": null,
-        "bill": "HB 59",
-        "session": "20231",
-        "action_id": "HB59-0025",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Missing URL",
-        "totals": {
-            "Y": 19,
-            "N": 0
-        }
-    },
-    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0060TRH230109.pdf",
         "bill": "HB 60",
         "session": "20231",
@@ -47155,6 +47142,22 @@
         "description": "Sen. Brown made a Motion that SB 48 Do Pass",
         "totals": {
             "Y": 11,
+            "N": 0
+        },
+        "votes": []
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0050STS230113.pdf",
+        "bill": "SB 50",
+        "session": "20231",
+        "action_id": "SB50-0017",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 13, 2023",
+        "description": "Sen. Ellis made a Motion that SB 50 Do Pass",
+        "totals": {
+            "Y": 10,
             "N": 0
         },
         "votes": []
