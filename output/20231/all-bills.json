@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -10380,6 +10380,39 @@
         "amendedReturnDeadline": "04/14/2023"
     },
     {
+        "key": "HB 260",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=260&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4508.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4508.pdf",
+        "lc": "LC4508",
+        "title": "Revise laws regarding legislative special counsel",
+        "sponsor": "Matt Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 4",
+        "statusDate": "01/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Matt Regier",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -12083,8 +12116,8 @@
         "sponsor": "Bob Brown",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 7",
-        "statusDate": "01/05/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
+        "statusDate": "01/11/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -12102,8 +12135,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 39",
@@ -12709,10 +12742,10 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "01/03/2023",
-        "lastAction": "(C) Draft Delivered to Requester",
-        "billStatus": "In Drafting Process",
-        "fiscalNotesListUrl": null,
+        "statusDate": "12/28/2022",
+        "lastAction": "(S) Referred to Committee -- (S) Natural Resources",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0055",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -12738,8 +12771,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 56",
@@ -13203,11 +13236,11 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "01/06/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
+        "statusDate": "01/11/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0068",
         "draftRequestor": null,
         "billRequestor": "Department of Corrections",
         "primarySponsor": "Barry Usher",
@@ -13227,8 +13260,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 69",
@@ -13611,10 +13644,10 @@
         "sponsor": "Ryan Lynch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 37",
-        "statusDate": "01/06/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "statusDate": "01/11/2023",
+        "lastAction": "(S) Tabled in Committee * -- (S) Judiciary",
+        "billStatus": "In First House Committee--Tabled",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0079",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": "Department of Corrections",
@@ -13635,8 +13668,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SB 80",
@@ -17802,8 +17835,8 @@
         "sponsor": "Bob Brown",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 7",
-        "statusDate": "01/10/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
+        "statusDate": "01/11/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -17831,8 +17864,8 @@
             "Simple"
         ],
         "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/17/2023"
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "SJ 6",
