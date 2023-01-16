@@ -168,10 +168,67 @@
         "id": "SB19-0015",
         "bill": "SB 19",
         "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB19-0016",
+        "bill": "SB 19",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB19-0017",
+        "bill": "SB 19",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "12/08/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB19-0018",
+        "bill": "SB 19",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB19-0019",
+        "bill": "SB 19",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/05/2023",
         "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45528?agendaId=243591"
+        ]
+    },
+    {
+        "id": "SB19-0020",
+        "bill": "SB 19",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": true,
         "committee": "(S) Judiciary",
         "recordings": []
     }

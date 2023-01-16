@@ -34664,7 +34664,7 @@
         "action_id": "HB139-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 19,
             "N": 0
@@ -44527,6 +44527,22 @@
         ]
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0012JUS230111.pdf",
+        "bill": "SB 12",
+        "session": "20231",
+        "action_id": "SB12-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 11, 2023",
+        "description": "Sen. Brown made a Motion that SB0012.001.001 Be Amended",
+        "totals": {
+            "Y": 3,
+            "N": 8
+        },
+        "votes": []
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0018STS230109.pdf",
         "bill": "SB 18",
         "session": "20231",
@@ -44977,6 +44993,22 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0019JUS230111.pdf",
+        "bill": "SB 19",
+        "session": "20231",
+        "action_id": "SB19-0020",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 11, 2023",
+        "description": "Sen. Regier made a Motion that SB 19 Do Pass",
+        "totals": {
+            "Y": 8,
+            "N": 3
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0020TAS230111.pdf",
@@ -50361,6 +50393,22 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0106JUS230111.pdf",
+        "bill": "SB 106",
+        "session": "20231",
+        "action_id": "SB106-0019",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 11, 2023",
+        "description": "Sen. Usher made a Motion that SB 106 Do Pass",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        },
+        "votes": []
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0107BUS230112.pdf",
