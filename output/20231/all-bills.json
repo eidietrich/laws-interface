@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -11349,9 +11349,9 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "01/13/2023",
-        "lastAction": "(S) 3rd Reading Passed",
-        "billStatus": "In First House--Through 3rd Reading",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Transmitted to House",
+        "billStatus": "Transmitted to Second House",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -12045,9 +12045,9 @@
         "sponsor": "Daniel R Salomon",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 47",
-        "statusDate": "01/13/2023",
-        "lastAction": "(S) 3rd Reading Passed",
-        "billStatus": "In First House--Through 3rd Reading",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Transmitted to House",
+        "billStatus": "Transmitted to Second House",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -12225,9 +12225,9 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "01/13/2023",
-        "lastAction": "(S) 3rd Reading Passed",
-        "billStatus": "In First House--Through 3rd Reading",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Transmitted to House",
+        "billStatus": "Transmitted to Second House",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -13720,9 +13720,9 @@
         "sponsor": "Mike Fox",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 16",
-        "statusDate": "01/13/2023",
-        "lastAction": "(S) 3rd Reading Passed",
-        "billStatus": "In First House--Through 3rd Reading",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Transmitted to House",
+        "billStatus": "Transmitted to Second House",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0080",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -14636,9 +14636,9 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "01/13/2023",
-        "lastAction": "(S) 3rd Reading Passed",
-        "billStatus": "In First House--Through 3rd Reading",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Transmitted to House",
+        "billStatus": "Transmitted to Second House",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -17706,6 +17706,112 @@
         "amendedReturnDeadline": "04/14/2023"
     },
     {
+        "key": "SB 177",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=177&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3009.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3009.pdf",
+        "lc": "LC3009",
+        "title": "Revising allowed local government employer benefits",
+        "sponsor": "Daniel Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 22",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Zolnikov",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Wages and Salaries",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 178",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=178&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1083.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1083.pdf",
+        "lc": "LC1083",
+        "title": "Generally revise cryptocurrency laws",
+        "sponsor": "Daniel Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 22",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Zolnikov",
+        "subjects": [
+            {
+                "subject": "Energy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Financial Institutions  (see also: Credit Transactions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -17835,9 +17941,9 @@
         "sponsor": "Wendy McKamey",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 12",
-        "statusDate": "01/13/2023",
-        "lastAction": "(S) 3rd Reading Passed",
-        "billStatus": "In First House--Through 3rd Reading",
+        "statusDate": "01/16/2023",
+        "lastAction": "(S) Transmitted to House",
+        "billStatus": "Transmitted to Second House",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SJ0004",
         "amendmentListUrl": null,
         "draftRequestor": null,
