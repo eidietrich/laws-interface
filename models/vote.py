@@ -170,9 +170,9 @@ class Vote:
                 r'(?s).+(?=\nYEAS (\-|–) [0-9]+\s+NAYS (\-|–) [0-9]+)', text).group(0).split('\n')
             total_row = re.search(
                 r'YEAS (\-|–) [0-9]+\s+NAYS (\-|–) [0-9]+', text).group(0)
-            vote_re = re.compile(r'(Y|N|E|A) .+')
+            vote_re = re.compile(r'(Y|N|E|A).+')
             vote_rows = list(
-                filter(vote_re.match, text.split('\n')[len(header_rows):]))
+                filter(vote_re.match, text.split('\n')[(len(header_rows)+1):]))
 
             # Assuming header rows are consistent
             self.data['date'] = header_rows[1]

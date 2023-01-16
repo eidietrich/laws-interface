@@ -9,8 +9,8 @@ from functions import read_json
 
 from models.bill import Bill
 
-raw_bills = read_json('output/20211/all-bills.json')
-bill_id = 'HB 102'
+raw_bills = read_json('output/20231/all-bills.json')
+bill_id = 'HB 18'
 # bill_id = 'HB 1'
 raw_bill = [bill for bill in raw_bills if bill['key'] == bill_id][0]
 bill = Bill(raw_bill,
@@ -20,4 +20,5 @@ bill = Bill(raw_bill,
 
 print('## Bill data:')
 # print(json.dumps(bill.export(), indent=4))
+# print(json.dumps(bill.export_actions(), indent=4))
 print(json.dumps(bill.export_votes(), indent=4))
