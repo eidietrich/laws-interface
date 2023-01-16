@@ -135,7 +135,7 @@
         "id": "SB13-0012",
         "bill": "SB 13",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(C) Fiscal Note Unsigned",
         "actionUrl": null,
         "date": "11/29/2022",
         "hasVote": false,
@@ -146,6 +146,39 @@
         "id": "SB13-0013",
         "bill": "SB 13",
         "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "11/29/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB13-0014",
+        "bill": "SB 13",
+        "session": "20231",
+        "action": "(S) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "11/29/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB13-0015",
+        "bill": "SB 13",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "11/29/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB13-0016",
+        "bill": "SB 13",
+        "session": "20231",
         "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
         "date": "12/01/2022",
@@ -154,7 +187,7 @@
         "recordings": []
     },
     {
-        "id": "SB13-0014",
+        "id": "SB13-0017",
         "bill": "SB 13",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -165,7 +198,18 @@
         "recordings": []
     },
     {
-        "id": "SB13-0015",
+        "id": "SB13-0018",
+        "bill": "SB 13",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB13-0019",
         "bill": "SB 13",
         "session": "20231",
         "action": "(S) Hearing",
@@ -173,6 +217,19 @@
         "date": "01/05/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45528?agendaId=243590"
+        ]
+    },
+    {
+        "id": "SB13-0020",
+        "bill": "SB 13",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/07/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

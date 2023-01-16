@@ -179,7 +179,7 @@
         "id": "HB193-0016",
         "bill": "HB 193",
         "session": "20231",
-        "action": "(H) Fiscal Note Requested",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/05/2023",
         "hasVote": false,
@@ -190,6 +190,17 @@
         "id": "HB193-0017",
         "bill": "HB 193",
         "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB193-0018",
+        "bill": "HB 193",
+        "session": "20231",
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "01/09/2023",
@@ -198,23 +209,12 @@
         "recordings": []
     },
     {
-        "id": "HB193-0018",
+        "id": "HB193-0019",
         "bill": "HB 193",
         "session": "20231",
         "action": "(H) First Reading",
         "actionUrl": null,
         "date": "01/09/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB193-0019",
-        "bill": "HB 193",
-        "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "01/10/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -239,6 +239,28 @@
         "date": "01/12/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB193-0022",
+        "bill": "HB 193",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB193-0023",
+        "bill": "HB 193",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

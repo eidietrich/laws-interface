@@ -203,22 +203,22 @@
         "id": "SB70-0018",
         "bill": "SB 70",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(S) Committee Executive Action--Bill Passed",
         "actionUrl": null,
         "date": "01/11/2023",
-        "hasVote": false,
-        "committee": null,
+        "hasVote": true,
+        "committee": "(S) Education and Cultural Resources",
         "recordings": []
     },
     {
         "id": "SB70-0019",
         "bill": "SB 70",
         "session": "20231",
-        "action": "(S) Committee Executive Action--Bill Passed",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
         "actionUrl": null,
-        "date": "01/12/2023",
-        "hasVote": true,
-        "committee": "(S) Education and Cultural Resources",
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -230,6 +230,17 @@
         "date": "01/12/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB70-0021",
+        "bill": "SB 70",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

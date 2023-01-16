@@ -146,11 +146,24 @@
         "id": "HB100-0013",
         "bill": "HB 100",
         "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB100-0014",
+        "bill": "HB 100",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/05/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45833?agendaId=243638"
+        ]
     }
 ]

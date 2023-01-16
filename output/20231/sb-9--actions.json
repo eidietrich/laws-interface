@@ -124,7 +124,7 @@
         "id": "SB9-0011",
         "bill": "SB 9",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(C) Fiscal Note Unsigned",
         "actionUrl": null,
         "date": "11/29/2022",
         "hasVote": false,
@@ -135,9 +135,9 @@
         "id": "SB9-0012",
         "bill": "SB 9",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
-        "date": "12/01/2022",
+        "date": "11/29/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -146,11 +146,55 @@
         "id": "SB9-0013",
         "bill": "SB 9",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "12/01/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB9-0014",
+        "bill": "SB 9",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/02/2022",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB9-0015",
+        "bill": "SB 9",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB9-0016",
+        "bill": "SB 9",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB9-0017",
+        "bill": "SB 9",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
