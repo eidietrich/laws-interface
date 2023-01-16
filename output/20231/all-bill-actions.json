@@ -8838,6 +8838,17 @@
         "recordings": []
     },
     {
+        "id": "HB39-0026",
+        "bill": "HB 39",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
         "id": "HB40-0000",
         "bill": "HB 40",
         "session": "20231",
@@ -21441,6 +21452,17 @@
         "recordings": []
     },
     {
+        "id": "HB91-0026",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/18/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
         "id": "HB92-0000",
         "bill": "HB 92",
         "session": "20231",
@@ -24319,10 +24341,67 @@
         "id": "HB105-0015",
         "bill": "HB 105",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB105-0016",
+        "bill": "HB 105",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB105-0017",
+        "bill": "HB 105",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB105-0018",
+        "bill": "HB 105",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB105-0019",
+        "bill": "HB 105",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/09/2023",
         "hasVote": false,
+        "committee": "(H) Transportation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46886?agendaId=244333"
+        ]
+    },
+    {
+        "id": "HB105-0020",
+        "bill": "HB 105",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
         "committee": "(H) Transportation",
         "recordings": []
     },
@@ -27158,6 +27237,17 @@
         "action": "(H) Rereferred to Committee",
         "actionUrl": null,
         "date": "01/13/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB117-0024",
+        "bill": "HB 117",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/18/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
@@ -82756,6 +82846,17 @@
         "id": "SB114-0014",
         "bill": "SB 114",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB114-0015",
+        "bill": "SB 114",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/04/2023",
@@ -82764,7 +82865,7 @@
         "recordings": []
     },
     {
-        "id": "SB114-0015",
+        "id": "SB114-0016",
         "bill": "SB 114",
         "session": "20231",
         "action": "(S) First Reading",
@@ -82775,13 +82876,26 @@
         "recordings": []
     },
     {
-        "id": "SB114-0016",
+        "id": "SB114-0017",
         "bill": "SB 114",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46679?agendaId=245076"
+        ]
+    },
+    {
+        "id": "SB114-0018",
+        "bill": "SB 114",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     },
@@ -83141,6 +83255,17 @@
         "id": "SB116-0015",
         "bill": "SB 116",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB116-0016",
+        "bill": "SB 116",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/04/2023",
@@ -83149,7 +83274,7 @@
         "recordings": []
     },
     {
-        "id": "SB116-0016",
+        "id": "SB116-0017",
         "bill": "SB 116",
         "session": "20231",
         "action": "(S) First Reading",
@@ -83160,13 +83285,37 @@
         "recordings": []
     },
     {
-        "id": "SB116-0017",
+        "id": "SB116-0018",
+        "bill": "SB 116",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB116-0019",
         "bill": "SB 116",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46679?agendaId=245077"
+        ]
+    },
+    {
+        "id": "SB116-0020",
+        "bill": "SB 116",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": true,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     },
