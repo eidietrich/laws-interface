@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: "*/20 * * * *"
     - cron: "5 6 * * *"
-  # push:
-  #   branches: [main]
+  push:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
         if: github.event_name == 'schedule' && github.event.schedule == '*/20 * * * *'
         run: python3 scrape-cached.py
       - name: Scrape all bills
-        if: github.event_name == 'schedule' && github.event.schedule == '5 6 * * *'
+        if: github.event_name == 'schedule' && github.event.schedule != '*/20 * * * *'
         run: python3 scrape-full.py
       - name: Add and commit
         uses: EndBug/add-and-commit@v9
@@ -50,7 +50,7 @@ jobs:
         with:
           text: "Shallow data scrape from LAWS was successful"
       - name: Slack Notification on cached scrape SUCCESS
-        if: success() && github.event_name == 'schedule' && github.event.schedule == '5 6 * * *'
+        if: success() && github.event_name == 'schedule' && github.event.schedule != '*/20 * * * *'
         uses: tokorom/action-slack-incoming-webhook@main
         env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
