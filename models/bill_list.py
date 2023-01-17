@@ -106,11 +106,19 @@ class BillList:
         for i, key in enumerate(keys):
             raw[key] = cells[i]
         sponsor_raw = raw['Primary Sponsor'].replace('|', '')
-        sponsor_district = re.search(r'(H|S)D \d+', sponsor_raw).group()
-        sponsor_party = re.search(r'R|D(?=\) (H|S)D \d+)', sponsor_raw).group()
-        sponsor_name = re.search(
-            r'.+(?=\(R|D\) (H|S)D \d+)', sponsor_raw).group().strip().replace('  ', ' ')
-        sponsor_name = re.sub(r'\($', '', sponsor_name).strip()
+
+        # Temporary hack for LAWS-side bug
+        if sponsor_raw == "Jeremy  Trebas Party/District Not Assigned":
+            sponsor_district = "SD 13"
+            sponsor_party = "R"
+            sponsor_name = "Jeremy Trebas"
+        else:
+            sponsor_district = re.search(r'(H|S)D \d+', sponsor_raw).group()
+            sponsor_party = re.search(
+                r'R|D(?=\) (H|S)D \d+)', sponsor_raw).group()
+            sponsor_name = re.search(
+                r'.+(?=\(R|D\) (H|S)D \d+)', sponsor_raw).group().strip().replace('  ', ' ')
+            sponsor_name = re.sub(r'\($', '', sponsor_name).strip()
         bill = {
             'key': raw['Bill Type - Number'].replace('\u00a0', ''),
             'billPageUrl': "".join([BASE_URL, bill_page_link]),
