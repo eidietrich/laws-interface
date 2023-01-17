@@ -1,16 +1,56 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0005LOS230110.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0005LOS230109.pdf",
         "bill": "SB 5",
         "session": "20231",
         "action_id": "SB5-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": null,
+        "date": "January 09, 2023",
+        "description": "Sen. Dunwell made a Motion that SB0005.001.001 Do Pass as Amended",
         "totals": {
             "Y": 9,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S21&P_SESS=20231",
