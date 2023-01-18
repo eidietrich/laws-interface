@@ -201,17 +201,6 @@
         "id": "HB225-0018",
         "bill": "HB 225",
         "session": "20231",
-        "action": "(H) Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "01/11/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB225-0019",
-        "bill": "HB 225",
-        "session": "20231",
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "01/12/2023",
@@ -220,12 +209,23 @@
         "recordings": []
     },
     {
-        "id": "HB225-0020",
+        "id": "HB225-0019",
         "bill": "HB 225",
         "session": "20231",
         "action": "(H) First Reading",
         "actionUrl": null,
         "date": "01/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB225-0020",
+        "bill": "HB 225",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/17/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
