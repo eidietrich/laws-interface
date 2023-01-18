@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -7557,10 +7557,10 @@
         "sponsor": "Fred Anderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 20",
-        "statusDate": "01/12/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "statusDate": "01/17/2023",
+        "lastAction": "(H) Tabled in Committee * -- (H) Judiciary",
+        "billStatus": "In First House Committee--Tabled",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0193",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -8756,9 +8756,9 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/17/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "01/18/2023",
+        "lastAction": "(H) Tabled in Committee * -- (H) Taxation",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0222",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0222",
         "draftRequestor": null,
@@ -13210,7 +13210,7 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "01/13/2023",
+        "statusDate": "01/18/2023",
         "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -19230,6 +19230,49 @@
         "subjects": [
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 191",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=191&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0831.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0831.pdf",
+        "lc": "LC0831",
+        "title": "Revise preliminary injunction laws",
+        "sponsor": "Steve Fitzpatrick",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 10",
+        "statusDate": "01/18/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Fitzpatrick",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Remedies  (see also: Liability; Torts)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
