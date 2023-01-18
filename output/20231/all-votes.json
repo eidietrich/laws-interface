@@ -90641,23 +90641,10 @@
         ]
     },
     {
-        "url": null,
-        "bill": "SB 120",
-        "session": "20231",
-        "action_id": "SB120-0025",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Missing URL",
-        "totals": {
-            "Y": 7,
-            "N": 5
-        }
-    },
-    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S58&P_SESS=20231",
         "bill": "SB 120",
         "session": "20231",
-        "action_id": "SB120-0026",
+        "action_id": "SB120-0025",
         "type": "floor",
         "seq_number": "S58",
         "date": "January 13, 2023",
@@ -90875,7 +90862,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S67&P_SESS=20231",
         "bill": "SB 120",
         "session": "20231",
-        "action_id": "SB120-0028",
+        "action_id": "SB120-0027",
         "type": "floor",
         "seq_number": "S67",
         "date": "January 16, 2023",
@@ -91093,7 +91080,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S92&P_SESS=20231",
         "bill": "SB 120",
         "session": "20231",
-        "action_id": "SB120-0030",
+        "action_id": "SB120-0029",
         "type": "floor",
         "seq_number": "S92",
         "date": "January 17, 2023",
@@ -91306,6 +91293,19 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 120",
+        "session": "20231",
+        "action_id": "SB120-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 7,
+            "N": 5
+        }
     },
     {
         "url": null,
