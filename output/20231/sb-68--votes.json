@@ -59,5 +59,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 68",
+        "session": "20231",
+        "action_id": "SB68-0018",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 1
+        }
     }
 ]
