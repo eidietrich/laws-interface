@@ -34126,7 +34126,7 @@
         "action_id": "HB77-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 19,
             "N": 0
@@ -34967,6 +34967,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 77",
+        "session": "20231",
+        "action_id": "HB77-0026",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0078JUH230105.pdf",
@@ -35896,6 +35909,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 78",
+        "session": "20231",
+        "action_id": "HB78-0029",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0079JUH230117.pdf",
@@ -84718,6 +84744,19 @@
         ]
     },
     {
+        "url": null,
+        "bill": "SB 72",
+        "session": "20231",
+        "action_id": "SB72-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 6,
+            "N": 5
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0074STS230111.pdf",
         "bill": "SB 74",
         "session": "20231",
@@ -87071,6 +87110,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 89",
+        "session": "20231",
+        "action_id": "SB89-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 9,
+            "N": 2
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0091JUS230106.pdf",
@@ -91341,6 +91393,19 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 134",
+        "session": "20231",
+        "action_id": "SB134-0024",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0136JUS230112.pdf",
