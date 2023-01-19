@@ -1,22 +1,22 @@
 {
-    "key": "SR 10",
+    "key": "SR 11",
     "session": "20231",
-    "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=10&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
-    "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4461.htm",
-    "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4461.pdf",
-    "lc": "LC4461",
-    "title": "Confirm governor's appointees for the board of pardons and parole",
-    "sponsor": "Keith Regier",
+    "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=11&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+    "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4496.htm",
+    "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4496.pdf",
+    "lc": "LC4496",
+    "title": "Confirm governor's appointee for Montana tax appeal board",
+    "sponsor": "Greg Hertz",
     "sponsorParty": "R",
-    "sponsorDistrict": "SD 3",
+    "sponsorDistrict": "SD 6",
     "statusDate": "01/19/2023",
-    "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+    "lastAction": "(S) Referred to Committee -- (S) Taxation",
     "billStatus": "In First House Committee--Nontabled",
     "fiscalNotesListUrl": null,
     "amendmentListUrl": null,
     "draftRequestor": null,
     "billRequestor": null,
-    "primarySponsor": "Keith Regier",
+    "primarySponsor": "Greg Hertz",
     "subjects": [
         {
             "subject": "Legislature",
@@ -25,6 +25,11 @@
         },
         {
             "subject": "Public Officers and Employees",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Taxation (Generally)",
             "fiscalCode": "",
             "voteReq": "Simple"
         }
