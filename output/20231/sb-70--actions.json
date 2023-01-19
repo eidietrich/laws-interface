@@ -242,5 +242,27 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB70-0022",
+        "bill": "SB 70",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB70-0023",
+        "bill": "SB 70",
+        "session": "20231",
+        "action": "(S) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
     }
 ]

@@ -108,7 +108,8 @@ class BillList:
         sponsor_raw = raw['Primary Sponsor'].replace('|', '')
 
         # Temporary hack for LAWS-side bug
-        if sponsor_raw == "Sara Hess Party/District Not Assigned":
+        print(sponsor_raw)
+        if sponsor_raw == "Sara  Hess Party/District Not Assigned":
             sponsor_district = "HD 69"
             sponsor_party = "R"
             sponsor_name = "Jennifer Carlson"
