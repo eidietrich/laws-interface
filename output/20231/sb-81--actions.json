@@ -176,5 +176,27 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB81-0016",
+        "bill": "SB 81",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/18/2023",
+        "hasVote": true,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB81-0017",
+        "bill": "SB 81",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/18/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": []
     }
 ]

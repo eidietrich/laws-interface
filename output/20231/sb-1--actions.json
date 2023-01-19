@@ -264,5 +264,38 @@
         "hasVote": true,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB1-0024",
+        "bill": "SB 1",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB1-0025",
+        "bill": "SB 1",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) Education",
+        "recordings": []
+    },
+    {
+        "id": "SB1-0026",
+        "bill": "SB 1",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     }
 ]

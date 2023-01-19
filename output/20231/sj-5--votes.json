@@ -59,5 +59,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SJ0005JUS230118.pdf",
+        "bill": "SJ 5",
+        "session": "20231",
+        "action_id": "SJ5-0016",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing PDF",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        }
     }
 ]

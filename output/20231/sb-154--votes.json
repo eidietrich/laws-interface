@@ -1,1 +1,76 @@
-[]
+[
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0154JUS230118.pdf",
+        "bill": "SB 154",
+        "session": "20231",
+        "action_id": "SB154-0019",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 18, 2023",
+        "description": "Sen. Usher made a Motion that SB 154 Do Pass",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy",
+                "vote": "N"
+            },
+            {
+                "name": "Manzella, Theresa;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            }
+        ]
+    },
+    {
+        "url": null,
+        "bill": "SB 154",
+        "session": "20231",
+        "action_id": "SB154-0020",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
+    }
+]

@@ -59,5 +59,18 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0134JUS230118.pdf",
+        "bill": "SB 134",
+        "session": "20231",
+        "action_id": "SB134-0024",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing PDF",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
     }
 ]
