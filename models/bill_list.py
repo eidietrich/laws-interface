@@ -108,10 +108,10 @@ class BillList:
         sponsor_raw = raw['Primary Sponsor'].replace('|', '')
 
         # Temporary hack for LAWS-side bug
-        if sponsor_raw == "Jeremy  Trebas Party/District Not Assigned":
-            sponsor_district = "SD 13"
+        if sponsor_raw == "Sara Hess Party/District Not Assigned":
+            sponsor_district = "HD 69"
             sponsor_party = "R"
-            sponsor_name = "Jeremy Trebas"
+            sponsor_name = "Jennifer Carlson"
         else:
             sponsor_district = re.search(r'(H|S)D \d+', sponsor_raw).group()
             sponsor_party = re.search(
