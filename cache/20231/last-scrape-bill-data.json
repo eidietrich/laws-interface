@@ -162,8 +162,8 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "12/20/2022",
-        "lastAction": "(H) Referred to Committee -- (H) Appropriations",
+        "statusDate": "01/27/2023; 08:00 AM, Rm 317B",
+        "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0005",
         "amendmentListUrl": null,
@@ -258,8 +258,8 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "12/20/2022",
-        "lastAction": "(H) Referred to Committee -- (H) Appropriations",
+        "statusDate": "01/24/2023; 08:00 AM, Rm 317B",
+        "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -4682,8 +4682,8 @@
         "sponsor": "Marta Bertoglio",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 75",
-        "statusDate": "01/18/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/19/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0117",
         "amendmentListUrl": null,
@@ -6671,8 +6671,8 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/11/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Education",
+        "statusDate": "01/19/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0171",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0171",
@@ -7165,9 +7165,9 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "01/16/2023",
-        "lastAction": "(H) Tabled in Committee * -- (H) Transportation",
-        "billStatus": "In First House Committee--Tabled",
+        "statusDate": "01/19/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Transportation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0184",
         "draftRequestor": null,
@@ -7203,8 +7203,8 @@
         "sponsor": "Ross H Fitzgerald",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 17",
-        "statusDate": "01/16/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/19/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0185",
         "amendmentListUrl": null,
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8867,8 +8867,8 @@
         "sponsor": "Derek J Harvey",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 74",
-        "statusDate": "01/16/2023; 03:00 PM, Rm 455",
-        "lastAction": "(H) Hearing -- (H) Transportation",
+        "statusDate": "01/19/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0224",
         "amendmentListUrl": null,
@@ -20159,6 +20159,92 @@
         "subjects": [
             {
                 "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 2",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=2&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4473.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4473.pdf",
+        "lc": "LC4473",
+        "title": "Confirm governor's appointee for the state parks and recreation board",
+        "sponsor": "Steve Hinebauch",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 18",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Hinebauch",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Recreation/Parks/Sports",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 3",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=3&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4501.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4501.pdf",
+        "lc": "LC4501",
+        "title": "Confirm governor's appointees for the fish and wildlife commission",
+        "sponsor": "Steve Hinebauch",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 18",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Hinebauch",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
