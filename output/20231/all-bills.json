@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "3/4 of Each House",
             "Simple",
-            "3/4 of Each House"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -10304,8 +10304,8 @@
         "sponsor": "Jonathan Karlen",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 96",
-        "statusDate": "01/17/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Taxation",
+        "statusDate": "01/19/2023",
+        "lastAction": "(H) Rereferred to Committee -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13083,8 +13083,8 @@
         "sponsor": "Wendy McKamey",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 12",
-        "statusDate": "01/19/2023; 01:30 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Finance and Claims",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Finance and Claims",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0029",
         "amendmentListUrl": null,
@@ -19404,8 +19404,8 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "01/18/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Public Health, Welfare and Safety",
+        "statusDate": "01/23/2023; 03:00 PM, Rm 317",
+        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -19791,8 +19791,8 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "01/19/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Local Government",
+        "statusDate": "01/23/2023; 02:30 PM, Rm 405",
+        "lastAction": "(S) Hearing -- (S) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -20440,5 +20440,210 @@
         "deadlineCategory": "Interim Study Resolutions",
         "transmittalDeadline": "05/02/2023",
         "amendedReturnDeadline": "05/09/2023"
+    },
+    {
+        "key": "SR 6",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=6&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4455.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4455.pdf",
+        "lc": "LC4455",
+        "title": "Confirm governor's appointees for the judicial standards commission",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 7",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=7&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4459.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4459.pdf",
+        "lc": "LC4459",
+        "title": "Confirm governor's appointee for district court judge - district 20",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 8",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=8&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4460.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4460.pdf",
+        "lc": "LC4460",
+        "title": "Confirm governor's appointee for district court judge - district  10",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 9",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=9&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4462.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4462.pdf",
+        "lc": "LC4462",
+        "title": "Confirm governor's appointee for the board of crime control",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 10",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=10&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4461.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4461.pdf",
+        "lc": "LC4461",
+        "title": "Confirm governor's appointees for the board of pardons and parole",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     }
 ]
