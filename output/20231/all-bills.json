@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -1211,8 +1211,8 @@
         "sponsor": "Alice Buckley",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 63",
-        "statusDate": "01/16/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "01/23/2023; 10:00 AM, Rm 422",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0030",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0030",
@@ -5520,8 +5520,8 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/16/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "01/23/2023; 10:00 AM, Rm 422",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0138",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0138",
@@ -5553,8 +5553,8 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/16/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "01/23/2023; 10:00 AM, Rm 422",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0139",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -15125,8 +15125,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "12/28/2022",
-        "lastAction": "(S) Referred to Committee -- (S) Natural Resources",
+        "statusDate": "01/23/2023; 03:00 PM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -19609,8 +19609,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/19/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "01/24/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -19850,6 +19850,77 @@
             },
             {
                 "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 197",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=197&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1437.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1437.pdf",
+        "lc": "LC1437",
+        "title": "Revise and extend post-election audit process",
+        "sponsor": "Mike Cuffe",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 1",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Cuffe",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 198",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=198&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1244.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1244.pdf",
+        "lc": "LC1244",
+        "title": "Revise laws related to behavioral health peer support specialists",
+        "sponsor": "Jen Gross",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 25",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jen Gross",
+        "subjects": [
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
