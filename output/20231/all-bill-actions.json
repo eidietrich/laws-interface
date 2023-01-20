@@ -77556,6 +77556,17 @@
         "recordings": []
     },
     {
+        "id": "HJ1-0029",
+        "bill": "HJ 1",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
         "id": "HJ2-0000",
         "bill": "HJ 2",
         "session": "20231",
@@ -93407,7 +93418,8 @@
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45746?agendaId=244582"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45746?agendaId=244582",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47468?agendaId=246027"
         ]
     },
     {
@@ -93462,8 +93474,10 @@
         "actionUrl": null,
         "date": "01/13/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46190?agendaId=246105"
+        ]
     },
     {
         "id": "SB62-0021",
@@ -93518,6 +93532,17 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB62-0026",
+        "bill": "SB 62",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
         "recordings": []
     },
     {
@@ -129108,6 +129133,17 @@
     },
     {
         "id": "SJ1-0037",
+        "bill": "SJ 1",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ1-0038",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
