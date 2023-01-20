@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "Simple",
             "2/3 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -1482,8 +1482,8 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "01/10/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0037",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0037",
@@ -4497,8 +4497,8 @@
         "sponsor": "Jodee Etchart",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 48",
-        "statusDate": "01/11/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0112",
@@ -6354,8 +6354,8 @@
         "sponsor": "Fiona Nave",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 57",
-        "statusDate": "01/10/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0161",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -11791,8 +11791,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 30",
         "statusDate": "01/20/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -11829,8 +11829,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 43",
         "statusDate": "01/20/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -21685,6 +21685,44 @@
             },
             {
                 "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 29",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=29&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4502.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4502.pdf",
+        "lc": "LC4502",
+        "title": "Confirm governor's appointees for the board of realty regulation",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
