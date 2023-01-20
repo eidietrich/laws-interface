@@ -196,6 +196,7 @@
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47505?agendaId=246587",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45926?agendaId=244976"
         ]
     },
@@ -240,8 +241,10 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46107?agendaId=247430"
+        ]
     },
     {
         "id": "HB109-0022",
@@ -251,6 +254,17 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB109-0023",
+        "bill": "HB 109",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

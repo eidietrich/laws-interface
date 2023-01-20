@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(H) Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46886?agendaId=244333"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46886?agendaId=244333",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47464?agendaId=246291"
         ]
     },
     {
@@ -262,8 +263,10 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46107?agendaId=247428"
+        ]
     },
     {
         "id": "HB105-0024",
@@ -273,6 +276,17 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB105-0025",
+        "bill": "HB 105",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
