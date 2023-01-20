@@ -3871,7 +3871,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46362?agendaId=244264"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46362?agendaId=244264",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47459?agendaId=246265"
         ]
     },
     {
@@ -3915,8 +3916,10 @@
         "actionUrl": null,
         "date": "01/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247111"
+        ]
     },
     {
         "id": "HB15-0025",
@@ -3937,6 +3940,19 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46283?agendaId=247492"
+        ]
+    },
+    {
+        "id": "HB15-0027",
+        "bill": "HB 15",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": "(H) Appropriations",
         "recordings": []
     },
@@ -7550,6 +7566,17 @@
         "recordings": []
     },
     {
+        "id": "HB28-0028",
+        "bill": "HB 28",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
         "id": "HB29-0000",
         "bill": "HB 29",
         "session": "20231",
@@ -9869,7 +9896,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46362?agendaId=244265"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46362?agendaId=244265",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47459?agendaId=246266"
         ]
     },
     {
@@ -9913,8 +9941,10 @@
         "actionUrl": null,
         "date": "01/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247117"
+        ]
     },
     {
         "id": "HB36-0027",
@@ -9935,6 +9965,19 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46283?agendaId=247493"
+        ]
+    },
+    {
+        "id": "HB36-0029",
+        "bill": "HB 36",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": "(H) Appropriations",
         "recordings": []
     },
@@ -48512,7 +48555,9 @@
         "date": "01/13/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45142?agendaId=245879"
+        ]
     },
     {
         "id": "HB183-0021",
@@ -48566,6 +48611,17 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB183-0026",
+        "bill": "HB 183",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -49855,6 +49911,7 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47497?agendaId=246595",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47495?agendaId=245009"
         ]
     },
@@ -49943,6 +50000,17 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB188-0030",
+        "bill": "HB 188",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -54266,7 +54334,10 @@
         "date": "01/12/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47532?agendaId=247081",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45141?agendaId=245431"
+        ]
     },
     {
         "id": "HB205-0021",
@@ -54298,6 +54369,17 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB205-0024",
+        "bill": "HB 205",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -131375,9 +131457,20 @@
         "id": "SR7-0015",
         "bill": "SR 7",
         "session": "20231",
-        "action": "(S) Hearing",
+        "action": "(S) First Reading",
         "actionUrl": null,
-        "date": "01/25/2023",
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR7-0016",
+        "bill": "SR 7",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/20/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": []
@@ -135226,6 +135319,1293 @@
         "bill": "SR 30",
         "session": "20231",
         "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0000",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0001",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0002",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0003",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0004",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0005",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0006",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0007",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0008",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0009",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0010",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0011",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0012",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0000",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0001",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0002",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0003",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0004",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0005",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0006",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0007",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0008",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0009",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0010",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0011",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0012",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0000",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0001",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0002",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0003",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0004",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0005",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0006",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0007",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0008",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0009",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0010",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0011",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0012",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0000",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0001",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0002",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0003",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0004",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0005",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0006",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0007",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0008",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0009",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0010",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0011",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0012",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0000",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0001",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0002",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0003",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0004",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0005",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0006",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0007",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0008",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0009",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0010",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0011",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0012",
+        "bill": "SR 35",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0000",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0001",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0002",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0003",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0004",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0005",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0006",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0007",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0008",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0009",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0010",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0011",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0012",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0000",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0001",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0002",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0003",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0004",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0005",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0006",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0007",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0008",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0009",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0010",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0011",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0012",
+        "bill": "SR 37",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0000",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0001",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0002",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0003",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0004",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0005",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0006",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0007",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0008",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0009",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0010",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0011",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0012",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0000",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft Request Received",
+        "actionUrl": null,
+        "date": "01/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0001",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft in Legal Review",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0002",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft in Edit",
+        "actionUrl": null,
+        "date": "01/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0003",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft to Drafter - Edit Review",
+        "actionUrl": null,
+        "date": "01/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0004",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0005",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0006",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0007",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0008",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft in Assembly",
+        "actionUrl": null,
+        "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0009",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0010",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Executive Director Final Review",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0011",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(C) Draft Ready for Delivery",
+        "actionUrl": null,
+        "date": "01/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0012",
+        "bill": "SR 39",
+        "session": "20231",
+        "action": "(S) Introduced",
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,

@@ -228,7 +228,9 @@
         "date": "01/13/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45142?agendaId=245879"
+        ]
     },
     {
         "id": "HB183-0021",
@@ -282,6 +284,17 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB183-0026",
+        "bill": "HB 183",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

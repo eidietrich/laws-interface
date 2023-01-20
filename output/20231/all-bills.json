@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -556,8 +556,8 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/19/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0015",
         "amendmentListUrl": null,
@@ -1116,8 +1116,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 34",
         "statusDate": "01/20/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0028",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0028",
         "draftRequestor": null,
@@ -1444,9 +1444,9 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/19/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) Tabled in Committee * -- (H) Appropriations",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0036",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -7127,9 +7127,9 @@
         "sponsor": "Nelly Nicol",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 53",
-        "statusDate": "01/17/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0183",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -7332,9 +7332,9 @@
         "sponsor": "Gary Parry",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 39",
-        "statusDate": "01/13/2023",
-        "lastAction": "(H) Committee Report--Bill Passed as Amended",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0188",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0188",
         "draftRequestor": null,
@@ -8029,9 +8029,9 @@
         "sponsor": "Fred Anderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 20",
-        "statusDate": "01/18/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/20/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -20839,8 +20839,8 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/25/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
+        "statusDate": "01/19/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -21801,6 +21801,358 @@
         "statusDate": "01/20/2023",
         "lastAction": "(S) Referred to Committee -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 31",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=31&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4504.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4504.pdf",
+        "lc": "LC4504",
+        "title": "Confirm governor's appointees for historical society board of trustees",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 32",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=32&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4507.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4507.pdf",
+        "lc": "LC4507",
+        "title": "Confirm governor's appointee for board of regents of higher education",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "University System (see also:  Colleges)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 33",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=33&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4506.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4506.pdf",
+        "lc": "LC4506",
+        "title": "Confirm governor's appointees for board of public education",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 34",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=34&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4495.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4495.pdf",
+        "lc": "LC4495",
+        "title": "Confirm governor's appointees for the board of private security",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 35",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=35&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4494.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4494.pdf",
+        "lc": "LC4494",
+        "title": "Confirm governor's appointees for the board of horseracing",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 36",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=36&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4493.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4493.pdf",
+        "lc": "LC4493",
+        "title": "Confirm governor's appointees for the board of funeral services",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 37",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=37&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4492.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4492.pdf",
+        "lc": "LC4492",
+        "title": "Confirm governor's appointees for the state electrical board",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 38",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=38&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4491.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4491.pdf",
+        "lc": "LC4491",
+        "title": "Confirm governor's appointees for the board of barbers and cosmetologists",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 39",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=39&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4490.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4490.pdf",
+        "lc": "LC4490",
+        "title": "Confirm governor's appointees for the board of public accountants",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
