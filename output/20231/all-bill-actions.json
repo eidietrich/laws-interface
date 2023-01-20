@@ -4658,6 +4658,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47485?agendaId=246343",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46100?agendaId=244800"
         ]
     },
@@ -58204,6 +58205,19 @@
         "date": "01/18/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45232?agendaId=247040"
+        ]
+    },
+    {
+        "id": "HB221-0026",
+        "bill": "HB 221",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
+        "committee": "(H) Taxation",
         "recordings": []
     },
     {
@@ -76414,6 +76428,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47485?agendaId=246354",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46100?agendaId=244812"
         ]
     },
@@ -99832,6 +99847,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47484?agendaId=246052",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45400?agendaId=244639"
         ]
     },
@@ -116812,7 +116828,9 @@
         "date": "01/18/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45406?agendaId=247054"
+        ]
     },
     {
         "id": "SB161-0000",
@@ -119001,7 +119019,9 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45407?agendaId=247404"
+        ]
     },
     {
         "id": "SB170-0000",
@@ -119584,7 +119604,9 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45407?agendaId=247405"
+        ]
     },
     {
         "id": "SB171-0032",
@@ -133109,6 +133131,17 @@
         "recordings": []
     },
     {
+        "id": "SR26-0013",
+        "bill": "SR 26",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": "(S) Agriculture, Livestock and Irrigation",
+        "recordings": []
+    },
+    {
         "id": "SR27-0000",
         "bill": "SR 27",
         "session": "20231",
@@ -133249,6 +133282,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR27-0013",
+        "bill": "SR 27",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": "(S) Agriculture, Livestock and Irrigation",
         "recordings": []
     },
     {
@@ -133395,6 +133439,17 @@
         "recordings": []
     },
     {
+        "id": "SR28-0013",
+        "bill": "SR 28",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": "(S) Agriculture, Livestock and Irrigation",
+        "recordings": []
+    },
+    {
         "id": "SR29-0000",
         "bill": "SR 29",
         "session": "20231",
@@ -133538,6 +133593,17 @@
         "recordings": []
     },
     {
+        "id": "SR29-0013",
+        "bill": "SR 29",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
         "id": "SR30-0000",
         "bill": "SR 30",
         "session": "20231",
@@ -133678,6 +133744,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR30-0013",
+        "bill": "SR 30",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
     }
 ]
