@@ -206,7 +206,10 @@
         "date": "01/12/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47099?agendaId=245596",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47553?agendaId=247773"
+        ]
     },
     {
         "id": "SB33-0019",
@@ -239,6 +242,28 @@
         "date": "01/18/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB33-0022",
+        "bill": "SB 33",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB33-0023",
+        "bill": "SB 33",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
