@@ -68770,7 +68770,7 @@
         "action_id": "HB139-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 19,
             "N": 0
@@ -81028,9 +81028,35 @@
     },
     {
         "url": null,
+        "bill": "HB 194",
+        "session": "20231",
+        "action_id": "HB194-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 10
+        }
+    },
+    {
+        "url": null,
         "bill": "HB 195",
         "session": "20231",
         "action_id": "HB195-0020",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 10
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 195",
+        "session": "20231",
+        "action_id": "HB195-0021",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -81080,6 +81106,19 @@
     },
     {
         "url": null,
+        "bill": "HB 200",
+        "session": "20231",
+        "action_id": "HB200-0020",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 2
+        }
+    },
+    {
+        "url": null,
         "bill": "HB 202",
         "session": "20231",
         "action_id": "HB202-0021",
@@ -81089,6 +81128,19 @@
         "totals": {
             "Y": 13,
             "N": 6
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 204",
+        "session": "20231",
+        "action_id": "HB204-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
         }
     },
     {
