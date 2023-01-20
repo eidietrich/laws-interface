@@ -68770,7 +68770,7 @@
         "action_id": "HB139-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 19,
             "N": 0
@@ -78593,6 +78593,19 @@
         ]
     },
     {
+        "url": null,
+        "bill": "HB 163",
+        "session": "20231",
+        "action_id": "HB163-0024",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0165BUH230112.pdf",
         "bill": "HB 165",
         "session": "20231",
@@ -81339,6 +81352,19 @@
         "error": "Missing URL",
         "totals": {
             "Y": 21,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 239",
+        "session": "20231",
+        "action_id": "HB239-0020",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
             "N": 0
         }
     },
