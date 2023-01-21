@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -1988,9 +1988,9 @@
         "sponsor": "Tony Brockman",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
-        "statusDate": "01/12/2023",
-        "lastAction": "(H) Tabled in Committee * -- (H) Business and Labor",
-        "billStatus": "In First House Committee--Tabled",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Business and Labor",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0049",
         "draftRequestor": null,
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -9806,8 +9806,8 @@
         "sponsor": "Sue Vinton",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 56",
-        "statusDate": "01/19/2023; 08:30 AM, Rm 172",
-        "lastAction": "(H) Hearing -- (H) Business and Labor",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -12235,6 +12235,59 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
         "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 307",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=307&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4068.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4068.pdf",
+        "lc": "LC4068",
+        "title": "Provide for tax rebate",
+        "sponsor": "Jerry Schillinger",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 37",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jerry Schillinger",
+        "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Bond Issues, Public",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
     },
     {
         "key": "HJ 1",
