@@ -240,6 +240,7 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47521?agendaId=247605",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46277?agendaId=245019"
         ]
     },
@@ -284,8 +285,10 @@
         "actionUrl": null,
         "date": "01/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247128"
+        ]
     },
     {
         "id": "HB175-0026",
@@ -306,6 +309,17 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB175-0028",
+        "bill": "HB 175",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

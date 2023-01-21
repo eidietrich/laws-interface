@@ -1,15 +1,91 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0172STH230119.pdf",
         "bill": "HB 172",
         "session": "20231",
         "action_id": "HB172-0028",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 19, 2023",
+        "description": "Rep. Walsh made a Motion that HB 172 Do Pass as Amended",
         "totals": {
             "Y": 14,
             "N": 4
-        }
+        },
+        "votes": [
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "N"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "N"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "Y"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            }
+        ]
     }
 ]
