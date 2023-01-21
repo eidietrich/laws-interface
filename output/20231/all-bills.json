@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -12077,6 +12077,154 @@
             },
             {
                 "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 303",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=303&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0911.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0911.pdf",
+        "lc": "LC0911",
+        "title": "Implement Medical Ethics and Diversity Act",
+        "sponsor": "Amy Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 6",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Amy Regier",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State/Other Government Levels, Immunity From Suit",
+                "fiscalCode": "",
+                "voteReq": "2/3 of Each House"
+            }
+        ],
+        "voteRequirements": [
+            "2/3 of Each House",
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 304",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=304&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1884.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1884.pdf",
+        "lc": "LC1884",
+        "title": "Require Marijuana producer and processor facility air and odor filtration",
+        "sponsor": "Jedediah Hinkle",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 67",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jedediah Hinkle",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 305",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=305&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0761.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0761.pdf",
+        "lc": "LC0761",
+        "title": "Generally revise alcohol laws relating to manufacturing and retail",
+        "sponsor": "Edward Buttrey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 21",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Edward Buttrey",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 306",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=306&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1975.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1975.pdf",
+        "lc": "LC1975",
+        "title": "Require candidates for office be registered to vote",
+        "sponsor": "Braxton Mitchell",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 3",
+        "statusDate": "01/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Braxton Mitchell",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
