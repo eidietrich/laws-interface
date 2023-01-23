@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -10461,8 +10461,8 @@
         "sponsor": "Jerry Schillinger",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 37",
-        "statusDate": "01/24/2023; 03:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Local Government",
+        "statusDate": "01/18/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -10896,8 +10896,8 @@
         "sponsor": "Scot Kerns",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 23",
-        "statusDate": "01/19/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "statusDate": "01/24/2023; 08:00 AM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -11281,8 +11281,8 @@
         "sponsor": "Steven Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 24",
-        "statusDate": "01/20/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "statusDate": "01/24/2023; 08:00 AM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -11314,8 +11314,8 @@
         "sponsor": "Steven Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 24",
-        "statusDate": "01/20/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "statusDate": "01/24/2023; 08:00 AM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -11567,9 +11567,9 @@
         "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0290.pdf",
         "lc": "LC1290",
         "title": "Revise laws related to membership of wetlands protection advisory council",
-        "sponsor": "Bob Phalen",
+        "sponsor": "Gary Parry",
         "sponsorParty": "R",
-        "sponsorDistrict": "HD 36",
+        "sponsorDistrict": "HD 39",
         "statusDate": "01/24/2023; 03:00 PM, Rm 172",
         "lastAction": "(H) Hearing -- (H) Fish, Wildlife and Parks",
         "billStatus": "In First House Committee--Nontabled",
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -12288,6 +12288,82 @@
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
         "amendedReturnDeadline": "04/25/2023"
+    },
+    {
+        "key": "HB 308",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=308&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1368.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1368.pdf",
+        "lc": "LC1368",
+        "title": "Establish registry of forensic state hospital patients for limited purposes",
+        "sponsor": "Michael Yakawich",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 51",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Michael Yakawich",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 309",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=309&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3457.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3457.pdf",
+        "lc": "LC3457",
+        "title": "Revise voting requirements of quasi-judicial boards",
+        "sponsor": "Tony Brockman",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 9",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tony Brockman",
+        "subjects": [
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
     },
     {
         "key": "HJ 1",
