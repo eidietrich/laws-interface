@@ -217,7 +217,10 @@
         "date": "01/12/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47555?agendaId=247741",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46453?agendaId=245571"
+        ]
     },
     {
         "id": "HB147-0020",
@@ -250,6 +253,41 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB147-0023",
+        "bill": "HB 147",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46107?agendaId=247436"
+        ]
+    },
+    {
+        "id": "HB147-0024",
+        "bill": "HB 147",
+        "session": "20231",
+        "action": "(H) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB147-0025",
+        "bill": "HB 147",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]

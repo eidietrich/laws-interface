@@ -217,7 +217,9 @@
         "date": "01/16/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45143?agendaId=246186"
+        ]
     },
     {
         "id": "HB204-0020",
@@ -228,6 +230,17 @@
         "date": "01/18/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB204-0021",
+        "bill": "HB 204",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
+        "committee": "(H) Judiciary",
         "recordings": []
     }
 ]

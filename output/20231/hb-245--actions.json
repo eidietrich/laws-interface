@@ -250,7 +250,9 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45233?agendaId=247353"
+        ]
     },
     {
         "id": "HB245-0023",
@@ -261,6 +263,39 @@
         "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB245-0024",
+        "bill": "HB 245",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB245-0025",
+        "bill": "HB 245",
+        "session": "20231",
+        "action": "(H) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB245-0026",
+        "bill": "HB 245",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]

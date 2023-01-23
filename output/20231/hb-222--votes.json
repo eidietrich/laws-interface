@@ -6,20 +6,20 @@
         "action_id": "HB222-0024",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 14,
             "N": 7
         }
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0222TAH230119.pdf",
         "bill": "HB 222",
         "session": "20231",
         "action_id": "HB222-0026",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 14,
             "N": 7

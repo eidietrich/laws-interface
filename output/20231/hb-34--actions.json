@@ -152,7 +152,8 @@
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46540?agendaId=245055"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46540?agendaId=245055",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47525?agendaId=247620"
         ]
     },
     {
@@ -207,8 +208,10 @@
         "actionUrl": null,
         "date": "01/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247116"
+        ]
     },
     {
         "id": "HB34-0019",
@@ -219,6 +222,39 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB34-0020",
+        "bill": "HB 34",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB34-0021",
+        "bill": "HB 34",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB34-0022",
+        "bill": "HB 34",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Natural Resources",
         "recordings": []
     }
 ]

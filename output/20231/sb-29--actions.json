@@ -207,7 +207,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46730?agendaId=244385"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46730?agendaId=244385",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47463?agendaId=246326"
         ]
     },
     {
@@ -251,8 +252,10 @@
         "actionUrl": null,
         "date": "01/16/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46191?agendaId=246525"
+        ]
     },
     {
         "id": "SB29-0023",
@@ -272,6 +275,30 @@
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47615?agendaId=247483"
+        ]
+    },
+    {
+        "id": "SB29-0025",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB29-0026",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []

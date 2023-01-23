@@ -272,7 +272,9 @@
         "date": "01/17/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45231?agendaId=246732"
+        ]
     },
     {
         "id": "HB189-0025",
@@ -283,6 +285,17 @@
         "date": "01/17/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB189-0026",
+        "bill": "HB 189",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": true,
+        "committee": "(H) Taxation",
         "recordings": []
     }
 ]

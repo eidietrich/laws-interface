@@ -493,5 +493,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0028APH230120.pdf",
+        "bill": "HB 28",
+        "session": "20231",
+        "action_id": "HB28-0026",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 12,
+            "N": 10
+        }
     }
 ]

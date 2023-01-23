@@ -162,7 +162,10 @@
         "date": "01/12/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47555?agendaId=247743",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46453?agendaId=245570"
+        ]
     },
     {
         "id": "HB102-0015",
@@ -205,7 +208,53 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46107?agendaId=247427"
+        ]
+    },
+    {
+        "id": "HB102-0019",
+        "bill": "HB 102",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB102-0020",
+        "bill": "HB 102",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB102-0021",
+        "bill": "HB 102",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB102-0022",
+        "bill": "HB 102",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     }
 ]

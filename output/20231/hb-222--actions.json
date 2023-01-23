@@ -250,7 +250,9 @@
         "date": "01/17/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45231?agendaId=246734"
+        ]
     },
     {
         "id": "HB222-0023",
@@ -294,6 +296,50 @@
         "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB222-0027",
+        "bill": "HB 222",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB222-0028",
+        "bill": "HB 222",
+        "session": "20231",
+        "action": "(H) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB222-0029",
+        "bill": "HB 222",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB222-0030",
+        "bill": "HB 222",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]

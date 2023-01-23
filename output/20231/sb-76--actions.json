@@ -141,6 +141,7 @@
         "hasVote": false,
         "committee": "(S) Fish and Game",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47492?agendaId=247594",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47133?agendaId=244768"
         ]
     },
@@ -218,8 +219,10 @@
         "actionUrl": null,
         "date": "01/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46193?agendaId=247146"
+        ]
     },
     {
         "id": "SB76-0020",
@@ -228,6 +231,28 @@
         "action": "(S) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB76-0021",
+        "bill": "SB 76",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB76-0022",
+        "bill": "SB 76",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "01/20/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

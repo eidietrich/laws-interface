@@ -481,5 +481,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0015APH230120.pdf",
+        "bill": "HB 15",
+        "session": "20231",
+        "action_id": "HB15-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing PDF",
+        "totals": {
+            "Y": 19,
+            "N": 3
+        }
     }
 ]

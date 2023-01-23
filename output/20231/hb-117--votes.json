@@ -507,13 +507,13 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0117APH230119.pdf",
         "bill": "HB 117",
         "session": "20231",
         "action_id": "HB117-0025",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 21,
             "N": 1
