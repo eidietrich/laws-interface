@@ -65,6 +65,10 @@ class Vote:
             self.data['totals'] = self.inputs['bill_page_vote_count']
             self.data['error'] = 'Skipped previously missing vote page'
             return None
+        elif not url:
+            self.data['totals'] = self.inputs['bill_page_vote_count']
+            self.data['error'] = 'Missing vote page'
+            return None
         else:
             if self.use_verbose_logging:
                 print(f'+++ Fetching floor vote data for {self.id} from', url)
