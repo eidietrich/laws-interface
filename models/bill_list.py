@@ -107,6 +107,10 @@ class BillList:
             raw[key] = cells[i]
         sponsor_raw = raw['Primary Sponsor'].replace('|', '')
 
+        # Log consistent bug popping up on LAWS list
+        if ("Party/District Not Assigned" in sponsor_raw):
+            print(f'Bill list bug; "{sponsor_raw}"')
+
         # Temporary hack for LAWS-side bug
         print(sponsor_raw)
         if sponsor_raw == "Sara  Hess Party/District Not Assigned":
