@@ -292,10 +292,10 @@
         "id": "HB209-0026",
         "bill": "HB 209",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) 2nd Reading Not Passed",
         "actionUrl": null,
         "date": "01/20/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -303,10 +303,32 @@
         "id": "HB209-0027",
         "bill": "HB 209",
         "session": "20231",
-        "action": "(H) 2nd Reading Not Passed",
+        "action": "(H) Reconsidered Previous Action; Placed on 2nd Reading",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/23/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB209-0028",
+        "bill": "HB 209",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB209-0029",
+        "bill": "HB 209",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
