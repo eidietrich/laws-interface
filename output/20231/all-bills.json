@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
+            "Simple",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -12948,8 +12948,8 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "01/17/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "01/26/2023; 08:00 AM, Rm 137",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0007",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0007",
@@ -16250,8 +16250,8 @@
         "sponsor": "Daniel Emrich",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 11",
-        "statusDate": "01/16/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "01/26/2023; 08:00 AM, Rm 137",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0091",
         "amendmentListUrl": null,
@@ -20952,6 +20952,82 @@
             },
             {
                 "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 204",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=204&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1968.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1968.pdf",
+        "lc": "LC1968",
+        "title": "Generally revise DUI laws",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "01/20/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 205",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=205&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1967.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1967.pdf",
+        "lc": "LC1967",
+        "title": "Generally revise Montana Indoor Clean Air Act",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "01/20/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Cigarettes and Tobacco",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
