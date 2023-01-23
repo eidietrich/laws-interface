@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -12366,6 +12366,140 @@
         "amendedReturnDeadline": "04/14/2023"
     },
     {
+        "key": "HB 310",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=310&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1126.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1126.pdf",
+        "lc": "LC1126",
+        "title": "Require report on the use of HEART funds",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 311",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=311&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1369.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1369.pdf",
+        "lc": "LC1369",
+        "title": "Establish a chemical dependency treatment voucher program",
+        "sponsor": "Michael Yakawich",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 51",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Michael Yakawich",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/05/2023",
+        "amendedReturnDeadline": "04/25/2023"
+    },
+    {
+        "key": "HB 312",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=312&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1666.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1666.pdf",
+        "lc": "LC1666",
+        "title": "Provide for rural emergency hospital designation",
+        "sponsor": "Jodee Etchart",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 48",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jodee Etchart",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -14614,8 +14748,8 @@
         "sponsor": "Mike Lang",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 17",
-        "statusDate": "01/05/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0053",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0053",
@@ -17034,8 +17168,8 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "01/13/2023; 02:30 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -17115,8 +17249,8 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "01/13/2023; 02:30 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0115",
@@ -19056,8 +19190,8 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "01/20/2023; 02:30 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0162",
         "amendmentListUrl": null,
@@ -19208,8 +19342,8 @@
         "sponsor": "Ryan Lynch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 37",
-        "statusDate": "01/19/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -22843,6 +22977,92 @@
         "subjects": [
             {
                 "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 44",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=44&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4458.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4458.pdf",
+        "lc": "LC4458",
+        "title": "Confirm governor's appointees for the board of water well contractors",
+        "sponsor": "Jeffrey W Welborn",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 36",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeffrey Welborn",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Water",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 45",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=45&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4472.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4472.pdf",
+        "lc": "LC4472",
+        "title": "Confirm governor's appointee for the board of environmental review",
+        "sponsor": "Jeffrey W Welborn",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 36",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeffrey Welborn",
+        "subjects": [
+            {
+                "subject": "Environmental Protection",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             },
