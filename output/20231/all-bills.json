@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -18815,8 +18815,8 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "01/18/2023; 02:30 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0151",
         "amendmentListUrl": null,
@@ -20921,9 +20921,9 @@
         "sponsor": "Kenneth Bogner",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 19",
-        "statusDate": "01/20/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Agriculture, Livestock and Irrigation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -21250,8 +21250,8 @@
         "sponsor": "Jason W Ellsworth",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 43",
-        "statusDate": "01/23/2023; 08:00 AM, Rm 405",
-        "lastAction": "(S) Hearing -- (S) State Administration",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SJ0008",
@@ -22440,8 +22440,8 @@
         "key": "SR 29",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=29&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4502.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4502.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SR0029.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SR0029.pdf",
         "lc": "LC4502",
         "title": "Confirm governor's appointees for the board of realty regulation",
         "sponsor": "Jason D Small",
@@ -23048,8 +23048,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 36",
         "statusDate": "01/23/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(S) Referred to Committee -- (S) Natural Resources",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -23091,8 +23091,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 36",
         "statusDate": "01/23/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(S) Referred to Committee -- (S) Natural Resources",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -23106,6 +23106,49 @@
             },
             {
                 "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SR 46",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=46&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4479.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4479.pdf",
+        "lc": "LC4479",
+        "title": "Confirm governor's appointees for the board of sanitarians",
+        "sponsor": "Tom McGillvray",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 23",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom McGillvray",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             },
