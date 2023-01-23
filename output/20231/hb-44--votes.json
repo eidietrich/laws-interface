@@ -6,7 +6,7 @@
         "action_id": "HB44-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 17,
             "N": 0
@@ -849,13 +849,13 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0044AGS230120.pdf",
         "bill": "HB 44",
         "session": "20231",
         "action_id": "HB44-0027",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 11,
             "N": 0
