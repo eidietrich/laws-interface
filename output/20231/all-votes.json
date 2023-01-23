@@ -54933,7 +54933,7 @@
         "action_id": "HB102-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 21,
             "N": 0
@@ -87079,7 +87079,7 @@
         "action_id": "HB175-0022",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 20,
             "N": 0
@@ -100254,20 +100254,7 @@
         "action_id": "SB32-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
-        "totals": {
-            "Y": 11,
-            "N": 0
-        }
-    },
-    {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0032NAS230117.pdf",
-        "bill": "SB 32",
-        "session": "20231",
-        "action_id": "SB32-0021",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 11,
             "N": 0
