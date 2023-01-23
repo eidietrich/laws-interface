@@ -10,8 +10,8 @@
         "sponsor": "Llew Jones",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 18",
-        "statusDate": "01/20/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "01/23/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0001",
@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -6255,8 +6255,8 @@
         "sponsor": "Joshua Kassmier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 27",
-        "statusDate": "01/24/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Agriculture",
+        "statusDate": "12/21/2022",
+        "lastAction": "(H) Referred to Committee -- (H) Agriculture",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -6288,8 +6288,8 @@
         "sponsor": "Joshua Kassmier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 27",
-        "statusDate": "01/24/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Agriculture",
+        "statusDate": "12/21/2022",
+        "lastAction": "(H) Referred to Committee -- (H) Agriculture",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0159",
         "amendmentListUrl": null,
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -10461,8 +10461,8 @@
         "sponsor": "Jerry Schillinger",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 37",
-        "statusDate": "01/18/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "01/31/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/01/2023",
@@ -12488,6 +12488,44 @@
         "subjects": [
             {
                 "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "HB 313",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=313&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1345.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1345.pdf",
+        "lc": "LC1345",
+        "title": "Provide for independent practice of physician assistants",
+        "sponsor": "Jodee Etchart",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 48",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jodee Etchart",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations O-Z",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
