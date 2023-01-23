@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/05/2023",
@@ -1626,8 +1626,8 @@
         "sponsor": "Amy Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 6",
-        "statusDate": "01/10/2023; 03:00 PM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Human Services",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Human Services",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0040",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0040",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/05/2023",
@@ -21028,6 +21028,44 @@
         "subjects": [
             {
                 "subject": "Cigarettes and Tobacco",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/01/2023",
+        "amendedReturnDeadline": "04/14/2023"
+    },
+    {
+        "key": "SB 206",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=206&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4190.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4190.pdf",
+        "lc": "LC4190",
+        "title": "Exempt certain cell phone use from local ordinances",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "01/20/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Traffic Regulations  (see also: Motor Vehicles)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
