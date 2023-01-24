@@ -1,15 +1,75 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0096JUS230116.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0096JUS230112.pdf",
         "bill": "SB 96",
         "session": "20231",
         "action_id": "SB96-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 12, 2023",
+        "description": "Sen. Usher made a Motion that SB 96 Do Pass",
         "totals": {
             "Y": 9,
             "N": 2
-        }
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": null,
+        "bill": "SB 96",
+        "session": "20231",
+        "action_id": "SB96-0023",
+        "type": "floor",
+        "totals": {
+            "Y": 32,
+            "N": 17
+        },
+        "error": "Missing vote page"
     }
 ]
