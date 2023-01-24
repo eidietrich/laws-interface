@@ -332,8 +332,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
+            "Simple",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -2441,8 +2441,8 @@
         "sponsor": "Denley M Loge",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 14",
-        "statusDate": "01/23/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0060",
         "amendmentListUrl": null,
@@ -3421,8 +3421,8 @@
         "sponsor": "Marty Malone",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 59",
-        "statusDate": "01/18/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "01/26/2023; 03:00 PM",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0085",
@@ -5624,8 +5624,8 @@
         "sponsor": "Llew Jones",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 18",
-        "statusDate": "01/23/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0141",
         "amendmentListUrl": null,
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -9667,8 +9667,8 @@
         "sponsor": "Dave Fern",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 5",
-        "statusDate": "01/23/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/23/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0244",
         "amendmentListUrl": null,
@@ -17044,8 +17044,8 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/04/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Energy and Telecommunications",
+        "statusDate": "01/24/2023; 03:00 PM, Rm 317",
+        "lastAction": "(S) Hearing -- (S) Energy and Telecommunications",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -20921,8 +20921,8 @@
         "sponsor": "Kenneth Bogner",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 19",
-        "statusDate": "01/23/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Agriculture, Livestock and Irrigation",
+        "statusDate": "01/26/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) Agriculture, Livestock and Irrigation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -22642,8 +22642,8 @@
         "sponsor": "Mike Lang",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 17",
-        "statusDate": "01/20/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Agriculture, Livestock and Irrigation",
+        "statusDate": "01/26/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) Agriculture, Livestock and Irrigation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -23387,6 +23387,44 @@
             },
             {
                 "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SR 47",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=47&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4499.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4499.pdf",
+        "lc": "LC4499",
+        "title": "Confirm governor's appointees for the Montana arts council",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "01/24/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Arts and Antiquities",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             },
