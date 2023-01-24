@@ -1177,7 +1177,7 @@
         "actionUrl": null,
         "date": "01/23/2023",
         "hasVote": false,
-        "committee": "(H) Joint Appropriations Subcommittee on Education",
+        "committee": "(H) Joint Approps Subcom on Judicial Branch, Law Enforcement, and Justice",
         "recordings": []
     },
     {
@@ -1188,7 +1188,7 @@
         "actionUrl": null,
         "date": "01/23/2023",
         "hasVote": false,
-        "committee": "(H) Joint Approps Subcom on Judicial Branch, Law Enforcement, and Justice",
+        "committee": "(H) Joint Appropriations Subcommittee on Education",
         "recordings": []
     },
     {
@@ -4053,6 +4053,17 @@
         "id": "HB15-0026",
         "bill": "HB 15",
         "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB15-0027",
+        "bill": "HB 15",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/19/2023",
@@ -4061,17 +4072,6 @@
         "recordings": [
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46283?agendaId=247492"
         ]
-    },
-    {
-        "id": "HB15-0027",
-        "bill": "HB 15",
-        "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "01/20/2023",
-        "hasVote": true,
-        "committee": "(H) Appropriations",
-        "recordings": []
     },
     {
         "id": "HB15-0028",
@@ -4387,9 +4387,31 @@
         "id": "HB16-0026",
         "bill": "HB 16",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) 2nd Reading Pass Consideration",
         "actionUrl": null,
         "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB16-0027",
+        "bill": "HB 16",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB16-0028",
+        "bill": "HB 16",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -5361,7 +5383,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Local Government",
         "recordings": []
@@ -5375,6 +5397,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "HB20-0016",
+        "bill": "HB 20",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -7771,6 +7804,17 @@
         "recordings": []
     },
     {
+        "id": "HB28-0028",
+        "bill": "HB 28",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB29-0000",
         "bill": "HB 29",
         "session": "20231",
@@ -8536,6 +8580,17 @@
         "date": "01/23/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "HB30-0039",
+        "bill": "HB 30",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -10562,15 +10617,48 @@
         "id": "HB37-0022",
         "bill": "HB 37",
         "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB37-0023",
+        "bill": "HB 37",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB37-0024",
+        "bill": "HB 37",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB37-0025",
+        "bill": "HB 37",
+        "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
     },
     {
-        "id": "HB37-0023",
+        "id": "HB37-0026",
         "bill": "HB 37",
         "session": "20231",
         "action": "(H) Committee Report--Bill Passed as Amended",
@@ -10581,12 +10669,23 @@
         "recordings": []
     },
     {
-        "id": "HB37-0024",
+        "id": "HB37-0027",
         "bill": "HB 37",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB37-0028",
+        "bill": "HB 37",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -11492,7 +11591,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
-        "date": "01/23/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Human Services",
         "recordings": []
@@ -13443,6 +13542,28 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB47-0023",
+        "bill": "HB 47",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB47-0024",
+        "bill": "HB 47",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -27852,6 +27973,17 @@
         "recordings": []
     },
     {
+        "id": "HB96-0024",
+        "bill": "HB 96",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB97-0000",
         "bill": "HB 97",
         "session": "20231",
@@ -28819,7 +28951,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Agriculture",
         "recordings": []
@@ -28842,6 +28974,17 @@
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB100-0019",
+        "bill": "HB 100",
+        "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -29819,7 +29962,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Agriculture",
         "recordings": []
@@ -30720,6 +30863,17 @@
         "id": "HB107-0021",
         "bill": "HB 107",
         "session": "20231",
+        "action": "(H) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB107-0022",
+        "bill": "HB 107",
+        "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
         "date": "01/19/2023",
@@ -30728,7 +30882,7 @@
         "recordings": []
     },
     {
-        "id": "HB107-0022",
+        "id": "HB107-0023",
         "bill": "HB 107",
         "session": "20231",
         "action": "(H) Committee Report--Bill Passed as Amended",
@@ -30736,6 +30890,17 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB107-0024",
+        "bill": "HB 107",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -32229,7 +32394,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
@@ -32243,6 +32408,28 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB112-0021",
+        "bill": "HB 112",
+        "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB112-0022",
+        "bill": "HB 112",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -33545,17 +33732,6 @@
         "id": "HB117-0021",
         "bill": "HB 117",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "01/13/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB117-0022",
-        "bill": "HB 117",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "01/13/2023",
@@ -33566,10 +33742,10 @@
         ]
     },
     {
-        "id": "HB117-0023",
+        "id": "HB117-0022",
         "bill": "HB 117",
         "session": "20231",
-        "action": "(H) Rereferred to Committee",
+        "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "01/13/2023",
         "hasVote": false,
@@ -33577,7 +33753,7 @@
         "recordings": []
     },
     {
-        "id": "HB117-0024",
+        "id": "HB117-0023",
         "bill": "HB 117",
         "session": "20231",
         "action": "(H) Hearing",
@@ -33590,7 +33766,7 @@
         ]
     },
     {
-        "id": "HB117-0025",
+        "id": "HB117-0024",
         "bill": "HB 117",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
@@ -33598,6 +33774,17 @@
         "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB117-0025",
+        "bill": "HB 117",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -33615,9 +33802,9 @@
         "id": "HB117-0027",
         "bill": "HB 117",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(H) Scheduled for 2nd Reading",
         "actionUrl": null,
-        "date": "01/19/2023",
+        "date": "01/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -35850,6 +36037,28 @@
         "recordings": []
     },
     {
+        "id": "HB125-0018",
+        "bill": "HB 125",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB125-0019",
+        "bill": "HB 125",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB126-0000",
         "bill": "HB 126",
         "session": "20231",
@@ -37263,6 +37472,17 @@
         "date": "01/18/2023",
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
+        "recordings": []
+    },
+    {
+        "id": "HB131-0016",
+        "bill": "HB 131",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -39724,6 +39944,17 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB140-0021",
+        "bill": "HB 140",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -42488,6 +42719,17 @@
         "recordings": []
     },
     {
+        "id": "HB150-0017",
+        "bill": "HB 150",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB151-0000",
         "bill": "HB 151",
         "session": "20231",
@@ -45130,7 +45372,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
@@ -45737,6 +45979,17 @@
         "recordings": []
     },
     {
+        "id": "HB163-0026",
+        "bill": "HB 163",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB164-0000",
         "bill": "HB 164",
         "session": "20231",
@@ -46210,6 +46463,17 @@
         "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB165-0021",
+        "bill": "HB 165",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -47939,6 +48203,28 @@
         "recordings": []
     },
     {
+        "id": "HB172-0030",
+        "bill": "HB 172",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB172-0031",
+        "bill": "HB 172",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB173-0000",
         "bill": "HB 173",
         "session": "20231",
@@ -49023,7 +49309,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Local Government",
         "recordings": []
@@ -49037,6 +49323,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "HB176-0022",
+        "bill": "HB 176",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -50050,6 +50347,17 @@
         "id": "HB180-0016",
         "bill": "HB 180",
         "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB180-0017",
+        "bill": "HB 180",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/12/2023",
@@ -50059,6 +50367,28 @@
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47545?agendaId=247672",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45927?agendaId=245500"
         ]
+    },
+    {
+        "id": "HB180-0018",
+        "bill": "HB 180",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB180-0019",
+        "bill": "HB 180",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     },
     {
         "id": "HB181-0000",
@@ -54940,7 +55270,7 @@
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed",
         "actionUrl": null,
-        "date": "01/20/2023",
+        "date": "01/19/2023",
         "hasVote": true,
         "committee": "(H) Local Government",
         "recordings": []
@@ -58759,6 +59089,28 @@
         "id": "HB212-0034",
         "bill": "HB 212",
         "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB212-0035",
+        "bill": "HB 212",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB212-0036",
+        "bill": "HB 212",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/23/2023",
@@ -60623,6 +60975,17 @@
         "recordings": [
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45232?agendaId=247039"
         ]
+    },
+    {
+        "id": "HB219-0029",
+        "bill": "HB 219",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     },
     {
         "id": "HB220-0000",
@@ -62693,6 +63056,17 @@
         "id": "HB226-0023",
         "bill": "HB 226",
         "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB226-0024",
+        "bill": "HB 226",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/23/2023",
@@ -63719,6 +64093,61 @@
         "recordings": []
     },
     {
+        "id": "HB230-0022",
+        "bill": "HB 230",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB230-0023",
+        "bill": "HB 230",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB230-0024",
+        "bill": "HB 230",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB230-0025",
+        "bill": "HB 230",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB230-0026",
+        "bill": "HB 230",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB231-0000",
         "bill": "HB 231",
         "session": "20231",
@@ -64217,7 +64646,7 @@
         "id": "HB232-0022",
         "bill": "HB 232",
         "session": "20231",
-        "action": "(H) Fiscal Note Received",
+        "action": "(H) Fiscal Note Signed",
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
@@ -64226,6 +64655,28 @@
     },
     {
         "id": "HB232-0023",
+        "bill": "HB 232",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB232-0024",
+        "bill": "HB 232",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB232-0025",
         "bill": "HB 232",
         "session": "20231",
         "action": "(H) Hearing",
@@ -64900,6 +65351,17 @@
         "recordings": []
     },
     {
+        "id": "HB235-0019",
+        "bill": "HB 235",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB236-0000",
         "bill": "HB 236",
         "session": "20231",
@@ -65370,6 +65832,28 @@
         "action": "(H) Fiscal Note Received",
         "actionUrl": null,
         "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB236-0043",
+        "bill": "HB 236",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB236-0044",
+        "bill": "HB 236",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -68570,6 +69054,28 @@
         ]
     },
     {
+        "id": "HB249-0028",
+        "bill": "HB 249",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB249-0029",
+        "bill": "HB 249",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB250-0000",
         "bill": "HB 250",
         "session": "20231",
@@ -69334,6 +69840,17 @@
         "id": "HB252-0022",
         "bill": "HB 252",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB252-0023",
+        "bill": "HB 252",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/25/2023",
@@ -69606,6 +70123,17 @@
         "recordings": [
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45234?agendaId=247810"
         ]
+    },
+    {
+        "id": "HB253-0024",
+        "bill": "HB 253",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     },
     {
         "id": "HB254-0000",
@@ -70051,11 +70579,44 @@
         "id": "HB255-0021",
         "bill": "HB 255",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB255-0022",
+        "bill": "HB 255",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/23/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB255-0023",
+        "bill": "HB 255",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB255-0024",
+        "bill": "HB 255",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -71648,6 +72209,17 @@
     },
     {
         "id": "HB261-0032",
+        "bill": "HB 261",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB261-0033",
         "bill": "HB 261",
         "session": "20231",
         "action": "(H) Hearing",
@@ -73366,6 +73938,17 @@
         "id": "HB267-0024",
         "bill": "HB 267",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB267-0025",
+        "bill": "HB 267",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/24/2023",
@@ -74057,6 +74640,28 @@
     },
     {
         "id": "HB270-0023",
+        "bill": "HB 270",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB270-0024",
+        "bill": "HB 270",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB270-0025",
         "bill": "HB 270",
         "session": "20231",
         "action": "(H) Hearing",
@@ -79578,6 +80183,17 @@
         "recordings": []
     },
     {
+        "id": "HB295-0017",
+        "bill": "HB 295",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB296-0000",
         "bill": "HB 296",
         "session": "20231",
@@ -79765,6 +80381,17 @@
         "recordings": []
     },
     {
+        "id": "HB296-0017",
+        "bill": "HB 296",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB297-0000",
         "bill": "HB 297",
         "session": "20231",
@@ -79936,6 +80563,17 @@
         "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB297-0016",
+        "bill": "HB 297",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -80123,6 +80761,17 @@
         "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB298-0017",
+        "bill": "HB 298",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -80392,6 +81041,17 @@
         "recordings": []
     },
     {
+        "id": "HB299-0024",
+        "bill": "HB 299",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB300-0000",
         "bill": "HB 300",
         "session": "20231",
@@ -80574,6 +81234,17 @@
         "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB300-0017",
+        "bill": "HB 300",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -80777,6 +81448,17 @@
         "recordings": []
     },
     {
+        "id": "HB301-0018",
+        "bill": "HB 301",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB302-0000",
         "bill": "HB 302",
         "session": "20231",
@@ -80959,6 +81641,17 @@
         "action": "(H) Introduced",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB302-0017",
+        "bill": "HB 302",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -81184,6 +81877,17 @@
         "recordings": []
     },
     {
+        "id": "HB303-0020",
+        "bill": "HB 303",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB304-0000",
         "bill": "HB 304",
         "session": "20231",
@@ -81371,6 +82075,17 @@
         "recordings": []
     },
     {
+        "id": "HB304-0017",
+        "bill": "HB 304",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "HB305-0000",
         "bill": "HB 305",
         "session": "20231",
@@ -81531,6 +82246,17 @@
         "action": "(H) Introduced",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB305-0015",
+        "bill": "HB 305",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -81729,6 +82455,28 @@
         "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB306-0018",
+        "bill": "HB 306",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB306-0019",
+        "bill": "HB 306",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -81938,6 +82686,17 @@
         "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB307-0019",
+        "bill": "HB 307",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -85852,6 +86611,17 @@
         "id": "SB6-0030",
         "bill": "SB 6",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB6-0031",
+        "bill": "SB 6",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "01/24/2023",
@@ -88457,6 +89227,17 @@
         "recordings": []
     },
     {
+        "id": "SB16-0022",
+        "bill": "SB 16",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB17-0000",
         "bill": "SB 17",
         "session": "20231",
@@ -90790,6 +91571,17 @@
         "id": "SB24-0028",
         "bill": "SB 24",
         "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB24-0029",
+        "bill": "SB 24",
+        "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
         "date": "01/18/2023",
@@ -90798,7 +91590,7 @@
         "recordings": []
     },
     {
-        "id": "SB24-0029",
+        "id": "SB24-0030",
         "bill": "SB 24",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed as Amended",
@@ -90809,12 +91601,12 @@
         "recordings": []
     },
     {
-        "id": "SB24-0030",
+        "id": "SB24-0031",
         "bill": "SB 24",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(S) Scheduled for 2nd Reading",
         "actionUrl": null,
-        "date": "01/18/2023",
+        "date": "01/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -91989,6 +92781,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB29-0027",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -93853,6 +94656,17 @@
         "recordings": []
     },
     {
+        "id": "SB37-0017",
+        "bill": "SB 37",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB38-0000",
         "bill": "SB 38",
         "session": "20231",
@@ -94235,22 +95049,22 @@
         "id": "SB39-0017",
         "bill": "SB 39",
         "session": "20231",
-        "action": "(S) Committee Report--Bill Passed as Amended",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
-        "committee": "(S) Natural Resources",
+        "committee": null,
         "recordings": []
     },
     {
         "id": "SB39-0018",
         "bill": "SB 39",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(S) Committee Report--Bill Passed as Amended",
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "(S) Natural Resources",
         "recordings": []
     },
     {
@@ -108433,6 +109247,17 @@
         "recordings": []
     },
     {
+        "id": "SB96-0022",
+        "bill": "SB 96",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB97-0000",
         "bill": "SB 97",
         "session": "20231",
@@ -111249,6 +112074,17 @@
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45835?agendaId=244610",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47475?agendaId=245963"
         ]
+    },
+    {
+        "id": "SB105-0024",
+        "bill": "SB 105",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     },
     {
         "id": "SB106-0000",
@@ -117472,9 +118308,31 @@
         "id": "SB128-0021",
         "bill": "SB 128",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
+        "action": "(S) 2nd Reading Pass Consideration",
         "actionUrl": null,
         "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB128-0022",
+        "bill": "SB 128",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB128-0023",
+        "bill": "SB 128",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -120571,6 +121429,17 @@
         ]
     },
     {
+        "id": "SB140-0018",
+        "bill": "SB 140",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB141-0000",
         "bill": "SB 141",
         "session": "20231",
@@ -121323,6 +122192,17 @@
         "recordings": []
     },
     {
+        "id": "SB143-0027",
+        "bill": "SB 143",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB144-0000",
         "bill": "SB 144",
         "session": "20231",
@@ -122033,6 +122913,17 @@
         ]
     },
     {
+        "id": "SB146-0017",
+        "bill": "SB 146",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB147-0000",
         "bill": "SB 147",
         "session": "20231",
@@ -122491,9 +123382,42 @@
         "id": "SB148-0019",
         "bill": "SB 148",
         "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB148-0020",
+        "bill": "SB 148",
+        "session": "20231",
         "action": "(C) Amendments Available",
         "actionUrl": null,
         "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB148-0021",
+        "bill": "SB 148",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB148-0022",
+        "bill": "SB 148",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -124353,17 +125277,6 @@
         "id": "SB155-0026",
         "bill": "SB 155",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "01/20/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB155-0027",
-        "bill": "SB 155",
-        "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Carried",
         "actionUrl": null,
         "date": "01/20/2023",
@@ -124372,7 +125285,7 @@
         "recordings": []
     },
     {
-        "id": "SB155-0028",
+        "id": "SB155-0027",
         "bill": "SB 155",
         "session": "20231",
         "action": "(S) 2nd Reading Passed as Amended",
@@ -124383,7 +125296,7 @@
         "recordings": []
     },
     {
-        "id": "SB155-0029",
+        "id": "SB155-0028",
         "bill": "SB 155",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -124801,6 +125714,28 @@
         "recordings": []
     },
     {
+        "id": "SB157-0019",
+        "bill": "SB 157",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB157-0020",
+        "bill": "SB 157",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB158-0000",
         "bill": "SB 158",
         "session": "20231",
@@ -125067,6 +126002,17 @@
         "recordings": []
     },
     {
+        "id": "SB158-0024",
+        "bill": "SB 158",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB159-0000",
         "bill": "SB 159",
         "session": "20231",
@@ -125297,6 +126243,17 @@
         "date": "01/19/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB159-0021",
+        "bill": "SB 159",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -126361,6 +127318,39 @@
         "id": "SB163-0023",
         "bill": "SB 163",
         "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB163-0024",
+        "bill": "SB 163",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB163-0025",
+        "bill": "SB 163",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB163-0026",
+        "bill": "SB 163",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/23/2023",
@@ -126584,6 +127574,28 @@
         "action": "(S) Fiscal Note Received",
         "actionUrl": null,
         "date": "01/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB164-0020",
+        "bill": "SB 164",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB164-0021",
+        "bill": "SB 164",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -128948,6 +129960,17 @@
         "recordings": []
     },
     {
+        "id": "SB173-0023",
+        "bill": "SB 173",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SB174-0000",
         "bill": "SB 174",
         "session": "20231",
@@ -129671,6 +130694,39 @@
         "action": "(S) First Reading",
         "actionUrl": null,
         "date": "01/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB176-0023",
+        "bill": "SB 176",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB176-0024",
+        "bill": "SB 176",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB176-0025",
+        "bill": "SB 176",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -134156,6 +135212,17 @@
         "id": "SB195-0018",
         "bill": "SB 195",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB195-0019",
+        "bill": "SB 195",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/23/2023",
@@ -135712,6 +136779,17 @@
         "date": "01/23/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB202-0016",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     },
     {
@@ -141627,6 +142705,17 @@
         "recordings": []
     },
     {
+        "id": "SR12-0016",
+        "bill": "SR 12",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
         "id": "SR13-0000",
         "bill": "SR 13",
         "session": "20231",
@@ -141800,6 +142889,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR13-0016",
+        "bill": "SR 13",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     },
     {
@@ -141979,6 +143079,17 @@
         "recordings": []
     },
     {
+        "id": "SR14-0016",
+        "bill": "SR 14",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
         "id": "SR15-0000",
         "bill": "SR 15",
         "session": "20231",
@@ -142155,6 +143266,17 @@
         "recordings": []
     },
     {
+        "id": "SR15-0016",
+        "bill": "SR 15",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
         "id": "SR16-0000",
         "bill": "SR 16",
         "session": "20231",
@@ -142328,6 +143450,17 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR16-0016",
+        "bill": "SR 16",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
     },
     {
@@ -144960,6 +146093,28 @@
         "recordings": []
     },
     {
+        "id": "SR31-0014",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR31-0015",
+        "bill": "SR 31",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SR32-0000",
         "bill": "SR 32",
         "session": "20231",
@@ -145114,6 +146269,28 @@
         "recordings": []
     },
     {
+        "id": "SR32-0014",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR32-0015",
+        "bill": "SR 32",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
         "id": "SR33-0000",
         "bill": "SR 33",
         "session": "20231",
@@ -145265,6 +146442,28 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SR33-0014",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR33-0015",
+        "bill": "SR 33",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -145434,6 +146633,17 @@
     },
     {
         "id": "SR34-0015",
+        "bill": "SR 34",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR34-0016",
         "bill": "SR 34",
         "session": "20231",
         "action": "(S) Hearing",
@@ -145612,6 +146822,17 @@
         "id": "SR35-0015",
         "bill": "SR 35",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR35-0016",
+        "bill": "SR 35",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/26/2023",
@@ -145786,6 +147007,17 @@
     },
     {
         "id": "SR36-0015",
+        "bill": "SR 36",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR36-0016",
         "bill": "SR 36",
         "session": "20231",
         "action": "(S) Hearing",
@@ -145964,6 +147196,17 @@
         "id": "SR37-0015",
         "bill": "SR 37",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR37-0016",
+        "bill": "SR 37",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/26/2023",
@@ -146138,6 +147381,17 @@
     },
     {
         "id": "SR38-0015",
+        "bill": "SR 38",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR38-0016",
         "bill": "SR 38",
         "session": "20231",
         "action": "(S) Hearing",
@@ -146316,6 +147570,17 @@
         "id": "SR39-0015",
         "bill": "SR 39",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR39-0016",
+        "bill": "SR 39",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/26/2023",
@@ -146490,6 +147755,17 @@
     },
     {
         "id": "SR40-0015",
+        "bill": "SR 40",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR40-0016",
         "bill": "SR 40",
         "session": "20231",
         "action": "(S) Hearing",
@@ -146668,6 +147944,17 @@
         "id": "SR41-0015",
         "bill": "SR 41",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR41-0016",
+        "bill": "SR 41",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "01/26/2023",
@@ -146842,6 +148129,17 @@
     },
     {
         "id": "SR42-0015",
+        "bill": "SR 42",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR42-0016",
         "bill": "SR 42",
         "session": "20231",
         "action": "(S) Hearing",
@@ -147040,6 +148338,17 @@
     },
     {
         "id": "SR43-0017",
+        "bill": "SR 43",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR43-0018",
         "bill": "SR 43",
         "session": "20231",
         "action": "(S) Hearing",
