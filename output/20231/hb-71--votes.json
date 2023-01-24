@@ -1,16 +1,19 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0071BUH230105.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0071BUH230104.pdf",
         "bill": "HB 71",
         "session": "20231",
         "action_id": "HB71-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 04, 2023",
+        "description": "Rep. Anderson made a Motion that HB 71 Do Pass",
         "totals": {
-            "Y": 18,
+            "Y": 0,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H49&P_SESS=20231",
@@ -847,5 +850,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 71",
+        "session": "20231",
+        "action_id": "HB71-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     }
 ]

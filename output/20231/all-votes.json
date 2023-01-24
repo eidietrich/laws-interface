@@ -12945,6 +12945,19 @@
         ]
     },
     {
+        "url": null,
+        "bill": "HB 30",
+        "session": "20231",
+        "action_id": "HB30-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0031BUH230112.pdf",
         "bill": "HB 31",
         "session": "20231",
@@ -21044,17 +21057,20 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0043BUH230105.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0043BUH230104.pdf",
         "bill": "HB 43",
         "session": "20231",
         "action_id": "HB43-0017",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 04, 2023",
+        "description": "Rep. Anderson made a Motion that HB 43 Do Pass",
         "totals": {
-            "Y": 18,
+            "Y": 0,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H28&P_SESS=20231",
@@ -21891,6 +21907,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 43",
+        "session": "20231",
+        "action_id": "HB43-0029",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0044AGH230105.pdf",
@@ -40038,17 +40067,33 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0071BUH230105.pdf",
+        "url": null,
+        "bill": "HB 70",
+        "session": "20231",
+        "action_id": "HB70-0026",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0071BUH230104.pdf",
         "bill": "HB 71",
         "session": "20231",
         "action_id": "HB71-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 04, 2023",
+        "description": "Rep. Anderson made a Motion that HB 71 Do Pass",
         "totals": {
-            "Y": 18,
+            "Y": 0,
             "N": 0
-        }
+        },
+        "votes": []
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H49&P_SESS=20231",
@@ -40885,6 +40930,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 71",
+        "session": "20231",
+        "action_id": "HB71-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0072BUH230117.pdf",
@@ -60500,17 +60558,93 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0098BUH230105.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0098BUH230104.pdf",
         "bill": "HB 98",
         "session": "20231",
         "action_id": "HB98-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 04, 2023",
+        "description": "Rep. Seekins-Crowe made a Motion that HB 98 Do Pass",
         "totals": {
             "Y": 18,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H19&P_SESS=20231",
@@ -61347,6 +61481,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 98",
+        "session": "20231",
+        "action_id": "HB98-0025",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0099FIH230110.pdf",
@@ -75070,6 +75217,19 @@
         ]
     },
     {
+        "url": null,
+        "bill": "HB 120",
+        "session": "20231",
+        "action_id": "HB120-0033",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 9,
+            "N": 1
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0121TAH230105.pdf",
         "bill": "HB 121",
         "session": "20231",
@@ -77819,6 +77979,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 123",
+        "session": "20231",
+        "action_id": "HB123-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0124TAH230106.pdf",
@@ -84312,17 +84485,110 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0139BUH230109.pdf",
+        "url": null,
+        "bill": "HB 138",
+        "session": "20231",
+        "action_id": "HB138-0037",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0139BUH230106.pdf",
         "bill": "HB 139",
         "session": "20231",
         "action_id": "HB139-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 06, 2023",
+        "description": "Rep. Seekins-Crowe made a Motion that HB 139 Do Pass as Amended",
         "totals": {
             "Y": 19,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H71&P_SESS=20231",
@@ -85159,6 +85425,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 139",
+        "session": "20231",
+        "action_id": "HB139-0028",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0140LEH230119.pdf",
@@ -89098,6 +89377,19 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 145",
+        "session": "20231",
+        "action_id": "HB145-0025",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0146FIH230118.pdf",
@@ -142134,6 +142426,19 @@
         ]
     },
     {
+        "url": null,
+        "bill": "SB 105",
+        "session": "20231",
+        "action_id": "SB105-0025",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
+    },
+    {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0106JUS230111.pdf",
         "bill": "SB 106",
         "session": "20231",
@@ -150134,7 +150439,7 @@
         "action_id": "SB166-0023",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 10,
             "N": 0
