@@ -927,5 +927,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 24",
+        "session": "20231",
+        "action_id": "HB24-0024",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 0
+        }
     }
 ]
