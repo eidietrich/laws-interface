@@ -1,16 +1,96 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0077JUH230106.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0077JUH230105.pdf",
         "bill": "HB 77",
         "session": "20231",
         "action_id": "HB77-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 05, 2023",
+        "description": "Rep. Sheldon-Galloway made a Motion that HB0077.001.001 Be Amended",
         "totals": {
             "Y": 19,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "Y"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H50&P_SESS=20231",
@@ -908,18 +988,5 @@
                 "vote": "Y"
             }
         ]
-    },
-    {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0077JUS230119.pdf",
-        "bill": "HB 77",
-        "session": "20231",
-        "action_id": "HB77-0027",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Skipped previously missing vote page",
-        "totals": {
-            "Y": 11,
-            "N": 0
-        }
     }
 ]
