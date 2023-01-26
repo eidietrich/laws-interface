@@ -273,8 +273,10 @@
         "actionUrl": null,
         "date": "01/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46197?agendaId=248538"
+        ]
     },
     {
         "id": "SB128-0025",
@@ -295,6 +297,17 @@
         "actionUrl": null,
         "date": "01/25/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB128-0027",
+        "bill": "SB 128",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

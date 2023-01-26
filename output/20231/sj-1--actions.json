@@ -283,17 +283,6 @@
         "id": "SJ1-0025",
         "bill": "SJ 1",
         "session": "20231",
-        "action": "(S) Scheduled for 3rd Reading",
-        "actionUrl": null,
-        "date": "01/10/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SJ1-0026",
-        "bill": "SJ 1",
-        "session": "20231",
         "action": "(S) 3rd Reading Passed",
         "actionUrl": null,
         "date": "01/10/2023",
@@ -302,7 +291,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0027",
+        "id": "SJ1-0026",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -313,7 +302,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0028",
+        "id": "SJ1-0027",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Referred to Committee",
@@ -324,7 +313,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0029",
+        "id": "SJ1-0028",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) First Reading",
@@ -335,7 +324,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0030",
+        "id": "SJ1-0029",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Hearing",
@@ -348,7 +337,7 @@
         ]
     },
     {
-        "id": "SJ1-0031",
+        "id": "SJ1-0030",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred",
@@ -359,7 +348,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0032",
+        "id": "SJ1-0031",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred",
@@ -370,7 +359,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0033",
+        "id": "SJ1-0032",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -381,7 +370,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0034",
+        "id": "SJ1-0033",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) 2nd Reading Motion to Amend Carried",
@@ -392,7 +381,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0035",
+        "id": "SJ1-0034",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) 2nd Reading Concurred as Amended",
@@ -405,7 +394,7 @@
         ]
     },
     {
-        "id": "SJ1-0036",
+        "id": "SJ1-0035",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -416,7 +405,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0037",
+        "id": "SJ1-0036",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -427,7 +416,7 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0038",
+        "id": "SJ1-0037",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -438,12 +427,23 @@
         "recordings": []
     },
     {
-        "id": "SJ1-0039",
+        "id": "SJ1-0038",
         "bill": "SJ 1",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
         "actionUrl": null,
         "date": "01/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ1-0039",
+        "bill": "SJ 1",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "01/26/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -463,10 +463,10 @@
         "id": "SJ1-0041",
         "bill": "SJ 1",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
+        "action": "(S) 2nd Reading House Amendments Concurred",
         "actionUrl": null,
         "date": "01/26/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -474,10 +474,21 @@
         "id": "SJ1-0042",
         "bill": "SJ 1",
         "session": "20231",
-        "action": "(S) 2nd Reading House Amendments Concurred",
+        "action": "(S) Scheduled for 3rd Reading",
         "actionUrl": null,
-        "date": "01/26/2023",
-        "hasVote": true,
+        "date": "01/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ1-0043",
+        "bill": "SJ 1",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/27/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
