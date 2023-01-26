@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7094,9 +7094,9 @@
         "sponsor": "Denley M Loge",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 14",
-        "statusDate": "01/23/2023",
-        "lastAction": "(H) Committee Report--Bill Passed as Amended",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) 2nd Reading Not Passed *",
+        "billStatus": "Probably Dead",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0182",
         "draftRequestor": null,
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -13337,9 +13337,9 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "01/25/2023",
-        "lastAction": "(C) Draft Delivered to Requester",
-        "billStatus": "In Drafting Process",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -13368,6 +13368,87 @@
             },
             {
                 "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 333",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=333&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1511.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1511.pdf",
+        "lc": "LC1511",
+        "title": "Generally revise motorized recreation laws",
+        "sponsor": "Greg Oblander",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 40",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Greg Oblander",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Recreation/Parks/Sports",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 334",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=334&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4127.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4127.pdf",
+        "lc": "LC4127",
+        "title": "Revise school attendance laws to address student mental health needs",
+        "sponsor": "Laurie Bishop",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 60",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Laurie Bishop",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
