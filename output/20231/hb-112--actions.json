@@ -274,8 +274,10 @@
         "actionUrl": null,
         "date": "01/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46111?agendaId=248735"
+        ]
     },
     {
         "id": "HB112-0025",
@@ -285,6 +287,17 @@
         "actionUrl": null,
         "date": "01/26/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB112-0026",
+        "bill": "HB 112",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
