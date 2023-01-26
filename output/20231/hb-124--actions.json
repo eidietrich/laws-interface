@@ -288,7 +288,9 @@
         "date": "01/24/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45756?agendaId=248435"
+        ]
     },
     {
         "id": "HB124-0026",
@@ -298,6 +300,17 @@
         "actionUrl": null,
         "date": "01/25/2023",
         "hasVote": true,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB124-0027",
+        "bill": "HB 124",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": []
     }
