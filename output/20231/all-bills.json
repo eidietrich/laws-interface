@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
+            "2/3 of Each House",
             "3/4 of Each House",
-            "2/3 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9994,7 +9994,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 18",
         "statusDate": "01/24/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
+        "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0251",
         "amendmentListUrl": null,
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -22424,6 +22424,49 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "SB 220",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=220&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3961.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3961.pdf",
+        "lc": "LC3961",
+        "title": "Include public infrastructure and county-owned parks in municipal annexation",
+        "sponsor": "Carl Glimm",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 2",
+        "statusDate": "01/26/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Carl Glimm",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -24652,6 +24695,49 @@
             },
             {
                 "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SR 48",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=48&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4485.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4485.pdf",
+        "lc": "LC4485",
+        "title": "Confirm governor's appointees for the board of nursing",
+        "sponsor": "Tom McGillvray",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 23",
+        "statusDate": "01/26/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom McGillvray",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
