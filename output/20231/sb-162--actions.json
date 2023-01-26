@@ -283,7 +283,9 @@
         "date": "01/20/2023",
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46683?agendaId=247954"
+        ]
     },
     {
         "id": "SB162-0026",
@@ -315,6 +317,17 @@
         "actionUrl": null,
         "date": "01/26/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB162-0029",
+        "bill": "SB 162",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
