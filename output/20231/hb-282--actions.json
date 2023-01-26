@@ -228,7 +228,9 @@
         "date": "01/24/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45149?agendaId=248328"
+        ]
     },
     {
         "id": "HB282-0021",
@@ -272,6 +274,17 @@
         "date": "01/25/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB282-0025",
+        "bill": "HB 282",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": true,
+        "committee": "(H) Judiciary",
         "recordings": []
     }
 ]
