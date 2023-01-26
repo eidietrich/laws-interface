@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "Simple",
             "3/4 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -738,8 +738,8 @@
         "sponsor": "Tyson T Running Wolf",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 16",
-        "statusDate": "01/24/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0019",
         "amendmentListUrl": null,
@@ -3178,8 +3178,8 @@
         "sponsor": "Amy Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 6",
-        "statusDate": "01/25/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0079",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0079",
@@ -7332,8 +7332,8 @@
         "sponsor": "Gary Parry",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 39",
-        "statusDate": "01/25/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0188",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0188",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9148,8 +9148,8 @@
         "sponsor": "Brandon Ler",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 35",
-        "statusDate": "01/20/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Education",
+        "statusDate": "01/26/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0231",
         "amendmentListUrl": null,
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -17330,9 +17330,9 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
-        "lastAction": "(S) Hearing -- (S) Taxation",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "01/26/2023",
+        "lastAction": "(S) Tabled in Committee * -- (S) Taxation",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0097",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0097",
         "draftRequestor": null,
@@ -22034,8 +22034,8 @@
         "sponsor": "Carl Glimm",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 2",
-        "statusDate": "01/25/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "02/01/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -22455,6 +22455,44 @@
             },
             {
                 "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 221",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=221&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1066.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1066.pdf",
+        "lc": "LC1066",
+        "title": "Allow USS Montana crew to apply for license plates",
+        "sponsor": "Barry Usher",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 20",
+        "statusDate": "01/26/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Barry Usher",
+        "subjects": [
+            {
+                "subject": "Military Affairs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }

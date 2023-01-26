@@ -6,7 +6,7 @@
         "action_id": "HB19-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 13,
             "N": 0
@@ -425,5 +425,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 19",
+        "session": "20231",
+        "action_id": "HB19-0026",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 23,
+            "N": 0
+        }
     }
 ]
