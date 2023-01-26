@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -13249,8 +13249,8 @@
         "key": "HB 330",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=330&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1406.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1406.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0330.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0330.pdf",
         "lc": "LC1406",
         "title": "Revise laws related to tribal DUI task forces",
         "sponsor": "Frank Smith",
@@ -13292,8 +13292,8 @@
         "key": "HB 331",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=331&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1512.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1512.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0331.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0331.pdf",
         "lc": "LC1512",
         "title": "Generally revise off-highway vehicle grant funding laws",
         "sponsor": "Greg Oblander",
@@ -22493,6 +22493,54 @@
             },
             {
                 "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 222",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=222&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0615.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0615.pdf",
+        "lc": "LC0615",
+        "title": "Establish the Montana Individual Freedom Act",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "01/26/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Discrimination and Human Rights",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Privacy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
