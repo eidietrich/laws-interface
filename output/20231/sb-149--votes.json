@@ -61,23 +61,10 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0149JUS230118.pdf",
-        "bill": "SB 149",
-        "session": "20231",
-        "action_id": "SB149-0018",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Skipped previously missing vote page",
-        "totals": {
-            "Y": 11,
-            "N": 0
-        }
-    },
-    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S140&P_SESS=20231",
         "bill": "SB 149",
         "session": "20231",
-        "action_id": "SB149-0021",
+        "action_id": "SB149-0020",
         "type": "floor",
         "seq_number": "S140",
         "date": "January 20, 2023",
@@ -295,7 +282,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S157&P_SESS=20231",
         "bill": "SB 149",
         "session": "20231",
-        "action_id": "SB149-0023",
+        "action_id": "SB149-0022",
         "type": "floor",
         "seq_number": "S157",
         "date": "January 23, 2023",
@@ -508,18 +495,5 @@
                 "vote": "Y"
             }
         ]
-    },
-    {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0149JUS230124.pdf",
-        "bill": "SB 149",
-        "session": "20231",
-        "action_id": "SB149-0025",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Skipped previously missing vote page",
-        "totals": {
-            "Y": 11,
-            "N": 0
-        }
     }
 ]
