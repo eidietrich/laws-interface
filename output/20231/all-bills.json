@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -599,8 +599,8 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "01/26/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "01/24/2023",
+        "lastAction": "(H) Rereferred to Committee -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0016",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0016",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9710,8 +9710,8 @@
         "sponsor": "Sue Vinton",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 56",
-        "statusDate": "01/23/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
+        "statusDate": "01/23/2023; 03:00 PM, Rm 152",
+        "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0245",
         "amendmentListUrl": null,
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -13854,8 +13854,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14184,6 +14184,39 @@
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
         "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 353",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=353&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1153.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1153.pdf",
+        "lc": "LC1153",
+        "title": "Revise barber and cosmetology occupational licensing laws",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "01/27/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Professions and Occupations  Generally",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
     },
     {
         "key": "HJ 1",
