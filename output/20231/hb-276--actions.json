@@ -239,7 +239,9 @@
         "date": "01/24/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46419?agendaId=248482"
+        ]
     },
     {
         "id": "HB276-0022",
@@ -259,6 +261,28 @@
         "action": "(H) Revised Fiscal Note Received",
         "actionUrl": null,
         "date": "01/25/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB276-0024",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB276-0025",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "01/26/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

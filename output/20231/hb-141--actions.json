@@ -277,7 +277,9 @@
         "date": "01/23/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46285?agendaId=248162"
+        ]
     },
     {
         "id": "HB141-0025",
@@ -320,6 +322,17 @@
         "actionUrl": null,
         "date": "01/25/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB141-0029",
+        "bill": "HB 141",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

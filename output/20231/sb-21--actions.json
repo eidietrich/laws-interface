@@ -331,7 +331,9 @@
         "date": "01/23/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47693?agendaId=248149"
+        ]
     },
     {
         "id": "SB21-0030",
@@ -353,6 +355,17 @@
         "date": "01/24/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB21-0032",
+        "bill": "SB 21",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "01/27/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

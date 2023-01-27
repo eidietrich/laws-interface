@@ -230,8 +230,10 @@
         "actionUrl": null,
         "date": "01/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46110?agendaId=248497"
+        ]
     },
     {
         "id": "HB125-0021",
@@ -252,6 +254,17 @@
         "actionUrl": null,
         "date": "01/25/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB125-0023",
+        "bill": "HB 125",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
