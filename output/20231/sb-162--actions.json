@@ -190,7 +190,7 @@
         "id": "SB162-0017",
         "bill": "SB 162",
         "session": "20231",
-        "action": "(C) Fiscal Note Probable",
+        "action": "(S) First Reading",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
@@ -201,7 +201,7 @@
         "id": "SB162-0018",
         "bill": "SB 162",
         "session": "20231",
-        "action": "(S) Introduced",
+        "action": "(C) Fiscal Note Probable",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
@@ -212,7 +212,7 @@
         "id": "SB162-0019",
         "bill": "SB 162",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(S) Introduced",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
@@ -223,7 +223,7 @@
         "id": "SB162-0020",
         "bill": "SB 162",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "01/11/2023",
         "hasVote": false,
@@ -234,6 +234,17 @@
         "id": "SB162-0021",
         "bill": "SB 162",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "01/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB162-0022",
+        "bill": "SB 162",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/12/2023",
@@ -242,7 +253,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0022",
+        "id": "SB162-0023",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Fiscal Note Received",
@@ -253,7 +264,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0023",
+        "id": "SB162-0024",
         "bill": "SB 162",
         "session": "20231",
         "action": "(C) Fiscal Note Unsigned",
@@ -264,7 +275,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0024",
+        "id": "SB162-0025",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Fiscal Note Printed",
@@ -275,7 +286,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0025",
+        "id": "SB162-0026",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Hearing",
@@ -288,7 +299,7 @@
         ]
     },
     {
-        "id": "SB162-0026",
+        "id": "SB162-0027",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed",
@@ -299,7 +310,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0027",
+        "id": "SB162-0028",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed",
@@ -310,7 +321,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0028",
+        "id": "SB162-0029",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -321,7 +332,7 @@
         "recordings": []
     },
     {
-        "id": "SB162-0029",
+        "id": "SB162-0030",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) 2nd Reading Passed",
@@ -332,13 +343,24 @@
         "recordings": []
     },
     {
-        "id": "SB162-0030",
+        "id": "SB162-0031",
         "bill": "SB 162",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "01/27/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB162-0032",
+        "bill": "SB 162",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "01/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
