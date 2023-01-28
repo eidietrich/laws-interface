@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -13854,8 +13854,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14475,6 +14475,282 @@
             },
             {
                 "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 360",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=360&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1316.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1316.pdf",
+        "lc": "LC1316",
+        "title": "Revise election of county commissioners",
+        "sponsor": "Steven Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 24",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steven Galloway",
+        "subjects": [
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 361",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=361&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2268.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2268.pdf",
+        "lc": "LC2268",
+        "title": "Provide that use of a name and sex by a student is not discrimination",
+        "sponsor": "Brandon Ler",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 35",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brandon Ler",
+        "subjects": [
+            {
+                "subject": "Discrimination and Human Rights",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 362",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=362&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0097.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0097.pdf",
+        "lc": "LC0097",
+        "title": "Revise laws related to the crisis intervention team training program",
+        "sponsor": "Denise Baum",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 47",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Denise Baum",
+        "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Law Enforcement  (see also: Criminal Procedure)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 363",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=363&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3392.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3392.pdf",
+        "lc": "LC3392",
+        "title": "Revise individual income taxes to provide for new uppermost tax rate",
+        "sponsor": "Robert Carter",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 98",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Robert Carter",
+        "subjects": [
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 364",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=364&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0131.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0131.pdf",
+        "lc": "LC0131",
+        "title": "Allow for independent subdivision reviews for past due applications",
+        "sponsor": "Casey Knudsen",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 33",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Casey Knudsen",
+        "subjects": [
+            {
+                "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 365",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=365&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4322.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4322.pdf",
+        "lc": "LC4322",
+        "title": "Revise suspended driver's license laws",
+        "sponsor": "Scot Kerns",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 23",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Scot Kerns",
+        "subjects": [
+            {
+                "subject": "Traffic Regulations  (see also: Motor Vehicles)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 366",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=366&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3932.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3932.pdf",
+        "lc": "LC3932",
+        "title": "Increase penalties for passing school buses",
+        "sponsor": "Donavon Hawk",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 76",
+        "statusDate": "01/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Donavon Hawk",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Traffic Regulations  (see also: Motor Vehicles)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
