@@ -207,8 +207,10 @@
         "actionUrl": null,
         "date": "01/26/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48441?agendaId=249272"
+        ]
     },
     {
         "id": "SB30-0019",
@@ -229,6 +231,17 @@
         "actionUrl": null,
         "date": "01/27/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB30-0021",
+        "bill": "SB 30",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "01/30/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
