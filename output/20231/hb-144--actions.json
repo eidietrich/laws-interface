@@ -303,9 +303,9 @@
         "id": "HB144-0027",
         "bill": "HB 144",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) Fiscal Note Printed",
         "actionUrl": null,
-        "date": "01/26/2023",
+        "date": "01/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -314,15 +314,28 @@
         "id": "HB144-0028",
         "bill": "HB 144",
         "session": "20231",
-        "action": "(H) 2nd Reading Passed",
+        "action": "(H) Scheduled for 2nd Reading",
         "actionUrl": null,
         "date": "01/26/2023",
-        "hasVote": true,
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
     {
         "id": "HB144-0029",
+        "bill": "HB 144",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "01/26/2023",
+        "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46112?agendaId=249057"
+        ]
+    },
+    {
+        "id": "HB144-0030",
         "bill": "HB 144",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -333,7 +346,7 @@
         "recordings": []
     },
     {
-        "id": "HB144-0030",
+        "id": "HB144-0031",
         "bill": "HB 144",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -341,6 +354,28 @@
         "date": "01/27/2023",
         "hasVote": true,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB144-0032",
+        "bill": "HB 144",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "01/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB144-0033",
+        "bill": "HB 144",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "01/30/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
     }
 ]
