@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -13256,8 +13256,8 @@
         "sponsor": "Frank Smith",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 31",
-        "statusDate": "01/27/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "statusDate": "02/03/2023; 08:00 AM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13854,8 +13854,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14692,9 +14692,9 @@
         "sponsor": "Scot Kerns",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 23",
-        "statusDate": "01/28/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/30/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -14730,9 +14730,9 @@
         "sponsor": "Donavon Hawk",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 76",
-        "statusDate": "01/28/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "01/30/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -14774,8 +14774,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 46",
         "statusDate": "01/30/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(H) Referred to Committee -- (H) Appropriations",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -24559,6 +24559,44 @@
             },
             {
                 "subject": "Teachers",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 236",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=236&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0931.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0931.pdf",
+        "lc": "LC0931",
+        "title": "Establish time limited demand standards",
+        "sponsor": "Greg Hertz",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 6",
+        "statusDate": "01/30/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Greg Hertz",
+        "subjects": [
+            {
+                "subject": "Civil Procedure",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Insurance",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
