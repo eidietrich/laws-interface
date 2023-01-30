@@ -6,10 +6,23 @@
         "action_id": "HB212-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing PDF",
         "totals": {
             "Y": 15,
             "N": 6
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 212",
+        "session": "20231",
+        "action_id": "HB212-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 15,
+            "N": 8
         }
     }
 ]
