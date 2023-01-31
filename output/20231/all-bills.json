@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "3/4 of Each House",
             "Simple",
-            "3/4 of Each House"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -14978,6 +14978,45 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "HB 372",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=372&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3404.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3404.pdf",
+        "lc": "LC3404",
+        "title": "Establish right to hunt in Constitution",
+        "sponsor": "Paul Fielder",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 13",
+        "statusDate": "01/31/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Paul Fielder",
+        "subjects": [
+            {
+                "subject": "Constitutional Amendment Proposals",
+                "fiscalCode": "",
+                "voteReq": "2/3 of Entire Legislature"
+            },
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple",
+            "2/3 of Entire Legislature"
+        ],
+        "deadlineCategory": "REFERENDUM PROPOSALS",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -21820,8 +21859,8 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "01/12/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/02/2023; 08:30 AM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -23275,8 +23314,8 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "01/23/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/03/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -23928,8 +23967,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/26/2023",
-        "lastAction": "(S) Rereferred to Committee -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/02/2023; 08:30 AM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -24166,8 +24205,8 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "01/27/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/03/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -24214,8 +24253,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "01/27/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/03/2023; 08:30 AM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -24601,8 +24640,8 @@
         "sponsor": "Janet Ellis",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 41",
-        "statusDate": "01/30/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/03/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -24898,6 +24937,120 @@
             },
             {
                 "subject": "Professions and Occupations O-Z",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 240",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=240&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0899.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0899.pdf",
+        "lc": "LC0899",
+        "title": "Excempt certain subdivisions from environmental review",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/31/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 241",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=241&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0906.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0906.pdf",
+        "lc": "LC0906",
+        "title": "Revise labor laws relating to violence against healthcare workers",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/31/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 242",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=242&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0498.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0498.pdf",
+        "lc": "LC0498",
+        "title": "Revising avoided cost ratemaking",
+        "sponsor": "Jason D Small",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 21",
+        "statusDate": "01/31/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jason Small",
+        "subjects": [
+            {
+                "subject": "Energy",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
