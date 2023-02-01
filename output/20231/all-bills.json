@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7735,8 +7735,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -8756,9 +8756,9 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "01/30/2023",
-        "lastAction": "(H) Committee Report--Bill Passed as Amended",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/01/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0222",
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0222",
         "draftRequestor": null,
@@ -12125,8 +12125,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -13854,8 +13854,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15009,8 +15009,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -17711,8 +17711,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
         "statusDate": "02/01/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) State Administration",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(S) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -22745,8 +22745,8 @@
         "sponsor": "Wendy McKamey",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 12",
-        "statusDate": "01/20/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/01/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0174",
@@ -24430,11 +24430,11 @@
         "sponsor": "Edith (Edie) McClafferty",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 38",
-        "statusDate": "01/31/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/01/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0214",
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0214",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Edith (Edie) McClafferty",
@@ -26149,6 +26149,54 @@
         "subjects": [
             {
                 "subject": "Energy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 256",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=256&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1038.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1038.pdf",
+        "lc": "LC1038",
+        "title": "Prohibit ownership of private property within state by citizens of enemy states",
+        "sponsor": "Carl Glimm",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 2",
+        "statusDate": "02/01/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Carl Glimm",
+        "subjects": [
+            {
+                "subject": "International Relations",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Lands",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
