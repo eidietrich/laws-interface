@@ -1,6 +1,6 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0184TRH230118.pdf",
+        "url": null,
         "bill": "HB 184",
         "session": "20231",
         "action_id": "HB184-0020",
@@ -77,10 +77,87 @@
         ]
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0184TRH230118.pdf",
+        "bill": "HB 184",
+        "session": "20231",
+        "action_id": "HB184-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "January 18, 2023",
+        "description": "Rep. Kerns made a Motion that HB0184.001.001 Be Amended",
+        "totals": {
+            "Y": 15,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Sprunger, Courtenay;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Barker, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Butcher, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H313&P_SESS=20231",
         "bill": "HB 184",
         "session": "20231",
-        "action_id": "HB184-0024",
+        "action_id": "HB184-0025",
         "type": "floor",
         "seq_number": "H313",
         "date": "January 26, 2023",
@@ -498,7 +575,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H347&P_SESS=20231",
         "bill": "HB 184",
         "session": "20231",
-        "action_id": "HB184-0026",
+        "action_id": "HB184-0027",
         "type": "floor",
         "seq_number": "H347",
         "date": "January 27, 2023",
