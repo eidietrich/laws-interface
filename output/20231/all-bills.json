@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -26555,8 +26555,8 @@
         "key": "SB 256",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=256&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1038.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1038.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0256.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0256.pdf",
         "lc": "LC1038",
         "title": "Prohibit ownership of private property within state by citizens of enemy states",
         "sponsor": "Carl Glimm",
@@ -26603,8 +26603,8 @@
         "key": "SB 257",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=257&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0091.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0091.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0257.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0257.pdf",
         "lc": "LC0091",
         "title": "Generally revise laws regarding the judiciary",
         "sponsor": "Barry Usher",
@@ -26744,6 +26744,39 @@
         "amendedReturnDeadline": "04/21/2023"
     },
     {
+        "key": "SB 260",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=260&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4327.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4327.pdf",
+        "lc": "LC4327",
+        "title": "Revise insurance unfair trade practices act relating to certain insurers",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "02/02/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -26754,9 +26787,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/01/2023",
-        "lastAction": "(S) Returned from Enrolling",
-        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
+        "statusDate": "02/02/2023",
+        "lastAction": "(S) Filed with Secretary of State",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SJ0001",
         "draftRequestor": null,
@@ -27031,8 +27064,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 43",
         "statusDate": "02/02/2023",
-        "lastAction": "(H) Signed by Speaker",
-        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
+        "lastAction": "(S) Filed with Secretary of State",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SJ0008",
         "draftRequestor": null,
