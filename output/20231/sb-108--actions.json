@@ -387,7 +387,9 @@
         "date": "01/26/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48394?agendaId=249029"
+        ]
     },
     {
         "id": "SB108-0035",
@@ -430,6 +432,17 @@
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB108-0039",
+        "bill": "SB 108",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

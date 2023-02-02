@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47349?agendaId=245755",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47206?agendaId=243858"
         ]
     },
@@ -354,6 +355,17 @@
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB89-0032",
+        "bill": "SB 89",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
