@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8260,8 +8260,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -11499,9 +11499,9 @@
         "sponsor": "Jonathan Windy Boy",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 32",
-        "statusDate": "01/27/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Education",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/02/2023",
+        "lastAction": "(H) Tabled in Committee * -- (H) Education",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0288",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -13817,10 +13817,10 @@
         "sponsor": "Mark Thane",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 99",
-        "statusDate": "01/30/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Education",
+        "statusDate": "02/02/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0344",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -13848,8 +13848,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -16352,9 +16352,9 @@
         "sponsor": "Shannon O'Brien",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 46",
-        "statusDate": "01/18/2023; 08:00 AM, Rm 405",
-        "lastAction": "(S) Hearing -- (S) Taxation",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/02/2023",
+        "lastAction": "(S) Tabled in Committee * -- (S) Taxation",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0015",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -16767,7 +16767,7 @@
         "sponsor": "Ryan Lynch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 37",
-        "statusDate": "01/26/2023",
+        "statusDate": "01/13/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) State Administration",
         "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0025",
@@ -17803,8 +17803,8 @@
         "sponsor": "Wendy McKamey",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 12",
-        "statusDate": "01/19/2023; 03:00 PM",
-        "lastAction": "(S) Hearing -- (S) Agriculture, Livestock and Irrigation",
+        "statusDate": "02/02/2023",
+        "lastAction": "(S) Bill Not Heard at Sponsor's Request -- (S) Agriculture, Livestock and Irrigation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -18819,7 +18819,7 @@
         "sponsor": "Ryan Lynch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 37",
-        "statusDate": "01/18/2023",
+        "statusDate": "01/12/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) Judiciary",
         "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0079",
@@ -26191,6 +26191,39 @@
             },
             {
                 "subject": "State Lands",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 257",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=257&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0091.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0091.pdf",
+        "lc": "LC0091",
+        "title": "Generally revise laws regarding the judiciary",
+        "sponsor": "Barry Usher",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 20",
+        "statusDate": "02/02/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Barry Usher",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
