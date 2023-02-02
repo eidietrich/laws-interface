@@ -11461,8 +11461,8 @@
         "sponsor": "Jonathan Windy Boy",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 32",
-        "statusDate": "01/27/2023; 03:00 PM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Education",
+        "statusDate": "02/01/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0287",
@@ -12934,8 +12934,8 @@
         "sponsor": "Caleb Hinkle",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 68",
-        "statusDate": "01/26/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/07/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -12977,8 +12977,8 @@
         "sponsor": "Caleb Hinkle",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 68",
-        "statusDate": "01/26/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/09/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -13164,8 +13164,8 @@
         "sponsor": "Brad Barker",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 58",
-        "statusDate": "01/26/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/07/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -14491,8 +14491,8 @@
         "sponsor": "Steven Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 24",
-        "statusDate": "01/30/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/09/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -14843,8 +14843,8 @@
         "sponsor": "Marty Malone",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 59",
-        "statusDate": "01/31/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/09/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -15510,6 +15510,163 @@
         "subjects": [
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 385",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=385&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1140.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1140.pdf",
+        "lc": "LC1140",
+        "title": "Require evidence discovery in CPS cases",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/02/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Evidence",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 386",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=386&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2329.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2329.pdf",
+        "lc": "LC2329",
+        "title": "Establish requirement for paid sick days",
+        "sponsor": "SJ Howell",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 95",
+        "statusDate": "02/02/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "SJ Howell",
+        "subjects": [
+            {
+                "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 387",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=387&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1466.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1466.pdf",
+        "lc": "LC1466",
+        "title": "Generally revise constituent accounts",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/02/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 388",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=388&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0178.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0178.pdf",
+        "lc": "LC0178",
+        "title": "Increase penalty for uninspected livestock",
+        "sponsor": "Joshua Kassmier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 27",
+        "statusDate": "02/02/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Joshua Kassmier",
+        "subjects": [
+            {
+                "subject": "Livestock (see also: Agriculture; Taxation--Agriculture/Livestock)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
