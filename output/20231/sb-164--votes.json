@@ -1,22 +1,66 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0164STS230131.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0164STS230130.pdf",
         "bill": "SB 164",
         "session": "20231",
-        "action_id": "SB164-0024",
+        "action_id": "SB164-0023",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": null,
+        "date": "January 30, 2023",
+        "description": "Sen. McKamey made a Motion that SB 164 Do Pass",
         "totals": {
             "Y": 10,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S338&P_SESS=20231",
         "bill": "SB 164",
         "session": "20231",
-        "action_id": "SB164-0027",
+        "action_id": "SB164-0026",
         "type": "floor",
         "seq_number": "S338",
         "date": "February 02, 2023",

@@ -333,8 +333,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -738,8 +738,8 @@
         "sponsor": "Tyson T Running Wolf",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 16",
-        "statusDate": "01/30/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "02/07/2023; 03:00 PM, Rm 317",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0019",
         "amendmentListUrl": null,
@@ -2097,8 +2097,8 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "01/25/2023",
-        "lastAction": "(S) Rereferred to Committee",
+        "statusDate": "02/07/2023; 03:00 PM, Rm 317",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0052",
         "amendmentListUrl": null,
@@ -9710,7 +9710,7 @@
         "sponsor": "Sue Vinton",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 56",
-        "statusDate": "01/23/2023; 03:00 PM, Rm 152",
+        "statusDate": "01/23/2023; 03:00 PM, Rm 102",
         "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0245",
@@ -25393,8 +25393,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "01/27/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Energy and Telecommunications",
+        "statusDate": "02/07/2023; 03:00 PM, Rm 317",
+        "lastAction": "(S) Hearing -- (S) Energy and Telecommunications",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
@@ -26922,6 +26922,44 @@
             },
             {
                 "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 265",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=265&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1519.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1519.pdf",
+        "lc": "LC1519",
+        "title": "Increase penalty for conviction of criminal activity of human trafficking",
+        "sponsor": "Mark Noland",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 5",
+        "statusDate": "02/02/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mark Noland",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Criminal Procedure  (see also: Law Enforcement)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }

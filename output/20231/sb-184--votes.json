@@ -1,16 +1,64 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0184JUS230126.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0184JUS230125.pdf",
         "bill": "SB 184",
         "session": "20231",
         "action_id": "SB184-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing PDF",
+        "error": null,
+        "date": "January 25, 2023",
+        "description": "Sen. Usher made a Motion that SB 184 Do Pass",
         "totals": {
             "Y": 6,
             "N": 5
-        }
+        },
+        "votes": [
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S293&P_SESS=20231",
