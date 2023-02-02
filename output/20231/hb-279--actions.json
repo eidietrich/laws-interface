@@ -195,7 +195,9 @@
         "date": "01/24/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48360?agendaId=248458"
+        ]
     },
     {
         "id": "HB279-0018",
@@ -206,6 +208,17 @@
         "date": "01/25/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB279-0019",
+        "bill": "HB 279",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": true,
+        "committee": "(H) Business and Labor",
         "recordings": []
     }
 ]
