@@ -206,7 +206,9 @@
         "date": "01/24/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48360?agendaId=248457"
+        ]
     },
     {
         "id": "HB254-0019",
@@ -249,8 +251,10 @@
         "actionUrl": null,
         "date": "01/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46115?agendaId=249799"
+        ]
     },
     {
         "id": "HB254-0023",
@@ -271,6 +275,17 @@
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB254-0025",
+        "bill": "HB 254",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
