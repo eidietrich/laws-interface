@@ -497,16 +497,96 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0091JUH230131.pdf",
         "bill": "SB 91",
         "session": "20231",
         "action_id": "SB91-0031",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 31, 2023",
+        "description": "Rep. Ler made a Motion that SB 91 Be Concurred In as Amended",
         "totals": {
             "Y": 14,
             "N": 5
-        }
+        },
+        "votes": [
+            {
+                "name": "Bishop, Laurie",
+                "vote": "N"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "N"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "N"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "N"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "Y"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "Y"
+            }
+        ]
     }
 ]
