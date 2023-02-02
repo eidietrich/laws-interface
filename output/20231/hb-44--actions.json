@@ -174,6 +174,7 @@
         "hasVote": false,
         "committee": "(H) Agriculture",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47271?agendaId=244418",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45055?agendaId=243087"
         ]
     },
@@ -220,6 +221,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47396?agendaId=245774",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47217?agendaId=244009"
         ]
     },
@@ -332,6 +334,17 @@
         "actionUrl": null,
         "date": "02/02/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB44-0030",
+        "bill": "HB 44",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

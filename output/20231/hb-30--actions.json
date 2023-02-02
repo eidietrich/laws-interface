@@ -251,7 +251,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47229?agendaId=243179"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47229?agendaId=243179",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47295?agendaId=245140"
         ]
     },
     {
@@ -487,6 +488,17 @@
         "actionUrl": null,
         "date": "02/02/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB30-0044",
+        "bill": "HB 30",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
