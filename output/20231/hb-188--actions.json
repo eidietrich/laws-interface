@@ -421,8 +421,10 @@
         "actionUrl": null,
         "date": "01/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46115?agendaId=249791"
+        ]
     },
     {
         "id": "HB188-0038",
@@ -443,6 +445,17 @@
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB188-0040",
+        "bill": "HB 188",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

@@ -124,7 +124,7 @@
         "id": "SB70-0011",
         "bill": "SB 70",
         "session": "20231",
-        "action": "(S) Fiscal Note Signed",
+        "action": "(S) Fiscal Note Received",
         "actionUrl": null,
         "date": "12/21/2022",
         "hasVote": false,
@@ -135,7 +135,7 @@
         "id": "SB70-0012",
         "bill": "SB 70",
         "session": "20231",
-        "action": "(S) Fiscal Note Received",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "12/21/2022",
         "hasVote": false,
@@ -157,17 +157,6 @@
         "id": "SB70-0014",
         "bill": "SB 70",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "12/21/2022",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB70-0015",
-        "bill": "SB 70",
-        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/28/2022",
@@ -176,7 +165,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0016",
+        "id": "SB70-0015",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) First Reading",
@@ -187,7 +176,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0017",
+        "id": "SB70-0016",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Hearing",
@@ -201,7 +190,7 @@
         ]
     },
     {
-        "id": "SB70-0018",
+        "id": "SB70-0017",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed",
@@ -212,7 +201,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0019",
+        "id": "SB70-0018",
         "bill": "SB 70",
         "session": "20231",
         "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
@@ -223,7 +212,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0020",
+        "id": "SB70-0019",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed",
@@ -234,7 +223,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0021",
+        "id": "SB70-0020",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) 2nd Reading Passed",
@@ -247,7 +236,7 @@
         ]
     },
     {
-        "id": "SB70-0022",
+        "id": "SB70-0021",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -258,7 +247,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0023",
+        "id": "SB70-0022",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Hearing",
@@ -271,7 +260,7 @@
         ]
     },
     {
-        "id": "SB70-0024",
+        "id": "SB70-0023",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed as Amended",
@@ -282,7 +271,7 @@
         "recordings": []
     },
     {
-        "id": "SB70-0025",
+        "id": "SB70-0024",
         "bill": "SB 70",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed as Amended",
@@ -293,12 +282,23 @@
         "recordings": []
     },
     {
-        "id": "SB70-0026",
+        "id": "SB70-0025",
         "bill": "SB 70",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "01/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB70-0026",
+        "bill": "SB 70",
+        "session": "20231",
+        "action": "(S) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "02/02/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -322,6 +322,17 @@
         "actionUrl": null,
         "date": "02/02/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB70-0029",
+        "bill": "SB 70",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
