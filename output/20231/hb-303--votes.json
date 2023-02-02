@@ -9,6 +9,19 @@
             "Y": 60,
             "N": 39
         },
-        "error": "Skipped previously missing vote page"
+        "error": "Missing vote page"
+    },
+    {
+        "url": null,
+        "bill": "HB 303",
+        "session": "20231",
+        "action_id": "HB303-0025",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 13,
+            "N": 6
+        }
     }
 ]
