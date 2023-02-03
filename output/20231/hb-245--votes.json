@@ -99,5 +99,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 245",
+        "session": "20231",
+        "action_id": "HB245-0028",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 11
+        }
     }
 ]
