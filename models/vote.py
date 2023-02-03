@@ -91,8 +91,12 @@ class Vote:
 
         soup = BeautifulSoup(text, 'lxml')
 
-        self.data['seq_number'] = re.search(
-            r'(?<=VOTE_SEQ\=)(H|S)\d+', url).group(0)
+        if not url:
+            # For cases when we're scraping a cached page where the link has disappeared
+            self.data['seq_number'] = 'error'
+        else:
+            self.data['seq_number'] = re.search(
+                r'(?<=VOTE_SEQ\=)(H|S)\d+', url).group(0)
 
         vote_date = soup.find(text=re.compile(
             "DATE:")).text.replace(r'DATE:', '').strip()

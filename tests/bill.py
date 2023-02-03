@@ -10,7 +10,7 @@ from functions import read_json
 from models.bill import Bill
 
 raw_bills = read_json('output/20231/all-bills.json')
-bill_id = 'HB 62'
+bill_id = 'HB 113'
 # bill_id = 'HB 1'
 raw_bill = [bill for bill in raw_bills if bill['key'] == bill_id][0]
 bill = Bill(raw_bill,
