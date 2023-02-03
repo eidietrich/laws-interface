@@ -1,16 +1,92 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0131FIH230118.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0131FIH230117.pdf",
         "bill": "HB 131",
         "session": "20231",
         "action_id": "HB131-0014",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 17, 2023",
+        "description": "Rep. France made a Motion that HB 131 Do Pass",
         "totals": {
-            "Y": 18,
+            "Y": 17,
             "N": 1
-        }
+        },
+        "votes": [
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "N"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "Y"
+            },
+            {
+                "name": "Vinton, Sue",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H263&P_SESS=20231",

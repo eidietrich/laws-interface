@@ -1,15 +1,103 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0194HUH230120.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0194HUH230119.pdf",
         "bill": "HB 194",
         "session": "20231",
         "action_id": "HB194-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 19, 2023",
+        "description": "Rep. Sheldon-Galloway made a Motion that HB 194 Do Pass",
         "totals": {
             "Y": 11,
             "N": 10
-        }
+        },
+        "votes": [
+            {
+                "name": "Abbott, Kim;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "N"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "N"
+            },
+            {
+                "name": "Frazer, Gregory;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "N"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "N"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "N"
+            },
+            {
+                "name": "Nikolakakos, George",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "N"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "N"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "N"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "N"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "Y"
+            }
+        ]
     }
 ]

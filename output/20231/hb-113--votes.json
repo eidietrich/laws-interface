@@ -913,16 +913,56 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0113LOS230124.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0113LOS230123.pdf",
         "bill": "HB 113",
         "session": "20231",
         "action_id": "HB113-0025",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 23, 2023",
+        "description": "Sen. Zolnikov made a Motion that HB 113 Be Concurred In",
         "totals": {
             "Y": 9,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]

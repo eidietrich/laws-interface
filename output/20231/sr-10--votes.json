@@ -1,15 +1,63 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SR0010JUS230201.pdf",
         "bill": "SR 10",
         "session": "20231",
         "action_id": "SR10-0017",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 01, 2023",
+        "description": "Sen. Usher made a Motion that SR 10 Do Pass",
         "totals": {
             "Y": 11,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
     }
 ]

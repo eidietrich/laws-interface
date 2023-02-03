@@ -1,16 +1,64 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0138NAS230126.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0138NAS230125.pdf",
         "bill": "SB 138",
         "session": "20231",
         "action_id": "SB138-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 25, 2023",
+        "description": "Sen. Gillespie made a Motion that SB 138 Do Pass",
         "totals": {
             "Y": 11,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Small, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S276&P_SESS=20231",

@@ -279,17 +279,97 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0003FCS230124.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0003FCS230123.pdf",
         "bill": "SB 3",
         "session": "20231",
         "action_id": "SB3-0025",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 23, 2023",
+        "description": "Sen. Glimm made a Motion that SB 3 Do Pass",
         "totals": {
             "Y": 19,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S234&P_SESS=20231",

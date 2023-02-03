@@ -229,7 +229,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47231?agendaId=243258"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47231?agendaId=243258",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47296?agendaId=245164"
         ]
     },
     {
@@ -406,7 +407,7 @@
         "id": "SB6-0036",
         "bill": "SB 6",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) 2nd Reading Pass Consideration",
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": false,
@@ -417,9 +418,20 @@
         "id": "SB6-0037",
         "bill": "SB 6",
         "session": "20231",
-        "action": "(H) 2nd Reading Pass Consideration",
+        "action": "(H) Scheduled for 2nd Reading",
         "actionUrl": null,
-        "date": "02/01/2023",
+        "date": "02/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB6-0038",
+        "bill": "SB 6",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/03/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

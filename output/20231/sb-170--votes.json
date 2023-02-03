@@ -1,16 +1,56 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0170LOS230126.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0170LOS230125.pdf",
         "bill": "SB 170",
         "session": "20231",
-        "action_id": "SB170-0022",
+        "action_id": "SB170-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 25, 2023",
+        "description": "Sen. Bogner made a Motion that SB 170 Do Pass as Amended",
         "totals": {
             "Y": 9,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S278&P_SESS=20231",

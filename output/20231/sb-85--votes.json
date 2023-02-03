@@ -1,16 +1,68 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0085FIS230120.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0085FIS230119.pdf",
         "bill": "SB 85",
         "session": "20231",
         "action_id": "SB85-0015",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 19, 2023",
+        "description": "Sen. Brown made a Motion that SB 85 Do Pass as Amended",
         "totals": {
             "Y": 10,
             "N": 2
-        }
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S224&P_SESS=20231",

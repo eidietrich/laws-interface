@@ -1,15 +1,71 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0344EDH230201.pdf",
         "bill": "HB 344",
         "session": "20231",
-        "action_id": "HB344-0024",
+        "action_id": "HB344-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 01, 2023",
+        "description": "Rep. Thane made a Motion that HB 344 Do Pass",
         "totals": {
             "Y": 11,
             "N": 2
-        }
+        },
+        "votes": [
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "N"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "N"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            }
+        ]
     }
 ]

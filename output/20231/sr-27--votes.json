@@ -1,15 +1,63 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SR0027AGS230131.pdf",
         "bill": "SR 27",
         "session": "20231",
         "action_id": "SR27-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 31, 2023",
+        "description": "Sen. Gillespie made a Motion that SR 27 Do Pass",
         "totals": {
             "Y": 11,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            }
+        ]
     }
 ]

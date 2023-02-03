@@ -1,16 +1,68 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0033HIS230118.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0033HIS230117.pdf",
         "bill": "SB 33",
         "session": "20231",
-        "action_id": "SB33-0020",
+        "action_id": "SB33-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 17, 2023",
+        "description": "Sen. Friedel made a Motion that SB 33 Do Pass",
         "totals": {
-            "Y": 11,
-            "N": 1
-        }
+            "Y": 12,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S136&P_SESS=20231",

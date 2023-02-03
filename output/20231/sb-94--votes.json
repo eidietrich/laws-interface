@@ -1,22 +1,70 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0094JUS230125.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0094JUS230124.pdf",
         "bill": "SB 94",
         "session": "20231",
         "action_id": "SB94-0022",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 24, 2023",
+        "description": "Sen. Usher made a Motion that SB 94 Do Pass as Amended",
         "totals": {
             "Y": 9,
             "N": 2
-        }
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "N"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S246&P_SESS=20231",
         "bill": "SB 94",
         "session": "20231",
-        "action_id": "SB94-0026",
+        "action_id": "SB94-0025",
         "type": "floor",
         "seq_number": "S246",
         "date": "January 27, 2023",

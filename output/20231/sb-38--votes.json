@@ -61,23 +61,10 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0038JUS230118.pdf",
-        "bill": "SB 38",
-        "session": "20231",
-        "action_id": "SB38-0015",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Skipped previously missing vote page",
-        "totals": {
-            "Y": 7,
-            "N": 4
-        }
-    },
-    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S196&P_SESS=20231",
         "bill": "SB 38",
         "session": "20231",
-        "action_id": "SB38-0018",
+        "action_id": "SB38-0017",
         "type": "floor",
         "seq_number": "S196",
         "date": "January 25, 2023",
@@ -295,7 +282,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S236&P_SESS=20231",
         "bill": "SB 38",
         "session": "20231",
-        "action_id": "SB38-0020",
+        "action_id": "SB38-0019",
         "type": "floor",
         "seq_number": "S236",
         "date": "January 26, 2023",

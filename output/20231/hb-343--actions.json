@@ -234,7 +234,7 @@
         "id": "HB343-0021",
         "bill": "HB 343",
         "session": "20231",
-        "action": "(H) Fiscal Note Received",
+        "action": "(H) Fiscal Note Signed",
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": false,
@@ -245,11 +245,35 @@
         "id": "HB343-0022",
         "bill": "HB 343",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB343-0023",
+        "bill": "HB 343",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46555?agendaId=250096"
+        ]
+    },
+    {
+        "id": "HB343-0024",
+        "bill": "HB 343",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

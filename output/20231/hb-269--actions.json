@@ -261,7 +261,9 @@
         "date": "01/30/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45939?agendaId=249445"
+        ]
     },
     {
         "id": "HB269-0024",
@@ -281,6 +283,17 @@
         "action": "(H) Fiscal Note Signed",
         "actionUrl": null,
         "date": "01/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB269-0026",
+        "bill": "HB 269",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/02/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

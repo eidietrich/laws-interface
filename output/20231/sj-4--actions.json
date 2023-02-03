@@ -243,8 +243,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47544?agendaId=247717",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46189?agendaId=245738"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46189?agendaId=245738",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47544?agendaId=247717"
         ]
     },
     {
@@ -335,6 +335,17 @@
         "date": "01/26/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SJ4-0030",
+        "bill": "SJ 4",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/03/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

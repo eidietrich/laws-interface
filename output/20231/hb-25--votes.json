@@ -929,16 +929,68 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0025TAS230201.pdf",
         "bill": "HB 25",
         "session": "20231",
         "action_id": "HB25-0032",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 01, 2023",
+        "description": "Sen. Zolnikov made a Motion that HB 25 Be Concurred In",
         "totals": {
             "Y": 7,
             "N": 5
-        }
+        },
+        "votes": [
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie);byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "N"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            }
+        ]
     }
 ]

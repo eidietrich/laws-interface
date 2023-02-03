@@ -1,16 +1,64 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0160JUS230127.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0160JUS230126.pdf",
         "bill": "SB 160",
         "session": "20231",
         "action_id": "SB160-0024",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 26, 2023",
+        "description": "Sen. Usher made a Motion that SB 160 Do Pass as Amended",
         "totals": {
             "Y": 9,
             "N": 2
-        }
+        },
+        "votes": [
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "N"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S291&P_SESS=20231",

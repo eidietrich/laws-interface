@@ -229,8 +229,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45402?agendaId=245479",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47543?agendaId=247678"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47543?agendaId=247678",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45402?agendaId=245479"
         ]
     },
     {
@@ -281,17 +281,6 @@
         "id": "SB134-0025",
         "bill": "SB 134",
         "session": "20231",
-        "action": "(S) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "01/18/2023",
-        "hasVote": true,
-        "committee": "(S) Judiciary",
-        "recordings": []
-    },
-    {
-        "id": "SB134-0026",
-        "bill": "SB 134",
-        "session": "20231",
         "action": "(S) Committee Report--Bill Passed",
         "actionUrl": null,
         "date": "01/19/2023",
@@ -300,7 +289,7 @@
         "recordings": []
     },
     {
-        "id": "SB134-0027",
+        "id": "SB134-0026",
         "bill": "SB 134",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -311,18 +300,20 @@
         "recordings": []
     },
     {
-        "id": "SB134-0028",
+        "id": "SB134-0027",
         "bill": "SB 134",
         "session": "20231",
         "action": "(S) 2nd Reading Passed",
         "actionUrl": null,
         "date": "01/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46198?agendaId=248759"
+        ]
     },
     {
-        "id": "SB134-0029",
+        "id": "SB134-0028",
         "bill": "SB 134",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -333,7 +324,7 @@
         "recordings": []
     },
     {
-        "id": "SB134-0030",
+        "id": "SB134-0029",
         "bill": "SB 134",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -344,7 +335,7 @@
         "recordings": []
     },
     {
-        "id": "SB134-0031",
+        "id": "SB134-0030",
         "bill": "SB 134",
         "session": "20231",
         "action": "(S) Transmitted to House",

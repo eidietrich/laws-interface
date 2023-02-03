@@ -1,16 +1,64 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0008EDS230124.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0008EDS230123.pdf",
         "bill": "SB 8",
         "session": "20231",
         "action_id": "SB8-0018",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 23, 2023",
+        "description": "Sen. O'Brien made a Motion that SB 8 Do Pass",
         "totals": {
             "Y": 11,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S220&P_SESS=20231",

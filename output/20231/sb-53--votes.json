@@ -1,16 +1,60 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0053BUS230123.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0053BUS230120.pdf",
         "bill": "SB 53",
         "session": "20231",
         "action_id": "SB53-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 20, 2023",
+        "description": "Sen. Noland made a Substitute Motion that SB0053.001.001 Be Amended",
         "totals": {
             "Y": 10,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S197&P_SESS=20231",

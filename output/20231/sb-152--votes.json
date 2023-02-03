@@ -1,16 +1,56 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0152LOS230117.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0152LOS230116.pdf",
         "bill": "SB 152",
         "session": "20231",
         "action_id": "SB152-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 16, 2023",
+        "description": "Sen. Mandeville made a Motion that SB 152 Do Pass as Amended",
         "totals": {
             "Y": 9,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S121&P_SESS=20231",

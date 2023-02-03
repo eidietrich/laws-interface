@@ -1,16 +1,68 @@
 [
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0081TAS230118.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0081TAS230117.pdf",
         "bill": "SB 81",
         "session": "20231",
         "action_id": "SB81-0016",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 17, 2023",
+        "description": "Sen. Zolnikov made a Motion that SB 81 Do Pass",
         "totals": {
             "Y": 12,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S138&P_SESS=20231",

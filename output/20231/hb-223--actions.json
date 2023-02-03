@@ -386,7 +386,9 @@
         "date": "01/30/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46290?agendaId=249541"
+        ]
     },
     {
         "id": "HB223-0035",
@@ -395,6 +397,17 @@
         "action": "(H) Revised Fiscal Note Printed",
         "actionUrl": null,
         "date": "01/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB223-0036",
+        "bill": "HB 223",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "02/03/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
