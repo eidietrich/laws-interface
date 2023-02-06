@@ -21,7 +21,7 @@ jobs:
       - name: Install Python libraries
         run: pip install -r requirements.txt
       - name: Scrape updated bills
-        if: github.event_name == 'schedule' && github.event.schedule == '*/20 * * * *'
+        if: github.event_name != 'schedule' || (github.event_name == 'schedule' && github.event.schedule == '*/20 * * * *')
         run: python3 scrape-cached.py
       - name: Scrape all bills
         if: github.event_name == 'schedule' && github.event.schedule != '*/20 * * * *'
