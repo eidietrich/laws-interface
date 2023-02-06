@@ -966,12 +966,12 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S375&P_SESS=20231",
+        "url": null,
         "bill": "HB 113",
         "session": "20231",
         "action_id": "HB113-0028",
         "type": "floor",
-        "seq_number": "S375",
+        "seq_number": "error",
         "date": "February 03, 2023",
         "description": "AMD Do Adopt-HB0113.001.002 Zolnikov",
         "totals": {
@@ -1184,22 +1184,10 @@
         ]
     },
     {
-        "url": null,
-        "bill": "HB 113",
-        "session": "20231",
-        "action_id": "HB113-0029",
-        "type": "floor",
-        "totals": {
-            "Y": 8,
-            "N": 42
-        },
-        "error": "Missing vote page"
-    },
-    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S376&P_SESS=20231",
         "bill": "HB 113",
         "session": "20231",
-        "action_id": "HB113-0030",
+        "action_id": "HB113-0029",
         "type": "floor",
         "seq_number": "S376",
         "date": "February 03, 2023",
