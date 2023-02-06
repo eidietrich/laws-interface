@@ -93,7 +93,13 @@ class Vote:
 
         if not url:
             # For cases when we're scraping a cached page where the link has disappeared
-            self.data['seq_number'] = 'error'
+            # Hack to pass info on which chamber vote belongs to downstream
+            if ('MONTANA SENATE' in text):
+                self.data['seq_number'] = 'SXXX'
+            elif ('MONTANA HOUSE' in text):
+                self.data['seq_number'] = 'HXXX'
+            else:
+                self.data['seq_number'] = 'error'
         else:
             self.data['seq_number'] = re.search(
                 r'(?<=VOTE_SEQ\=)(H|S)\d+', url).group(0)
