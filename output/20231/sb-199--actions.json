@@ -258,17 +258,6 @@
         "id": "SB199-0023",
         "bill": "SB 199",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/02/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB199-0024",
-        "bill": "SB 199",
-        "session": "20231",
         "action": "(S) 2nd Reading Pass Motion Failed",
         "actionUrl": null,
         "date": "02/02/2023",
@@ -279,7 +268,7 @@
         ]
     },
     {
-        "id": "SB199-0025",
+        "id": "SB199-0024",
         "bill": "SB 199",
         "session": "20231",
         "action": "(S) 2nd Reading Indefinitely Postponed",
@@ -290,13 +279,35 @@
         "recordings": []
     },
     {
-        "id": "SB199-0026",
+        "id": "SB199-0025",
         "bill": "SB 199",
         "session": "20231",
         "action": "(S) Reconsidered Previous Action; Remains in 2nd Reading Process",
         "actionUrl": null,
         "date": "02/03/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB199-0026",
+        "bill": "SB 199",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB199-0027",
+        "bill": "SB 199",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/07/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

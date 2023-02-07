@@ -22,12 +22,17 @@
             "subject": "Professions and Occupations  Generally",
             "fiscalCode": "",
             "voteReq": "Simple"
+        },
+        {
+            "subject": "Revenue, State",
+            "fiscalCode": "Revenue",
+            "voteReq": "Simple"
         }
     ],
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/12/2023"
+    "deadlineCategory": "Revenue Bills",
+    "transmittalDeadline": "04/03/2023",
+    "amendedReturnDeadline": "04/21/2023"
 }
