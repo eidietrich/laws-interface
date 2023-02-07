@@ -332,9 +332,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -17013,6 +17013,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Taxation--Sales",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -22185,8 +22190,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/02/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "02/14/2023; 08:30 AM, Rm 172",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "amendmentListUrl": null,
