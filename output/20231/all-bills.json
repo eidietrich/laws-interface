@@ -11385,9 +11385,9 @@
         "sponsor": "Emma Kerr-Carpenter",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 49",
-        "statusDate": "01/31/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/07/2023",
+        "lastAction": "(H) Tabled in Committee * -- (H) Taxation",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0285",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -17008,6 +17008,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Taxation--Sales",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -17016,9 +17021,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 421",
@@ -29733,6 +29738,44 @@
             },
             {
                 "subject": "University System (see also:  Colleges)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 290",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=290&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1848.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1848.pdf",
+        "lc": "LC1848",
+        "title": "Revise laws regarding legislator compensation",
+        "sponsor": "Daniel Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 22",
+        "statusDate": "02/07/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
+        "fiscalNotesListUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Zolnikov",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
