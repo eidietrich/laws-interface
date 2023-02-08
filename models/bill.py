@@ -100,6 +100,14 @@ class Bill:
             fiscal_notes_link = None
         self.data['fiscalNotesListUrl'] = fiscal_notes_link
 
+        legal_note_tag = soup.find(
+            text="Legal Review Note")
+        if legal_note_tag:
+            legal_note_link = legal_note_tag.find_parent('a')['href']
+        else:
+            legal_note_link = None
+        self.data['legalNoteUrl'] = legal_note_link
+
         bill_amendments_tag = soup.find(
             text="Associated Amendments")
         if bill_amendments_tag:
