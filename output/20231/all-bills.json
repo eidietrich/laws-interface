@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "Simple",
             "3/4 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -3103,8 +3103,8 @@
         "sponsor": "Jerry Schillinger",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 37",
-        "statusDate": "02/02/2023; 03:00 PM, Rm 405",
-        "lastAction": "(S) Hearing",
+        "statusDate": "02/07/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Concurred",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0076",
         "legalNoteUrl": null,
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -27928,8 +27928,8 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "02/02/2023; 03:00 PM, Rm 405",
-        "lastAction": "(S) Hearing -- (S) Highways and Transportation",
+        "statusDate": "02/07/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Highways and Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0221",
         "legalNoteUrl": null,
@@ -33662,6 +33662,50 @@
             },
             {
                 "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SR 51",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=51&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4599.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4599.pdf",
+        "lc": "LC4599",
+        "title": "Confirm governor's appointee for board of regents of higher education",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "02/08/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "University System (see also:  Colleges)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
