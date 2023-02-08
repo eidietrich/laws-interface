@@ -903,5 +903,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0085AGS230206.pdf",
+        "bill": "HB 85",
+        "session": "20231",
+        "action_id": "HB85-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing PDF",
+        "totals": {
+            "Y": 8,
+            "N": 3
+        }
     }
 ]
