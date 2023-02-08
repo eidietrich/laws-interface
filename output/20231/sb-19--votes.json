@@ -277,5 +277,98 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0019FCS230207.pdf",
+        "bill": "SB 19",
+        "session": "20231",
+        "action_id": "SB19-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "February 07, 2023",
+        "description": "Sen. Glimm made a Motion that SB 19 Do Pass",
+        "totals": {
+            "Y": 13,
+            "N": 6
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "N"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            }
+        ]
     }
 ]
