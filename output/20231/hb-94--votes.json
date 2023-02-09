@@ -921,16 +921,64 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0094AGS230201.pdf",
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0094AGS230131.pdf",
         "bill": "HB 94",
         "session": "20231",
         "action_id": "HB94-0032",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "January 31, 2023",
+        "description": "Sen. Gillespie made a Motion that HB 94 Be Concurred In",
         "totals": {
             "Y": 7,
             "N": 4
-        }
+        },
+        "votes": [
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Lenz, Dennis;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "N"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            }
+        ]
     }
 ]
