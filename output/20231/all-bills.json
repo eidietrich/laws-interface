@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
+            "Simple",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33129,6 +33129,89 @@
         "subjects": [
             {
                 "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 313",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=313&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0835.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0835.pdf",
+        "lc": "LC0835",
+        "title": "Revise judiciary laws",
+        "sponsor": "Keith Regier",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 3",
+        "statusDate": "02/09/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Keith Regier",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 314",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=314&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0672.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0672.pdf",
+        "lc": "LC0672",
+        "title": "Revise construction laws relating to bonds",
+        "sponsor": "Steve Fitzpatrick",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 10",
+        "statusDate": "02/09/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Fitzpatrick",
+        "subjects": [
+            {
+                "subject": "Economic Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Secured Transactions",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Suretyship/Guaranty/Indemnity",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
