@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8434,8 +8434,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9147,8 +9147,8 @@
         "sponsor": "Terry Moore",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 54",
-        "statusDate": "02/07/2023",
-        "lastAction": "(H) Rereferred to Committee -- (H) Appropriations",
+        "statusDate": "02/13/2023; 03:00 PM, Rm 102",
+        "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0226",
         "legalNoteUrl": null,
@@ -13112,8 +13112,8 @@
         "sponsor": "Linda Reksten",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 12",
-        "statusDate": "02/01/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
+        "statusDate": "02/09/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0321",
         "legalNoteUrl": null,
@@ -13318,8 +13318,8 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/02/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
+        "statusDate": "02/09/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0325",
         "legalNoteUrl": null,
@@ -14156,8 +14156,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14174,8 +14174,8 @@
         "sponsor": "Jim Hamilton",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 61",
-        "statusDate": "02/02/2023; 09:00 AM, Rm 152",
-        "lastAction": "(H) Hearing -- (H) Taxation",
+        "statusDate": "02/09/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Taxation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0345",
         "legalNoteUrl": null,
@@ -18109,9 +18109,9 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "02/07/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "02/09/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -32883,6 +32883,79 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "SB 307",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=307&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1873.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1873.pdf",
+        "lc": "LC1873",
+        "title": "Revise reporting requirements for nonprofits and charitable trusts",
+        "sponsor": "Mark Noland",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 5",
+        "statusDate": "02/09/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mark Noland",
+        "subjects": [
+            {
+                "subject": "Corporations/Partnerships/Associations",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Estates and Trusts",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 308",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=308&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0644.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0644.pdf",
+        "lc": "LC0644",
+        "title": "Establish patient visitation rights",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "02/09/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -34314,8 +34387,8 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/06/2023; 03:00 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "02/08/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -35188,8 +35261,8 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/06/2023; 03:00 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "02/08/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -35271,8 +35344,8 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/06/2023; 03:00 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "02/08/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
