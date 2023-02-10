@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
+            "2/3 of Each House",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -20358,6 +20358,45 @@
             },
             {
                 "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 490",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=490&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3153.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3153.pdf",
+        "lc": "LC3153",
+        "title": "Generally revise laws relating to independent contractor tax evasion and fraud",
+        "sponsor": "Steve Gist",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 25",
+        "statusDate": "02/10/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Gist",
+        "subjects": [
+            {
+                "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
