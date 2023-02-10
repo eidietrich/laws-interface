@@ -919,5 +919,66 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0084AGS230209.pdf",
+        "bill": "HB 84",
+        "session": "20231",
+        "action_id": "HB84-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "February 09, 2023",
+        "description": "Sen. Gillespie made a Motion that HB 84 Be Concurred In",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            }
+        ]
     }
 ]
