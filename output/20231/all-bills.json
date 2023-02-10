@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "Simple",
             "2/3 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -18651,8 +18651,8 @@
         "sponsor": "Alice Buckley",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 63",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Human Services",
+        "statusDate": "02/17/2023; 03:00 PM, Rm 152",
+        "lastAction": "(H) Hearing -- (H) Human Services",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -30209,7 +30209,7 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "02/03/2023; 02:30 PM",
+        "statusDate": "02/03/2023; 03:00 PM",
         "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -34452,6 +34452,55 @@
         "subjects": [
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 323",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=323&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2022.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2022.pdf",
+        "lc": "LC2022",
+        "title": "Allow for duplex, triplex, and fourplex housing in city zoning",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "02/10/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
