@@ -469,10 +469,10 @@
         "id": "SB191-0042",
         "bill": "SB 191",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Concurred",
+        "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/09/2023",
-        "hasVote": true,
+        "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
     },
@@ -480,10 +480,10 @@
         "id": "SB191-0043",
         "bill": "SB 191",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) Committee Executive Action--Bill Concurred",
         "actionUrl": null,
         "date": "02/09/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
     },
@@ -506,6 +506,17 @@
         "actionUrl": null,
         "date": "02/10/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB191-0046",
+        "bill": "SB 191",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
