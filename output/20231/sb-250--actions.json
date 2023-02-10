@@ -190,7 +190,7 @@
         "id": "SB250-0017",
         "bill": "SB 250",
         "session": "20231",
-        "action": "(S) First Reading",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": false,
@@ -201,9 +201,9 @@
         "id": "SB250-0018",
         "bill": "SB 250",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(S) First Reading",
         "actionUrl": null,
-        "date": "02/02/2023",
+        "date": "02/01/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -212,11 +212,33 @@
         "id": "SB250-0019",
         "bill": "SB 250",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB250-0020",
+        "bill": "SB 250",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "02/07/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB250-0021",
+        "bill": "SB 250",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
