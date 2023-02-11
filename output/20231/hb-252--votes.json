@@ -104,7 +104,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H478&P_SESS=20231",
         "bill": "HB 252",
         "session": "20231",
-        "action_id": "HB252-0031",
+        "action_id": "HB252-0030",
         "type": "floor",
         "seq_number": "H478",
         "date": "February 06, 2023",
@@ -522,16 +522,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H516&P_SESS=20231",
         "bill": "HB 252",
         "session": "20231",
-        "action_id": "HB252-0032",
+        "action_id": "HB252-0031",
         "type": "floor",
         "seq_number": "H516",
-        "date": "February 07, 2023",
-        "description": "ReconsAction HB 252-Karlen",
+        "date": "February 06, 2023",
+        "description": "Do Pass",
         "totals": {
-            "Y": 53,
-            "N": 45,
+            "Y": 49,
+            "N": 51,
             "E": 0,
-            "A": 2
+            "A": 0
         },
         "votes": [
             {
@@ -552,7 +552,7 @@
             },
             {
                 "name": "Anderson, Fred",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fitzgerald, Ross",
@@ -628,11 +628,11 @@
             },
             {
                 "name": "Seekins-Crowe, Kerri",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Bertoglio, Marta",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Gillette, Jane",
@@ -648,7 +648,7 @@
             },
             {
                 "name": "Binkley, Michele",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gist, Steve",
@@ -824,7 +824,7 @@
             },
             {
                 "name": "Deming, Lee",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Howell, SJ",
@@ -836,15 +836,15 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Dooling, Julie",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Jones, Llew",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Oblander, Greg",
@@ -864,7 +864,7 @@
             },
             {
                 "name": "Parry, Gary",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Windy Boy, Jonathan",
@@ -896,7 +896,7 @@
             },
             {
                 "name": "Read, Joe",
-                "vote": "A"
+                "vote": "N"
             },
             {
                 "name": "Yakawich, Michael",
@@ -932,7 +932,7 @@
             },
             {
                 "name": "Zolnikov, Katie",
-                "vote": "Y"
+                "vote": "N"
             }
         ]
     }
