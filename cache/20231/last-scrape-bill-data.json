@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -613,9 +613,9 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(H) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0016",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0016",
@@ -1185,9 +1185,9 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Appropriations",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(H) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0029",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -3255,9 +3255,9 @@
         "sponsor": "Amy Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 6",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Concurred as Amended",
-        "billStatus": "In Second House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Concurred as Amended",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0079",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0079",
@@ -4607,9 +4607,9 @@
         "sponsor": "Jodee Etchart",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 48",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Concurred as Amended",
-        "billStatus": "In Second House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Concurred as Amended",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0112",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0112",
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -15524,8 +15524,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 64",
         "statusDate": "02/13/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0376",
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,12 +21510,61 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
         "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 518",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=518&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4027.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4027.pdf",
+        "lc": "LC4027",
+        "title": "Authorize standing for legislature to bring lawsuit",
+        "sponsor": "Bill Mercer",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 46",
+        "statusDate": "02/13/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bill Mercer",
+        "subjects": [
+            {
+                "subject": "Civil Procedure",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
     },
     {
         "key": "HJ 1",
@@ -27388,8 +27437,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
         "statusDate": "02/13/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Concurred",
-        "billStatus": "In Second House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Concurred",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0134",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -27427,8 +27476,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
         "statusDate": "02/13/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Concurred",
-        "billStatus": "In Second House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Concurred",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0135",
@@ -27466,8 +27515,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
         "statusDate": "02/13/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Concurred",
-        "billStatus": "In Second House Committee--Nontabled",
+        "lastAction": "(H) Committee Report--Bill Concurred",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -28797,9 +28846,9 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0169",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0169",
@@ -30019,9 +30068,9 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "02/10/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) State Administration",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -30561,9 +30610,9 @@
         "sponsor": "Carl Glimm",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 2",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0210",
@@ -30578,6 +30627,40 @@
             },
             {
                 "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 211",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=211&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0211.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0211.pdf",
+        "lc": "LC0167",
+        "title": "Article V convention commissioner selection and credentialing act",
+        "sponsor": "Tom McGillvray",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 23",
+        "statusDate": "02/10/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0211",
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom McGillvray",
+        "subjects": [
+            {
+                "subject": "Federal Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -30859,9 +30942,9 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0218",
@@ -31020,9 +31103,9 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "02/10/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) State Administration",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0222",
@@ -32090,9 +32173,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0247",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -32398,9 +32481,9 @@
         "sponsor": "Kenneth Bogner",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 19",
-        "statusDate": "02/10/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) State Administration",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -33182,8 +33265,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -34637,8 +34720,8 @@
         "sponsor": "Brad Molnar",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 28",
-        "statusDate": "02/10/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Education and Cultural Resources",
+        "statusDate": "02/17/2023; 03:00 PM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Education and Cultural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -35052,7 +35135,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 26",
         "statusDate": "02/13/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "lastAction": "(S) Referred to Committee -- (S) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -35356,6 +35439,89 @@
             },
             {
                 "subject": "Privacy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 325",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=325&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1844.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1844.pdf",
+        "lc": "LC1844",
+        "title": "Revise laws relating to the privacy of marital communications",
+        "sponsor": "Chris Friedel",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 26",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Chris Friedel",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Evidence",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Privacy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 326",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=326&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2570.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2570.pdf",
+        "lc": "LC2570",
+        "title": "Generally revise crime laws",
+        "sponsor": "Chris Friedel",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 26",
+        "statusDate": "02/13/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Chris Friedel",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Crimes",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
