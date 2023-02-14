@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "Simple",
+            "3/4 of Each House",
             "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -2103,9 +2103,9 @@
         "sponsor": "Joe Read",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 93",
-        "statusDate": "02/10/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(S) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0051",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -12858,9 +12858,9 @@
         "sponsor": "Tony Brockman",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Committee Report--Bill Passed as Amended",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0314",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0314",
@@ -13357,9 +13357,9 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0325",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0325",
@@ -14129,9 +14129,9 @@
         "sponsor": "Tony Brockman",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0343",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -14213,9 +14213,9 @@
         "sponsor": "Jim Hamilton",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 61",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Committee Report--Bill Passed as Amended",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0345",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0345",
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,8 +21510,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21962,7 +21962,7 @@
         "lastAction": "(H) Introduced",
         "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
+        "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0528",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -22263,6 +22263,279 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
         "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 536",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=536&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3399.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3399.pdf",
+        "lc": "LC3399",
+        "title": "Revise laws related to write-in candidates",
+        "sponsor": "Julie Dooling",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 70",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Julie Dooling",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 537",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=537&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2199.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2199.pdf",
+        "lc": "LC2199",
+        "title": "Provide exception for use of oil/gas water",
+        "sponsor": "John Fitzpatrick",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 77",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "John Fitzpatrick",
+        "subjects": [
+            {
+                "subject": "Oil and Gas  (see also: Mining and Minerals; Taxation--Oil and Gas)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Water",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 538",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=538&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3225.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3225.pdf",
+        "lc": "LC3225",
+        "title": "Revise constitutional and pledge of allegiance student  instruction laws",
+        "sponsor": "Bob Phalen",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 36",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Phalen",
+        "subjects": [
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Teachers",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 539",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=539&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0145.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0145.pdf",
+        "lc": "LC0145",
+        "title": "Generally revise alcohol laws",
+        "sponsor": "Katie Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 45",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Katie Zolnikov",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 540",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=540&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4410.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4410.pdf",
+        "lc": "LC4410",
+        "title": "Eliminate certain gender/sex requirements for party committee representatives",
+        "sponsor": "Mike Hopkins",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 92",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Hopkins",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 541",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=541&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2273.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2273.pdf",
+        "lc": "LC2273",
+        "title": "Require interest on criminal restitution and fines",
+        "sponsor": "Brandon Ler",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 35",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brandon Ler",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 542",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=542&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4034.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4034.pdf",
+        "lc": "LC4034",
+        "title": "Establish a volunteer firefighter and EMT tax credit",
+        "sponsor": "Ron Marshall",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 87",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ron Marshall",
+        "subjects": [
+            {
+                "subject": "Emergency and Disaster Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HJ 1",
@@ -34036,8 +34309,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -39299,9 +39572,9 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Report--Resolution Adopted",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(S) Resolution Adopted",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -39382,9 +39655,9 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/09/2023",
-        "lastAction": "(S) Committee Report--Resolution Adopted",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(S) Resolution Adopted",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -39426,9 +39699,9 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "02/13/2023",
-        "lastAction": "(S) Committee Report--Resolution Adopted",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/14/2023",
+        "lastAction": "(S) Resolution Adopted",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
