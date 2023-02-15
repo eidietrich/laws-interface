@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -20732,8 +20732,8 @@
         "sponsor": "Emma Kerr-Carpenter",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 49",
-        "statusDate": "02/14/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Human Services",
+        "statusDate": "02/17/2023; 03:00 PM, Rm 152",
+        "lastAction": "(H) Hearing -- (H) Human Services",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -22590,6 +22590,206 @@
             },
             {
                 "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 544",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=544&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1690.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1690.pdf",
+        "lc": "LC1690",
+        "title": "Provide requirements for coverage of abortion under Medicaid and CHIP",
+        "sponsor": "Jane Gillette",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 64",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jane Gillette",
+        "subjects": [
+            {
+                "subject": "Abortion",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 545",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=545&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1305.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1305.pdf",
+        "lc": "LC1305",
+        "title": "Revise state laws to recognize creation of US Space Force",
+        "sponsor": "Edward Buttrey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 21",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Edward Buttrey",
+        "subjects": [
+            {
+                "subject": "Military Affairs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 546",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=546&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3503.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3503.pdf",
+        "lc": "LC3503",
+        "title": "Authorize additional funding for coal trust loan program for housing",
+        "sponsor": "Dave Fern",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 5",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Dave Fern",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Coal  (see also: Appropriations, Coal Tax Fund Principal)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 547",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=547&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1203.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1203.pdf",
+        "lc": "LC1203",
+        "title": "Provide penalties for selling data/images from trail cams on public land",
+        "sponsor": "Jill Cohenour",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 84",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jill Cohenour",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 548",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=548&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1200.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1200.pdf",
+        "lc": "LC1200",
+        "title": "Revise penalties for criminal trespass while collecting antlers/sheds/horns",
+        "sponsor": "Jill Cohenour",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 84",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jill Cohenour",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -31591,8 +31791,8 @@
         "sponsor": "Bob Brown",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 7",
-        "statusDate": "02/14/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "02/17/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -36525,8 +36725,8 @@
         "sponsor": "Bob Brown",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 7",
-        "statusDate": "02/14/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Fish and Game",
+        "statusDate": "02/23/2023; 03:00 PM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -37428,6 +37628,45 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "SB 346",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=346&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1569.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1569.pdf",
+        "lc": "LC1569",
+        "title": "Provide for general fund transfer to coal severance tax trust fund",
+        "sponsor": "Ryan Lynch",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 37",
+        "statusDate": "02/14/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ryan Lynch",
+        "subjects": [
+            {
+                "subject": "Money Transfer",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -37960,8 +38199,8 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "01/19/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Fish and Game",
+        "statusDate": "02/23/2023; 03:00 PM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
