@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,8 +21510,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22907,8 +22907,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -35589,8 +35589,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -39741,6 +39741,51 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
         "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 372",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=372&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2232.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2232.pdf",
+        "lc": "LC2232",
+        "title": "Constitutional amendment to revise selection of certain judges and justices",
+        "sponsor": "Daniel Emrich",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 11",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Emrich",
+        "subjects": [
+            {
+                "subject": "Constitutional Amendment Proposals",
+                "fiscalCode": "",
+                "voteReq": "2/3 of Entire Legislature"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "2/3 of Entire Legislature",
+            "Simple"
+        ],
+        "deadlineCategory": "REFERENDUM PROPOSALS",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SJ 1",
