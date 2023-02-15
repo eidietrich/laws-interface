@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
+            "2/3 of Each House",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -1141,8 +1141,8 @@
         "sponsor": "Rhonda Knudsen",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 34",
-        "statusDate": "02/13/2023; 03:00 PM, Rm 317",
-        "lastAction": "(S) Hearing",
+        "statusDate": "02/14/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Concurred as Amended",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0028",
         "legalNoteUrl": null,
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14618,8 +14618,8 @@
         "sponsor": "John Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 77",
-        "statusDate": "02/06/2023; 03:00 PM, Rm 102",
-        "lastAction": "(H) Hearing -- (H) Appropriations",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0355",
         "legalNoteUrl": null,
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,8 +21510,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22907,8 +22907,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -23021,8 +23021,8 @@
         "key": "HB 554",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=554&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1149.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1149.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0554.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0554.pdf",
         "lc": "LC1149",
         "title": "Revise laws relating to confidentiality of child abuse and neglect records",
         "sponsor": "Jennifer Carlson",
@@ -23050,6 +23050,255 @@
             },
             {
                 "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 555",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=555&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0555.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0555.pdf",
+        "lc": "LC1139",
+        "title": "Revise laws related to counsel for children in abuse and neglect cases",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 556",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=556&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1116.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1116.pdf",
+        "lc": "LC1116",
+        "title": "Revise definitions related to day-care facilities and family day-care homes",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 557",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=557&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1467.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1467.pdf",
+        "lc": "LC1467",
+        "title": "Clarify use of HEART account funds for behavioral health crisis services",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 558",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=558&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2835.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2835.pdf",
+        "lc": "LC2835",
+        "title": "Revising PSC deposition laws",
+        "sponsor": "Steven Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 24",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steven Galloway",
+        "subjects": [
+            {
+                "subject": "Civil Procedure",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Energy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 559",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=559&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3863.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3863.pdf",
+        "lc": "LC3863",
+        "title": "License prospective adoptive parents as foster parents",
+        "sponsor": "Lola Sheldon-Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 22",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Lola Sheldon-Galloway",
+        "subjects": [
+            {
+                "subject": "Family Law  (see also: Minors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 560",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=560&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3763.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3763.pdf",
+        "lc": "LC3763",
+        "title": "Revise laws related to adoption",
+        "sponsor": "Lola Sheldon-Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 22",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Lola Sheldon-Galloway",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Family Law  (see also: Minors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -34833,8 +35082,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -36863,8 +37112,8 @@
         "sponsor": "Ellie Boldman",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 45",
-        "statusDate": "02/13/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "02/21/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -37029,8 +37278,8 @@
         "sponsor": "Chris Friedel",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 26",
-        "statusDate": "02/14/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "02/21/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -37073,8 +37322,8 @@
         "sponsor": "Chris Friedel",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 26",
-        "statusDate": "02/14/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "02/21/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -37371,8 +37620,8 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "02/14/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "02/22/2023; 09:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -38020,6 +38269,118 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "SB 349",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=349&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0349.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0349.pdf",
+        "lc": "LC4533",
+        "title": "Establish economic/diplomatic relations with republic of Korea",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Trade Regulations and Competition",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 350",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=350&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0350.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0350.pdf",
+        "lc": "LC1080",
+        "title": "Generally revise privacy laws related to student data",
+        "sponsor": "Daniel Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 22",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Zolnikov",
+        "subjects": [
+            {
+                "subject": "Privacy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 351",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=351&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0351.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0351.pdf",
+        "lc": "LC1085",
+        "title": "Generally revise privacy laws related to biometric data",
+        "sponsor": "Daniel Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 22",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Zolnikov",
+        "subjects": [
+            {
+                "subject": "Consumer Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Privacy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -38452,6 +38813,40 @@
             },
             {
                 "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SJ 12",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=12&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0619.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0619.pdf",
+        "lc": "LC0619",
+        "title": "Resolution for a feasibility to establish a Montana trade office in India",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Economic Development",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
