@@ -261,7 +261,9 @@
         "date": "02/08/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47758?agendaId=251603"
+        ]
     },
     {
         "id": "HB356-0024",
@@ -304,6 +306,17 @@
         "actionUrl": null,
         "date": "02/15/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB356-0028",
+        "bill": "HB 356",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
