@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple",
-            "2/3 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -2334,7 +2334,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 70",
         "statusDate": "02/15/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -2695,7 +2695,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 54",
         "statusDate": "02/15/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -3842,7 +3842,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 41",
         "statusDate": "02/15/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -3881,7 +3881,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 41",
         "statusDate": "02/15/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16484,7 +16484,7 @@
         "statusDate": "02/15/2023",
         "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0398",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,8 +21510,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22907,8 +22907,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -35589,8 +35589,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -40209,6 +40209,45 @@
         "subjects": [
             {
                 "subject": "Economic Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SJ 13",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=13&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4235.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4235.pdf",
+        "lc": "LC4235",
+        "title": "Resolution for rangeland appreciation month",
+        "sponsor": "Mike Lang",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 17",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Lang",
+        "subjects": [
+            {
+                "subject": "Agriculture  (see also: Livestock; Taxation--Agriculture/Livestock)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
