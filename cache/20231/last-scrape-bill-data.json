@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -23494,6 +23494,201 @@
             },
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 566",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=566&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4548.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4548.pdf",
+        "lc": "LC4548",
+        "title": "Revise notice requirements for human sexuality instruction",
+        "sponsor": "Fred Anderson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 20",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Fred Anderson",
+        "subjects": [
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 567",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=567&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4291.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4291.pdf",
+        "lc": "LC4291",
+        "title": "Revise health insurance navigator training requirements",
+        "sponsor": "Mary Caferro",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 82",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mary Caferro",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 568",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=568&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2435.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2435.pdf",
+        "lc": "LC2435",
+        "title": "Establish safe nursing standards for hospitals",
+        "sponsor": "Mary Caferro",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 82",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mary Caferro",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations E-N",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 569",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=569&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1189.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1189.pdf",
+        "lc": "LC1189",
+        "title": "Generally revise pension laws",
+        "sponsor": "Terry Moore",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 54",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Terry Moore",
+        "subjects": [
+            {
+                "subject": "Public Officers and Employees",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Retirement (see also: Senior Citizens)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 570",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=570&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0604.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0604.pdf",
+        "lc": "LC0604",
+        "title": "Provide civil penalty for interfering with abortion access",
+        "sponsor": "Marilyn Marler",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 90",
+        "statusDate": "02/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Marilyn Marler",
+        "subjects": [
+            {
+                "subject": "Abortion",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Remedies  (see also: Liability; Torts)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -38647,6 +38842,40 @@
         "subjects": [
             {
                 "subject": "Energy",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 354",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=354&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3230.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3230.pdf",
+        "lc": "LC3230",
+        "title": "Reciprocity for out of state trappers",
+        "sponsor": "Bob Brown",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 7",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Brown",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
