@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
+            "Simple",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -25106,6 +25106,94 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "HB 606",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=606&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1151.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1151.pdf",
+        "lc": "LC1151",
+        "title": "Revise laws related to home-based businesses",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 607",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=607&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2263.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2263.pdf",
+        "lc": "LC2263",
+        "title": "Revise legislative oversight of administrative rules",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Administrative Rules; Revision or Repeal",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -40374,8 +40462,8 @@
         "key": "SB 357",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=357&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1348.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1348.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0357.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0357.pdf",
         "lc": "LC1348",
         "title": "Require terms for conservation easements using state funds",
         "sponsor": "Steve Hinebauch",
@@ -41126,8 +41214,8 @@
         "sponsorParty": "D",
         "sponsorDistrict": "SD 49",
         "statusDate": "02/16/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(S) Referred to Committee -- (S) Local Government",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -41170,8 +41258,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 17",
         "statusDate": "02/16/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(S) Referred to Committee -- (S) Agriculture, Livestock and Irrigation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -41214,8 +41302,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 19",
         "statusDate": "02/16/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "lastAction": "(S) Referred to Committee -- (S) Local Government",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -41891,8 +41979,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "02/15/2023; 03:00 PM",
-        "lastAction": "(S) Hearing -- (S) State Administration",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
