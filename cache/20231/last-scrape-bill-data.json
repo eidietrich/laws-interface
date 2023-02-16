@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9703,9 +9703,9 @@
         "sponsor": "Brandon Ler",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 35",
-        "statusDate": "02/02/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "02/16/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -9737,9 +9737,9 @@
         "sponsor": "Mark Thane",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 99",
-        "statusDate": "02/02/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "02/16/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -11204,9 +11204,9 @@
         "sponsor": "Scot Kerns",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 23",
-        "statusDate": "02/02/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "02/16/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,8 +21510,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22907,8 +22907,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -25045,6 +25045,55 @@
             },
             {
                 "subject": "Law Enforcement  (see also: Criminal Procedure)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 605",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=605&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2260.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2260.pdf",
+        "lc": "LC2260",
+        "title": "Revise statutory construction for agency decisions",
+        "sponsor": "Jennifer Carlson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 69",
+        "statusDate": "02/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jennifer Carlson",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -35311,8 +35360,8 @@
         "sponsor": "Shelley Vance",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 34",
-        "statusDate": "02/08/2023; 03:00 PM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Natural Resources",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -35438,8 +35487,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "02/08/2023; 03:00 PM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Natural Resources",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -36828,8 +36877,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -40293,8 +40342,8 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "02/16/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Fish and Game",
+        "statusDate": "02/23/2023; 03:00 PM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -41019,8 +41068,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -41798,7 +41847,7 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "02/23/2023; 03:00 PM, Rm 422",
+        "statusDate": "02/21/2023; 03:00 PM, Rm 422",
         "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
