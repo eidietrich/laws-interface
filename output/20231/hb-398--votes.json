@@ -1,12 +1,109 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0398JUH230215.pdf",
         "bill": "HB 398",
         "session": "20231",
         "action_id": "HB398-0022",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 15, 2023",
+        "description": "Rep. Ler made a Motion that HB 398 Do Pass",
+        "totals": {
+            "Y": 15,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "N"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Caleb;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "N"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "bbott, Kim;byproxy",
+                "vote": "A"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": null,
+        "bill": "HB 398",
+        "session": "20231",
+        "action_id": "HB398-0026",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
         "totals": {
             "Y": 15,
             "N": 4
