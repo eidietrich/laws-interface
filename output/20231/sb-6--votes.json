@@ -64,7 +64,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S14&P_SESS=20231",
         "bill": "SB 6",
         "session": "20231",
-        "action_id": "SB6-0024",
+        "action_id": "SB6-0023",
         "type": "floor",
         "seq_number": "S14",
         "date": "January 10, 2023",
@@ -282,7 +282,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S26&P_SESS=20231",
         "bill": "SB 6",
         "session": "20231",
-        "action_id": "SB6-0026",
+        "action_id": "SB6-0025",
         "type": "floor",
         "seq_number": "S26",
         "date": "January 11, 2023",
@@ -500,7 +500,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0006HUH230126.pdf",
         "bill": "SB 6",
         "session": "20231",
-        "action_id": "SB6-0032",
+        "action_id": "SB6-0031",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -601,7 +601,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H462&P_SESS=20231",
         "bill": "SB 6",
         "session": "20231",
-        "action_id": "SB6-0038",
+        "action_id": "SB6-0037",
         "type": "floor",
         "seq_number": "H462",
         "date": "February 03, 2023",
@@ -1019,16 +1019,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H495&P_SESS=20231",
         "bill": "SB 6",
         "session": "20231",
-        "action_id": "SB6-0040",
+        "action_id": "SB6-0039",
         "type": "floor",
         "seq_number": "H495",
-        "date": "February 06, 2023",
+        "date": "February 03, 2023",
         "description": "Do Concur",
         "totals": {
             "Y": 98,
             "N": 0,
-            "E": 2,
-            "A": 0
+            "E": 0,
+            "A": 2
         },
         "votes": [
             {
@@ -1237,7 +1237,7 @@
             },
             {
                 "name": "Stewart Peregoy, Sharon",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Buttrey, Edward",
@@ -1333,7 +1333,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Dooling, Julie",
@@ -1385,7 +1385,7 @@
             },
             {
                 "name": "Etchart, Jodee",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Keenan, Bob",
@@ -1421,7 +1421,7 @@
             },
             {
                 "name": "Kerns, Scot",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Regier, Amy",

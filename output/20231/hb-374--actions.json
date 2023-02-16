@@ -228,7 +228,9 @@
         "date": "02/06/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46898?agendaId=251006"
+        ]
     },
     {
         "id": "HB374-0021",
@@ -322,9 +324,31 @@
         "id": "HB374-0029",
         "bill": "HB 374",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) 2nd Reading Pass Consideration",
         "actionUrl": null,
         "date": "02/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB374-0030",
+        "bill": "HB 374",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB374-0031",
+        "bill": "HB 374",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/16/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

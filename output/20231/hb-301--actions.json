@@ -328,8 +328,10 @@
         "actionUrl": null,
         "date": "02/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46118?agendaId=250579"
+        ]
     },
     {
         "id": "HB301-0030",
@@ -351,6 +353,8 @@
         "date": "02/06/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46295?agendaId=250926"
+        ]
     }
 ]

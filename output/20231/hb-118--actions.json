@@ -252,8 +252,10 @@
         "actionUrl": null,
         "date": "02/13/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46124?agendaId=252297"
+        ]
     },
     {
         "id": "HB118-0023",
@@ -274,6 +276,17 @@
         "actionUrl": null,
         "date": "02/14/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB118-0025",
+        "bill": "HB 118",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
