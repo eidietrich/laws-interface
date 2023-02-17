@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "Simple",
             "2/3 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7935,8 +7935,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15378,8 +15378,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16781,8 +16781,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21510,8 +21510,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22907,8 +22907,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -25745,8 +25745,8 @@
         "key": "HB 620",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=620&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3983.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3983.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0620.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0620.pdf",
         "lc": "LC3983",
         "title": "Establish the legal tender act",
         "sponsor": "Joe Read",
@@ -25789,8 +25789,8 @@
         "key": "HB 621",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=621&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1221.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1221.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0621.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0621.pdf",
         "lc": "LC1221",
         "title": "Revise land access laws for hunting and fishing",
         "sponsor": "Jill Cohenour",
@@ -25843,8 +25843,8 @@
         "key": "HB 622",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=622&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3966.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3966.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0622.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0622.pdf",
         "lc": "LC3966",
         "title": "Provide for non-resident titling",
         "sponsor": "Denley M Loge",
@@ -25877,8 +25877,8 @@
         "key": "HB 623",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=623&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2998.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2998.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0623.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0623.pdf",
         "lc": "LC2998",
         "title": "Establish penalties for negligent injury or death of service animals",
         "sponsor": "Melissa Romano",
@@ -25906,6 +25906,406 @@
             },
             {
                 "subject": "Safety  (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 624",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=624&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0624.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0624.pdf",
+        "lc": "LC3133",
+        "title": "Revise laws related to officers of court",
+        "sponsor": "Mike Hopkins",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 92",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Hopkins",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 625",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=625&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0625.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0625.pdf",
+        "lc": "LC4602",
+        "title": "Infant safety and care act",
+        "sponsor": "Kerri Seekins-Crowe",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 43",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kerri Seekins-Crowe",
+        "subjects": [
+            {
+                "subject": "Abortion",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 626",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=626&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0626.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0626.pdf",
+        "lc": "LC3430",
+        "title": "Revise election laws related to appointment process for legislative vacancy",
+        "sponsor": "Paul Fielder",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 13",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Paul Fielder",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 627",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=627&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3410.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3410.pdf",
+        "lc": "LC3410",
+        "title": "Revise wolf trapping laws",
+        "sponsor": "Paul Fielder",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 13",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Paul Fielder",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 628",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=628&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3411.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3411.pdf",
+        "lc": "LC3411",
+        "title": "Revise wolf trapping laws",
+        "sponsor": "Paul Fielder",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 13",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Paul Fielder",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 629",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=629&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1046.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1046.pdf",
+        "lc": "LC1046",
+        "title": "Provide for attorney fees and costs in certain justifiable use of force cases",
+        "sponsor": "Brandon Ler",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 35",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brandon Ler",
+        "subjects": [
+            {
+                "subject": "Administrative Rules; Revision or Repeal",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Civil Procedure",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "County Finance  (see also: Local Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 630",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=630&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3412.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3412.pdf",
+        "lc": "LC3412",
+        "title": "Revise black bear hunting laws",
+        "sponsor": "Paul Fielder",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 13",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Paul Fielder",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 631",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=631&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1047.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1047.pdf",
+        "lc": "LC1047",
+        "title": "Bill for gun owners access to justice act",
+        "sponsor": "Jedediah Hinkle",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 67",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jedediah Hinkle",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Guns and Weapons",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 632",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=632&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4469.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4469.pdf",
+        "lc": "LC4469",
+        "title": "Generally revise laws related to CPS investigations",
+        "sponsor": "Tanner Smith",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 11",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tanner Smith",
+        "subjects": [
+            {
+                "subject": "Family Law  (see also: Minors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 633",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=633&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3869.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3869.pdf",
+        "lc": "LC3869",
+        "title": "Provide means to raise teacher pay in school districts with high cost of living",
+        "sponsor": "Eric Matthews",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 66",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Eric Matthews",
+        "subjects": [
+            {
+                "subject": "School Finance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -37689,8 +38089,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -38034,8 +38434,8 @@
         "sponsor": "Pat Flowers",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 32",
-        "statusDate": "02/14/2023; 03:00 PM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Fish and Game",
+        "statusDate": "02/16/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0281",
         "legalNoteUrl": null,
@@ -41880,8 +42280,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -43572,8 +43972,8 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/08/2023; 03:00 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -43704,8 +44104,8 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/08/2023; 03:00 PM, Rm 317",
-        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
+        "statusDate": "02/15/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
