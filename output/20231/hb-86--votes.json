@@ -96,7 +96,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H18&P_SESS=20231",
         "bill": "HB 86",
         "session": "20231",
-        "action_id": "HB86-0022",
+        "action_id": "HB86-0021",
         "type": "floor",
         "seq_number": "H18",
         "date": "January 06, 2023",
@@ -514,7 +514,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H39&P_SESS=20231",
         "bill": "HB 86",
         "session": "20231",
-        "action_id": "HB86-0024",
+        "action_id": "HB86-0023",
         "type": "floor",
         "seq_number": "H39",
         "date": "January 09, 2023",
@@ -932,23 +932,72 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0086FIS230124.pdf",
         "bill": "HB 86",
         "session": "20231",
-        "action_id": "HB86-0030",
+        "action_id": "HB86-0029",
         "type": "committee",
         "seq_number": null,
         "error": null,
-        "date": "January 24, 2023",
-        "description": "Sen. Brown made a Motion that HB 86 Be Concurred In as Amended",
+        "date": "January 24, 2023  ",
+        "description": "Sen. Brown made a Motion that HB0086.001.003 Be Amended  ",
         "totals": {
-            "Y": 0,
+            "Y": 12,
             "N": 0
         },
-        "votes": []
+        "votes": [
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S456&P_SESS=20231",
         "bill": "HB 86",
         "session": "20231",
-        "action_id": "HB86-0035",
+        "action_id": "HB86-0034",
         "type": "floor",
         "seq_number": "S456",
         "date": "February 08, 2023",
@@ -1166,14 +1215,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S510&P_SESS=20231",
         "bill": "HB 86",
         "session": "20231",
-        "action_id": "HB86-0037",
+        "action_id": "HB86-0036",
         "type": "floor",
         "seq_number": "S510",
-        "date": "February 09, 2023",
+        "date": "February 08, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 50,
-            "N": 0,
+            "Y": 49,
+            "N": 1,
             "E": 0,
             "A": 0
         },
@@ -1260,7 +1309,7 @@
             },
             {
                 "name": "Cuffe, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Glimm, Carl",
