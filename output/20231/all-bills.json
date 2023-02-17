@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
+            "2/3 of Each House",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -20463,8 +20463,8 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "02/20/2023; 03:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Energy, Technology and Federal Relations",
+        "statusDate": "02/14/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -23199,8 +23199,8 @@
         "sponsor": "Steven Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 24",
-        "statusDate": "02/22/2023; 03:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Energy, Technology and Federal Relations",
+        "statusDate": "02/16/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -43476,6 +43476,84 @@
             },
             {
                 "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 395",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=395&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4424.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4424.pdf",
+        "lc": "LC4424",
+        "title": "Allow judicial candidates to announce endorsements",
+        "sponsor": "Carl Glimm",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 2",
+        "statusDate": "02/17/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Carl Glimm",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 396",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=396&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0961.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0961.pdf",
+        "lc": "LC0961",
+        "title": "Revise electronic driver's license privacy laws",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "02/17/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Privacy",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
