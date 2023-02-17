@@ -1,15 +1,67 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0309HIS230216.pdf",
         "bill": "SB 309",
         "session": "20231",
-        "action_id": "SB309-0027",
+        "action_id": "SB309-0026",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "February 16, 2023",
+        "description": "Sen. Friedel made a Motion that SB 309 Do Pass",
         "totals": {
             "Y": 12,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]
