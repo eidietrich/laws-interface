@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "3/4 of Each House",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -8809,7 +8809,7 @@
         "sponsor": "Laura Smith",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 79",
-        "statusDate": "02/20/2023; 03:00 PM, Rm 317",
+        "statusDate": "03/10/2023; 02:00 PM, Rm 317",
         "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0218",
@@ -14195,8 +14195,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -18734,9 +18734,9 @@
         "sponsor": "Steve Gist",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 25",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Bill Withdrawn per House Rule H30-50(3)(b) *",
+        "billStatus": "Probably Dead",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -22246,8 +22246,8 @@
         "sponsor": "Braxton Mitchell",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 3",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Education",
+        "statusDate": "02/22/2023; 03:00 PM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -23521,8 +23521,8 @@
         "sponsor": "Fred Anderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 20",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Education",
+        "statusDate": "02/22/2023; 03:00 PM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -24350,8 +24350,8 @@
         "sponsor": "Llew Jones",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 18",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Education",
+        "statusDate": "02/22/2023; 03:00 PM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -24394,8 +24394,8 @@
         "sponsor": "Llew Jones",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 18",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Education",
+        "statusDate": "02/22/2023; 03:00 PM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -27565,6 +27565,89 @@
         "subjects": [
             {
                 "subject": "Traffic Regulations  (see also: Motor Vehicles)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 665",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=665&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0665.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0665.pdf",
+        "lc": "LC4516",
+        "title": "Revise laws related to insurance coverage of breast examinations",
+        "sponsor": "Jodee Etchart",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 48",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jodee Etchart",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 667",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=667&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0667.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0667.pdf",
+        "lc": "LC1415",
+        "title": "Generally revise education laws related to children under 5 years of age",
+        "sponsor": "David Bedey",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 86",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "David Bedey",
+        "subjects": [
+            {
+                "subject": "School Finance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -41969,8 +42052,8 @@
         "sponsor": "John Esp",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 30",
-        "statusDate": "02/15/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Public Health, Welfare and Safety",
+        "statusDate": "02/24/2023; 02:00 PM, Rm 317",
+        "lastAction": "(S) Hearing -- (S) Public Health, Welfare and Safety",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -45053,6 +45136,167 @@
             },
             {
                 "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 409",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=409&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1706.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1706.pdf",
+        "lc": "LC1706",
+        "title": "Allow for the condemnation and reacquisition of a mobile home park",
+        "sponsor": "Ellie Boldman",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 45",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ellie Boldman",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Landlord and Tenant",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Finance  (see also: City Finance; County Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 410",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=410&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0873.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0873.pdf",
+        "lc": "LC0873",
+        "title": "Removing duty of court administrator",
+        "sponsor": "Barry Usher",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 20",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Barry Usher",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 411",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=411&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0171.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0171.pdf",
+        "lc": "LC0171",
+        "title": "Generally Revise Motor Vehicle Laws",
+        "sponsor": "Barry Usher",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 20",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Barry Usher",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Transportation and Vehicles",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 412",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=412&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4520.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4520.pdf",
+        "lc": "LC4520",
+        "title": "Require warning for electric vehicles",
+        "sponsor": "Barry Usher",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 20",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Barry Usher",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
