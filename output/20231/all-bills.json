@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -14200,8 +14200,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33919,8 +33919,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/17/2023",
-        "lastAction": "(H) Returned to Senate",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0134",
         "legalNoteUrl": null,
@@ -33958,8 +33958,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/17/2023",
-        "lastAction": "(H) Returned to Senate",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -33997,8 +33997,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/17/2023",
-        "lastAction": "(H) Returned to Senate",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -45721,6 +45721,255 @@
             },
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 417",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=417&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4033.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4033.pdf",
+        "lc": "LC4033",
+        "title": "Pay off bonded debt",
+        "sponsor": "Brad Molnar",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 28",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Molnar",
+        "subjects": [
+            {
+                "subject": "Appropriation Process",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Bond Issues, Public",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 418",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=418&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0971.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0971.pdf",
+        "lc": "LC0971",
+        "title": "Incentives for trust land lessees to provide public access",
+        "sponsor": "Brad Molnar",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 28",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Molnar",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Recreation/Parks/Sports",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Lands",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 419",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=419&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4547.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4547.pdf",
+        "lc": "LC4547",
+        "title": "Ban tik-tok in Montana",
+        "sponsor": "Shelley Vance",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 34",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Shelley Vance",
+        "subjects": [
+            {
+                "subject": "Consumer Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Federal Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Information Technology  (see also: Communications)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 420",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=420&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4142.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4142.pdf",
+        "lc": "LC4142",
+        "title": "Require the election of city officials on even years",
+        "sponsor": "Chris Friedel",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 26",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Chris Friedel",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "City Officers  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 421",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=421&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3865.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3865.pdf",
+        "lc": "LC3865",
+        "title": "Generally revise vehicle salvage laws",
+        "sponsor": "Chris Friedel",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 26",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Chris Friedel",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 422",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=422&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0635.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0635.pdf",
+        "lc": "LC0635",
+        "title": "Expand eligibility for the Right to Try Act",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
