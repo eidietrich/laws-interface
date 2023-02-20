@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -965,8 +965,8 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Returned from Enrolling",
+        "statusDate": "02/17/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -2460,8 +2460,8 @@
         "sponsor": "Ross H Fitzgerald",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 17",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Returned from Enrolling",
+        "statusDate": "02/17/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0059",
         "legalNoteUrl": null,
@@ -4021,8 +4021,8 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Returned from Enrolling",
+        "statusDate": "02/17/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -8897,9 +8897,9 @@
         "sponsor": "Joshua Kassmier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 27",
-        "statusDate": "02/15/2023; 03:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Energy, Technology and Federal Relations",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(C) Draft Delivered to Requester",
+        "billStatus": "In Drafting Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -8907,6 +8907,11 @@
         "billRequestor": null,
         "primarySponsor": "Joshua Kassmier",
         "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
             {
                 "subject": "Energy",
                 "fiscalCode": "",
@@ -8921,9 +8926,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 221",
@@ -16525,8 +16530,8 @@
         "sponsor": "Bill Mercer",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 46",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -17968,9 +17973,9 @@
         "sponsor": "Laurie Bishop",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 60",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Tabled in Committee * -- (H) Judiciary",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -18998,8 +19003,8 @@
         "sponsor": "Alice Buckley",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 63",
-        "statusDate": "02/17/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0457",
         "legalNoteUrl": null,
@@ -19276,8 +19281,8 @@
         "sponsor": "Paul Fielder",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 13",
-        "statusDate": "02/17/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -19701,8 +19706,8 @@
         "sponsor": "Dave Fern",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 5",
-        "statusDate": "02/17/2023; 08:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0474",
         "legalNoteUrl": null,
@@ -20068,8 +20073,8 @@
         "sponsor": "Jane Gillette",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 64",
-        "statusDate": "02/13/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Education",
+        "statusDate": "02/24/2023; 03:00 PM, Rm 137",
+        "lastAction": "(H) Hearing -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0482",
         "legalNoteUrl": null,
@@ -45390,8 +45395,8 @@
         "key": "SB 414",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=414&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4605.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4605.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0414.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0414.pdf",
         "lc": "LC4605",
         "title": "Renaming certain senate offices",
         "sponsor": "Jason W Ellsworth",
@@ -45409,6 +45414,45 @@
         "subjects": [
             {
                 "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 415",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=415&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0415.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0415.pdf",
+        "lc": "LC0336",
+        "title": "Revise dental insurance laws",
+        "sponsor": "Greg Hertz",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 6",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Greg Hertz",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Insurance",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -48158,6 +48202,50 @@
         "subjects": [
             {
                 "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SR 54",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=54&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4615.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4615.pdf",
+        "lc": "LC4615",
+        "title": "Confirm governor's appointee for the board of alternative health care",
+        "sponsor": "Tom McGillvray",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 23",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Public Health, Welfare and Safety",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom McGillvray",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations  Generally",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
