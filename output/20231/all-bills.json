@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14200,8 +14200,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -27756,8 +27756,8 @@
         "key": "HB 670",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=670&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1436.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1436.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0670.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0670.pdf",
         "lc": "LC1436",
         "title": "Notaries not required for vehicle transfers",
         "sponsor": "Tom Welch",
@@ -27790,8 +27790,8 @@
         "key": "HB 671",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=671&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3086.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3086.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0671.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0671.pdf",
         "lc": "LC3086",
         "title": "Generally revise environmental protection laws",
         "sponsor": "John Fitzpatrick",
@@ -27824,8 +27824,8 @@
         "key": "HB 672",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=672&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3083.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3083.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0672.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0672.pdf",
         "lc": "LC3083",
         "title": "Generally revise environmental protection laws",
         "sponsor": "John Fitzpatrick",
@@ -27843,6 +27843,89 @@
         "subjects": [
             {
                 "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 673",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=673&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0673.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0673.pdf",
+        "lc": "LC1131",
+        "title": "Revise laws related to publishing of marijuana-related misdemeanors",
+        "sponsor": "Mike Hopkins",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 92",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Hopkins",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Criminal Procedure  (see also: Law Enforcement)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 674",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=674&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0674.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0674.pdf",
+        "lc": "LC3950",
+        "title": "Revise firearm laws to create an enhanced concealed carry permit",
+        "sponsor": "Kerri Seekins-Crowe",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 43",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kerri Seekins-Crowe",
+        "subjects": [
+            {
+                "subject": "Guns and Weapons",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -45599,6 +45682,45 @@
             },
             {
                 "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 416",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=416&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1336.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1336.pdf",
+        "lc": "LC1336",
+        "title": "Revise timeline for changes to precinct boundaries after redistricting",
+        "sponsor": "Janet Ellis",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 41",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Janet Ellis",
+        "subjects": [
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
