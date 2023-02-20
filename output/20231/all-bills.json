@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -1566,9 +1566,9 @@
         "sponsor": "Greg Oblander",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 40",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Concurred",
-        "billStatus": "In Second House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Concurred",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0038",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0038",
@@ -8473,8 +8473,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -11716,9 +11716,9 @@
         "sponsor": "Mary Caferro",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 82",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Concurred",
-        "billStatus": "In Second House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Concurred",
+        "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0286",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -14200,8 +14200,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -27753,6 +27753,108 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "HB 670",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=670&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1436.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1436.pdf",
+        "lc": "LC1436",
+        "title": "Notaries not required for vehicle transfers",
+        "sponsor": "Tom Welch",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 72",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tom Welch",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 671",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=671&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3086.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3086.pdf",
+        "lc": "LC3086",
+        "title": "Generally revise environmental protection laws",
+        "sponsor": "John Fitzpatrick",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 77",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "John Fitzpatrick",
+        "subjects": [
+            {
+                "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 672",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=672&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3083.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3083.pdf",
+        "lc": "LC3083",
+        "title": "Generally revise environmental protection laws",
+        "sponsor": "John Fitzpatrick",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 77",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "John Fitzpatrick",
+        "subjects": [
+            {
+                "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -28607,9 +28709,9 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "01/04/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0011",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0011",
@@ -39776,9 +39878,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0278",
@@ -39820,9 +39922,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/09/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -40113,9 +40215,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "02/10/2023; 09:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Passed",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0286",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -41471,9 +41573,9 @@
         "sponsor": "Ellie Boldman",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 45",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Judiciary",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Bill Passed as Amended",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0318",
@@ -48102,9 +48204,9 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Public Health, Welfare and Safety",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/20/2023",
+        "lastAction": "(S) Committee Report--Resolution Adopted",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
