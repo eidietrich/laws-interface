@@ -215,20 +215,6 @@
         "id": "HB8-0019",
         "bill": "HB 8",
         "session": "20231",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "01/23/2023",
-        "hasVote": false,
-        "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45635?agendaId=248124",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45635?agendaId=248140"
-        ]
-    },
-    {
-        "id": "HB8-0020",
-        "bill": "HB 8",
-        "session": "20231",
         "action": "(H) Sponsor List Modified",
         "actionUrl": null,
         "date": "01/25/2023",
@@ -237,7 +223,7 @@
         "recordings": []
     },
     {
-        "id": "HB8-0021",
+        "id": "HB8-0020",
         "bill": "HB 8",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -245,6 +231,17 @@
         "date": "02/06/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB8-0021",
+        "bill": "HB 8",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": []
     }
 ]
