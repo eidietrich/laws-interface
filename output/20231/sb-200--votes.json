@@ -3,28 +3,28 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0200STS230210.pdf",
         "bill": "SB 200",
         "session": "20231",
-        "action_id": "SB200-0025",
+        "action_id": "SB200-0026",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "February 10, 2023",
-        "description": "Sen. McKamey made a Motion that SB 200 To Table",
+        "description": "Sen. McKamey made a Motion that SB 200 Do Pass",
         "totals": {
-            "Y": 10,
-            "N": 0
+            "Y": 4,
+            "N": 6
         },
         "votes": [
             {
                 "name": "Cuffe, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "McKamey, Wendy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hayman, Denise;byproxy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Bartel, Dan;byproxy",
@@ -32,15 +32,15 @@
             },
             {
                 "name": "Ellis, Janet",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fitzpatrick, Steve",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fox, Mike;byproxy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Manzella, Theresa",
@@ -60,10 +60,10 @@
         "url": null,
         "bill": "SB 200",
         "session": "20231",
-        "action_id": "SB200-0026",
+        "action_id": "SB200-0027",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 0
