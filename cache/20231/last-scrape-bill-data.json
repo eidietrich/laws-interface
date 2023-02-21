@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "3/4 of Each House",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -21939,8 +21939,8 @@
         "sponsor": "Lee Deming",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 55",
-        "statusDate": "02/27/2023; 09:00 AM, Rm 455",
-        "lastAction": "(H) Hearing -- (H) State Administration",
+        "statusDate": "02/17/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0527",
@@ -48009,8 +48009,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 5",
         "statusDate": "02/21/2023",
-        "lastAction": "(C) Draft Delivered to Requester",
-        "billStatus": "In Drafting Process",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -48030,6 +48030,55 @@
             },
             {
                 "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 442",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=442&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1943.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1943.pdf",
+        "lc": "LC1943",
+        "title": "Allow marijuana tax revenue to be used for county road maintenance",
+        "sponsor": "Mike Lang",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 17",
+        "statusDate": "02/21/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Lang",
+        "subjects": [
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "County Finance  (see also: Local Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -48547,6 +48596,45 @@
             },
             {
                 "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SJ 14",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=14&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4236.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4236.pdf",
+        "lc": "LC4236",
+        "title": "Resolution opposing bison introduction at Charles M. Russell Wildlife Refuge",
+        "sponsor": "Mike Lang",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 17",
+        "statusDate": "02/21/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Lang",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Livestock (see also: Agriculture; Taxation--Agriculture/Livestock)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
