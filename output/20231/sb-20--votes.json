@@ -282,16 +282,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S71&P_SESS=20231",
         "bill": "SB 20",
         "session": "20231",
-        "action_id": "SB20-0028",
+        "action_id": "SB20-0027",
         "type": "floor",
         "seq_number": "S71",
-        "date": "January 16, 2023",
+        "date": "January 13, 2023",
         "description": "Do Pass",
         "totals": {
             "Y": 49,
             "N": 0,
-            "E": 0,
-            "A": 1
+            "E": 1,
+            "A": 0
         },
         "votes": [
             {
@@ -396,11 +396,11 @@
             },
             {
                 "name": "Gross, Jen",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Molnar, Brad",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Vance, Shelley",
@@ -500,7 +500,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0020BUH230202.pdf",
         "bill": "SB 20",
         "session": "20231",
-        "action_id": "SB20-0034",
+        "action_id": "SB20-0033",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -593,7 +593,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H615&P_SESS=20231",
         "bill": "SB 20",
         "session": "20231",
-        "action_id": "SB20-0039",
+        "action_id": "SB20-0038",
         "type": "floor",
         "seq_number": "H615",
         "date": "February 14, 2023",
@@ -1011,14 +1011,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H642&P_SESS=20231",
         "bill": "SB 20",
         "session": "20231",
-        "action_id": "SB20-0041",
+        "action_id": "SB20-0040",
         "type": "floor",
         "seq_number": "H642",
-        "date": "February 15, 2023",
+        "date": "February 14, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 95,
-            "N": 5,
+            "Y": 96,
+            "N": 4,
             "E": 0,
             "A": 0
         },
@@ -1177,7 +1177,7 @@
             },
             {
                 "name": "Marler, Marilyn",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Smith, Frank",
@@ -1429,7 +1429,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S669&P_SESS=20231",
         "bill": "SB 20",
         "session": "20231",
-        "action_id": "SB20-0045",
+        "action_id": "SB20-0044",
         "type": "floor",
         "seq_number": "S669",
         "date": "February 21, 2023",
