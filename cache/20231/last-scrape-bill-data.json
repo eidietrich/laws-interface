@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7940,8 +7940,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -14205,8 +14205,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15388,8 +15388,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16791,8 +16791,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21525,8 +21525,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22922,8 +22922,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -29976,8 +29976,8 @@
         "key": "HB 725",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=725&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3981.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3981.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0725.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0725.pdf",
         "lc": "LC3981",
         "title": "Create contempt of constitution law",
         "sponsor": "Joe Read",
@@ -29995,6 +29995,55 @@
         "subjects": [
             {
                 "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 726",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=726&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0726.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0726.pdf",
+        "lc": "LC3050",
+        "title": "Assign oversight of water compacts and management to Public Service Commisson",
+        "sponsor": "Joe Read",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 93",
+        "statusDate": "02/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Joe Read",
+        "subjects": [
+            {
+                "subject": "Federal Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Utilities",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Water",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -30307,6 +30356,50 @@
         "subjects": [
             {
                 "subject": "Recreation/Parks/Sports",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HJ 9",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=9&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3985.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3985.pdf",
+        "lc": "LC3985",
+        "title": "Joint resolution for MT historical society repository of original 13th Amend",
+        "sponsor": "Joe Read",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 93",
+        "statusDate": "02/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Joe Read",
+        "subjects": [
+            {
+                "subject": "Arts and Antiquities",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Documents",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Federal Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -41817,8 +41910,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -46008,8 +46101,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -46524,8 +46617,8 @@
         "sponsor": "Daniel Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 22",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/24/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -46919,8 +47012,8 @@
         "sponsor": "Carl Glimm",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 2",
-        "statusDate": "02/20/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/27/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -47700,8 +47793,8 @@
         "sponsor": "Jason W Ellsworth",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 43",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/27/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -47773,8 +47866,8 @@
         "sponsor": "Janet Ellis",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 41",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/27/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -47856,8 +47949,8 @@
         "sponsor": "Brad Molnar",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 28",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/27/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -48100,8 +48193,8 @@
         "sponsor": "Forrest Mandeville",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 29",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "02/27/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -48407,8 +48500,8 @@
         "sponsor": "Theresa Manzella",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 44",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "03/01/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -48446,8 +48539,8 @@
         "sponsor": "Theresa Manzella",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 44",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "03/01/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -48519,8 +48612,8 @@
         "sponsor": "Theresa Manzella",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 44",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "03/01/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -48778,8 +48871,8 @@
         "sponsor": "Mark Noland",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 5",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) State Administration",
+        "statusDate": "03/01/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50807,7 +50900,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
         "statusDate": "02/21/2023",
-        "lastAction": "(S) Signed by President",
+        "lastAction": "(S) Filed with Secretary of State",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50845,9 +50938,9 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Returned from Enrolling",
-        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
+        "statusDate": "02/21/2023",
+        "lastAction": "(S) Filed with Secretary of State",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
