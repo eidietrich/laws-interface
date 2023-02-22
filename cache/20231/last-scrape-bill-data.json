@@ -25175,7 +25175,7 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "02/24/2023; 12:00 PM, Rm 455",
+        "statusDate": "02/24/2023; 12:00 PM, Rm 472",
         "lastAction": "(H) Hearing -- (H) Legislative Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -26026,7 +26026,7 @@
         "sponsor": "Paul Fielder",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 13",
-        "statusDate": "02/24/2023; 12:00 PM, Rm 455",
+        "statusDate": "02/24/2023; 12:00 PM, Rm 472",
         "lastAction": "(H) Hearing -- (H) Legislative Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -26611,8 +26611,8 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "02/20/2023; 03:00 PM, Rm 172",
-        "lastAction": "(H) Hearing -- (H) Natural Resources",
+        "statusDate": "02/20/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Natural Resources",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -29037,8 +29037,8 @@
         "sponsor": "Ed Stafman",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 62",
-        "statusDate": "02/21/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Legislative Administration",
+        "statusDate": "02/27/2023; 12:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Legislative Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -29559,8 +29559,8 @@
         "sponsor": "Bill Mercer",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 46",
-        "statusDate": "02/21/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Legislative Administration",
+        "statusDate": "02/27/2023; 12:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Legislative Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -51569,6 +51569,65 @@
             },
             {
                 "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 461",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=461&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0291.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0291.pdf",
+        "lc": "LC0291",
+        "title": "Revise irrigation district tax collections",
+        "sponsor": "Daniel R Salomon",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 47",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Salomon",
+        "subjects": [
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "County Finance  (see also: Local Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Water",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
