@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "Simple",
-            "3/4 of Each House",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8478,8 +8478,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -17308,9 +17308,9 @@
         "sponsor": "Jill Cohenour",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 84",
-        "statusDate": "02/16/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -17381,9 +17381,9 @@
         "sponsor": "Jedediah Hinkle",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 67",
-        "statusDate": "02/17/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -29939,8 +29939,8 @@
         "sponsor": "Brad Barker",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 58",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/23/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -30900,8 +30900,8 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Local Government",
+        "statusDate": "02/23/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -45580,9 +45580,9 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) 2nd Reading Indefinitely Postponed *",
+        "billStatus": "Probably Dead",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0311",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/SB0311",
         "amendmentListUrl": null,
@@ -52085,6 +52085,177 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "SB 467",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=467&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3191.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3191.pdf",
+        "lc": "LC3191",
+        "title": "Revise laws regarding  local regulation of short-term rentals",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 468",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=468&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4367.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4367.pdf",
+        "lc": "LC4367",
+        "title": "Generally revise involuntary commitment laws",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Institutions  (see also: Dev. Dis., Persons With; Mental Illness)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 469",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=469&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4164.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4164.pdf",
+        "lc": "LC4164",
+        "title": "Establish statewide central registry for reports of child abuse or neglect",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Civil Procedure",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "SB 470",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=470&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4175.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4175.pdf",
+        "lc": "LC4175",
+        "title": "Generally revising laws related to bail bonds",
+        "sponsor": "Jeremy Trebas",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 13",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jeremy Trebas",
+        "subjects": [
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Criminal Procedure  (see also: Law Enforcement)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Suretyship/Guaranty/Indemnity",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -53320,9 +53491,9 @@
         "sponsor": "Tom McGillvray",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Report--Resolution Adopted",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Resolution Adopted",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
