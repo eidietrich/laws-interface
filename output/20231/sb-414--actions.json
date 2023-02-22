@@ -168,6 +168,17 @@
         "id": "SB414-0015",
         "bill": "SB 414",
         "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "02/20/2023",
+        "hasVote": false,
+        "committee": "(S) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SB414-0016",
+        "bill": "SB 414",
+        "session": "20231",
         "action": "(S) First Reading",
         "actionUrl": null,
         "date": "02/20/2023",
@@ -176,7 +187,7 @@
         "recordings": []
     },
     {
-        "id": "SB414-0016",
+        "id": "SB414-0017",
         "bill": "SB 414",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -187,14 +198,25 @@
         "recordings": []
     },
     {
-        "id": "SB414-0017",
+        "id": "SB414-0018",
         "bill": "SB 414",
         "session": "20231",
-        "action": "(S) Hearing",
+        "action": "(S) 2nd Reading Passed",
         "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": "(S) State Administration",
+        "date": "02/22/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB414-0019",
+        "bill": "SB 414",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
