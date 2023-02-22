@@ -1,15 +1,95 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0547FIH230221.pdf",
         "bill": "HB 547",
         "session": "20231",
         "action_id": "HB547-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "February 21, 2023",
+        "description": "Rep. Hinkle made a Motion that HB 547 Do Pass",
         "totals": {
             "Y": 12,
             "N": 7
-        }
+        },
+        "votes": [
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "N"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "N"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "N"
+            },
+            {
+                "name": "Karlen, Jonathan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "Y"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "N"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Fielder, Paul;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Vinton, Sue;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Butcher, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            }
+        ]
     }
 ]
