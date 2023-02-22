@@ -225,17 +225,6 @@
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
-        "date": "02/06/2023",
-        "hasVote": false,
-        "committee": "(S) Local Government",
-        "recordings": []
-    },
-    {
-        "id": "SB240-0021",
-        "bill": "SB 240",
-        "session": "20231",
-        "action": "(S) Hearing",
-        "actionUrl": null,
         "date": "02/08/2023",
         "hasVote": false,
         "committee": "(S) Natural Resources",
@@ -244,7 +233,7 @@
         ]
     },
     {
-        "id": "SB240-0022",
+        "id": "SB240-0021",
         "bill": "SB 240",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed",
@@ -255,7 +244,7 @@
         "recordings": []
     },
     {
-        "id": "SB240-0023",
+        "id": "SB240-0022",
         "bill": "SB 240",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed",
@@ -266,13 +255,24 @@
         "recordings": []
     },
     {
-        "id": "SB240-0024",
+        "id": "SB240-0023",
         "bill": "SB 240",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
         "actionUrl": null,
         "date": "02/22/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB240-0024",
+        "bill": "SB 240",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
