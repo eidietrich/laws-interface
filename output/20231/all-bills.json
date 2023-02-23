@@ -205,7 +205,7 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 317B",
+        "statusDate": "02/14/2023; 09:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -308,7 +308,7 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 317B",
+        "statusDate": "02/14/2023; 09:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0008",
@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
+            "2/3 of Each House",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -359,7 +359,7 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 317B",
+        "statusDate": "02/14/2023; 09:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -447,7 +447,7 @@
         "sponsor": "John Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 77",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 317B",
+        "statusDate": "02/14/2023; 09:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -486,7 +486,7 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "02/14/2023; 08:00 AM, Rm 317B",
+        "statusDate": "02/14/2023; 09:00 AM, Rm 317B",
         "lastAction": "(H) Hearing -- (H) Joint Appropriations Subcommittee on Long Range Planning",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -14215,8 +14215,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15398,8 +15398,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16801,8 +16801,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21535,8 +21535,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22932,8 +22932,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -32933,6 +32933,84 @@
             },
             {
                 "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 798",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=798&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2409.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2409.pdf",
+        "lc": "LC2409",
+        "title": "Provide for a retired LEO or first responder driver's license endorsement",
+        "sponsor": "Steve Gunderson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 1",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Gunderson",
+        "subjects": [
+            {
+                "subject": "Law Enforcement  (see also: Criminal Procedure)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 799",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=799&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2788.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2788.pdf",
+        "lc": "LC2788",
+        "title": "Raise cap on value of estate for certain transactions with decedent's successor",
+        "sponsor": "Steve Gunderson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 1",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Gunderson",
+        "subjects": [
+            {
+                "subject": "Estates and Trusts",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -44975,8 +45053,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -45398,8 +45476,8 @@
         "sponsor": "Mark Noland",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 5",
-        "statusDate": "02/15/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -46576,8 +46654,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "02/21/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0310",
         "legalNoteUrl": null,
@@ -47816,8 +47894,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "02/21/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -49166,8 +49244,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -51414,8 +51492,8 @@
         "sponsor": "Brad Molnar",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 28",
-        "statusDate": "02/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Fish and Game",
+        "statusDate": "02/28/2023; 03:00 PM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
