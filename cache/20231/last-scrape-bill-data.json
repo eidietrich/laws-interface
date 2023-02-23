@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
+            "Simple",
             "3/4 of Each House",
-            "Simple"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14215,8 +14215,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -24819,7 +24819,7 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/27/2023; 08:00 AM, Rm 455",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
         "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -24853,7 +24853,7 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/27/2023; 08:00 AM, Rm 455",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
         "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -28837,7 +28837,7 @@
         "sponsor": "Bill Mercer",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 46",
-        "statusDate": "02/27/2023; 08:00 AM, Rm 455",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
         "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -28915,7 +28915,7 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/27/2023; 08:00 AM, Rm 455",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
         "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -30305,8 +30305,8 @@
         "sponsor": "Steven Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 24",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -31134,8 +31134,8 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -31217,8 +31217,8 @@
         "sponsor": "Ed Stafman",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 62",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -31393,8 +31393,8 @@
         "sponsor": "Joe Read",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 93",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -31627,8 +31627,8 @@
         "sponsor": "Dave Fern",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 5",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -32896,6 +32896,55 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "HB 797",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=797&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4425.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4425.pdf",
+        "lc": "LC4425",
+        "title": "Require agency reporting on financial assistance to tribes",
+        "sponsor": "Jonathan Windy Boy",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 32",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jonathan Windy Boy",
+        "subjects": [
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "HJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -33467,8 +33516,8 @@
         "sponsor": "Lola Sheldon-Galloway",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 22",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) State Administration",
+        "statusDate": "02/27/2023; 07:00 AM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) State Administration",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
