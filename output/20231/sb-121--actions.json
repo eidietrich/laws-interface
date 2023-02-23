@@ -482,10 +482,10 @@
         "id": "SB121-0043",
         "bill": "SB 121",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Concurred",
+        "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/22/2023",
-        "hasVote": true,
+        "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": []
     },
@@ -493,10 +493,10 @@
         "id": "SB121-0044",
         "bill": "SB 121",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) Committee Executive Action--Bill Concurred",
         "actionUrl": null,
         "date": "02/22/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": "(H) Taxation",
         "recordings": []
     },
@@ -518,6 +518,17 @@
         "action": "(H) Rereferred to Committee",
         "actionUrl": null,
         "date": "02/22/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB121-0047",
+        "bill": "SB 121",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/23/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
