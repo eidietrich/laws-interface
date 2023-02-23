@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
+            "3/4 of Each House",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7940,8 +7940,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -14205,8 +14205,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15388,8 +15388,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16791,8 +16791,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21525,8 +21525,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22922,8 +22922,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -32630,6 +32630,250 @@
             },
             {
                 "subject": "Family Law  (see also: Minors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 791",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=791&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2772.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2772.pdf",
+        "lc": "LC2772",
+        "title": "Generally revise drug crime sentences",
+        "sponsor": "Courtenay Sprunger",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 7",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Courtenay Sprunger",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Crimes",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 792",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=792&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4604.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4604.pdf",
+        "lc": "LC4604",
+        "title": "Require legislative approval for state-tribal motor fuel tax agreements",
+        "sponsor": "Neil Duram",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 2",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Neil Duram",
+        "subjects": [
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Public Contracts  (see also: Contracts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 793",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=793&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1620.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1620.pdf",
+        "lc": "LC1620",
+        "title": "Revise laws related to strip searches of youth offenders",
+        "sponsor": "Laura Smith",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 79",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Laura Smith",
+        "subjects": [
+            {
+                "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Criminal Procedure  (see also: Law Enforcement)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 794",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=794&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2318.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2318.pdf",
+        "lc": "LC2318",
+        "title": "Move the cowboy hall of fame back to Wolf Point",
+        "sponsor": "Frank Smith",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 31",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Frank Smith",
+        "subjects": [
+            {
+                "subject": "Arts and Antiquities",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 795",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=795&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4445.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4445.pdf",
+        "lc": "LC4445",
+        "title": "Exempt Commerce, Coal Boards grants from MEPA",
+        "sponsor": "Paul Tuss",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 28",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Paul Tuss",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mining and Minerals  (see also: Oil and Gas)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 796",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=796&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3282.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3282.pdf",
+        "lc": "LC3282",
+        "title": "Require school district trustee candidates to pass criminal background checks",
+        "sponsor": "Terry Falk",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 8",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Terry Falk",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -44672,8 +44916,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -48863,8 +49107,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
