@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "2/3 of Each House",
             "Simple",
-            "2/3 of Each House"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -14215,8 +14215,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15398,8 +15398,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16801,8 +16801,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -19135,9 +19135,9 @@
         "sponsor": "Steve Gunderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 1",
-        "statusDate": "02/21/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -19721,9 +19721,9 @@
         "sponsor": "Dave Fern",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 5",
-        "statusDate": "02/21/2023",
-        "lastAction": "(H) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0474",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -21535,8 +21535,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22932,8 +22932,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -33011,6 +33011,148 @@
         "subjects": [
             {
                 "subject": "Estates and Trusts",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 800",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=800&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4583.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4583.pdf",
+        "lc": "LC4583",
+        "title": "Provide limited criminal history of criminally charged mental health patient",
+        "sponsor": "Michael Yakawich",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 51",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Michael Yakawich",
+        "subjects": [
+            {
+                "subject": "Criminal Procedure  (see also: Law Enforcement)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Documents",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Safety  (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 801",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=801&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4262.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4262.pdf",
+        "lc": "LC4262",
+        "title": "Eliminate temporary approval to practice as advanced practice registered nurse",
+        "sponsor": "Jodee Etchart",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 48",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jodee Etchart",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations A-D",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Professions and Occupations E-N",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 802",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=802&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2771.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2771.pdf",
+        "lc": "LC2771",
+        "title": "Revise laws related to POST officer certification",
+        "sponsor": "Scot Kerns",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 23",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Scot Kerns",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Law Enforcement  (see also: Criminal Procedure)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -45053,8 +45195,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -45154,9 +45296,9 @@
         "sponsor": "Forrest Mandeville",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 29",
-        "statusDate": "02/17/2023",
-        "lastAction": "(S) Committee Report--Bill Passed",
-        "billStatus": "In First House--Out of Committee",
+        "statusDate": "02/23/2023",
+        "lastAction": "(S) 2nd Reading Passed",
+        "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -49244,8 +49386,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
