@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15398,8 +15398,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16801,8 +16801,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16890,70 +16890,6 @@
             },
             {
                 "subject": "Taxation--Property",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/03/2023",
-        "amendedReturnDeadline": "04/21/2023"
-    },
-    {
-        "key": "HB 408",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=408&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0408.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0408.pdf",
-        "lc": "LC2921",
-        "title": "Revise student scholarship organization and innovative education tax credits",
-        "sponsor": "Sue Vinton",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 56",
-        "statusDate": "02/23/2023",
-        "lastAction": "(H) Committee Executive Action--Bill Passed as Amended -- (H) Appropriations",
-        "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0408",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0408",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Sue Vinton",
-        "subjects": [
-            {
-                "subject": "Appropriations  (see also: State Finance)",
-                "fiscalCode": "Appropriation",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Revenue, State",
-                "fiscalCode": "Revenue",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "School Finance",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Schools and Education",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation (Generally)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Corporations",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Individual Income",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -21535,8 +21471,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22932,8 +22868,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -28944,6 +28880,55 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "HB 699",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=699&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0699.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0699.pdf",
+        "lc": "LC2390",
+        "title": "Allow sheriffs to have expenditure control over sheriff's office budget",
+        "sponsor": "Steve Gunderson",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 1",
+        "statusDate": "02/28/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Local Government",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Steve Gunderson",
+        "subjects": [
+            {
+                "subject": "Cities and Towns  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Counties  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Finance  (see also: City Finance; County Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "HB 700",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=700&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -33360,9 +33345,9 @@
         "sponsor": "Marty Malone",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 59",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -45146,8 +45131,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -46044,9 +46029,9 @@
         "sponsor": "Mark Noland",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 5",
-        "statusDate": "02/22/2023",
-        "lastAction": "(S) 2nd Reading Passed",
-        "billStatus": "In First House--Through 2nd Reading",
+        "statusDate": "02/23/2023",
+        "lastAction": "(S) 3rd Reading Passed",
+        "billStatus": "In First House--Through 3rd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -46786,9 +46771,9 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "02/22/2023",
-        "lastAction": "(S) 2nd Reading Indefinitely Postponed *",
-        "billStatus": "Probably Dead",
+        "statusDate": "02/23/2023",
+        "lastAction": "(S) Reconsidered Previous Action; Remains in 2nd Reading Process",
+        "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0311",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/SB0311",
         "amendmentListUrl": null,
@@ -47342,8 +47327,8 @@
         "sponsor": "Chris Friedel",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 26",
-        "statusDate": "02/21/2023; 08:00 AM, Rm 303",
-        "lastAction": "(S) Hearing -- (S) Judiciary",
+        "statusDate": "02/22/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Passed as Amended -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -49337,8 +49322,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -54360,6 +54345,50 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
+        "key": "SB 493",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=493&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1768.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1768.pdf",
+        "lc": "LC1768",
+        "title": "Revising insurance laws related to prior authorization",
+        "sponsor": "Jen Gross",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 25",
+        "statusDate": "02/23/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jen Gross",
+        "subjects": [
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
         "key": "SJ 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
@@ -55552,8 +55581,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 23",
         "statusDate": "02/23/2023",
-        "lastAction": "(S) Resolution Adopted",
-        "billStatus": "Became Law",
+        "lastAction": "(S) Sent to Enrolling",
+        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SR0015",
