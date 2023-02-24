@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "2/3 of Each House",
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15398,8 +15398,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16801,8 +16801,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21535,8 +21535,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22932,8 +22932,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -30120,8 +30120,8 @@
         "sponsor": "Mary Caferro",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 82",
-        "statusDate": "02/24/2023; 07:00 AM, Rm 137",
-        "lastAction": "(H) Hearing -- (H) Judiciary",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -30471,11 +30471,11 @@
         "sponsor": "Gary Parry",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 39",
-        "statusDate": "02/24/2023; 03:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Energy, Technology and Federal Relations",
+        "statusDate": "02/22/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
+        "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0737",
         "amendmentListUrl": null,
         "draftRequestor": null,
         "billRequestor": null,
@@ -33153,6 +33153,89 @@
             },
             {
                 "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 803",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=803&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2881.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2881.pdf",
+        "lc": "LC2881",
+        "title": "Revise railroad crew requirements",
+        "sponsor": "Bob Phalen",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 36",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Phalen",
+        "subjects": [
+            {
+                "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 804",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=804&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3518.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3518.pdf",
+        "lc": "LC3518",
+        "title": "Providing broadband funding review requirements",
+        "sponsor": "Tyson T Running Wolf",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 16",
+        "statusDate": "02/23/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Tyson Running Wolf",
+        "subjects": [
+            {
+                "subject": "Communications  (see also: Information Technology)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -45195,8 +45278,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -46323,9 +46406,9 @@
         "sponsor": "Brad Molnar",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 28",
-        "statusDate": "02/16/2023; 03:00 PM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Fish and Game",
-        "billStatus": "In First House Committee--Nontabled",
+        "statusDate": "02/23/2023",
+        "lastAction": "(S) Tabled in Committee * -- (S) Fish and Game",
+        "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0298",
@@ -49386,8 +49469,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
