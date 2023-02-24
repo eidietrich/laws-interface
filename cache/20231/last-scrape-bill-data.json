@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -30481,8 +30481,8 @@
         "sponsor": "Gary Parry",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 39",
-        "statusDate": "02/22/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
+        "statusDate": "02/24/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing -- (H) Energy, Technology and Federal Relations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0737",
@@ -33290,6 +33290,45 @@
             },
             {
                 "subject": "Economic Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 806",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=806&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3793.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3793.pdf",
+        "lc": "LC3793",
+        "title": "Revise requirements for absentee ballots",
+        "sponsor": "Lola Sheldon-Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 22",
+        "statusDate": "02/24/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Lola Sheldon-Galloway",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -45134,7 +45173,7 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "02/20/2023; 12:00 PM, Rm 422",
+        "statusDate": "02/20/2023; 08:00 AM, Rm 405",
         "lastAction": "(S) Hearing -- (S) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -54768,8 +54807,8 @@
         "key": "SB 500",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=500&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2511.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2511.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0500.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0500.pdf",
         "lc": "LC2511",
         "title": "Provide uniform  duration limit for latecomer agreements",
         "sponsor": "Jeremy Trebas",
