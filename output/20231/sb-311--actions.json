@@ -306,8 +306,10 @@
         "actionUrl": null,
         "date": "02/22/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46218?agendaId=254088"
+        ]
     },
     {
         "id": "SB311-0028",
@@ -350,6 +352,28 @@
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB311-0032",
+        "bill": "SB 311",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Motion Failed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB311-0033",
+        "bill": "SB 311",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
