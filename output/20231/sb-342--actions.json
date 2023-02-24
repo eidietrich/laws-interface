@@ -261,7 +261,9 @@
         "date": "02/21/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47110?agendaId=253882"
+        ]
     },
     {
         "id": "SB342-0024",
@@ -304,6 +306,28 @@
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB342-0028",
+        "bill": "SB 342",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Failed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB342-0029",
+        "bill": "SB 342",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
