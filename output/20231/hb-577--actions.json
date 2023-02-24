@@ -217,7 +217,9 @@
         "date": "02/22/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48260?agendaId=254017"
+        ]
     },
     {
         "id": "HB577-0020",
@@ -227,6 +229,17 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB577-0021",
+        "bill": "HB 577",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
     }

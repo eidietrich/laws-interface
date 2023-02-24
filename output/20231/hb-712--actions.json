@@ -217,7 +217,9 @@
         "date": "02/22/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48260?agendaId=254043"
+        ]
     },
     {
         "id": "HB712-0020",
@@ -239,6 +241,17 @@
         "date": "02/23/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB712-0022",
+        "bill": "HB 712",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
         "recordings": []
     }
 ]
