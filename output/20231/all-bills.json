@@ -340,8 +340,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "Simple",
+            "2/3 of Each House",
             "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14220,8 +14220,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15403,8 +15403,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16806,8 +16806,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21540,8 +21540,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22937,8 +22937,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -32077,8 +32077,8 @@
         "sponsor": "Tom France",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 94",
-        "statusDate": "02/23/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "statusDate": "02/27/2023; 03:00 PM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -32252,8 +32252,8 @@
         "sponsor": "Sherry Essmann",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 52",
-        "statusDate": "02/23/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "statusDate": "02/27/2023; 03:00 PM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -32291,8 +32291,8 @@
         "sponsor": "Sherry Essmann",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 52",
-        "statusDate": "02/23/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "statusDate": "02/27/2023; 03:00 PM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -32965,8 +32965,8 @@
         "sponsor": "Steve Gunderson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 1",
-        "statusDate": "02/23/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Transportation",
+        "statusDate": "02/27/2023; 03:00 PM, Rm 455",
+        "lastAction": "(H) Hearing -- (H) Transportation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -33485,6 +33485,45 @@
             },
             {
                 "subject": "Professions and Occupations E-N",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 811",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=811&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4549.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4549.pdf",
+        "lc": "LC4549",
+        "title": "Create online repository for information on school district boards of trustees",
+        "sponsor": "Marta Bertoglio",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 75",
+        "statusDate": "02/24/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Marta Bertoglio",
+        "subjects": [
+            {
+                "subject": "Elections  (see also: Ballot Issues)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -45561,8 +45600,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -49752,8 +49791,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
