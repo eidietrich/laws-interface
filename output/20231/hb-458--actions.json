@@ -261,7 +261,9 @@
         "date": "02/15/2023",
         "hasVote": false,
         "committee": "(H) Education",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46378?agendaId=252879"
+        ]
     },
     {
         "id": "HB458-0024",
@@ -304,8 +306,10 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46132?agendaId=254442"
+        ]
     },
     {
         "id": "HB458-0028",
@@ -315,6 +319,17 @@
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB458-0029",
+        "bill": "HB 458",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

@@ -217,7 +217,9 @@
         "date": "02/15/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46565?agendaId=252899"
+        ]
     },
     {
         "id": "HB460-0020",
@@ -260,8 +262,10 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46132?agendaId=254443"
+        ]
     },
     {
         "id": "HB460-0024",
@@ -271,6 +275,17 @@
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB460-0025",
+        "bill": "HB 460",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
