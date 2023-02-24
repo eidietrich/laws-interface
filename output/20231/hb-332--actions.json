@@ -372,8 +372,10 @@
         "actionUrl": null,
         "date": "02/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46130?agendaId=253792"
+        ]
     },
     {
         "id": "HB332-0034",
@@ -395,7 +397,9 @@
         "date": "02/22/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46307?agendaId=254108"
+        ]
     },
     {
         "id": "HB332-0036",
@@ -428,6 +432,17 @@
         "date": "02/23/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB332-0039",
+        "bill": "HB 332",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]

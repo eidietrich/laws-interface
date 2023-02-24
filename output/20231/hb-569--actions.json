@@ -305,7 +305,9 @@
         "date": "02/22/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46307?agendaId=254110"
+        ]
     },
     {
         "id": "HB569-0028",
@@ -327,6 +329,17 @@
         "date": "02/23/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB569-0030",
+        "bill": "HB 569",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]
