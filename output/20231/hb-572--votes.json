@@ -1,15 +1,95 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0572BUH230223.pdf",
         "bill": "HB 572",
         "session": "20231",
         "action_id": "HB572-0023",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 23, 2023",
+        "description": "Rep. Seekins-Crowe made a Motion that HB 572 Do Pass as Amended",
         "totals": {
             "Y": 11,
             "N": 8
-        }
+        },
+        "votes": [
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "N"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "N"
+            },
+            {
+                "name": "Bergstrom, James;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "N"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer",
+                "vote": "N"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "N"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
     }
 ]

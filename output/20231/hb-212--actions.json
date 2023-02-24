@@ -709,7 +709,9 @@
         "date": "02/21/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48820?agendaId=253913"
+        ]
     },
     {
         "id": "HB212-0064",
@@ -719,6 +721,17 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB212-0065",
+        "bill": "HB 212",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }

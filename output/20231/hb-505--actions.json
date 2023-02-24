@@ -195,7 +195,9 @@
         "date": "02/23/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47897?agendaId=254283"
+        ]
     },
     {
         "id": "HB505-0018",
@@ -205,6 +207,17 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB505-0019",
+        "bill": "HB 505",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": []
     }

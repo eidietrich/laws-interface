@@ -416,8 +416,10 @@
         "actionUrl": null,
         "date": "02/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46217?agendaId=253824"
+        ]
     },
     {
         "id": "SB224-0038",
@@ -446,6 +448,28 @@
         "bill": "SB 224",
         "session": "20231",
         "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB224-0041",
+        "bill": "SB 224",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB224-0042",
+        "bill": "SB 224",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed as Amended",
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": false,
