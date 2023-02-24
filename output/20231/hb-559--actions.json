@@ -283,7 +283,9 @@
         "date": "02/21/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46481?agendaId=253841"
+        ]
     },
     {
         "id": "HB559-0026",
@@ -304,6 +306,17 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB559-0028",
+        "bill": "HB 559",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": []
     }

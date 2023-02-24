@@ -1,15 +1,83 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0585LEH230223.pdf",
         "bill": "HB 585",
         "session": "20231",
         "action_id": "HB585-0017",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 23, 2023",
+        "description": "Rep. Deming made a Motion that HB 585 Do Pass",
         "totals": {
             "Y": 16,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Brockman, Tony;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Falk, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            }
+        ]
     }
 ]
