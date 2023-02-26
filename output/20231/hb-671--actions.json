@@ -228,7 +228,9 @@
         "date": "02/22/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46570?agendaId=254148"
+        ]
     },
     {
         "id": "HB671-0021",
@@ -237,6 +239,28 @@
         "action": "(H) Fiscal Note Received",
         "actionUrl": null,
         "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB671-0022",
+        "bill": "HB 671",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB671-0023",
+        "bill": "HB 671",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "02/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
