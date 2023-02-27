@@ -3,15 +3,15 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0549EDH230224.pdf",
         "bill": "HB 549",
         "session": "20231",
-        "action_id": "HB549-0027",
+        "action_id": "HB549-0025",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "February 24, 2023",
         "description": "Rep. Reksten made a Motion that HB 549 Do Pass as Amended",
         "totals": {
-            "Y": 13,
-            "N": 0
+            "Y": 11,
+            "N": 2
         },
         "votes": [
             {
@@ -47,15 +47,7 @@
                 "vote": "Y"
             },
             {
-                "name": "Mitchell, Braxton;byproxy",
-                "vote": "Y"
-            },
-            {
                 "name": "Romano, Melissa",
-                "vote": "Y"
-            },
-            {
-                "name": "Seekins-Crowe, Kerri",
                 "vote": "Y"
             },
             {
@@ -65,6 +57,14 @@
             {
                 "name": "Anderson, Fred",
                 "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "N"
             }
         ]
     }
