@@ -1,15 +1,71 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0501EDH230224.pdf",
         "bill": "HB 501",
         "session": "20231",
         "action_id": "HB501-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 24, 2023",
+        "description": "Rep. Reksten made a Motion that HB 501 Do Pass",
         "totals": {
             "Y": 9,
             "N": 4
-        }
+        },
+        "votes": [
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "N"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            }
+        ]
     }
 ]

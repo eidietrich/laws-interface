@@ -201,17 +201,6 @@
         "id": "HB531-0018",
         "bill": "HB 531",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "02/24/2023",
-        "hasVote": true,
-        "committee": "(H) Education",
-        "recordings": []
-    },
-    {
-        "id": "HB531-0019",
-        "bill": "HB 531",
-        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -222,13 +211,24 @@
         ]
     },
     {
-        "id": "HB531-0020",
+        "id": "HB531-0019",
         "bill": "HB 531",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed",
         "actionUrl": null,
-        "date": "02/27/2023",
+        "date": "02/24/2023",
         "hasVote": true,
+        "committee": "(H) Education",
+        "recordings": []
+    },
+    {
+        "id": "HB531-0020",
+        "bill": "HB 531",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
         "committee": "(H) Education",
         "recordings": []
     }

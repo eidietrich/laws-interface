@@ -3,7 +3,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0531EDH230224.pdf",
         "bill": "HB 531",
         "session": "20231",
-        "action_id": "HB531-0018",
+        "action_id": "HB531-0019",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -67,18 +67,5 @@
                 "vote": "Y"
             }
         ]
-    },
-    {
-        "url": null,
-        "bill": "HB 531",
-        "session": "20231",
-        "action_id": "HB531-0020",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Missing URL",
-        "totals": {
-            "Y": 13,
-            "N": 0
-        }
     }
 ]
