@@ -272,7 +272,9 @@
         "date": "02/16/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47961?agendaId=253108"
+        ]
     },
     {
         "id": "SB127-0025",
@@ -304,8 +306,10 @@
         "actionUrl": null,
         "date": "02/22/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46218?agendaId=254083"
+        ]
     },
     {
         "id": "SB127-0028",
@@ -327,6 +331,19 @@
         "date": "02/24/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48887?agendaId=254730"
+        ]
+    },
+    {
+        "id": "SB127-0030",
+        "bill": "SB 127",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "02/25/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

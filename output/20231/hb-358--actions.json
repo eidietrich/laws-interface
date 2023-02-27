@@ -339,8 +339,10 @@
         "actionUrl": null,
         "date": "02/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46128?agendaId=253384"
+        ]
     },
     {
         "id": "HB358-0031",
@@ -404,6 +406,17 @@
         "action": "(H) Revised Fiscal Note Received",
         "actionUrl": null,
         "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB358-0037",
+        "bill": "HB 358",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "02/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

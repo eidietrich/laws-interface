@@ -217,7 +217,9 @@
         "date": "02/16/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46426?agendaId=253196"
+        ]
     },
     {
         "id": "HJ7-0020",
@@ -249,8 +251,10 @@
         "actionUrl": null,
         "date": "02/22/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46131?agendaId=254068"
+        ]
     },
     {
         "id": "HJ7-0023",
@@ -271,6 +275,17 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ7-0025",
+        "bill": "HJ 7",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
