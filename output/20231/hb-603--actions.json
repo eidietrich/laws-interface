@@ -313,18 +313,18 @@
         "id": "HB603-0028",
         "bill": "HB 603",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Passed",
+        "action": "(H) Fiscal Note Printed",
         "actionUrl": null,
         "date": "02/24/2023",
-        "hasVote": true,
-        "committee": "(H) Human Services",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
         "id": "HB603-0029",
         "bill": "HB 603",
         "session": "20231",
-        "action": "(H) Fiscal Note Printed",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Printed",
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": false,
@@ -335,11 +335,22 @@
         "id": "HB603-0030",
         "bill": "HB 603",
         "session": "20231",
-        "action": "(H) Sponsor Rebuttal to Fiscal Note Printed",
+        "action": "(H) Committee Executive Action--Bill Passed",
         "actionUrl": null,
         "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB603-0031",
+        "bill": "HB 603",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/27/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "(H) Human Services",
         "recordings": []
     }
 ]

@@ -247,22 +247,22 @@
         "id": "HB672-0022",
         "bill": "HB 672",
         "session": "20231",
-        "action": "(H) Fiscal Note Unsigned",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
         "actionUrl": null,
         "date": "02/24/2023",
-        "hasVote": false,
-        "committee": null,
+        "hasVote": true,
+        "committee": "(H) Natural Resources",
         "recordings": []
     },
     {
         "id": "HB672-0023",
         "bill": "HB 672",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "action": "(H) Fiscal Note Unsigned",
         "actionUrl": null,
         "date": "02/24/2023",
-        "hasVote": true,
-        "committee": "(H) Natural Resources",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -274,6 +274,17 @@
         "date": "02/27/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB672-0025",
+        "bill": "HB 672",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
         "recordings": []
     }
 ]
