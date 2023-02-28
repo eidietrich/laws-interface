@@ -6,10 +6,23 @@
         "action_id": "HB256-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 256",
+        "session": "20231",
+        "action_id": "HB256-0023",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 17,
+            "N": 2
         }
     }
 ]
