@@ -620,8 +620,19 @@
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
         "actionUrl": null,
-        "date": "02/27/2023",
+        "date": "02/28/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB221-0056",
+        "bill": "HB 221",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
