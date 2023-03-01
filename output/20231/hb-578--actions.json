@@ -239,7 +239,10 @@
         "date": "02/24/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49003?agendaId=255872",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47898?agendaId=254649"
+        ]
     },
     {
         "id": "HB578-0022",
@@ -260,6 +263,28 @@
         "actionUrl": null,
         "date": "02/25/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB578-0024",
+        "bill": "HB 578",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB578-0025",
+        "bill": "HB 578",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
