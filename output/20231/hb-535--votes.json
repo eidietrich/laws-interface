@@ -3,10 +3,23 @@
         "url": null,
         "bill": "HB 535",
         "session": "20231",
-        "action_id": "HB535-0029",
+        "action_id": "HB535-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
+        "totals": {
+            "Y": 9,
+            "N": 4
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 535",
+        "session": "20231",
+        "action_id": "HB535-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 4
