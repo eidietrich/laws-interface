@@ -212,11 +212,44 @@
         "id": "HB789-0019",
         "bill": "HB 789",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB789-0020",
+        "bill": "HB 789",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/28/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "HB789-0021",
+        "bill": "HB 789",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": true,
+        "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "HB789-0022",
+        "bill": "HB 789",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
