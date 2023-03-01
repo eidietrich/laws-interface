@@ -1,15 +1,55 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0467LOS230227.pdf",
         "bill": "SB 467",
         "session": "20231",
-        "action_id": "SB467-0024",
+        "action_id": "SB467-0023",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "February 27, 2023",
+        "description": "Sen. Bogner made a Motion that SB 467 Do Pass",
         "totals": {
             "Y": 7,
             "N": 2
-        }
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]
