@@ -239,7 +239,9 @@
         "date": "02/27/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48263?agendaId=255049"
+        ]
     },
     {
         "id": "HB598-0022",
@@ -260,6 +262,28 @@
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB598-0024",
+        "bill": "HB 598",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB598-0025",
+        "bill": "HB 598",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

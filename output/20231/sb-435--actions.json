@@ -234,11 +234,11 @@
         "id": "SB435-0021",
         "bill": "SB 435",
         "session": "20231",
-        "action": "(S) Tabled in Committee",
+        "action": "(S) Fiscal Note Received",
         "actionUrl": null,
-        "date": "02/25/2023",
-        "hasVote": true,
-        "committee": "(S) State Administration",
+        "date": "02/24/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -250,6 +250,41 @@
         "date": "02/25/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48918?agendaId=254993"
+        ]
+    },
+    {
+        "id": "SB435-0023",
+        "bill": "SB 435",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/25/2023",
+        "hasVote": true,
+        "committee": "(S) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SB435-0024",
+        "bill": "SB 435",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB435-0025",
+        "bill": "SB 435",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
