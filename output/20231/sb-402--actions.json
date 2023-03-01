@@ -297,5 +297,38 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": []
+    },
+    {
+        "id": "SB402-0027",
+        "bill": "SB 402",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB402-0028",
+        "bill": "SB 402",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Motion Failed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB402-0029",
+        "bill": "SB 402",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
     }
 ]
