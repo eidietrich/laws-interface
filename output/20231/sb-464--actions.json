@@ -239,7 +239,9 @@
         "date": "02/27/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48858?agendaId=255121"
+        ]
     },
     {
         "id": "SB464-0022",
@@ -272,6 +274,28 @@
         "date": "02/28/2023",
         "hasVote": true,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB464-0025",
+        "bill": "SB 464",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB464-0026",
+        "bill": "SB 464",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
