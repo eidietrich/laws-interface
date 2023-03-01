@@ -240,6 +240,30 @@
         "actionUrl": null,
         "date": "02/28/2023",
         "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46222?agendaId=255913"
+        ]
+    },
+    {
+        "id": "SB359-0022",
+        "bill": "SB 359",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB359-0023",
+        "bill": "SB 359",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
