@@ -1,15 +1,99 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0743JUH230228.pdf",
         "bill": "HB 743",
         "session": "20231",
         "action_id": "HB743-0023",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 28, 2023",
+        "description": "Rep. Ler made a Motion that HB 743 Do Pass",
         "totals": {
             "Y": 16,
             "N": 3
-        }
+        },
+        "votes": [
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "N"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "N"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "N"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "bbott, Kim",
+                "vote": "A"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            }
+        ]
     }
 ]

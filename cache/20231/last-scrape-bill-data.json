@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -3185,7 +3185,7 @@
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0077",
         "draftRequestor": null,
         "billRequestor": "Public Safety Officer Standards and Training Council",
-        "primarySponsor": "Lola Sheldon-Galloway",
+        "primarySponsor": "Steven Galloway",
         "subjects": [
             {
                 "subject": "Law Enforcement  (see also: Criminal Procedure)",
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -11069,6 +11069,11 @@
         "primarySponsor": "Larry Brewster",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Emergency and Disaster Services",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -11092,9 +11097,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 270",
@@ -14220,8 +14225,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15403,8 +15408,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16806,8 +16811,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21072,7 +21077,7 @@
         "statusDate": "02/27/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Business and Labor",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0506",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -21272,7 +21277,7 @@
         "statusDate": "02/23/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) State Administration",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0511",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0511",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -21540,8 +21545,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22147,7 +22152,7 @@
         "statusDate": "02/21/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Judiciary",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0532",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -22937,8 +22942,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -23861,7 +23866,7 @@
         "statusDate": "02/16/2023",
         "lastAction": "(H) Referred to Committee -- (H) Business and Labor",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0574",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -25837,11 +25842,6 @@
         "primarySponsor": "Jill Cohenour",
         "subjects": [
             {
-                "subject": "Appropriation Process",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
                 "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -26361,7 +26361,7 @@
         "statusDate": "02/22/2023",
         "lastAction": "(H) Rereferred to Committee -- (H) Taxation",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0634",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -26507,7 +26507,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Business and Labor",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0638",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0638",
         "draftRequestor": null,
@@ -26922,7 +26922,7 @@
         "statusDate": "02/20/2023",
         "lastAction": "(H) Referred to Committee -- (H) Human Services",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0648",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -27747,9 +27747,9 @@
         "statusDate": "02/23/2023; 03:00 PM, Rm 102",
         "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0669",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0669",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Bill Mercer",
@@ -27825,7 +27825,7 @@
         "statusDate": "02/24/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Natural Resources",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0671",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -29392,7 +29392,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Committee Report--Bill Passed",
         "billStatus": "In First House--Out of Committee",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0709",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -29777,7 +29777,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Human Services",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0719",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0719",
         "draftRequestor": null,
@@ -30691,7 +30691,7 @@
         "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0742",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Laura Smith",
@@ -30962,7 +30962,7 @@
         "statusDate": "02/22/2023",
         "lastAction": "(H) Referred to Committee -- (H) Education",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0749",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -31640,7 +31640,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Committee Report--Bill Passed",
         "billStatus": "In First House--Out of Committee",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0766",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -32026,7 +32026,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Committee Report--Bill Passed",
         "billStatus": "In First House--Out of Committee",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0775",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -32080,7 +32080,7 @@
         "statusDate": "02/27/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Transportation",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0776",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -32114,7 +32114,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Committee Report--Bill Passed",
         "billStatus": "In First House--Out of Committee",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0777",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -32364,7 +32364,7 @@
         "billStatus": "In First House Committee--Tabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0784",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Fiona Nave",
@@ -32968,7 +32968,7 @@
         "statusDate": "02/27/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) Transportation",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0798",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -33229,7 +33229,7 @@
         "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0804",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Tyson Running Wolf",
@@ -33315,7 +33315,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(H) Tabled in Committee * -- (H) State Administration",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0806",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0806",
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -33627,8 +33627,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -34695,9 +34695,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SB 1",
@@ -40657,7 +40657,7 @@
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0144",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Russel (Russ) Tempel",
@@ -46086,8 +46086,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -47217,7 +47217,7 @@
         "statusDate": "02/23/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) Fish and Game",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0298",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0298",
         "draftRequestor": null,
@@ -48793,8 +48793,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -50283,8 +50283,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -51910,7 +51910,7 @@
         "statusDate": "02/27/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) Highways and Transportation",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0412",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -52180,7 +52180,7 @@
         "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0419",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Shelley Vance",
@@ -52646,7 +52646,7 @@
         "statusDate": "02/27/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) Judiciary",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0431",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -52929,7 +52929,7 @@
         "statusDate": "02/24/2023",
         "lastAction": "(S) Bill Not Heard at Sponsor's Request -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0438",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -53271,7 +53271,7 @@
         "statusDate": "02/28/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) Legislative Administration",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0446",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -55080,9 +55080,9 @@
         "statusDate": "02/27/2023",
         "lastAction": "(S) Committee Report--Bill Passed",
         "billStatus": "In First House--Out of Committee",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0487",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0487",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Shelley Vance",
@@ -55096,14 +55096,19 @@
                 "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
             }
         ],
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 488",
@@ -55121,7 +55126,7 @@
         "billStatus": "In First House--Out of Committee",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0488",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Daniel Zolnikov",
@@ -55158,7 +55163,7 @@
         "statusDate": "02/27/2023",
         "lastAction": "(S) Tabled in Committee * -- (S) Finance and Claims",
         "billStatus": "In First House Committee--Tabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0489",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
         "draftRequestor": null,
@@ -56613,9 +56618,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 3",
@@ -57844,9 +57849,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 32",
@@ -57888,9 +57893,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 33",
@@ -57932,9 +57937,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 34",
@@ -58010,9 +58015,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 36",
@@ -58342,9 +58347,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 44",
@@ -58430,9 +58435,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 46",
@@ -58513,9 +58518,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 48",
@@ -58694,9 +58699,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 52",
@@ -58733,9 +58738,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "No Deadline",
-        "transmittalDeadline": "05/05/2023",
-        "amendedReturnDeadline": "05/05/2023"
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
     },
     {
         "key": "SR 53",
@@ -58767,9 +58772,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "SR 54",
@@ -58811,8 +58816,8 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "No Deadline",
+        "transmittalDeadline": "05/05/2023",
+        "amendedReturnDeadline": "05/05/2023"
     }
 ]

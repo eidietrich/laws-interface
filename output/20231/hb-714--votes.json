@@ -1,15 +1,83 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0714LEH230228.pdf",
         "bill": "HB 714",
         "session": "20231",
         "action_id": "HB714-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 28, 2023",
+        "description": "Rep. Deming made a Motion that HB 714 Do Pass as Amended",
         "totals": {
             "Y": 11,
             "N": 5
-        }
+        },
+        "votes": [
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "N"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Amy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "N"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Falk, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            }
+        ]
     }
 ]

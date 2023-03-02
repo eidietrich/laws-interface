@@ -72,7 +72,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H807&P_SESS=20231",
         "bill": "HB 349",
         "session": "20231",
-        "action_id": "HB349-0037",
+        "action_id": "HB349-0036",
         "type": "floor",
         "seq_number": "H807",
         "date": "February 27, 2023",
@@ -487,16 +487,112 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0349APH230228.pdf",
         "bill": "HB 349",
         "session": "20231",
-        "action_id": "HB349-0040",
+        "action_id": "HB349-0039",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 28, 2023",
+        "description": "Rep. Keenan made a Motion that HB 349 Do Pass as Amended",
         "totals": {
             "Y": 13,
             "N": 10
-        }
+        },
+        "votes": [
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Bedey, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "N"
+            },
+            {
+                "name": "Caferro, Mary",
+                "vote": "N"
+            },
+            {
+                "name": "Kerr-Carpenter, Emma",
+                "vote": "N"
+            },
+            {
+                "name": "Falk, Terry;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, John",
+                "vote": "N"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "Y"
+            },
+            {
+                "name": "Hamilton, Jim",
+                "vote": "N"
+            },
+            {
+                "name": "Hastings, Naarah",
+                "vote": "Y"
+            },
+            {
+                "name": "Hellegaard, Lyn",
+                "vote": "Y"
+            },
+            {
+                "name": "Hopkins, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Keogh, Connie",
+                "vote": "N"
+            },
+            {
+                "name": "Mercer, Bill",
+                "vote": "Y"
+            },
+            {
+                "name": "Moore, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Nave, Fiona",
+                "vote": "Y"
+            },
+            {
+                "name": "StewartPeregoy, Sharon",
+                "vote": "N"
+            },
+            {
+                "name": "Read, Joe",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Matt",
+                "vote": "Y"
+            },
+            {
+                "name": "Schillinger, Jerry",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul",
+                "vote": "N"
+            },
+            {
+                "name": "WindyBoy, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "Jones, Llew",
+                "vote": "Y"
+            }
+        ]
     }
 ]

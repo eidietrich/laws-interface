@@ -201,7 +201,7 @@
         "id": "SB489-0018",
         "bill": "SB 489",
         "session": "20231",
-        "action": "(S) Fiscal Note Requested",
+        "action": "(S) Fiscal Note Received",
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": false,
@@ -212,6 +212,39 @@
         "id": "SB489-0019",
         "bill": "SB 489",
         "session": "20231",
+        "action": "(S) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB489-0020",
+        "bill": "SB 489",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB489-0021",
+        "bill": "SB 489",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB489-0022",
+        "bill": "SB 489",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -220,7 +253,7 @@
         "recordings": []
     },
     {
-        "id": "SB489-0020",
+        "id": "SB489-0023",
         "bill": "SB 489",
         "session": "20231",
         "action": "(S) Hearing",
@@ -228,10 +261,12 @@
         "date": "02/27/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48948?agendaId=255175"
+        ]
     },
     {
-        "id": "SB489-0021",
+        "id": "SB489-0024",
         "bill": "SB 489",
         "session": "20231",
         "action": "(S) Tabled in Committee",

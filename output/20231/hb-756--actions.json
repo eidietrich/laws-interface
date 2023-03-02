@@ -261,7 +261,9 @@
         "date": "02/27/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48263?agendaId=255055"
+        ]
     },
     {
         "id": "HB756-0024",
@@ -272,6 +274,28 @@
         "date": "02/27/2023",
         "hasVote": true,
         "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB756-0025",
+        "bill": "HB 756",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB756-0026",
+        "bill": "HB 756",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

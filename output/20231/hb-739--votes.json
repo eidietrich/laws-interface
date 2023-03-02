@@ -1,15 +1,83 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0739LEH230228.pdf",
         "bill": "HB 739",
         "session": "20231",
         "action_id": "HB739-0019",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 28, 2023",
+        "description": "Rep. Deming made a Motion that HB 739 Do Pass as Amended",
         "totals": {
-            "Y": 15,
-            "N": 1
-        }
+            "Y": 10,
+            "N": 6
+        },
+        "votes": [
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "N"
+            },
+            {
+                "name": "Gist, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Amy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "N"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Falk, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            }
+        ]
     }
 ]

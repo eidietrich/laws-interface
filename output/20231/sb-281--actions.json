@@ -383,8 +383,10 @@
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46221?agendaId=255273"
+        ]
     },
     {
         "id": "SB281-0035",
@@ -417,7 +419,9 @@
         "date": "02/28/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48973?agendaId=255661"
+        ]
     },
     {
         "id": "SB281-0038",
@@ -428,6 +432,17 @@
         "date": "02/28/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB281-0039",
+        "bill": "SB 281",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/02/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

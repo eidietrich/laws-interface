@@ -1,15 +1,91 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HR0003STH230227.pdf",
         "bill": "HR 3",
         "session": "20231",
         "action_id": "HR3-0018",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "February 27, 2023",
+        "description": "Rep. Phalen made a Motion that HR 3 Do Pass",
         "totals": {
             "Y": 18,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            }
+        ]
     }
 ]

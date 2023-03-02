@@ -206,7 +206,9 @@
         "date": "02/27/2023",
         "hasVote": false,
         "committee": "(H) Energy, Technology and Federal Relations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46961?agendaId=255417"
+        ]
     },
     {
         "id": "HJ13-0019",
@@ -217,6 +219,17 @@
         "date": "02/27/2023",
         "hasVote": true,
         "committee": "(H) Energy, Technology and Federal Relations",
+        "recordings": []
+    },
+    {
+        "id": "HJ13-0020",
+        "bill": "HJ 13",
+        "session": "20231",
+        "action": "(H) Motion Failed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
