@@ -390,17 +390,6 @@
         "id": "SB224-0035",
         "bill": "SB 224",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/21/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB224-0036",
-        "bill": "SB 224",
-        "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Carried",
         "actionUrl": null,
         "date": "02/21/2023",
@@ -409,7 +398,7 @@
         "recordings": []
     },
     {
-        "id": "SB224-0037",
+        "id": "SB224-0036",
         "bill": "SB 224",
         "session": "20231",
         "action": "(S) 2nd Reading Passed as Amended",
@@ -422,7 +411,7 @@
         ]
     },
     {
-        "id": "SB224-0038",
+        "id": "SB224-0037",
         "bill": "SB 224",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -433,12 +422,23 @@
         "recordings": []
     },
     {
-        "id": "SB224-0039",
+        "id": "SB224-0038",
         "bill": "SB 224",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "02/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB224-0039",
+        "bill": "SB 224",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "02/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -471,6 +471,17 @@
         "id": "SB224-0042",
         "bill": "SB 224",
         "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB224-0043",
+        "bill": "SB 224",
+        "session": "20231",
         "action": "(S) Committee Report--Bill Passed as Amended",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -479,13 +490,24 @@
         "recordings": []
     },
     {
-        "id": "SB224-0043",
+        "id": "SB224-0044",
         "bill": "SB 224",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(S) Scheduled for 2nd Reading",
         "actionUrl": null,
-        "date": "02/25/2023",
+        "date": "03/01/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB224-0045",
+        "bill": "SB 224",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
