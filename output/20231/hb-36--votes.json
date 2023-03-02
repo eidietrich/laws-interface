@@ -489,7 +489,7 @@
         "action_id": "HB36-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -608,7 +608,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1033&P_SESS=20231",
         "bill": "HB 36",
         "session": "20231",
-        "action_id": "HB36-0035",
+        "action_id": "HB36-0036",
         "type": "floor",
         "seq_number": "H1033",
         "date": "March 01, 2023",
