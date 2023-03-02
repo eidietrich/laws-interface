@@ -212,11 +212,125 @@
         "id": "SB263-0019",
         "bill": "SB 263",
         "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0020",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "02/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0021",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0022",
+        "bill": "SB 263",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "02/10/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48128?agendaId=252094"
+        ]
+    },
+    {
+        "id": "SB263-0023",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": true,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SB263-0024",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SB263-0025",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0026",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46214?agendaId=253167"
+        ]
+    },
+    {
+        "id": "SB263-0027",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0028",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0029",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/18/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -295,8 +295,10 @@
         "actionUrl": null,
         "date": "02/07/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46120?agendaId=251286"
+        ]
     },
     {
         "id": "HB241-0027",
@@ -305,6 +307,39 @@
         "action": "(H) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB241-0028",
+        "bill": "HB 241",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB241-0029",
+        "bill": "HB 241",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB241-0030",
+        "bill": "HB 241",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "02/09/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

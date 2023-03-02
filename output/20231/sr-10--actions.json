@@ -229,8 +229,10 @@
         "actionUrl": null,
         "date": "02/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46205?agendaId=250600"
+        ]
     },
     {
         "id": "SR10-0021",
@@ -239,6 +241,50 @@
         "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "02/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR10-0022",
+        "bill": "SR 10",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR10-0023",
+        "bill": "SR 10",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR10-0024",
+        "bill": "SR 10",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR10-0025",
+        "bill": "SR 10",
+        "session": "20231",
+        "action": "(S) Filed with Secretary of State",
+        "actionUrl": null,
+        "date": "02/10/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

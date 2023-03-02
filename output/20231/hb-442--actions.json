@@ -163,5 +163,51 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "HB442-0015",
+        "bill": "HB 442",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB442-0016",
+        "bill": "HB 442",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB442-0017",
+        "bill": "HB 442",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47833?agendaId=253086"
+        ]
+    },
+    {
+        "id": "HB442-0018",
+        "bill": "HB 442",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": true,
+        "committee": "(H) Taxation",
+        "recordings": []
     }
 ]

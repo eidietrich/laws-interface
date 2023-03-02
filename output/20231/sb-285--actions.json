@@ -207,5 +207,119 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB285-0019",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB285-0020",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB285-0021",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46797?agendaId=252399"
+        ]
+    },
+    {
+        "id": "SB285-0022",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": true,
+        "committee": "(S) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB285-0023",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB285-0024",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB285-0025",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46219?agendaId=254480"
+        ]
+    },
+    {
+        "id": "SB285-0026",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB285-0027",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB285-0028",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     }
 ]

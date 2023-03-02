@@ -308,5 +308,106 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB221-0028",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "02/07/2023",
+        "hasVote": true,
+        "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB221-0029",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB221-0030",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB221-0031",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46210?agendaId=252202"
+        ]
+    },
+    {
+        "id": "SB221-0032",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB221-0033",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB221-0034",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB221-0035",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB221-0036",
+        "bill": "SB 221",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     }
 ]

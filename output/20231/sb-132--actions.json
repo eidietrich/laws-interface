@@ -423,5 +423,62 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB132-0038",
+        "bill": "SB 132",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB132-0039",
+        "bill": "SB 132",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46212?agendaId=252623"
+        ]
+    },
+    {
+        "id": "SB132-0040",
+        "bill": "SB 132",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB132-0041",
+        "bill": "SB 132",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB132-0042",
+        "bill": "SB 132",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     }
 ]

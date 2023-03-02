@@ -201,6 +201,17 @@
         "id": "HB420-0018",
         "bill": "HB 420",
         "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "02/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB420-0019",
+        "bill": "HB 420",
+        "session": "20231",
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "02/07/2023",
@@ -209,7 +220,7 @@
         "recordings": []
     },
     {
-        "id": "HB420-0019",
+        "id": "HB420-0020",
         "bill": "HB 420",
         "session": "20231",
         "action": "(H) First Reading",
@@ -217,6 +228,74 @@
         "date": "02/07/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB420-0021",
+        "bill": "HB 420",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB420-0022",
+        "bill": "HB 420",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB420-0023",
+        "bill": "HB 420",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB420-0024",
+        "bill": "HB 420",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB420-0025",
+        "bill": "HB 420",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47832?agendaId=252790"
+        ]
+    },
+    {
+        "id": "HB420-0026",
+        "bill": "HB 420",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": true,
+        "committee": "(H) Taxation",
         "recordings": []
     }
 ]

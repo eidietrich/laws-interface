@@ -310,5 +310,40 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "HB200-0028",
+        "bill": "HB 200",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46694?agendaId=252919"
+        ]
+    },
+    {
+        "id": "HB200-0029",
+        "bill": "HB 200",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
+        "id": "HB200-0030",
+        "bill": "HB 200",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": true,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
     }
 ]

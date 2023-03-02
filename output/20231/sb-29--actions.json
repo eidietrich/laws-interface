@@ -324,5 +324,51 @@
         "hasVote": true,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB29-0029",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB29-0030",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SB29-0031",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB29-0032",
+        "bill": "SB 29",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48259?agendaId=253750"
+        ]
     }
 ]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": null,
+        "bill": "HB 595",
+        "session": "20231",
+        "action_id": "HB595-0022",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0595JUH230228.pdf",
+        "bill": "HB 595",
+        "session": "20231",
+        "action_id": "HB595-0024",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "February 28, 2023",
+        "description": "Rep. Ler made a Motion that HB 595 Do Pass as Amended",
+        "totals": {
+            "Y": 12,
+            "N": 7
+        },
+        "votes": [
+            {
+                "name": "Ler, Brandon",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "N"
+            },
+            {
+                "name": "Deming, Lee;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Caleb;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "N"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "N"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "N"
+            },
+            {
+                "name": "bbott, Kim",
+                "vote": "A"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            }
+        ]
+    }
+]
