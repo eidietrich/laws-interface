@@ -9,15 +9,21 @@
     "sponsor": "Joshua Kassmier",
     "sponsorParty": "R",
     "sponsorDistrict": "HD 27",
-    "statusDate": "01/11/2023",
-    "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
-    "billStatus": "In First House Committee--Nontabled",
+    "statusDate": "02/23/2023",
+    "lastAction": "(H) Committee Report--Bill Passed as Amended",
+    "billStatus": "In First House--Out of Committee",
     "fiscalNotesListUrl": null,
-    "amendmentListUrl": null,
+    "legalNoteUrl": null,
+    "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0220",
     "draftRequestor": null,
     "billRequestor": null,
     "primarySponsor": "Joshua Kassmier",
     "subjects": [
+        {
+            "subject": "Appropriations  (see also: State Finance)",
+            "fiscalCode": "Appropriation",
+            "voteReq": "Simple"
+        },
         {
             "subject": "Energy",
             "fiscalCode": "",
@@ -32,7 +38,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/12/2023"
+    "deadlineCategory": "Appropriation Bills",
+    "transmittalDeadline": "04/03/2023",
+    "amendedReturnDeadline": "04/21/2023"
 }

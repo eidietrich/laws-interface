@@ -501,5 +501,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 119",
+        "session": "20231",
+        "action_id": "HB119-0028",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 22,
+            "N": 0
+        }
     }
 ]

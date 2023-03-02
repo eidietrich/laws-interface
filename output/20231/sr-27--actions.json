@@ -218,8 +218,10 @@
         "actionUrl": null,
         "date": "02/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46205?agendaId=250602"
+        ]
     },
     {
         "id": "SR27-0020",
@@ -228,6 +230,50 @@
         "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "02/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR27-0021",
+        "bill": "SR 27",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR27-0022",
+        "bill": "SR 27",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR27-0023",
+        "bill": "SR 27",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "02/10/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR27-0024",
+        "bill": "SR 27",
+        "session": "20231",
+        "action": "(S) Filed with Secretary of State",
+        "actionUrl": null,
+        "date": "02/10/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

@@ -209,5 +209,84 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB210-0019",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB210-0020",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB210-0021",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB210-0022",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB210-0023",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46217?agendaId=253818"
+        ]
+    },
+    {
+        "id": "SB210-0024",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB210-0025",
+        "bill": "SB 210",
+        "session": "20231",
+        "action": "(S) 3rd Reading Failed",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
     }
 ]

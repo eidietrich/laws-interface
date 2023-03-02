@@ -174,5 +174,62 @@
         "hasVote": false,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "HB431-0016",
+        "bill": "HB 431",
+        "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB431-0017",
+        "bill": "HB 431",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB431-0018",
+        "bill": "HB 431",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB431-0019",
+        "bill": "HB 431",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/15/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46565?agendaId=252898"
+        ]
+    },
+    {
+        "id": "HB431-0020",
+        "bill": "HB 431",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": true,
+        "committee": "(H) Natural Resources",
+        "recordings": []
     }
 ]

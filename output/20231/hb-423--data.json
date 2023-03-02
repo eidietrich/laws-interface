@@ -12,12 +12,18 @@
     "statusDate": "02/07/2023",
     "lastAction": "(H) Referred to Committee -- (H) Judiciary",
     "billStatus": "In First House Committee--Nontabled",
-    "fiscalNotesListUrl": null,
+    "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0423",
+    "legalNoteUrl": null,
     "amendmentListUrl": null,
     "draftRequestor": null,
     "billRequestor": null,
     "primarySponsor": "Amy Regier",
     "subjects": [
+        {
+            "subject": "Appropriations  (see also: State Finance)",
+            "fiscalCode": "Appropriation",
+            "voteReq": "Simple"
+        },
         {
             "subject": "Criminal Procedure  (see also: Law Enforcement)",
             "fiscalCode": "",
@@ -32,7 +38,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/12/2023"
+    "deadlineCategory": "Appropriation Bills",
+    "transmittalDeadline": "04/03/2023",
+    "amendedReturnDeadline": "04/21/2023"
 }

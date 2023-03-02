@@ -352,5 +352,64 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": []
+    },
+    {
+        "id": "SB225-0032",
+        "bill": "SB 225",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB225-0033",
+        "bill": "SB 225",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46209?agendaId=251987"
+        ]
+    },
+    {
+        "id": "SB225-0034",
+        "bill": "SB 225",
+        "session": "20231",
+        "action": "(S) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB225-0035",
+        "bill": "SB 225",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "02/13/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48683?agendaId=252429"
+        ]
+    },
+    {
+        "id": "SB225-0036",
+        "bill": "SB 225",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
     }
 ]

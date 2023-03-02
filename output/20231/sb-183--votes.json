@@ -277,5 +277,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 183",
+        "session": "20231",
+        "action_id": "SB183-0034",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
     }
 ]

@@ -295,8 +295,10 @@
         "actionUrl": null,
         "date": "02/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48593?agendaId=251156"
+        ]
     },
     {
         "id": "HB292-0027",
@@ -327,6 +329,17 @@
         "action": "(H) Transmitted to Senate",
         "actionUrl": null,
         "date": "02/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB292-0030",
+        "bill": "HB 292",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "02/08/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

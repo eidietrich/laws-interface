@@ -367,8 +367,10 @@
         "actionUrl": null,
         "date": "02/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46206?agendaId=250903"
+        ]
     },
     {
         "id": "HB22-0033",
@@ -389,6 +391,94 @@
         "actionUrl": null,
         "date": "02/07/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0035",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0036",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0037",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0038",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0039",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0040",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Signed by Speaker",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0041",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB22-0042",
+        "bill": "HB 22",
+        "session": "20231",
+        "action": "(H) Transmitted to Governor",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

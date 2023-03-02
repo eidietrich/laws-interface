@@ -342,7 +342,7 @@
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed",
         "actionUrl": null,
-        "date": "01/24/2023",
+        "date": "01/23/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
@@ -384,6 +384,17 @@
         "id": "SB21-0034",
         "bill": "SB 21",
         "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "01/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB21-0035",
+        "bill": "SB 21",
+        "session": "20231",
         "action": "(S) Revised Fiscal Note Received",
         "actionUrl": null,
         "date": "01/30/2023",
@@ -392,7 +403,7 @@
         "recordings": []
     },
     {
-        "id": "SB21-0035",
+        "id": "SB21-0036",
         "bill": "SB 21",
         "session": "20231",
         "action": "(C) Fiscal Note Unsigned",
@@ -403,12 +414,34 @@
         "recordings": []
     },
     {
-        "id": "SB21-0036",
+        "id": "SB21-0037",
         "bill": "SB 21",
         "session": "20231",
         "action": "(S) Revised Fiscal Note Printed",
         "actionUrl": null,
         "date": "01/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB21-0038",
+        "bill": "SB 21",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "SB21-0039",
+        "bill": "SB 21",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/17/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

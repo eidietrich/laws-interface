@@ -1,0 +1,68 @@
+[
+    {
+        "url": null,
+        "bill": "SB 403",
+        "session": "20231",
+        "action_id": "SB403-0021",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Skipped previously missing vote page",
+        "totals": {
+            "Y": 7,
+            "N": 2
+        }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0403LOS230227.pdf",
+        "bill": "SB 403",
+        "session": "20231",
+        "action_id": "SB403-0026",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "February 27, 2023",
+        "description": "Sen. Bogner made a Motion that Reconsider vote Do Pass",
+        "totals": {
+            "Y": 5,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "N"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            }
+        ]
+    }
+]

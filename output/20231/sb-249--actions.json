@@ -168,7 +168,7 @@
         "id": "SB249-0015",
         "bill": "SB 249",
         "session": "20231",
-        "action": "(C) Fiscal Note Probable",
+        "action": "(S) Fiscal Note Requested",
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": false,
@@ -179,7 +179,7 @@
         "id": "SB249-0016",
         "bill": "SB 249",
         "session": "20231",
-        "action": "(S) Introduced",
+        "action": "(C) Fiscal Note Probable",
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": false,
@@ -190,6 +190,17 @@
         "id": "SB249-0017",
         "bill": "SB 249",
         "session": "20231",
+        "action": "(S) Introduced",
+        "actionUrl": null,
+        "date": "02/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0018",
+        "bill": "SB 249",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "02/01/2023",
@@ -198,7 +209,7 @@
         "recordings": []
     },
     {
-        "id": "SB249-0018",
+        "id": "SB249-0019",
         "bill": "SB 249",
         "session": "20231",
         "action": "(S) First Reading",
@@ -209,7 +220,7 @@
         "recordings": []
     },
     {
-        "id": "SB249-0019",
+        "id": "SB249-0020",
         "bill": "SB 249",
         "session": "20231",
         "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
@@ -220,7 +231,7 @@
         "recordings": []
     },
     {
-        "id": "SB249-0020",
+        "id": "SB249-0021",
         "bill": "SB 249",
         "session": "20231",
         "action": "(S) Hearing",
@@ -228,6 +239,120 @@
         "date": "02/07/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47955?agendaId=251257"
+        ]
+    },
+    {
+        "id": "SB249-0022",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0023",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0024",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "02/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0025",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0026",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/21/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB249-0027",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB249-0028",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0029",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB249-0030",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Motion Failed",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46221?agendaId=255270"
+        ]
+    },
+    {
+        "id": "SB249-0031",
+        "bill": "SB 249",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -229,8 +229,10 @@
         "actionUrl": null,
         "date": "02/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46206?agendaId=250899"
+        ]
     },
     {
         "id": "SB202-0021",
@@ -251,6 +253,39 @@
         "actionUrl": null,
         "date": "02/07/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB202-0023",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB202-0024",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
+        "committee": "(H) Agriculture",
+        "recordings": []
+    },
+    {
+        "id": "SB202-0025",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/17/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

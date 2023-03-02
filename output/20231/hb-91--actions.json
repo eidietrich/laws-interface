@@ -399,8 +399,10 @@
         "actionUrl": null,
         "date": "02/07/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46120?agendaId=251282"
+        ]
     },
     {
         "id": "HB91-0036",
@@ -409,6 +411,39 @@
         "action": "(H) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0037",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0038",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0039",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "02/09/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

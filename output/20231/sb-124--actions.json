@@ -422,5 +422,185 @@
         "hasVote": true,
         "committee": null,
         "recordings": []
+    },
+    {
+        "id": "SB124-0038",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "02/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB124-0039",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0040",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) First Reading",
+        "actionUrl": null,
+        "date": "02/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB124-0041",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0042",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": true,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0043",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0044",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0045",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0046",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Hearing Canceled",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0047",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48898?agendaId=254742"
+        ]
+    },
+    {
+        "id": "SB124-0048",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0049",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB124-0050",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB124-0051",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46135?agendaId=255691"
+        ]
+    },
+    {
+        "id": "SB124-0052",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB124-0053",
+        "bill": "SB 124",
+        "session": "20231",
+        "action": "(H) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
     }
 ]

@@ -9,20 +9,16 @@
     "sponsor": "Brad Barker",
     "sponsorParty": "R",
     "sponsorDistrict": "HD 58",
-    "statusDate": "02/07/2023; 03:00 PM, Rm 472",
-    "lastAction": "(H) Hearing -- (H) Local Government",
-    "billStatus": "In First House Committee--Nontabled",
-    "fiscalNotesListUrl": null,
-    "amendmentListUrl": null,
+    "statusDate": "02/16/2023",
+    "lastAction": "(H) Tabled in Committee * -- (H) Local Government",
+    "billStatus": "In First House Committee--Tabled",
+    "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0328",
+    "legalNoteUrl": null,
+    "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0328",
     "draftRequestor": null,
     "billRequestor": null,
     "primarySponsor": "Brad Barker",
     "subjects": [
-        {
-            "subject": "Appropriations  (see also: State Finance)",
-            "fiscalCode": "Appropriation",
-            "voteReq": "Simple"
-        },
         {
             "subject": "City Officers  (see also: Local Government)",
             "fiscalCode": "",
@@ -30,6 +26,11 @@
         },
         {
             "subject": "Local Government  (see also: City Subjects; County Subjects)",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Local Government Fiscal Impact",
             "fiscalCode": "",
             "voteReq": "Simple"
         },
@@ -42,7 +43,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "Appropriation Bills",
-    "transmittalDeadline": "04/03/2023",
-    "amendedReturnDeadline": "04/21/2023"
+    "deadlineCategory": "General Bills",
+    "transmittalDeadline": "03/03/2023",
+    "amendedReturnDeadline": "04/12/2023"
 }
