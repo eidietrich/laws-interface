@@ -253,5 +253,38 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": []
+    },
+    {
+        "id": "SB463-0023",
+        "bill": "SB 463",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB463-0024",
+        "bill": "SB 463",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Motion Failed",
+        "actionUrl": null,
+        "date": "03/02/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB463-0025",
+        "bill": "SB 463",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "03/02/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
     }
 ]
