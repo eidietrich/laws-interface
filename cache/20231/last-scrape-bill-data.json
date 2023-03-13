@@ -122,7 +122,7 @@
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0004",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0004",
         "draftRequestor": null,
         "billRequestor": "Office of Budget and Program Planning",
         "primarySponsor": "Llew Jones",
@@ -171,7 +171,7 @@
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0005",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0005",
         "draftRequestor": null,
         "billRequestor": "Office of Budget and Program Planning",
         "primarySponsor": "Mike Hopkins",
@@ -210,7 +210,7 @@
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0006",
         "draftRequestor": null,
         "billRequestor": "Department of Natural Resources and Conservation",
         "primarySponsor": "Mike Hopkins",
@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "3/4 of Each House",
             "2/3 of Each House",
-            "Simple",
-            "3/4 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -491,7 +491,7 @@
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0012",
         "draftRequestor": null,
         "billRequestor": "Office of Budget and Program Planning",
         "primarySponsor": "Mike Hopkins",
@@ -4763,7 +4763,7 @@
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0116",
         "draftRequestor": null,
         "billRequestor": "Children, Families, Health, and Human Services Interim Committee",
         "primarySponsor": "Jane Gillette",
@@ -6007,7 +6007,7 @@
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0147",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0147",
         "draftRequestor": null,
         "billRequestor": "Children, Families, Health, and Human Services Interim Committee",
         "primarySponsor": "Jane Gillette",
@@ -7968,7 +7968,7 @@
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0198",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0198",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Julie Dooling",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -11825,6 +11825,11 @@
         "primarySponsor": "Jonathan Windy Boy",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Indians",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -11838,9 +11843,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 289",
@@ -13187,6 +13192,11 @@
         "primarySponsor": "Linda Reksten",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Counties  (see also: Local Government)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -13220,9 +13230,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 322",
@@ -13441,7 +13451,7 @@
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0326",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Kerri Seekins-Crowe",
@@ -20109,6 +20119,11 @@
         "primarySponsor": "Jane Gillette",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Minors  (see also: Family Law)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -20127,9 +20142,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 483",
@@ -20664,7 +20679,7 @@
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0496",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0496",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Kenneth Walsh",
@@ -20871,6 +20886,11 @@
         "primarySponsor": "Kerri Seekins-Crowe",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Criminal Procedure  (see also: Law Enforcement)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -20884,9 +20904,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 501",
@@ -22663,6 +22683,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Health Care Services (see also: Health)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -22676,9 +22701,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 545",
@@ -22736,6 +22761,11 @@
         "primarySponsor": "Dave Fern",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Housing",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -22749,9 +22779,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 547",
@@ -22858,6 +22888,11 @@
         "primarySponsor": "Fred Anderson",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "School Finance",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -22871,9 +22906,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 550",
@@ -23406,6 +23441,11 @@
         "primarySponsor": "Sue Vinton",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "School Finance",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -23419,9 +23459,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 563",
@@ -24391,6 +24431,11 @@
         "primarySponsor": "Llew Jones",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "School Finance",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -24409,9 +24454,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 588",
@@ -24435,12 +24480,22 @@
         "primarySponsor": "Llew Jones",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "School Finance",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             },
             {
                 "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Securities and Securities Regulation",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             },
@@ -24453,9 +24508,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 589",
@@ -24791,6 +24846,11 @@
         "primarySponsor": "Neil Duram",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Money Transfer",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -24814,9 +24874,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 598",
@@ -25431,6 +25491,11 @@
         "primarySponsor": "Marta Bertoglio",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Health (see also: Health Care Services; Safety)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -25449,9 +25514,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 613",
@@ -26159,6 +26224,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Civil Procedure",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -26187,9 +26257,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 630",
@@ -26974,6 +27044,16 @@
         "primarySponsor": "Mary Caferro",
         "subjects": [
             {
+                "subject": "Appropriation Process",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Developmental Disabilities, Persons With (see also: Institutions)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -27007,9 +27087,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 650",
@@ -27111,6 +27191,11 @@
         "primarySponsor": "Steven Galloway",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -27124,9 +27209,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 653",
@@ -27872,6 +27957,11 @@
         "primarySponsor": "John Fitzpatrick",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Environmental Protection",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -27880,9 +27970,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 673",
@@ -27955,17 +28045,27 @@
         "primarySponsor": "Kerri Seekins-Crowe",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Guns and Weapons",
                 "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
                 "voteReq": "Simple"
             }
         ],
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 675",
@@ -28154,6 +28254,11 @@
         "billRequestor": null,
         "primarySponsor": "Denley Loge",
         "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
             {
                 "subject": "Highways and Roads",
                 "fiscalCode": "",
@@ -29405,6 +29510,11 @@
         "primarySponsor": "Jane Gillette",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Courts  (see also: Judges and Justices; Juries and Jurors)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -29413,9 +29523,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 710",
@@ -30619,6 +30729,11 @@
         "primarySponsor": "Laura Smith",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Mental Illness or Incapacity  (see also: Institutions)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -30637,9 +30752,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 741",
@@ -30746,6 +30861,11 @@
         "primarySponsor": "Laura Smith",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Crimes",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -30759,9 +30879,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 744",
@@ -31653,6 +31773,11 @@
         "primarySponsor": "Dave Fern",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Crimes",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -31671,9 +31796,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 767",
@@ -31990,6 +32115,11 @@
         "primarySponsor": "Mike Hopkins",
         "subjects": [
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Counties  (see also: Local Government)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -32013,9 +32143,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 775",
@@ -32693,6 +32823,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Crimes",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -32701,9 +32836,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 792",
@@ -33787,7 +33922,7 @@
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0817",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "John Fitzpatrick",
@@ -45356,14 +45491,19 @@
                 "subject": "Family Law  (see also: Minors)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
             }
         ],
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 251",
@@ -47368,6 +47508,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Senior Citizens  (see also: Retirement)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -47386,9 +47531,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 297",
@@ -48918,14 +49063,19 @@
                 "subject": "Oil and Gas  (see also: Mining and Minerals; Taxation--Oil and Gas)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
             }
         ],
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 335",
@@ -50083,6 +50233,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Taxation (Generally)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -50096,9 +50251,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 363",
@@ -51744,6 +51899,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -51752,9 +51912,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 403",
@@ -53364,6 +53524,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -53372,9 +53537,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 443",
@@ -53662,6 +53827,11 @@
         "primarySponsor": "Daniel Emrich",
         "subjects": [
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -53710,9 +53880,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 450",
@@ -54065,7 +54235,7 @@
         "statusDate": "03/10/2023; 09:00 AM, Rm 317",
         "lastAction": "(S) Hearing -- (S) Finance and Claims",
         "billStatus": "In First House Committee--Nontabled",
-        "fiscalNotesListUrl": null,
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0458",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0458",
         "draftRequestor": null,
@@ -54111,14 +54281,19 @@
                 "subject": "Minors  (see also: Family Law)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
             }
         ],
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 459",
@@ -54815,14 +54990,19 @@
                 "subject": "Gambling",
                 "fiscalCode": "",
                 "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
             }
         ],
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "SB 475",

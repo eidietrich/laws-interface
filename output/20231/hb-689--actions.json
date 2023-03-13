@@ -262,8 +262,10 @@
         "actionUrl": null,
         "date": "03/02/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49044?agendaId=257266"
+        ]
     },
     {
         "id": "HB689-0024",
@@ -305,6 +307,17 @@
         "action": "(S) First Reading",
         "actionUrl": null,
         "date": "03/09/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB689-0028",
+        "bill": "HB 689",
+        "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "03/10/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

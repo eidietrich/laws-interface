@@ -20,6 +20,16 @@
     "primarySponsor": "Mary Caferro",
     "subjects": [
         {
+            "subject": "Appropriation Process",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Appropriations  (see also: State Finance)",
+            "fiscalCode": "Appropriation",
+            "voteReq": "Simple"
+        },
+        {
             "subject": "Developmental Disabilities, Persons With (see also: Institutions)",
             "fiscalCode": "",
             "voteReq": "Simple"
@@ -53,7 +63,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/12/2023"
+    "deadlineCategory": "Appropriation Bills",
+    "transmittalDeadline": "04/03/2023",
+    "amendedReturnDeadline": "04/21/2023"
 }

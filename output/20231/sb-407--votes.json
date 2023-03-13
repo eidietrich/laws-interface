@@ -6,7 +6,7 @@
         "action_id": "SB407-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 0
@@ -16,15 +16,15 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0407LOS230227.pdf",
         "bill": "SB 407",
         "session": "20231",
-        "action_id": "SB407-0022",
+        "action_id": "SB407-0023",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "February 27, 2023",
-        "description": "Sen. Bogner made a Motion that SB 407 To Take from the Table",
+        "description": "Sen. Bogner made a Motion that SB 407 Do Pass as Amended",
         "totals": {
-            "Y": 8,
-            "N": 1
+            "Y": 4,
+            "N": 5
         },
         "votes": [
             {
@@ -33,31 +33,31 @@
             },
             {
                 "name": "Pope, Christopher",
-                "vote": "Y"
-            },
-            {
-                "name": "Dunwell, MaryAnn",
-                "vote": "Y"
-            },
-            {
-                "name": "Trebas, Jeremy",
-                "vote": "Y"
-            },
-            {
-                "name": "Vermeire, Terry",
-                "vote": "Y"
-            },
-            {
-                "name": "Mandeville, Forrest",
                 "vote": "N"
             },
             {
-                "name": "Bogner, Kenneth",
+                "name": "Dunwell, MaryAnn;byproxy",
                 "vote": "Y"
             },
             {
-                "name": "Zolnikov, Daniel",
+                "name": "Trebas, Jeremy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Vermeire, Terry;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Mandeville, Forrest",
                 "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Daniel;byproxy",
+                "vote": "N"
             },
             {
                 "name": "Friedel, Chris",
@@ -69,7 +69,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1064&P_SESS=20231",
         "bill": "SB 407",
         "session": "20231",
-        "action_id": "SB407-0026",
+        "action_id": "SB407-0027",
         "type": "floor",
         "seq_number": "S1064",
         "date": "March 02, 2023",
@@ -287,7 +287,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1146&P_SESS=20231",
         "bill": "SB 407",
         "session": "20231",
-        "action_id": "SB407-0028",
+        "action_id": "SB407-0029",
         "type": "floor",
         "seq_number": "S1146",
         "date": "March 02, 2023",
