@@ -8952,8 +8952,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
         "statusDate": "03/13/2023",
-        "lastAction": "(H) Transmitted to Governor",
-        "billStatus": "Transmitted to Governor",
+        "lastAction": "(H) Signed by Governor",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0221",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0221",
@@ -16316,8 +16316,8 @@
         "sponsor": "Sue Vinton",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 56",
-        "statusDate": "03/10/2023",
-        "lastAction": "(H) Rereferred to Committee -- (H) Appropriations",
+        "statusDate": "03/23/2023; 03:00 PM, Rm 102",
+        "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0393",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0393",
@@ -23430,8 +23430,8 @@
         "sponsor": "Sue Vinton",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 56",
-        "statusDate": "03/01/2023",
-        "lastAction": "(H) Rereferred to Committee -- (H) Appropriations",
+        "statusDate": "03/23/2023; 03:00 PM, Rm 102",
+        "lastAction": "(H) Hearing -- (H) Appropriations",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0562",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0562",
@@ -56385,6 +56385,60 @@
             },
             {
                 "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "SB 507",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=507&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0060.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0060.pdf",
+        "lc": "LC0060",
+        "title": "Generally revise tax laws",
+        "sponsor": "Daniel Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 22",
+        "statusDate": "03/13/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Daniel Zolnikov",
+        "subjects": [
+            {
+                "subject": "Civil Procedure",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, Local",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
