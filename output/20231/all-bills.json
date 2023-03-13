@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -3372,9 +3372,9 @@
         "sponsor": "George Nikolakakos",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 26",
-        "statusDate": "02/09/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "03/13/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0082",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0082",
@@ -7884,9 +7884,9 @@
         "sponsor": "Lyn Hellegaard",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 97",
-        "statusDate": "02/08/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "03/13/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0196",
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8019,6 +8019,50 @@
             },
             {
                 "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/12/2023"
+    },
+    {
+        "key": "HB 200",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=200&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0200.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0200.pdf",
+        "lc": "LC0533",
+        "title": "Revise the Montana Safe Haven Newborn Protection Act",
+        "sponsor": "Sherry Essmann",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 52",
+        "statusDate": "02/17/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Concurred",
+        "billStatus": "In Second House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Sherry Essmann",
+        "subjects": [
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Minors  (see also: Family Law)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -9767,9 +9811,9 @@
         "sponsor": "Joshua Kassmier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 27",
-        "statusDate": "02/08/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "03/13/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -10628,7 +10672,7 @@
         "sponsor": "Matt Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 4",
-        "statusDate": "02/27/2023",
+        "statusDate": "03/13/2023",
         "lastAction": "(S) Committee Report--Bill Concurred as Amended",
         "billStatus": "In Second House--Out of Committee",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0260",
@@ -12351,9 +12395,9 @@
         "sponsor": "Alice Buckley",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 63",
-        "statusDate": "02/08/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "03/13/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0302",
@@ -12771,9 +12815,9 @@
         "sponsor": "Jodee Etchart",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 48",
-        "statusDate": "02/08/2023",
-        "lastAction": "(H) Transmitted to Senate",
-        "billStatus": "Transmitted to Second House",
+        "statusDate": "03/13/2023",
+        "lastAction": "(S) Referred to Committee",
+        "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0312",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -15374,8 +15418,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16777,8 +16821,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21521,8 +21565,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22933,8 +22977,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -26696,9 +26740,9 @@
         "sponsor": "Casey Knudsen",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 33",
-        "statusDate": "03/11/2023",
-        "lastAction": "(H) Missed Deadline for General Bill Transmittal *",
-        "billStatus": "Probably Dead",
+        "statusDate": "02/22/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing -- (H) Natural Resources",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0642",
@@ -26712,6 +26756,11 @@
                 "voteReq": "Simple"
             },
             {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
                 "subject": "Water",
                 "fiscalCode": "",
                 "voteReq": "Simple"
@@ -26720,9 +26769,9 @@
         "voteRequirements": [
             "Simple"
         ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
     },
     {
         "key": "HB 643",
@@ -34291,6 +34340,80 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 825",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=825&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0103.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0103.pdf",
+        "lc": "LC0103",
+        "title": "Provide funding to address affordable housing",
+        "sponsor": "Mike Hopkins",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 92",
+        "statusDate": "03/13/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Mike Hopkins",
+        "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Bond Issues, Public",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Money Transfer",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Water",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
         "amendedReturnDeadline": "04/21/2023"
     },
@@ -46408,8 +46531,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -50630,8 +50753,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
