@@ -808,16 +808,72 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0070EDH230313.pdf",
         "bill": "SB 70",
         "session": "20231",
         "action_id": "SB70-0036",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "March 13, 2023",
+        "description": "Rep. Reksten made a Motion that SB 70 Be Concurred In",
         "totals": {
             "Y": 13,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            }
+        ]
     }
 ]
