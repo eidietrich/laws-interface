@@ -382,17 +382,6 @@
         "id": "SB120-0034",
         "bill": "SB 120",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Concurred",
-        "actionUrl": null,
-        "date": "02/22/2023",
-        "hasVote": true,
-        "committee": "(H) Transportation",
-        "recordings": []
-    },
-    {
-        "id": "SB120-0035",
-        "bill": "SB 120",
-        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/22/2023",
@@ -403,6 +392,17 @@
         ]
     },
     {
+        "id": "SB120-0035",
+        "bill": "SB 120",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "02/22/2023",
+        "hasVote": true,
+        "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
         "id": "SB120-0036",
         "bill": "SB 120",
         "session": "20231",
@@ -411,6 +411,28 @@
         "date": "02/23/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB120-0037",
+        "bill": "SB 120",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB120-0038",
+        "bill": "SB 120",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/14/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -464,8 +464,10 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257502"
+        ]
     },
     {
         "id": "HB189-0042",
@@ -475,6 +477,28 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB189-0043",
+        "bill": "HB 189",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB189-0044",
+        "bill": "HB 189",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/14/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
