@@ -310,7 +310,9 @@
         "date": "03/10/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46756?agendaId=257577"
+        ]
     },
     {
         "id": "HB109-0028",
@@ -332,6 +334,28 @@
         "date": "03/13/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB109-0030",
+        "bill": "HB 109",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB109-0031",
+        "bill": "HB 109",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/15/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
