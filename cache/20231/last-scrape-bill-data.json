@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -34283,70 +34283,6 @@
         "key": "HB 824",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=824&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0824.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0824.pdf",
-        "lc": "LC1972",
-        "title": "Exempt agricultural property from open space bonds",
-        "sponsor": "Brad Barker",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 58",
-        "statusDate": "03/13/2023",
-        "lastAction": "(C) Draft Delivered to Requester",
-        "billStatus": "In Drafting Process",
-        "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
-        "amendmentListUrl": null,
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Brad Barker",
-        "subjects": [
-            {
-                "subject": "Agriculture  (see also: Livestock; Taxation--Agriculture/Livestock)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Bond Issues, Public",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Environmental Protection",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Local Finance  (see also: City Finance; County Finance)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Revenue, Local",
-                "fiscalCode": "Revenue",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation (Generally)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Property",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/03/2023",
-        "amendedReturnDeadline": "04/21/2023"
-    },
-    {
-        "key": "HB 824",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=824&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
         "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2568.htm",
         "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2568.pdf",
         "lc": "LC2568",
@@ -34356,7 +34292,7 @@
         "sponsorDistrict": "HD 58",
         "statusDate": "03/15/2023",
         "lastAction": "(H) Introduced",
-        "billStatus": "In Drafting Process",
+        "billStatus": "In First House--Introduced",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -34364,41 +34300,6 @@
         "billRequestor": null,
         "primarySponsor": "Brad Barker",
         "subjects": [
-            {
-                "subject": "Agriculture  (see also: Livestock; Taxation--Agriculture/Livestock)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Bond Issues, Public",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Environmental Protection",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Local Finance  (see also: City Finance; County Finance)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Revenue, Local",
-                "fiscalCode": "Revenue",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation (Generally)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Property",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
             {
                 "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
                 "fiscalCode": "",
@@ -34900,6 +34801,173 @@
             "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 834",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=834&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0834.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0834.pdf",
+        "lc": "LC1972",
+        "title": "Exempt agricultural property from open space bonds",
+        "sponsor": "Brad Barker",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 58",
+        "statusDate": "03/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Barker",
+        "subjects": [
+            {
+                "subject": "Agriculture  (see also: Livestock; Taxation--Agriculture/Livestock)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Bond Issues, Public",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Environmental Protection",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Finance  (see also: City Finance; County Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, Local",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 835",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=835&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2013.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2013.pdf",
+        "lc": "LC2013",
+        "title": "Create Medicaid and 24/7 contingency fund",
+        "sponsor": "Bob Keenan",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 10",
+        "statusDate": "03/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Keenan",
+        "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Developmental Disabilities, Persons With (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Senior Citizens  (see also: Retirement)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Social Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 836",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=836&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1455.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1455.pdf",
+        "lc": "LC1455",
+        "title": "Revise insurance laws relating to regulatory waivers",
+        "sponsor": "Katie Zolnikov",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 45",
+        "statusDate": "03/15/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Katie Zolnikov",
+        "subjects": [
+            {
+                "subject": "Insurance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Rule Making",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/03/2023",
         "amendedReturnDeadline": "04/21/2023"
     },
@@ -39349,8 +39417,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/21/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0093",
         "legalNoteUrl": null,
@@ -40415,8 +40483,8 @@
         "sponsor": "Shelley Vance",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 34",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/21/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -43815,8 +43883,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/21/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -44850,8 +44918,8 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/20/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -45295,8 +45363,8 @@
         "sponsor": "Janet Ellis",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 41",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/20/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0232",
         "legalNoteUrl": null,
@@ -46233,8 +46301,8 @@
         "sponsor": "Kenneth Bogner",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 19",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/21/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -57011,9 +57079,9 @@
         "sponsor": "Barry Usher",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 20",
-        "statusDate": "03/14/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -57060,9 +57128,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "03/14/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Highways and Transportation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -57109,9 +57177,9 @@
         "sponsor": "Daniel Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 22",
-        "statusDate": "03/14/2023",
-        "lastAction": "(S) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Referred to Committee -- (S) Taxation",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -57812,8 +57880,8 @@
         "sponsor": "Mike Fox",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 16",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/20/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -57846,8 +57914,8 @@
         "sponsor": "John Fuller",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 4",
-        "statusDate": "03/13/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/20/2023; 09:00 AM, Rm 455",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -59316,12 +59384,12 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "03/15/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted as Amended -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SR0035",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Jason Small",
@@ -59643,8 +59711,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "03/15/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -60156,8 +60224,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "03/15/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -60190,8 +60258,8 @@
         "sponsor": "Jason D Small",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 21",
-        "statusDate": "03/15/2023; 08:30 AM, Rm 422",
-        "lastAction": "(S) Hearing -- (S) Business, Labor, and Economic Affairs",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Resolution Adopted -- (S) Business, Labor, and Economic Affairs",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,

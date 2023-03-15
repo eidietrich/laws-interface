@@ -5,24 +5,13 @@
         "session": "20231",
         "action": "(C) Draft Request Received",
         "actionUrl": null,
-        "date": "12/01/2022",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0001",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft Request Received",
-        "actionUrl": null,
         "date": "12/03/2022",
         "hasVote": false,
         "committee": null,
         "recordings": []
     },
     {
-        "id": "HB824-0002",
+        "id": "HB824-0001",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Draft On Hold",
@@ -33,29 +22,7 @@
         "recordings": []
     },
     {
-        "id": "HB824-0003",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft to Requester for Review",
-        "actionUrl": null,
-        "date": "02/08/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0004",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft in Legal Review",
-        "actionUrl": null,
-        "date": "02/09/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0005",
+        "id": "HB824-0002",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Draft Taken Off Hold",
@@ -66,18 +33,7 @@
         "recordings": []
     },
     {
-        "id": "HB824-0006",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft in Edit",
-        "actionUrl": null,
-        "date": "02/22/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0007",
+        "id": "HB824-0003",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Draft to Requester for Review",
@@ -88,7 +44,7 @@
         "recordings": []
     },
     {
-        "id": "HB824-0008",
+        "id": "HB824-0004",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Draft in Legal Review",
@@ -99,7 +55,7 @@
         "recordings": []
     },
     {
-        "id": "HB824-0009",
+        "id": "HB824-0005",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Draft in Edit",
@@ -110,12 +66,56 @@
         "recordings": []
     },
     {
-        "id": "HB824-0010",
+        "id": "HB824-0006",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Draft to Drafter - Edit Review",
         "actionUrl": null,
         "date": "02/25/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB824-0007",
+        "bill": "HB 824",
+        "session": "20231",
+        "action": "(C) Draft in Input/Proofing",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB824-0008",
+        "bill": "HB 824",
+        "session": "20231",
+        "action": "(C) Draft in Final Drafter Review",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB824-0009",
+        "bill": "HB 824",
+        "session": "20231",
+        "action": "(C) Bill Draft Text Available Electronically",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB824-0010",
+        "bill": "HB 824",
+        "session": "20231",
+        "action": "(C) Executive Director Review",
+        "actionUrl": null,
+        "date": "02/27/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -124,9 +124,9 @@
         "id": "HB824-0011",
         "bill": "HB 824",
         "session": "20231",
-        "action": "(C) Draft to Drafter - Edit Review",
+        "action": "(C) Draft in Assembly",
         "actionUrl": null,
-        "date": "02/25/2023",
+        "date": "02/27/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -135,7 +135,7 @@
         "id": "HB824-0012",
         "bill": "HB 824",
         "session": "20231",
-        "action": "(C) Draft in Input/Proofing",
+        "action": "(C) Draft Ready for Delivery",
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": false,
@@ -146,7 +146,7 @@
         "id": "HB824-0013",
         "bill": "HB 824",
         "session": "20231",
-        "action": "(C) Draft in Final Drafter Review",
+        "action": "(C) Executive Director Final Review",
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": false,
@@ -157,7 +157,7 @@
         "id": "HB824-0014",
         "bill": "HB 824",
         "session": "20231",
-        "action": "(C) Bill Draft Text Available Electronically",
+        "action": "(C) Draft Ready for Delivery",
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": false,
@@ -168,149 +168,6 @@
         "id": "HB824-0015",
         "bill": "HB 824",
         "session": "20231",
-        "action": "(C) Executive Director Review",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0016",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft in Input/Proofing",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0017",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft in Final Drafter Review",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0018",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Bill Draft Text Available Electronically",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0019",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Executive Director Review",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0020",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft in Assembly",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0021",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft in Assembly",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0022",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0023",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Executive Director Final Review",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0024",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0025",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Executive Director Final Review",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0026",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0027",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft Ready for Delivery",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0028",
-        "bill": "HB 824",
-        "session": "20231",
         "action": "(C) Draft Delivered to Requester",
         "actionUrl": null,
         "date": "03/10/2023",
@@ -319,51 +176,7 @@
         "recordings": []
     },
     {
-        "id": "HB824-0029",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(H) Introduced",
-        "actionUrl": null,
-        "date": "03/11/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0030",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(H) Fiscal Note Requested",
-        "actionUrl": null,
-        "date": "03/11/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0031",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Draft Delivered to Requester",
-        "actionUrl": null,
-        "date": "03/13/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0032",
-        "bill": "HB 824",
-        "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "03/13/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB824-0033",
+        "id": "HB824-0016",
         "bill": "HB 824",
         "session": "20231",
         "action": "(C) Fiscal Note Probable",
@@ -374,7 +187,7 @@
         "recordings": []
     },
     {
-        "id": "HB824-0034",
+        "id": "HB824-0017",
         "bill": "HB 824",
         "session": "20231",
         "action": "(H) Introduced",
