@@ -2,15 +2,15 @@
     "key": "HB 824",
     "session": "20231",
     "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=824&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-    "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0824.htm",
-    "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0824.pdf",
-    "lc": "LC1972",
-    "title": "Exempt agricultural property from open space bonds",
+    "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2568.htm",
+    "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2568.pdf",
+    "lc": "LC2568",
+    "title": "Revise registration fee on certain high-value vehicles and watercraft",
     "sponsor": "Brad Barker",
     "sponsorParty": "R",
     "sponsorDistrict": "HD 58",
-    "statusDate": "03/13/2023",
-    "lastAction": "(C) Draft Delivered to Requester",
+    "statusDate": "03/15/2023",
+    "lastAction": "(H) Introduced",
     "billStatus": "In Drafting Process",
     "fiscalNotesListUrl": null,
     "legalNoteUrl": null,
@@ -51,6 +51,26 @@
         },
         {
             "subject": "Taxation--Property",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Revenue, State",
+            "fiscalCode": "Revenue",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Taxation (Generally)",
+            "fiscalCode": "",
+            "voteReq": "Simple"
+        },
+        {
+            "subject": "Taxation--Transportation and Vehicles",
             "fiscalCode": "",
             "voteReq": "Simple"
         }
