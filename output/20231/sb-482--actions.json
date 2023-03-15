@@ -236,7 +236,7 @@
         "id": "SB482-0021",
         "bill": "SB 482",
         "session": "20231",
-        "action": "(S) Fiscal Note Received",
+        "action": "(C) Fiscal Note Unsigned",
         "actionUrl": null,
         "date": "02/28/2023",
         "hasVote": false,
@@ -247,6 +247,17 @@
         "id": "SB482-0022",
         "bill": "SB 482",
         "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "02/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB482-0023",
+        "bill": "SB 482",
+        "session": "20231",
         "action": "(S) Committee Report--Bill Passed",
         "actionUrl": null,
         "date": "02/28/2023",
@@ -255,7 +266,7 @@
         "recordings": []
     },
     {
-        "id": "SB482-0023",
+        "id": "SB482-0024",
         "bill": "SB 482",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -266,7 +277,7 @@
         "recordings": []
     },
     {
-        "id": "SB482-0024",
+        "id": "SB482-0025",
         "bill": "SB 482",
         "session": "20231",
         "action": "(S) 2nd Reading Passed",
@@ -279,7 +290,7 @@
         ]
     },
     {
-        "id": "SB482-0025",
+        "id": "SB482-0026",
         "bill": "SB 482",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -290,7 +301,7 @@
         "recordings": []
     },
     {
-        "id": "SB482-0026",
+        "id": "SB482-0027",
         "bill": "SB 482",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -301,7 +312,18 @@
         "recordings": []
     },
     {
-        "id": "SB482-0027",
+        "id": "SB482-0028",
+        "bill": "SB 482",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB482-0029",
         "bill": "SB 482",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -309,6 +331,17 @@
         "date": "03/03/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB482-0030",
+        "bill": "SB 482",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "03/15/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
         "recordings": []
     }
 ]
