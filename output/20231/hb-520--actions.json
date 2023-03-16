@@ -306,8 +306,10 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257515"
+        ]
     },
     {
         "id": "HB520-0028",
@@ -328,6 +330,17 @@
         "actionUrl": null,
         "date": "03/16/2023",
         "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB520-0030",
+        "bill": "HB 520",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/16/2023",
+        "hasVote": true,
         "committee": "(H) Appropriations",
         "recordings": []
     }
