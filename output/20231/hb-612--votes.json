@@ -434,16 +434,96 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0612APH230315.pdf",
         "bill": "HB 612",
         "session": "20231",
         "action_id": "HB612-0039",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "March 15, 2023",
+        "description": "Rep. Keenan made a Motion that HB 612 Do Pass",
         "totals": {
             "Y": 19,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Bedey, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerr-Carpenter, Emma",
+                "vote": "Y"
+            },
+            {
+                "name": "Falk, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "Y"
+            },
+            {
+                "name": "Hamilton, Jim",
+                "vote": "Y"
+            },
+            {
+                "name": "Hastings, Naarah",
+                "vote": "Y"
+            },
+            {
+                "name": "Hellegaard, Lyn",
+                "vote": "Y"
+            },
+            {
+                "name": "Hopkins, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Keogh, Connie",
+                "vote": "Y"
+            },
+            {
+                "name": "Mercer, Bill",
+                "vote": "Y"
+            },
+            {
+                "name": "Moore, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Nave, Fiona",
+                "vote": "Y"
+            },
+            {
+                "name": "StewartPeregoy, Sharon",
+                "vote": "Y"
+            },
+            {
+                "name": "Schillinger, Jerry",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "WindyBoy, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Jones, Llew",
+                "vote": "Y"
+            }
+        ]
     }
 ]
