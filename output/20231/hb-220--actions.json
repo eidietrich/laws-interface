@@ -328,8 +328,10 @@
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46146?agendaId=259239"
+        ]
     },
     {
         "id": "HB220-0030",
@@ -338,6 +340,17 @@
         "action": "(H) Rereferred to Committee",
         "actionUrl": null,
         "date": "03/15/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB220-0031",
+        "bill": "HB 220",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "03/21/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []

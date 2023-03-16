@@ -451,8 +451,10 @@
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46146?agendaId=259240"
+        ]
     },
     {
         "id": "HB407-0041",
@@ -461,6 +463,17 @@
         "action": "(H) Rereferred to Committee",
         "actionUrl": null,
         "date": "03/15/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB407-0042",
+        "bill": "HB 407",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "03/21/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
