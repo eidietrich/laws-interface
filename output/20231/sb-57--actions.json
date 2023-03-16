@@ -410,8 +410,10 @@
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46146?agendaId=259242"
+        ]
     },
     {
         "id": "SB57-0037",
@@ -421,6 +423,17 @@
         "actionUrl": null,
         "date": "03/16/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB57-0038",
+        "bill": "SB 57",
+        "session": "20231",
+        "action": "(H) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/16/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
