@@ -396,8 +396,10 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257510"
+        ]
     },
     {
         "id": "HB377-0036",
@@ -450,6 +452,17 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "03/13/2023",
+        "hasVote": false,
+        "committee": "(S) Education and Cultural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB377-0041",
+        "bill": "HB 377",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "03/20/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": []
