@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0148STS230315.pdf",
+        "bill": "HB 148",
+        "session": "20231",
+        "action_id": "HB148-0025",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 15, 2023",
+        "description": "Sen. Hayman made a Motion that HB 148 Be Concurred In",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            }
+        ]
     }
 ]

@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
+            "3/4 of Each House",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -6046,8 +6046,8 @@
         "sponsor": "Michele Binkley",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 85",
-        "statusDate": "03/15/2023; 03:00 PM",
-        "lastAction": "(S) Hearing",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Concurred",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -6168,8 +6168,8 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "03/15/2023; 03:00 PM",
-        "lastAction": "(S) Hearing",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Concurred",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -9440,8 +9440,8 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "03/15/2023; 03:00 PM",
-        "lastAction": "(S) Hearing",
+        "statusDate": "03/15/2023",
+        "lastAction": "(S) Committee Executive Action--Bill Concurred",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0232",
         "legalNoteUrl": null,
@@ -14235,8 +14235,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33772,8 +33772,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -34413,8 +34413,8 @@
         "sponsor": "Marilyn Marler",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 90",
-        "statusDate": "03/15/2023",
-        "lastAction": "(H) Referred to Committee -- (H) Fish, Wildlife and Parks",
+        "statusDate": "03/23/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing -- (H) Fish, Wildlife and Parks",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -35446,6 +35446,114 @@
             {
                 "subject": "Revenue, State",
                 "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 847",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=847&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3403.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3403.pdf",
+        "lc": "LC3403",
+        "title": "Revise personalized vehicle license plates to display livestock brands",
+        "sponsor": "Julie Dooling",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 70",
+        "statusDate": "03/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Julie Dooling",
+        "subjects": [
+            {
+                "subject": "Livestock (see also: Agriculture; Taxation--Agriculture/Livestock)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 848",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=848&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1664.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1664.pdf",
+        "lc": "LC1664",
+        "title": "Partial exemption for renting a dwelling under market rent",
+        "sponsor": "Julie Dooling",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 70",
+        "statusDate": "03/16/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Julie Dooling",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Finance  (see also: City Finance; County Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, Local",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "School Finance",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
                 "voteReq": "Simple"
             }
         ],
@@ -37513,8 +37621,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "02/14/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/27/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0032",
         "legalNoteUrl": null,
@@ -37557,8 +37665,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "02/14/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/27/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0033",
         "legalNoteUrl": null,
@@ -49732,8 +49840,8 @@
         "sponsor": "Bob Brown",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 7",
-        "statusDate": "03/15/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/23/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50292,8 +50400,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -50988,8 +51096,8 @@
         "sponsor": "Bob Brown",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 7",
-        "statusDate": "03/15/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/21/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0354",
         "legalNoteUrl": null,
@@ -51061,8 +51169,8 @@
         "sponsor": "Steve Hinebauch",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 18",
-        "statusDate": "03/15/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/23/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -52435,8 +52543,8 @@
         "sponsor": "Pat Flowers",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 32",
-        "statusDate": "03/16/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/21/2023; 03:00 PM, Rm 172",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0388",
         "legalNoteUrl": null,
@@ -58170,8 +58278,8 @@
         "sponsor": "Mike Cuffe",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 1",
-        "statusDate": "03/14/2023",
-        "lastAction": "(H) Referred to Committee",
+        "statusDate": "03/27/2023; 03:00 PM, Rm 472",
+        "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
