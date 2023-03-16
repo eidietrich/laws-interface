@@ -179,7 +179,7 @@
         "id": "SB11-0016",
         "bill": "SB 11",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(S) Fiscal Note Printed",
         "actionUrl": null,
         "date": "12/01/2022",
         "hasVote": false,
@@ -190,6 +190,17 @@
         "id": "SB11-0017",
         "bill": "SB 11",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "12/01/2022",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB11-0018",
+        "bill": "SB 11",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "12/02/2022",
@@ -198,7 +209,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0018",
+        "id": "SB11-0019",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) First Reading",
@@ -209,7 +220,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0019",
+        "id": "SB11-0020",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) Hearing",
@@ -223,7 +234,7 @@
         ]
     },
     {
-        "id": "SB11-0020",
+        "id": "SB11-0021",
         "bill": "SB 11",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -234,7 +245,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0021",
+        "id": "SB11-0022",
         "bill": "SB 11",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -245,7 +256,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0022",
+        "id": "SB11-0023",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed as Amended",
@@ -256,7 +267,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0023",
+        "id": "SB11-0024",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -267,7 +278,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0024",
+        "id": "SB11-0025",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) 2nd Reading Passed",
@@ -280,7 +291,7 @@
         ]
     },
     {
-        "id": "SB11-0025",
+        "id": "SB11-0026",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -291,7 +302,7 @@
         "recordings": []
     },
     {
-        "id": "SB11-0026",
+        "id": "SB11-0027",
         "bill": "SB 11",
         "session": "20231",
         "action": "(C) Draft Delivered to Requester",
@@ -302,13 +313,26 @@
         "recordings": []
     },
     {
-        "id": "SB11-0027",
+        "id": "SB11-0028",
         "bill": "SB 11",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "03/13/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45581?agendaId=258016"
+        ]
+    },
+    {
+        "id": "SB11-0029",
+        "bill": "SB 11",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/16/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }
