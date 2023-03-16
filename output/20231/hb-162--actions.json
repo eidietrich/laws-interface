@@ -431,17 +431,6 @@
         "id": "HB162-0038",
         "bill": "HB 162",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB162-0039",
-        "bill": "HB 162",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "03/08/2023",
@@ -450,7 +439,7 @@
         "recordings": []
     },
     {
-        "id": "HB162-0040",
+        "id": "HB162-0039",
         "bill": "HB 162",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -461,12 +450,23 @@
         "recordings": []
     },
     {
-        "id": "HB162-0041",
+        "id": "HB162-0040",
         "bill": "HB 162",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "03/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB162-0041",
+        "bill": "HB 162",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "03/16/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
