@@ -405,17 +405,42 @@
         "actionUrl": null,
         "date": "03/14/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49093?agendaId=258992",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46145?agendaId=258279"
+        ]
     },
     {
         "id": "HB481-0037",
         "bill": "HB 481",
         "session": "20231",
-        "action": "(H) Scheduled for 3rd Reading",
+        "action": "(H) 3rd Reading Pass Consideration",
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB481-0038",
+        "bill": "HB 481",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB481-0039",
+        "bill": "HB 481",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/17/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

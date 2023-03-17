@@ -387,8 +387,10 @@
         "actionUrl": null,
         "date": "03/16/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46234?agendaId=259949"
+        ]
     },
     {
         "id": "HB342-0035",
@@ -398,6 +400,17 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB342-0036",
+        "bill": "HB 342",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/17/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
