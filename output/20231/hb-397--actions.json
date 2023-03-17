@@ -328,7 +328,7 @@
         "session": "20231",
         "action": "(H) Transmitted to Senate",
         "actionUrl": null,
-        "date": "02/22/2023",
+        "date": "02/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -363,6 +363,20 @@
         "actionUrl": null,
         "date": "03/16/2023",
         "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49130?agendaId=260178",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47977?agendaId=259810"
+        ]
+    },
+    {
+        "id": "HB397-0033",
+        "bill": "HB 397",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/17/2023",
+        "hasVote": true,
         "committee": "(S) Judiciary",
         "recordings": []
     }
