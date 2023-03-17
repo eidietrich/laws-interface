@@ -907,5 +907,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0026HIS230316.pdf",
+        "bill": "HB 26",
+        "session": "20231",
+        "action_id": "HB26-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 16, 2023",
+        "description": "Sen. Friedel made a Motion that HB 26 Be Concurred In",
+        "totals": {
+            "Y": 7,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            }
+        ]
     }
 ]

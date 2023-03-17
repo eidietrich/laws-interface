@@ -903,5 +903,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0129HIS230316.pdf",
+        "bill": "HB 129",
+        "session": "20231",
+        "action_id": "HB129-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 16, 2023",
+        "description": "Sen. Friedel made a Motion that HB 129 Be Concurred In",
+        "totals": {
+            "Y": 9,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            }
+        ]
     }
 ]
