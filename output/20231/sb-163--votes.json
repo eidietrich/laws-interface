@@ -580,5 +580,106 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0163HUH230316.pdf",
+        "bill": "SB 163",
+        "session": "20231",
+        "action_id": "SB163-0045",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 16, 2023",
+        "description": "Rep. Sheldon-Galloway made a Motion that SB 163 Be Concurred In",
+        "totals": {
+            "Y": 14,
+            "N": 7
+        },
+        "votes": [
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "Y"
+            },
+            {
+                "name": "Etchart, Jodee;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            },
+            {
+                "name": "Nikolakakos, George",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "N"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "N"
+            },
+            {
+                "name": "Abbott, Kim;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "N"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "N"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            },
+            {
+                "name": "Nicol, Nelly;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            }
+        ]
     }
 ]
