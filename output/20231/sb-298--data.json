@@ -9,9 +9,9 @@
     "sponsor": "Brad Molnar",
     "sponsorParty": "R",
     "sponsorDistrict": "SD 28",
-    "statusDate": "03/13/2023",
-    "lastAction": "(S) Missed Deadline for General Bill Transmittal *",
-    "billStatus": "Probably Dead",
+    "statusDate": "03/16/2023",
+    "lastAction": "(S) Taken from Table in Committee -- (S) Fish and Game",
+    "billStatus": "In First House Committee--Nontabled",
     "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0298",
     "legalNoteUrl": null,
     "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0298",
@@ -23,12 +23,17 @@
             "subject": "Fish and Wildlife",
             "fiscalCode": "",
             "voteReq": "Simple"
+        },
+        {
+            "subject": "Revenue, State",
+            "fiscalCode": "Revenue",
+            "voteReq": "Simple"
         }
     ],
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/12/2023"
+    "deadlineCategory": "Revenue Bills",
+    "transmittalDeadline": "04/03/2023",
+    "amendedReturnDeadline": "04/21/2023"
 }
