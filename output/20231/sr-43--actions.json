@@ -228,7 +228,10 @@
         "date": "03/15/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49100?agendaId=259466",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48151?agendaId=258668"
+        ]
     },
     {
         "id": "SR43-0021",
@@ -250,6 +253,28 @@
         "date": "03/15/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SR43-0023",
+        "bill": "SR 43",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR43-0024",
+        "bill": "SR 43",
+        "session": "20231",
+        "action": "(S) Resolution Adopted",
+        "actionUrl": null,
+        "date": "03/17/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
