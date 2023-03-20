@@ -410,7 +410,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48149?agendaId=257973"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48149?agendaId=257973",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49068?agendaId=259654"
         ]
     },
     {
@@ -454,8 +455,10 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46235?agendaId=260520"
+        ]
     },
     {
         "id": "HB144-0041",
@@ -476,6 +479,17 @@
         "actionUrl": null,
         "date": "03/18/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB144-0043",
+        "bill": "HB 144",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

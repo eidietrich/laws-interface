@@ -376,8 +376,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49083?agendaId=258452",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48150?agendaId=258209"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48150?agendaId=258209",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49083?agendaId=258452"
         ]
     },
     {
@@ -421,8 +421,10 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46235?agendaId=260524"
+        ]
     },
     {
         "id": "HB281-0038",
@@ -443,6 +445,17 @@
         "actionUrl": null,
         "date": "03/18/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB281-0040",
+        "bill": "HB 281",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

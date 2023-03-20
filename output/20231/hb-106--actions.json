@@ -365,8 +365,10 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46235?agendaId=260526"
+        ]
     },
     {
         "id": "HB106-0033",
@@ -387,6 +389,17 @@
         "actionUrl": null,
         "date": "03/18/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB106-0035",
+        "bill": "HB 106",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

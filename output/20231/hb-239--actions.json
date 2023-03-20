@@ -332,6 +332,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49054?agendaId=260412",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47974?agendaId=257469"
         ]
     },
@@ -376,8 +377,9 @@
         "actionUrl": null,
         "date": "03/16/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49134?agendaId=260472",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46234?agendaId=259944"
         ]
     },
@@ -400,6 +402,17 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB239-0036",
+        "bill": "HB 239",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
