@@ -475,9 +475,9 @@
         "id": "SB103-0042",
         "bill": "SB 103",
         "session": "20231",
-        "action": "(S) Returned from Enrolling",
+        "action": "(S) Sent to Enrolling",
         "actionUrl": null,
-        "date": "02/27/2023",
+        "date": "02/15/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -486,7 +486,7 @@
         "id": "SB103-0043",
         "bill": "SB 103",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "action": "(S) Returned from Enrolling",
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": false,
@@ -497,6 +497,17 @@
         "id": "SB103-0044",
         "bill": "SB 103",
         "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB103-0045",
+        "bill": "SB 103",
+        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "03/01/2023",
@@ -505,7 +516,7 @@
         "recordings": []
     },
     {
-        "id": "SB103-0045",
+        "id": "SB103-0046",
         "bill": "SB 103",
         "session": "20231",
         "action": "(S) Transmitted to Governor",
@@ -516,12 +527,23 @@
         "recordings": []
     },
     {
-        "id": "SB103-0046",
+        "id": "SB103-0047",
         "bill": "SB 103",
         "session": "20231",
         "action": "(S) Signed by Governor",
         "actionUrl": null,
         "date": "03/16/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB103-0048",
+        "bill": "SB 103",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "03/20/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
