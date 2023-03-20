@@ -1044,5 +1044,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0311PHS230317.pdf",
+        "bill": "HB 311",
+        "session": "20231",
+        "action_id": "HB311-0045",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 17, 2023",
+        "description": "Sen. Lenz made a Motion that HB 311 Be Concurred In",
+        "totals": {
+            "Y": 9,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]
