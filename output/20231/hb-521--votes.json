@@ -493,5 +493,18 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 521",
+        "session": "20231",
+        "action_id": "HB521-0033",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 11
+        }
     }
 ]

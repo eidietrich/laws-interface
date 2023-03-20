@@ -485,5 +485,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 403",
+        "session": "20231",
+        "action_id": "HB403-0029",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 21,
+            "N": 0
+        }
     }
 ]
