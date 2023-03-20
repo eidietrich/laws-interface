@@ -376,8 +376,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49130?agendaId=260181",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47977?agendaId=259809"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47977?agendaId=259809",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49130?agendaId=260181"
         ]
     },
     {
@@ -400,6 +400,28 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB356-0036",
+        "bill": "HB 356",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB356-0037",
+        "bill": "HB 356",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
