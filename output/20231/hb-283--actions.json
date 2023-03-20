@@ -326,6 +326,17 @@
         "id": "HB283-0029",
         "bill": "HB 283",
         "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "02/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB283-0030",
+        "bill": "HB 283",
+        "session": "20231",
         "action": "(S) First Reading",
         "actionUrl": null,
         "date": "02/07/2023",
@@ -334,7 +345,7 @@
         "recordings": []
     },
     {
-        "id": "HB283-0030",
+        "id": "HB283-0031",
         "bill": "HB 283",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -345,7 +356,7 @@
         "recordings": []
     },
     {
-        "id": "HB283-0031",
+        "id": "HB283-0032",
         "bill": "HB 283",
         "session": "20231",
         "action": "(S) Hearing",
@@ -353,6 +364,9 @@
         "date": "03/15/2023",
         "hasVote": false,
         "committee": "(S) Local Government",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46810?agendaId=259411",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49117?agendaId=260101"
+        ]
     }
 ]

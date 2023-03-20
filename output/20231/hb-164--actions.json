@@ -305,9 +305,9 @@
         "id": "HB164-0027",
         "bill": "HB 164",
         "session": "20231",
-        "action": "(H) Revised Fiscal Note Received",
+        "action": "(H) Transmitted to Senate",
         "actionUrl": null,
-        "date": "01/30/2023",
+        "date": "01/27/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -316,7 +316,7 @@
         "id": "HB164-0028",
         "bill": "HB 164",
         "session": "20231",
-        "action": "(H) Fiscal Note Received",
+        "action": "(H) Revised Fiscal Note Received",
         "actionUrl": null,
         "date": "01/30/2023",
         "hasVote": false,
@@ -327,6 +327,17 @@
         "id": "HB164-0029",
         "bill": "HB 164",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "01/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB164-0030",
+        "bill": "HB 164",
+        "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "01/30/2023",
@@ -335,7 +346,7 @@
         "recordings": []
     },
     {
-        "id": "HB164-0030",
+        "id": "HB164-0031",
         "bill": "HB 164",
         "session": "20231",
         "action": "(S) First Reading",
@@ -346,7 +357,7 @@
         "recordings": []
     },
     {
-        "id": "HB164-0031",
+        "id": "HB164-0032",
         "bill": "HB 164",
         "session": "20231",
         "action": "(H) Fiscal Note Signed",
@@ -357,7 +368,7 @@
         "recordings": []
     },
     {
-        "id": "HB164-0032",
+        "id": "HB164-0033",
         "bill": "HB 164",
         "session": "20231",
         "action": "(H) Fiscal Note Printed",
@@ -368,7 +379,7 @@
         "recordings": []
     },
     {
-        "id": "HB164-0033",
+        "id": "HB164-0034",
         "bill": "HB 164",
         "session": "20231",
         "action": "(S) Hearing Canceled",
@@ -379,21 +390,10 @@
         "recordings": []
     },
     {
-        "id": "HB164-0034",
-        "bill": "HB 164",
-        "session": "20231",
-        "action": "(S) Hearing",
-        "actionUrl": null,
-        "date": "03/13/2023",
-        "hasVote": false,
-        "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
-    },
-    {
         "id": "HB164-0035",
         "bill": "HB 164",
         "session": "20231",
-        "action": "(S) Hearing Canceled",
+        "action": "(S) Hearing",
         "actionUrl": null,
         "date": "03/13/2023",
         "hasVote": false,
@@ -404,11 +404,25 @@
         "id": "HB164-0036",
         "bill": "HB 164",
         "session": "20231",
+        "action": "(S) Hearing Canceled",
+        "actionUrl": null,
+        "date": "03/13/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "HB164-0037",
+        "bill": "HB 164",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "03/16/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49125?agendaId=260154",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48152?agendaId=259784"
+        ]
     }
 ]

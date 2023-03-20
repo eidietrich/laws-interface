@@ -504,8 +504,10 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257514"
+        ]
     },
     {
         "id": "HB393-0046",
@@ -531,6 +533,17 @@
     },
     {
         "id": "HB393-0048",
+        "bill": "HB 393",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "03/23/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB393-0049",
         "bill": "HB 393",
         "session": "20231",
         "action": "(H) Hearing",
