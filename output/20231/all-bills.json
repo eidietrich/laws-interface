@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -36126,6 +36126,85 @@
             },
             {
                 "subject": "Taxation--Individual Income",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 861",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=861&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3224.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3224.pdf",
+        "lc": "LC3224",
+        "title": "Provide business property tax exemption during state of emergency or disaster",
+        "sponsor": "Bob Phalen",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 36",
+        "statusDate": "03/20/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Phalen",
+        "subjects": [
+            {
+                "subject": "City Finance  (see also: Local Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "County Finance  (see also: Local Finance)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "County Officers  (see also: Local Government)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Emergency and Disaster Services",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government Fiscal Impact",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, Local",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
