@@ -443,17 +443,41 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46148?agendaId=260498"
+        ]
+    },
+    {
+        "id": "HB546-0040",
+        "bill": "HB 546",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
     {
-        "id": "HB546-0040",
+        "id": "HB546-0041",
         "bill": "HB 546",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB546-0042",
+        "bill": "HB 546",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

@@ -266,7 +266,8 @@
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46583?agendaId=258101"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46583?agendaId=258101",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49078?agendaId=260224"
         ]
     },
     {
@@ -277,6 +278,17 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB49-0025",
+        "bill": "SB 49",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": []
     }
