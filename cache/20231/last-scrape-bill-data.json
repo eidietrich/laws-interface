@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "Simple",
             "2/3 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/03/2023",
@@ -613,8 +613,8 @@
         "sponsor": "Jennifer Carlson",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 69",
-        "statusDate": "03/15/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "03/29/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0016",
         "legalNoteUrl": null,
@@ -6981,8 +6981,8 @@
         "sponsor": "Kerri Seekins-Crowe",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 43",
-        "statusDate": "03/15/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "03/29/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0174",
         "legalNoteUrl": null,
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14235,8 +14235,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15418,8 +15418,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16821,8 +16821,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21565,8 +21565,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22716,8 +22716,8 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "03/15/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "03/29/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -22977,8 +22977,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -28698,8 +28698,8 @@
         "sponsor": "Katie Sullivan",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 89",
-        "statusDate": "03/13/2023",
-        "lastAction": "(S) Referred to Committee",
+        "statusDate": "03/24/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -33772,8 +33772,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -36460,8 +36460,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -36681,6 +36681,153 @@
             },
             {
                 "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 872",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=872&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3480.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3480.pdf",
+        "lc": "LC3480",
+        "title": "Provide funding for behavioral health system for future generations",
+        "sponsor": "Bob Keenan",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 10",
+        "statusDate": "03/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Bob Keenan",
+        "subjects": [
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Developmental Disabilities, Persons With (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health (see also: Health Care Services; Safety)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Institutions  (see also: Dev. Dis., Persons With; Mental Illness)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Safety  (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 873",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=873&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3822.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3822.pdf",
+        "lc": "LC3822",
+        "title": "Provide for the disposition of fetal remains",
+        "sponsor": "Lola Sheldon-Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 22",
+        "statusDate": "03/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Lola Sheldon-Galloway",
+        "subjects": [
+            {
+                "subject": "Abortion",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Appropriations  (see also: State Finance)",
+                "fiscalCode": "Appropriation",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Appropriation Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 874",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=874&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1250.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1250.pdf",
+        "lc": "LC1250",
+        "title": "Revise examination fees for exempt divisions of land",
+        "sponsor": "Larry Brewster",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 44",
+        "statusDate": "03/21/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Larry Brewster",
+        "subjects": [
+            {
+                "subject": "Planning and Development",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, Local",
                 "fiscalCode": "Revenue",
                 "voteReq": "Simple"
             }
@@ -43929,8 +44076,8 @@
         "sponsor": "Jason W Ellsworth",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 43",
-        "statusDate": "03/20/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "03/29/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0157",
         "legalNoteUrl": null,
@@ -48774,8 +48921,8 @@
         "sponsor": "Theresa Manzella",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 44",
-        "statusDate": "03/20/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "03/29/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -48806,8 +48953,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -51533,8 +51680,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -53033,8 +53180,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -59151,8 +59298,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -59368,8 +59515,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/03/2023",
@@ -63029,8 +63176,8 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "03/21/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Judiciary",
+        "statusDate": "03/29/2023; 08:00 AM, Rm 303",
+        "lastAction": "(S) Hearing -- (S) Judiciary",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
