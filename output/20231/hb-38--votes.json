@@ -1713,5 +1713,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 38",
+        "session": "20231",
+        "action_id": "HB38-0046",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 7
+        }
     }
 ]
