@@ -903,5 +903,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 558",
+        "session": "20231",
+        "action_id": "HB558-0033",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 9,
+            "N": 3
+        }
     }
 ]
