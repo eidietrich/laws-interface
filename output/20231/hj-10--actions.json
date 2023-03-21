@@ -318,7 +318,9 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48153?agendaId=260302"
+        ]
     },
     {
         "id": "HJ10-0029",
@@ -340,6 +342,28 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "HJ10-0031",
+        "bill": "HJ 10",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ10-0032",
+        "bill": "HJ 10",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
