@@ -495,5 +495,74 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SJ0005FEH230320.pdf",
+        "bill": "SJ 5",
+        "session": "20231",
+        "action_id": "SJ5-0025",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "RELATIONS",
+        "description": "Rep. Sullivan made a Motion that SJ 5 Be Concurred In",
+        "totals": {
+            "Y": 13,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
     }
 ]
