@@ -289,8 +289,8 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46497?agendaId=259356",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49113?agendaId=259964"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49113?agendaId=259964",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46497?agendaId=259356"
         ]
     },
     {
@@ -313,6 +313,28 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "SB36-0028",
+        "bill": "SB 36",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB36-0029",
+        "bill": "SB 36",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
