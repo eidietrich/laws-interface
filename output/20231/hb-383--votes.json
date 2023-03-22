@@ -509,5 +509,18 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 383",
+        "session": "20231",
+        "action_id": "HB383-0036",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 11
+        }
     }
 ]
