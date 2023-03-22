@@ -6,7 +6,7 @@
         "action_id": "SB298-0037",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 2
@@ -19,10 +19,75 @@
         "action_id": "SB298-0039",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 8,
             "N": 3
         }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0298FIS230321.pdf",
+        "bill": "SB 298",
+        "session": "20231",
+        "action_id": "SB298-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 21, 2023",
+        "description": "Sen. Hertz made a Motion that SB 298 Do Pass as Amended",
+        "totals": {
+            "Y": 8,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie);byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            }
+        ]
     }
 ]
