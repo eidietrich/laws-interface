@@ -291,22 +291,22 @@
         "id": "SB253-0026",
         "bill": "SB 253",
         "session": "20231",
-        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "action": "(S) Revised Fiscal Note Requested",
         "actionUrl": null,
-        "date": "02/21/2023",
-        "hasVote": true,
-        "committee": "(S) Taxation",
+        "date": "02/22/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
         "id": "SB253-0027",
         "bill": "SB 253",
         "session": "20231",
-        "action": "(S) Revised Fiscal Note Requested",
+        "action": "(S) Committee Report--Bill Passed as Amended",
         "actionUrl": null,
         "date": "02/22/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "(S) Taxation",
         "recordings": []
     },
     {
@@ -324,17 +324,6 @@
         "id": "SB253-0029",
         "bill": "SB 253",
         "session": "20231",
-        "action": "(S) Committee Report--Bill Passed as Amended",
-        "actionUrl": null,
-        "date": "02/22/2023",
-        "hasVote": false,
-        "committee": "(S) Taxation",
-        "recordings": []
-    },
-    {
-        "id": "SB253-0030",
-        "bill": "SB 253",
-        "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -343,7 +332,7 @@
         "recordings": []
     },
     {
-        "id": "SB253-0031",
+        "id": "SB253-0030",
         "bill": "SB 253",
         "session": "20231",
         "action": "(S) Revised Fiscal Note Received",
@@ -354,7 +343,7 @@
         "recordings": []
     },
     {
-        "id": "SB253-0032",
+        "id": "SB253-0031",
         "bill": "SB 253",
         "session": "20231",
         "action": "(C) Fiscal Note Unsigned",
@@ -365,7 +354,7 @@
         "recordings": []
     },
     {
-        "id": "SB253-0033",
+        "id": "SB253-0032",
         "bill": "SB 253",
         "session": "20231",
         "action": "(S) Revised Fiscal Note Printed",
@@ -376,13 +365,24 @@
         "recordings": []
     },
     {
-        "id": "SB253-0034",
+        "id": "SB253-0033",
         "bill": "SB 253",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
         "actionUrl": null,
         "date": "03/09/2023",
         "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB253-0034",
+        "bill": "SB 253",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": true,
         "committee": "(S) Taxation",
         "recordings": []
     }

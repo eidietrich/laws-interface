@@ -487,5 +487,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 142",
+        "session": "20231",
+        "action_id": "SB142-0041",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 5
+        }
     }
 ]
