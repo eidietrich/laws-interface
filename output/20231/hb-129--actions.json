@@ -354,7 +354,10 @@
         "date": "03/16/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49145?agendaId=260680",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47117?agendaId=260045"
+        ]
     },
     {
         "id": "HB129-0032",
@@ -376,6 +379,28 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "HB129-0034",
+        "bill": "HB 129",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB129-0035",
+        "bill": "HB 129",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/23/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

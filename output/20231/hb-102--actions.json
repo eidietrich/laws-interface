@@ -322,8 +322,9 @@
         "actionUrl": null,
         "date": "03/13/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49072?agendaId=259697",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46231?agendaId=258060"
         ]
     },
@@ -367,6 +368,17 @@
         "action": "(H) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB102-0033",
+        "bill": "HB 102",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "03/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
