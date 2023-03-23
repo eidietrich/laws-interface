@@ -274,8 +274,10 @@
         "actionUrl": null,
         "date": "03/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46235?agendaId=260517"
+        ]
     },
     {
         "id": "SR43-0025",
@@ -284,6 +286,17 @@
         "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR43-0026",
+        "bill": "SR 43",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "03/23/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
