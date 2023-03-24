@@ -6,10 +6,103 @@
         "action_id": "HB487-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 12,
             "N": 7
         }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0487AGH230323.pdf",
+        "bill": "HB 487",
+        "session": "20231",
+        "action_id": "HB487-0024",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 23, 2023",
+        "description": "Rep. Malone made a Motion that HB 487 Do Pass as Amended",
+        "totals": {
+            "Y": 18,
+            "N": 1
+        },
+        "votes": [
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Barker, Brad;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "N"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "Y"
+            }
+        ]
     }
 ]
