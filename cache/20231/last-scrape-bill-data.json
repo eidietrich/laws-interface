@@ -838,8 +838,8 @@
         "sponsor": "David Bedey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
-        "statusDate": "03/23/2023",
-        "lastAction": "(H) Signed by Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -3797,8 +3797,8 @@
         "sponsor": "Paul Green",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 41",
-        "statusDate": "03/23/2023",
-        "lastAction": "(H) Signed by Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -6747,8 +6747,8 @@
         "sponsor": "Jill Cohenour",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 84",
-        "statusDate": "03/23/2023",
-        "lastAction": "(H) Signed by Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -7137,8 +7137,8 @@
         "sponsor": "Kenneth Walsh",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 71",
-        "statusDate": "03/23/2023",
-        "lastAction": "(H) Signed by Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -7322,8 +7322,8 @@
         "sponsor": "Nelly Nicol",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 53",
-        "statusDate": "03/23/2023",
-        "lastAction": "(H) Signed by Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0183",
         "legalNoteUrl": null,
@@ -7945,8 +7945,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -15418,8 +15418,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -16821,8 +16821,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -21565,8 +21565,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -22977,8 +22977,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -36460,8 +36460,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -37807,8 +37807,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -37847,6 +37847,60 @@
             },
             {
                 "subject": "Workers' Compensation  (see also: Labor and Employment)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "HB 897",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=897&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0781.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0781.pdf",
+        "lc": "LC0781",
+        "title": "Revise MEDIA Act film credit laws",
+        "sponsor": "Brad Barker",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 58",
+        "statusDate": "03/24/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Barker",
+        "subjects": [
+            {
+                "subject": "Arts and Antiquities",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Revenue, State",
+                "fiscalCode": "Revenue",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Corporations",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Individual Income",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -44177,9 +44231,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "03/16/2023",
-        "lastAction": "(S) Transmitted to Governor",
-        "billStatus": "Transmitted to Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0135",
@@ -44216,9 +44270,9 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "03/16/2023",
-        "lastAction": "(S) Transmitted to Governor",
-        "billStatus": "Transmitted to Governor",
+        "statusDate": "03/24/2023",
+        "lastAction": "Chapter Number Assigned",
+        "billStatus": "Became Law",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -48992,7 +49046,7 @@
         "sponsor": "Theresa Manzella",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 44",
-        "statusDate": "03/15/2023; 09:00 AM, Rm 317",
+        "statusDate": "03/15/2023; 08:00 AM, Rm 317",
         "lastAction": "(S) Hearing -- (S) Finance and Claims",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0250",
@@ -49972,8 +50026,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -54199,8 +54253,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -58506,12 +58560,12 @@
         "sponsor": "Forrest Mandeville",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 29",
-        "statusDate": "03/10/2023; 09:00 AM, Rm 317",
+        "statusDate": "03/10/2023; 08:00 AM, Rm 317",
         "lastAction": "(S) Hearing -- (S) Finance and Claims",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0474",
         "legalNoteUrl": null,
-        "amendmentListUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0474",
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Forrest Mandeville",
@@ -60317,8 +60371,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -61215,8 +61269,8 @@
         "sponsor": "Mark Noland",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 5",
-        "statusDate": "03/24/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Fish and Game",
+        "statusDate": "03/28/2023; 03:00 PM, Rm 422",
+        "lastAction": "(S) Hearing -- (S) Fish and Game",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -61281,8 +61335,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
@@ -61628,6 +61682,51 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
+        "transmittalDeadline": "04/03/2023",
+        "amendedReturnDeadline": "04/21/2023"
+    },
+    {
+        "key": "SB 542",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=542&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2804.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2804.pdf",
+        "lc": "LC2804",
+        "title": "Constitutional amendment to limit property values and property taxes",
+        "sponsor": "Brad Molnar",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 28",
+        "statusDate": "03/24/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Molnar",
+        "subjects": [
+            {
+                "subject": "Constitutional Amendment Proposals",
+                "fiscalCode": "",
+                "voteReq": "2/3 of Entire Legislature"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation--Property",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple",
+            "2/3 of Entire Legislature"
+        ],
+        "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/03/2023",
         "amendedReturnDeadline": "04/21/2023"
     },
