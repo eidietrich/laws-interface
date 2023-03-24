@@ -927,5 +927,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0217FIS230323.pdf",
+        "bill": "HB 217",
+        "session": "20231",
+        "action_id": "HB217-0041",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 23, 2023",
+        "description": "Sen. Hertz made a Motion that HB 217 Be Concurred In as Amended",
+        "totals": {
+            "Y": 12,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            }
+        ]
     }
 ]
