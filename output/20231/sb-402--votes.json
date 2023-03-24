@@ -715,16 +715,96 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0402FCS230323.pdf",
         "bill": "SB 402",
         "session": "20231",
         "action_id": "SB402-0035",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "March 23, 2023",
+        "description": "Sen. Salomon made a Motion that SB 402 Do Pass as Amended",
         "totals": {
             "Y": 14,
             "N": 5
-        }
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "N"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "N"
+            },
+            {
+                "name": "Pope, Christopher;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "N"
+            }
+        ]
     }
 ]

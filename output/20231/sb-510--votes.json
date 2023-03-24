@@ -1,15 +1,67 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0510TAS230323.pdf",
         "bill": "SB 510",
         "session": "20231",
         "action_id": "SB510-0026",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "March 23, 2023",
+        "description": "Sen. Zolnikov made a Motion that SB 510 Do Pass as Amended",
         "totals": {
             "Y": 9,
             "N": 3
-        }
+        },
+        "votes": [
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "N"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            }
+        ]
     }
 ]
