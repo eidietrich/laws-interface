@@ -331,7 +331,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49205?agendaId=261985",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48155?agendaId=261344"
+        ]
     },
     {
         "id": "HB247-0030",
@@ -385,8 +388,10 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46240?agendaId=264298"
+        ]
     },
     {
         "id": "HB247-0035",
@@ -396,6 +401,17 @@
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB247-0036",
+        "bill": "HB 247",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
