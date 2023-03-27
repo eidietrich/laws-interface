@@ -225,17 +225,6 @@
         "id": "HB334-0020",
         "bill": "HB 334",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/13/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB334-0021",
-        "bill": "HB 334",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "02/13/2023",
@@ -246,7 +235,7 @@
         ]
     },
     {
-        "id": "HB334-0022",
+        "id": "HB334-0021",
         "bill": "HB 334",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -257,7 +246,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0023",
+        "id": "HB334-0022",
         "bill": "HB 334",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -268,7 +257,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0024",
+        "id": "HB334-0023",
         "bill": "HB 334",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -279,7 +268,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0025",
+        "id": "HB334-0024",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) First Reading",
@@ -290,7 +279,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0026",
+        "id": "HB334-0025",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -301,7 +290,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0027",
+        "id": "HB334-0026",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -312,7 +301,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0028",
+        "id": "HB334-0027",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Hearing Canceled",
@@ -323,7 +312,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0029",
+        "id": "HB334-0028",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Hearing",
@@ -337,7 +326,7 @@
         ]
     },
     {
-        "id": "HB334-0030",
+        "id": "HB334-0029",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred",
@@ -348,7 +337,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0031",
+        "id": "HB334-0030",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred",
@@ -359,7 +348,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0032",
+        "id": "HB334-0031",
         "bill": "HB 334",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -370,7 +359,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0033",
+        "id": "HB334-0032",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -381,7 +370,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0034",
+        "id": "HB334-0033",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Carried",
@@ -392,18 +381,21 @@
         "recordings": []
     },
     {
-        "id": "HB334-0035",
+        "id": "HB334-0034",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred as Amended",
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49183?agendaId=261491",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46236?agendaId=260918"
+        ]
     },
     {
-        "id": "HB334-0036",
+        "id": "HB334-0035",
         "bill": "HB 334",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -414,7 +406,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0037",
+        "id": "HB334-0036",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -425,7 +417,7 @@
         "recordings": []
     },
     {
-        "id": "HB334-0038",
+        "id": "HB334-0037",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -436,13 +428,35 @@
         "recordings": []
     },
     {
-        "id": "HB334-0039",
+        "id": "HB334-0038",
         "bill": "HB 334",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "03/23/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB334-0039",
+        "bill": "HB 334",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB334-0040",
+        "bill": "HB 334",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Not Concurred",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

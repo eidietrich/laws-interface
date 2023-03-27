@@ -334,8 +334,11 @@
         "actionUrl": null,
         "date": "03/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49210?agendaId=262449",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46237?agendaId=261566"
+        ]
     },
     {
         "id": "HB125-0030",
@@ -389,8 +392,11 @@
         "actionUrl": null,
         "date": "03/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49239?agendaId=265272",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49271?agendaId=265285"
+        ]
     },
     {
         "id": "HB125-0035",
@@ -407,10 +413,10 @@
         "id": "HB125-0036",
         "bill": "HB 125",
         "session": "20231",
-        "action": "(H) Scheduled for 3rd Reading",
+        "action": "(H) 3rd Reading Passed as Amended by Senate",
         "actionUrl": null,
         "date": "03/27/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
