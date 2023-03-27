@@ -418,7 +418,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46144?agendaId=258034"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46144?agendaId=258034",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49073?agendaId=259676"
         ]
     },
     {
@@ -476,6 +477,20 @@
         "actionUrl": null,
         "date": "03/21/2023",
         "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45540?agendaId=261250",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49200?agendaId=261757"
+        ]
+    },
+    {
+        "id": "HB407-0043",
+        "bill": "HB 407",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": true,
         "committee": "(H) Appropriations",
         "recordings": []
     }
