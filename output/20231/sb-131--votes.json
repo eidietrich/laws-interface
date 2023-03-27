@@ -487,5 +487,86 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0131LOH230325.pdf",
+        "bill": "SB 131",
+        "session": "20231",
+        "action_id": "SB131-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 25, 2023",
+        "description": "Rep. Bertoglio made a Motion that SB 131 Be Concurred In",
+        "totals": {
+            "Y": 16,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Reksten, Linda;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "Y"
+            }
+        ]
     }
 ]

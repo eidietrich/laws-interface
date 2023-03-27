@@ -713,5 +713,74 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0480EDH230324.pdf",
+        "bill": "SB 480",
+        "session": "20231",
+        "action_id": "SB480-0030",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 24, 2023",
+        "description": "Rep. Reksten made a Motion that SB 480 Be Concurred In",
+        "totals": {
+            "Y": 8,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "N"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "N"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "N"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "N"
+            }
+        ]
     }
 ]

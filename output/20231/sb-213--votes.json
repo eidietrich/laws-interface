@@ -495,5 +495,74 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0213EDH230324.pdf",
+        "bill": "SB 213",
+        "session": "20231",
+        "action_id": "SB213-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 24, 2023",
+        "description": "Rep. Reksten made a Motion that SB 213 Be Concurred In",
+        "totals": {
+            "Y": 11,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "N"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            }
+        ]
     }
 ]

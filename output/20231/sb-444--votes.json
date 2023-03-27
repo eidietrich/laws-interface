@@ -491,5 +491,74 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0444EDH230324.pdf",
+        "bill": "SB 444",
+        "session": "20231",
+        "action_id": "SB444-0028",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 24, 2023",
+        "description": "Rep. Reksten made a Motion that SB 444 Be Concurred In",
+        "totals": {
+            "Y": 13,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            }
+        ]
     }
 ]
