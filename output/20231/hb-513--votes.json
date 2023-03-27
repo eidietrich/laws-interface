@@ -935,5 +935,66 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0513JUS230324.pdf",
+        "bill": "HB 513",
+        "session": "20231",
+        "action_id": "HB513-0035",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 24, 2023",
+        "description": "Sen. Usher made a Motion that HB 513 Be Concurred In as Amended",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
     }
 ]
