@@ -411,7 +411,10 @@
         "date": "03/23/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49246?agendaId=263958",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47789?agendaId=263027"
+        ]
     },
     {
         "id": "SB89-0037",
@@ -421,6 +424,28 @@
         "actionUrl": null,
         "date": "03/25/2023",
         "hasVote": true,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB89-0038",
+        "bill": "SB 89",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB89-0039",
+        "bill": "SB 89",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
     }

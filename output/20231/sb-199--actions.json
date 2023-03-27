@@ -377,7 +377,10 @@
         "date": "03/23/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49256?agendaId=264959",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47189?agendaId=263321"
+        ]
     },
     {
         "id": "SB199-0034",
@@ -387,6 +390,17 @@
         "actionUrl": null,
         "date": "03/25/2023",
         "hasVote": true,
+        "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB199-0035",
+        "bill": "SB 199",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": []
     }

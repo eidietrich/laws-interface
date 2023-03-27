@@ -529,7 +529,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49202?agendaId=261768",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47787?agendaId=261288"
+        ]
     },
     {
         "id": "SB171-0048",
@@ -539,6 +542,17 @@
         "actionUrl": null,
         "date": "03/25/2023",
         "hasVote": true,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB171-0049",
+        "bill": "SB 171",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []
     }
