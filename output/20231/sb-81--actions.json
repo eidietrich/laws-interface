@@ -333,8 +333,11 @@
         "actionUrl": null,
         "date": "03/23/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46152?agendaId=263196",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49248?agendaId=264570"
+        ]
     },
     {
         "id": "SB81-0030",
@@ -365,6 +368,17 @@
         "action": "(H) Returned to Senate",
         "actionUrl": null,
         "date": "03/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB81-0033",
+        "bill": "SB 81",
+        "session": "20231",
+        "action": "(S) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "03/27/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

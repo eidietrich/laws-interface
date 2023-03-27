@@ -300,10 +300,57 @@
         "id": "HB832-0027",
         "bill": "HB 832",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB832-0028",
+        "bill": "HB 832",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB832-0029",
+        "bill": "HB 832",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/21/2023",
         "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49206?agendaId=261803",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47851?agendaId=261305"
+        ]
+    },
+    {
+        "id": "HB832-0030",
+        "bill": "HB 832",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB832-0031",
+        "bill": "HB 832",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": true,
         "committee": "(H) Taxation",
         "recordings": []
     }
