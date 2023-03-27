@@ -386,7 +386,10 @@
         "date": "03/22/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262806",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262023"
+        ]
     },
     {
         "id": "HB513-0035",
@@ -396,6 +399,17 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB513-0036",
+        "bill": "HB 513",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": []
     }
