@@ -331,7 +331,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Education",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49185?agendaId=261689",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46392?agendaId=260956"
+        ]
     },
     {
         "id": "SB480-0030",
@@ -341,6 +344,17 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": true,
+        "committee": "(H) Education",
+        "recordings": []
+    },
+    {
+        "id": "SB480-0031",
+        "bill": "SB 480",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
         "committee": "(H) Education",
         "recordings": []
     }
