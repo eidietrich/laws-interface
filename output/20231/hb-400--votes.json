@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0400STS230324.pdf",
+        "bill": "HB 400",
+        "session": "20231",
+        "action_id": "HB400-0035",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 24, 2023",
+        "description": "Sen. Noland made a Motion that HB 400 Be Concurred In",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            }
+        ]
     }
 ]

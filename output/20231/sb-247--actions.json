@@ -551,7 +551,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49202?agendaId=261761",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47787?agendaId=261289"
+        ]
     },
     {
         "id": "SB247-0050",
@@ -561,6 +564,28 @@
         "actionUrl": null,
         "date": "03/23/2023",
         "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB247-0051",
+        "bill": "SB 247",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB247-0052",
+        "bill": "SB 247",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
     }
