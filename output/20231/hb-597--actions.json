@@ -573,8 +573,11 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46153?agendaId=264270",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49268?agendaId=265329"
+        ]
     },
     {
         "id": "HB597-0052",
@@ -595,6 +598,17 @@
         "actionUrl": null,
         "date": "03/25/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB597-0054",
+        "bill": "HB 597",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
