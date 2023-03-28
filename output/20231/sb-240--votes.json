@@ -495,5 +495,82 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0240NAH230327.pdf",
+        "bill": "SB 240",
+        "session": "20231",
+        "action_id": "SB240-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 27, 2023",
+        "description": "Rep. Marler made a Motion that SB 240 Be Concurred In",
+        "totals": {
+            "Y": 10,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "N"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Rhonda;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "N"
+            },
+            {
+                "name": "Vinton, Sue;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "France, Tom;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "Y"
+            }
+        ]
     }
 ]
