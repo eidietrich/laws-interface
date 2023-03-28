@@ -320,7 +320,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49219?agendaId=262706",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47153?agendaId=261653"
+        ]
     },
     {
         "id": "HB290-0029",
@@ -342,6 +345,28 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
+        "recordings": []
+    },
+    {
+        "id": "HB290-0031",
+        "bill": "HB 290",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB290-0032",
+        "bill": "HB 290",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
