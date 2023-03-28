@@ -915,5 +915,62 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0585STS230327.pdf",
+        "bill": "HB 585",
+        "session": "20231",
+        "action_id": "HB585-0028",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 27, 2023",
+        "description": "Sen. Hayman made a Motion that HB 585 Be Concurred In",
+        "totals": {
+            "Y": 8,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Shelley;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]

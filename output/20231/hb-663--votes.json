@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0663STS230327.pdf",
+        "bill": "HB 663",
+        "session": "20231",
+        "action_id": "HB663-0030",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 27, 2023",
+        "description": "Sen. Hayman made a Motion that HB 663 Be Concurred In",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]
