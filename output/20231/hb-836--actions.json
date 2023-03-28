@@ -157,7 +157,7 @@
         "id": "HB836-0014",
         "bill": "HB 836",
         "session": "20231",
-        "action": "(C) Fiscal Note Probable",
+        "action": "(H) Fiscal Note Requested",
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": false,
@@ -168,7 +168,7 @@
         "id": "HB836-0015",
         "bill": "HB 836",
         "session": "20231",
-        "action": "(H) Introduced",
+        "action": "(C) Fiscal Note Probable",
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": false,
@@ -179,7 +179,7 @@
         "id": "HB836-0016",
         "bill": "HB 836",
         "session": "20231",
-        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "action": "(H) Introduced",
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": false,
@@ -190,6 +190,17 @@
         "id": "HB836-0017",
         "bill": "HB 836",
         "session": "20231",
+        "action": "(C) Introduced Bill Text Available Electronically&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "03/15/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB836-0018",
+        "bill": "HB 836",
+        "session": "20231",
         "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "03/16/2023",
@@ -198,7 +209,7 @@
         "recordings": []
     },
     {
-        "id": "HB836-0018",
+        "id": "HB836-0019",
         "bill": "HB 836",
         "session": "20231",
         "action": "(H) First Reading",
@@ -209,13 +220,70 @@
         "recordings": []
     },
     {
-        "id": "HB836-0019",
+        "id": "HB836-0020",
+        "bill": "HB 836",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB836-0021",
+        "bill": "HB 836",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "03/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB836-0022",
+        "bill": "HB 836",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB836-0023",
         "bill": "HB 836",
         "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49270?agendaId=265189"
+        ]
+    },
+    {
+        "id": "HB836-0024",
+        "bill": "HB 836",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB836-0025",
+        "bill": "HB 836",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
         "committee": "(H) Business and Labor",
         "recordings": []
     }
