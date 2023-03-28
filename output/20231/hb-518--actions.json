@@ -386,7 +386,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49204?agendaId=261955",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47979?agendaId=261332"
+        ]
     },
     {
         "id": "HB518-0035",
@@ -451,8 +454,10 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46240?agendaId=264293"
+        ]
     },
     {
         "id": "HB518-0041",
@@ -462,6 +467,28 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB518-0042",
+        "bill": "HB 518",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB518-0043",
+        "bill": "HB 518",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
