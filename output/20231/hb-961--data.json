@@ -20,6 +20,11 @@
     "primarySponsor": "Kenneth Walsh",
     "subjects": [
         {
+            "subject": "Appropriations  (see also: State Finance)",
+            "fiscalCode": "Appropriation",
+            "voteReq": "Simple"
+        },
+        {
             "subject": "Energy",
             "fiscalCode": "",
             "voteReq": "Simple"
@@ -28,7 +33,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/13/2023"
+    "deadlineCategory": "Appropriation Bills",
+    "transmittalDeadline": "04/04/2023",
+    "amendedReturnDeadline": "04/21/2023"
 }
