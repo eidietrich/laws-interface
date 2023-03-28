@@ -250,7 +250,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48205?agendaId=261382",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49203?agendaId=262000"
+        ]
     },
     {
         "id": "SB506-0023",
@@ -283,6 +286,61 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB506-0026",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0027",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0028",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0029",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0030",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

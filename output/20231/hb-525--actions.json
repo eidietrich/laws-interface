@@ -408,7 +408,10 @@
         "date": "03/22/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262803",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262024"
+        ]
     },
     {
         "id": "HB525-0037",
@@ -430,6 +433,28 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB525-0039",
+        "bill": "HB 525",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB525-0040",
+        "bill": "HB 525",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
