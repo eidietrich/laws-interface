@@ -365,7 +365,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49184?agendaId=261681",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46325?agendaId=260942"
+        ]
     },
     {
         "id": "HB521-0033",
@@ -440,6 +443,17 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "03/24/2023",
+        "hasVote": false,
+        "committee": "(S) Fish and Game",
+        "recordings": []
+    },
+    {
+        "id": "HB521-0040",
+        "bill": "HB 521",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/06/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
         "recordings": []
