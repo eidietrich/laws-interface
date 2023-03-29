@@ -223,10 +223,34 @@
         "id": "HB850-0020",
         "bill": "HB 850",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB850-0021",
+        "bill": "HB 850",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46504?agendaId=265083"
+        ]
+    },
+    {
+        "id": "HB850-0022",
+        "bill": "HB 850",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
         "committee": "(H) Human Services",
         "recordings": []
     }
