@@ -988,5 +988,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 184",
+        "session": "20231",
+        "action_id": "HB184-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 9,
+            "N": 3
+        }
     }
 ]
