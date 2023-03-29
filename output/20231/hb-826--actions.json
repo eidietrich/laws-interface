@@ -267,10 +267,57 @@
         "id": "HB826-0024",
         "bill": "HB 826",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB826-0025",
+        "bill": "HB 826",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "03/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB826-0026",
+        "bill": "HB 826",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB826-0027",
+        "bill": "HB 826",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/23/2023",
         "hasVote": false,
+        "committee": "(H) Fish, Wildlife and Parks",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49257?agendaId=264909",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47013?agendaId=263271"
+        ]
+    },
+    {
+        "id": "HB826-0028",
+        "bill": "HB 826",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": true,
         "committee": "(H) Fish, Wildlife and Parks",
         "recordings": []
     }
