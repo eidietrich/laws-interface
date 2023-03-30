@@ -229,7 +229,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46378?agendaId=252878"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46378?agendaId=252878",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48772?agendaId=264509"
         ]
     },
     {
@@ -487,8 +488,10 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46242?agendaId=266285"
+        ]
     },
     {
         "id": "HB450-0044",
@@ -498,6 +501,28 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB450-0045",
+        "bill": "HB 450",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB450-0046",
+        "bill": "HB 450",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

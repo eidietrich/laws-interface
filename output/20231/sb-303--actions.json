@@ -273,6 +273,7 @@
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48802?agendaId=265433",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48111?agendaId=253329"
         ]
     },
@@ -372,9 +373,10 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46230?agendaId=257536"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46230?agendaId=257536",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49056?agendaId=264462"
         ]
     },
     {
@@ -409,8 +411,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45582?agendaId=258268",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49085?agendaId=258604"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49085?agendaId=258604",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45582?agendaId=258268"
         ]
     },
     {
@@ -541,6 +543,17 @@
         "action": "(H) Hearing Canceled",
         "actionUrl": null,
         "date": "03/29/2023",
+        "hasVote": false,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB303-0049",
+        "bill": "SB 303",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "04/04/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": []

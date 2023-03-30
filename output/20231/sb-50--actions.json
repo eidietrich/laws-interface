@@ -185,8 +185,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47528?agendaId=247644",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46731?agendaId=245087"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46731?agendaId=245087",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47528?agendaId=247644"
         ]
     },
     {
@@ -230,9 +230,10 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46195?agendaId=247933"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46195?agendaId=247933",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47695?agendaId=257101"
         ]
     },
     {
@@ -447,8 +448,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46243?agendaId=266924"
+        ]
     },
     {
         "id": "SB50-0040",
@@ -466,6 +469,28 @@
         "bill": "SB 50",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB50-0042",
+        "bill": "SB 50",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed as Amended by House",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB50-0043",
+        "bill": "SB 50",
+        "session": "20231",
+        "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,

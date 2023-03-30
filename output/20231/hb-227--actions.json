@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47630?agendaId=251556",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46456?agendaId=246824"
         ]
     },
@@ -297,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46114?agendaId=249493"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46114?agendaId=249493",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48479?agendaId=259172"
         ]
     },
     {
@@ -365,7 +367,8 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49166?agendaId=260782"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49166?agendaId=260782",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49165?agendaId=261206"
         ]
     },
     {
@@ -409,8 +412,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46243?agendaId=266916"
+        ]
     },
     {
         "id": "HB227-0037",
@@ -420,6 +425,17 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB227-0038",
+        "bill": "HB 227",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

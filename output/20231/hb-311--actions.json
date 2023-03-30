@@ -229,7 +229,8 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46466?agendaId=249852"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46466?agendaId=249852",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48513?agendaId=259607"
         ]
     },
     {
@@ -385,6 +386,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48788?agendaId=264783",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46127?agendaId=253139"
         ]
     },
@@ -420,6 +422,7 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48837?agendaId=265712",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46305?agendaId=253542"
         ]
     },
@@ -499,7 +502,8 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49166?agendaId=260781"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49166?agendaId=260781",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49165?agendaId=261205"
         ]
     },
     {
@@ -545,8 +549,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264603",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263218"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263218",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264603"
         ]
     },
     {
@@ -569,7 +573,9 @@
         "date": "03/28/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45592?agendaId=265924"
+        ]
     },
     {
         "id": "HB311-0051",
@@ -601,6 +607,17 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB311-0054",
+        "bill": "HB 311",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

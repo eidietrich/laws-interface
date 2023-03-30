@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48840?agendaId=265733",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46480?agendaId=253576"
         ]
     },
@@ -387,8 +388,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262806",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262023"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262023",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262806"
         ]
     },
     {
@@ -443,8 +444,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46243?agendaId=266915"
+        ]
     },
     {
         "id": "HB513-0040",
@@ -454,6 +457,17 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB513-0041",
+        "bill": "HB 513",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

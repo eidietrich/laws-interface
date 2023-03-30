@@ -273,6 +273,7 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48965?agendaId=267343",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46645?agendaId=254877"
         ]
     },
@@ -367,6 +368,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49153?agendaId=261076",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45585?agendaId=260263"
         ]
     },
@@ -477,8 +479,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46243?agendaId=266910"
+        ]
     },
     {
         "id": "SB402-0043",
@@ -488,6 +492,17 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB402-0044",
+        "bill": "SB 402",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

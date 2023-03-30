@@ -284,8 +284,8 @@
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48205?agendaId=261383",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49203?agendaId=261999"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49203?agendaId=261999",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48205?agendaId=261383"
         ]
     },
     {
@@ -384,8 +384,10 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46242?agendaId=266291"
+        ]
     },
     {
         "id": "SB507-0035",
@@ -414,6 +416,28 @@
         "bill": "SB 507",
         "session": "20231",
         "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB507-0038",
+        "bill": "SB 507",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB507-0039",
+        "bill": "SB 507",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
