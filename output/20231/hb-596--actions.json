@@ -240,6 +240,7 @@
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48876?agendaId=266181",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47004?agendaId=253855"
         ]
     },
@@ -308,6 +309,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258822",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256018"
         ]
     },
@@ -421,8 +423,10 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46242?agendaId=266297"
+        ]
     },
     {
         "id": "HB596-0038",
@@ -443,6 +447,17 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB596-0040",
+        "bill": "HB 596",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

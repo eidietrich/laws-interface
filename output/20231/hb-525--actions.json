@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48859?agendaId=266059",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47767?agendaId=253683"
         ]
     },
@@ -295,8 +296,11 @@
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48981?agendaId=258583",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46134?agendaId=255247"
+        ]
     },
     {
         "id": "HB525-0027",
@@ -409,8 +413,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262803",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262024"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262024",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262803"
         ]
     },
     {
@@ -454,8 +458,10 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46242?agendaId=266288"
+        ]
     },
     {
         "id": "HB525-0041",
@@ -476,6 +482,17 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB525-0043",
+        "bill": "HB 525",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
