@@ -540,7 +540,10 @@
         "date": "03/23/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49255?agendaId=264919",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46328?agendaId=263241"
+        ]
     },
     {
         "id": "HB393-0049",
@@ -550,6 +553,34 @@
         "actionUrl": null,
         "date": "03/23/2023",
         "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49255?agendaId=264919",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46328?agendaId=263241"
+        ]
+    },
+    {
+        "id": "HB393-0050",
+        "bill": "HB 393",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "03/23/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49255?agendaId=264919",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46328?agendaId=263241"
+        ]
+    },
+    {
+        "id": "HB393-0051",
+        "bill": "HB 393",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": true,
         "committee": "(H) Appropriations",
         "recordings": []
     }
