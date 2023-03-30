@@ -412,22 +412,33 @@
         "id": "HB877-0037",
         "bill": "HB 877",
         "session": "20231",
-        "action": "(H) Tabled in Committee",
+        "action": "(H) Fiscal Note Signed",
         "actionUrl": null,
-        "date": "03/28/2023",
-        "hasVote": true,
-        "committee": "(H) Human Services",
+        "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
         "id": "HB877-0038",
         "bill": "HB 877",
         "session": "20231",
-        "action": "(H) Fiscal Note Signed",
+        "action": "(H) Fiscal Note Printed",
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB877-0039",
+        "bill": "HB 877",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": true,
+        "committee": "(H) Human Services",
         "recordings": []
     }
 ]
