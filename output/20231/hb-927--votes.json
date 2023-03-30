@@ -1,15 +1,103 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0927TAH230328.pdf",
         "bill": "HB 927",
         "session": "20231",
         "action_id": "HB927-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "March 28, 2023",
+        "description": "Rep. Welch made a Motion that HB 927 Do Pass",
         "totals": {
             "Y": 21,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Fielder, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vinton, Sue;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Abbott, Kim;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Rhonda",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Nikolakakos, George",
+                "vote": "Y"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "Y"
+            },
+            {
+                "name": "Butcher, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "Y"
+            },
+            {
+                "name": "Barker, Brad",
+                "vote": "Y"
+            }
+        ]
     }
 ]
