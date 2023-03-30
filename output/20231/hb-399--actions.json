@@ -196,7 +196,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47762?agendaId=252438"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47762?agendaId=252438",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48731?agendaId=264079"
         ]
     },
     {
@@ -247,28 +248,18 @@
         "id": "HB399-0022",
         "bill": "HB 399",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/24/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB399-0023",
-        "bill": "HB 399",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "02/24/2023",
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48957?agendaId=267258",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46133?agendaId=254775"
         ]
     },
     {
-        "id": "HB399-0024",
+        "id": "HB399-0023",
         "bill": "HB 399",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -279,7 +270,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0025",
+        "id": "HB399-0024",
         "bill": "HB 399",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -290,7 +281,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0026",
+        "id": "HB399-0025",
         "bill": "HB 399",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -301,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0027",
+        "id": "HB399-0026",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) First Reading",
@@ -312,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0028",
+        "id": "HB399-0027",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -323,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0029",
+        "id": "HB399-0028",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Hearing",
@@ -337,7 +328,7 @@
         ]
     },
     {
-        "id": "HB399-0030",
+        "id": "HB399-0029",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -348,7 +339,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0031",
+        "id": "HB399-0030",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -359,7 +350,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0032",
+        "id": "HB399-0031",
         "bill": "HB 399",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -370,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0033",
+        "id": "HB399-0032",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -381,7 +372,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0034",
+        "id": "HB399-0033",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
@@ -390,12 +381,12 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264597",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263211"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263211",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264597"
         ]
     },
     {
-        "id": "HB399-0035",
+        "id": "HB399-0034",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -406,7 +397,7 @@
         "recordings": []
     },
     {
-        "id": "HB399-0036",
+        "id": "HB399-0035",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -417,13 +408,35 @@
         "recordings": []
     },
     {
-        "id": "HB399-0037",
+        "id": "HB399-0036",
         "bill": "HB 399",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB399-0037",
+        "bill": "HB 399",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB399-0038",
+        "bill": "HB 399",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

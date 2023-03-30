@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48876?agendaId=266177",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47004?agendaId=253854"
         ]
     },
@@ -331,7 +332,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47153?agendaId=261654",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49219?agendaId=262710"
+        ]
     },
     {
         "id": "HB593-0030",
@@ -353,6 +357,28 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
+        "recordings": []
+    },
+    {
+        "id": "HB593-0032",
+        "bill": "HB 593",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB593-0033",
+        "bill": "HB 593",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
