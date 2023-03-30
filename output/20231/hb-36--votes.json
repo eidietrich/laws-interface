@@ -489,7 +489,7 @@
         "action_id": "HB36-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -1018,6 +1018,67 @@
             },
             {
                 "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0036EDS230329.pdf",
+        "bill": "HB 36",
+        "session": "20231",
+        "action_id": "HB36-0041",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 29, 2023",
+        "description": "Sen. Tempel made a Motion that HB 36 Be Concurred In",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
                 "vote": "Y"
             }
         ]
