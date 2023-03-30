@@ -196,7 +196,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45320?agendaId=247296"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45320?agendaId=247296",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47656?agendaId=256825"
         ]
     },
     {
@@ -233,6 +234,39 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB87-0021",
+        "bill": "HB 87",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB87-0022",
+        "bill": "HB 87",
+        "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB87-0023",
+        "bill": "HB 87",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -323,8 +323,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45539?agendaId=260762",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49180?agendaId=261366"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49180?agendaId=261366",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45539?agendaId=260762"
         ]
     },
     {
@@ -401,8 +401,10 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46155?agendaId=266265"
+        ]
     },
     {
         "id": "HB449-0036",
@@ -479,6 +481,17 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
+        "id": "HB449-0043",
+        "bill": "HB 449",
+        "session": "20231",
+        "action": "(S) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
     }
 ]

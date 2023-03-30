@@ -284,8 +284,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49111?agendaId=259961",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46390?agendaId=259345"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46390?agendaId=259345",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49111?agendaId=259961"
         ]
     },
     {
@@ -325,7 +325,7 @@
         "id": "HB749-0029",
         "bill": "HB 749",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) Rereferred to Committee",
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
@@ -336,9 +336,31 @@
         "id": "HB749-0030",
         "bill": "HB 749",
         "session": "20231",
-        "action": "(H) Rereferred to Committee",
+        "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/29/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB749-0031",
+        "bill": "HB 749",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB749-0032",
+        "bill": "HB 749",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "03/30/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []

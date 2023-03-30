@@ -196,8 +196,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47499?agendaId=246485",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45140?agendaId=244865"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45140?agendaId=244865",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47499?agendaId=246485"
         ]
     },
     {
@@ -265,7 +265,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46111?agendaId=248735"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46111?agendaId=248735",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48399?agendaId=257837"
         ]
     },
     {
@@ -410,6 +411,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48642?agendaId=262852",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47956?agendaId=251662"
         ]
     },
@@ -465,9 +467,10 @@
         "actionUrl": null,
         "date": "03/10/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46230?agendaId=257534"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46230?agendaId=257534",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49056?agendaId=264460"
         ]
     },
     {
@@ -554,7 +557,7 @@
         "id": "HB112-0049",
         "bill": "HB 112",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) 2nd Reading Pass Consideration",
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": false,
@@ -567,8 +570,19 @@
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
         "actionUrl": null,
-        "date": "03/20/2023",
+        "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB112-0051",
+        "bill": "HB 112",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

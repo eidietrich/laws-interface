@@ -306,6 +306,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48817?agendaId=265397",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47765?agendaId=253284"
         ]
     },
@@ -374,6 +375,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48981?agendaId=258575",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46134?agendaId=255238"
         ]
     },
@@ -523,6 +525,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49155?agendaId=261102",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47978?agendaId=260327"
         ]
     },
@@ -589,8 +592,10 @@
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46241?agendaId=265373"
+        ]
     },
     {
         "id": "HB457-0053",
@@ -623,7 +628,9 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45593?agendaId=266437"
+        ]
     },
     {
         "id": "HB457-0056",
@@ -633,6 +640,17 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB457-0057",
+        "bill": "HB 457",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }
