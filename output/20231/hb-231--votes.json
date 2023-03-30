@@ -903,5 +903,66 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0231EDS230329.pdf",
+        "bill": "HB 231",
+        "session": "20231",
+        "action_id": "HB231-0034",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 29, 2023",
+        "description": "Sen. Salomon made a Motion that HB 231 Be Concurred In as Amended",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            }
+        ]
     }
 ]
