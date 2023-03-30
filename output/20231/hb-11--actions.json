@@ -141,7 +141,8 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45631?agendaId=246752"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45631?agendaId=246752",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47599?agendaId=251453"
         ]
     },
     {
@@ -176,6 +177,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48242?agendaId=257137",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45635?agendaId=248125"
         ]
     },
@@ -278,8 +280,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266877"
+        ]
     },
     {
         "id": "HB11-0025",
@@ -289,6 +293,17 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB11-0026",
+        "bill": "HB 11",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

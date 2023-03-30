@@ -284,7 +284,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47881?agendaId=249938"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47881?agendaId=249938",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48531?agendaId=261780"
         ]
     },
     {
@@ -394,17 +395,52 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266879"
+        ]
+    },
+    {
+        "id": "HB128-0036",
+        "bill": "HB 128",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
     {
-        "id": "HB128-0036",
+        "id": "HB128-0037",
+        "bill": "HB 128",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB128-0038",
         "bill": "HB 128",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB128-0039",
+        "bill": "HB 128",
+        "session": "20231",
+        "action": "(H) 3rd Reading Failed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
