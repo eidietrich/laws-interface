@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "Simple",
             "2/3 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -8483,8 +8483,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -14235,8 +14235,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33777,8 +33777,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -39348,8 +39348,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -42081,6 +42081,40 @@
         "amendedReturnDeadline": "05/04/2023"
     },
     {
+        "key": "HR 6",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=6&P_BLTP_BILL_TYP_CD=HR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3267.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3267.pdf",
+        "lc": "LC3267",
+        "title": "Resolution supporting country of origin labeling",
+        "sponsor": "James Bergstrom",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 30",
+        "statusDate": "03/30/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "James Bergstrom",
+        "subjects": [
+            {
+                "subject": "Agriculture  (see also: Livestock; Taxation--Agriculture/Livestock)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/13/2023"
+    },
+    {
         "key": "SB 1",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
@@ -42091,8 +42125,8 @@
         "sponsor": "Daniel R Salomon",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 47",
-        "statusDate": "03/18/2023",
-        "lastAction": "(S) Sent to Enrolling",
+        "statusDate": "03/30/2023",
+        "lastAction": "(S) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0001",
         "legalNoteUrl": null,
@@ -42117,7 +42151,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "amendedReturnDeadline": "04/13/2023"
     },
     {
         "key": "SB 2",
@@ -56209,8 +56243,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -64044,8 +64078,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
