@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46371?agendaId=249550"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46371?agendaId=249550",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48483?agendaId=259225"
         ]
     },
     {
@@ -374,6 +375,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48866?agendaId=266134",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46130?agendaId=253792"
         ]
     },
@@ -398,6 +400,7 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48897?agendaId=266689",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46307?agendaId=254108"
         ]
     },
@@ -441,6 +444,17 @@
         "action": "(H) Tabled in Committee",
         "actionUrl": null,
         "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB332-0040",
+        "bill": "HB 332",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed as Amended",
+        "actionUrl": null,
+        "date": "03/31/2023",
         "hasVote": true,
         "committee": "(H) Appropriations",
         "recordings": []
