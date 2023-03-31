@@ -239,7 +239,9 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48285?agendaId=266522"
+        ]
     },
     {
         "id": "HB893-0022",
@@ -272,6 +274,28 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB893-0025",
+        "bill": "HB 893",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB893-0026",
+        "bill": "HB 893",
+        "session": "20231",
+        "action": "(H) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]
