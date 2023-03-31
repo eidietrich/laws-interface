@@ -99,5 +99,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 816",
+        "session": "20231",
+        "action_id": "HB816-0042",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 17,
+            "N": 6
+        }
     }
 ]
