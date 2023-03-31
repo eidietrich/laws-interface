@@ -240,6 +240,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48391?agendaId=257773",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45637?agendaId=248636"
         ]
     },
@@ -264,6 +265,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48456?agendaId=259015",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45639?agendaId=249295"
         ]
     },
@@ -277,7 +279,8 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45640?agendaId=249475"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45640?agendaId=249475",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48478?agendaId=259139"
         ]
     },
     {
@@ -312,6 +315,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48545?agendaId=262096",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48032?agendaId=250293"
         ]
     },
@@ -325,6 +329,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48571?agendaId=262323",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48033?agendaId=250565"
         ]
     },
@@ -471,8 +476,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266871"
+        ]
     },
     {
         "id": "HB5-0042",
@@ -482,6 +489,61 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB5-0043",
+        "bill": "HB 5",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB5-0044",
+        "bill": "HB 5",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB5-0045",
+        "bill": "HB 5",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB5-0046",
+        "bill": "HB 5",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB5-0047",
+        "bill": "HB 5",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

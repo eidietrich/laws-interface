@@ -240,7 +240,8 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46481?agendaId=253842"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46481?agendaId=253842",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48877?agendaId=266169"
         ]
     },
     {
@@ -297,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=255998"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=255998",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258803"
         ]
     },
     {
@@ -452,7 +454,10 @@
         "date": "03/22/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47980?agendaId=262025",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49222?agendaId=262810"
+        ]
     },
     {
         "id": "HB560-0041",
@@ -474,6 +479,28 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB560-0043",
+        "bill": "HB 560",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB560-0044",
+        "bill": "HB 560",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

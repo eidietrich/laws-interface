@@ -174,7 +174,8 @@
         "hasVote": false,
         "committee": "(H) Agriculture",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46423?agendaId=251340"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46423?agendaId=251340",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48625?agendaId=262736"
         ]
     },
     {
@@ -220,6 +221,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48866?agendaId=266127",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46130?agendaId=253785"
         ]
     },
@@ -312,6 +314,28 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
+        "recordings": []
+    },
+    {
+        "id": "HB158-0028",
+        "bill": "HB 158",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB158-0029",
+        "bill": "HB 158",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

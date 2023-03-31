@@ -166,8 +166,8 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47502?agendaId=246552",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45627?agendaId=244988"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45627?agendaId=244988",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47502?agendaId=246552"
         ]
     },
     {
@@ -180,8 +180,8 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45628?agendaId=245516",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47533?agendaId=247659"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47533?agendaId=247659",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45628?agendaId=245516"
         ]
     },
     {
@@ -194,6 +194,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Long Range Planning",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47565?agendaId=250740",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45629?agendaId=245934"
         ]
     },
@@ -307,8 +308,10 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266878"
+        ]
     },
     {
         "id": "HB12-0027",
@@ -318,6 +321,28 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB12-0028",
+        "bill": "HB 12",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB12-0029",
+        "bill": "HB 12",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

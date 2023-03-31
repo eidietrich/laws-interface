@@ -364,7 +364,10 @@
         "date": "03/22/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48156?agendaId=262043",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49221?agendaId=262795"
+        ]
     },
     {
         "id": "HB777-0033",
@@ -386,6 +389,39 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "HB777-0035",
+        "bill": "HB 777",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Consideration",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB777-0036",
+        "bill": "HB 777",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB777-0037",
+        "bill": "HB 777",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
