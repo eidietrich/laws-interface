@@ -298,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46111?agendaId=248734"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46111?agendaId=248734",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48399?agendaId=257836"
         ]
     },
     {
@@ -364,6 +365,20 @@
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": false,
+        "committee": "(S) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46760?agendaId=261010",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49195?agendaId=261724"
+        ]
+    },
+    {
+        "id": "HB107-0033",
+        "bill": "HB 107",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": true,
         "committee": "(S) State Administration",
         "recordings": []
     }

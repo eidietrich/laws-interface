@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0329STS230329.pdf",
+        "bill": "HB 329",
+        "session": "20231",
+        "action_id": "HB329-0037",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 29, 2023",
+        "description": "Sen. McKamey made a Motion that HB 329 Be Concurred In",
+        "totals": {
+            "Y": 6,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "N"
+            },
+            {
+                "name": "Noland, Mark;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            }
+        ]
     }
 ]

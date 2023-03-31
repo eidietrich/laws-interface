@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0712STS230329.pdf",
+        "bill": "HB 712",
+        "session": "20231",
+        "action_id": "HB712-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 29, 2023",
+        "description": "Sen. McKamey made a Motion that HB 712 Be Concurred In",
+        "totals": {
+            "Y": 6,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "N"
+            },
+            {
+                "name": "Hayman, Denise;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            }
+        ]
     }
 ]

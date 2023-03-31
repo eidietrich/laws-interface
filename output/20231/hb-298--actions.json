@@ -262,6 +262,7 @@
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48530?agendaId=261819",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48245?agendaId=249987"
         ]
     },
@@ -341,7 +342,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46122?agendaId=251961"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46122?agendaId=251961",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48669?agendaId=263402"
         ]
     },
     {
@@ -440,6 +442,19 @@
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
+        "committee": "(S) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46763?agendaId=265627"
+        ]
+    },
+    {
+        "id": "HB298-0040",
+        "bill": "HB 298",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": true,
         "committee": "(S) State Administration",
         "recordings": []
     }

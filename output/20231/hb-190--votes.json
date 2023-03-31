@@ -6,7 +6,7 @@
         "action_id": "HB190-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 18,
             "N": 0
@@ -1424,6 +1424,63 @@
             },
             {
                 "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0190STS230329.pdf",
+        "bill": "HB 190",
+        "session": "20231",
+        "action_id": "HB190-0054",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 29, 2023",
+        "description": "Sen. McKamey made a Motion that HB 190 Be Concurred In",
+        "totals": {
+            "Y": 7,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "N"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
                 "vote": "Y"
             }
         ]
