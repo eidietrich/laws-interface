@@ -240,7 +240,8 @@
         "hasVote": false,
         "committee": "(H) Agriculture",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46419?agendaId=248482"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46419?agendaId=248482",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48379?agendaId=257730"
         ]
     },
     {
@@ -407,7 +408,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46125?agendaId=252590"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46125?agendaId=252590",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48738?agendaId=264145"
         ]
     },
     {
@@ -431,7 +433,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46302?agendaId=252865"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46302?agendaId=252865",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48771?agendaId=264500"
         ]
     },
     {
@@ -484,7 +487,7 @@
         "session": "20231",
         "action": "(H) Transmitted to Senate",
         "actionUrl": null,
-        "date": "02/27/2023",
+        "date": "02/28/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -519,6 +522,17 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
+        "committee": "(S) Agriculture, Livestock and Irrigation",
+        "recordings": []
+    },
+    {
+        "id": "HB276-0047",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
         "committee": "(S) Agriculture, Livestock and Irrigation",
         "recordings": []
     }
