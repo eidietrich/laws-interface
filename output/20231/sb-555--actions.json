@@ -305,10 +305,23 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47985?agendaId=267496"
+        ]
     },
     {
         "id": "SB555-0028",
+        "bill": "SB 555",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB555-0029",
         "bill": "SB 555",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -319,7 +332,7 @@
         "recordings": []
     },
     {
-        "id": "SB555-0029",
+        "id": "SB555-0030",
         "bill": "SB 555",
         "session": "20231",
         "action": "(S) Hearing",
