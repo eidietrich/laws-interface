@@ -234,17 +234,6 @@
         "id": "HB944-0021",
         "bill": "HB 944",
         "session": "20231",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "03/30/2023",
-        "hasVote": false,
-        "committee": "(H) Appropriations",
-        "recordings": []
-    },
-    {
-        "id": "HB944-0022",
-        "bill": "HB 944",
-        "session": "20231",
         "action": "(H) Committee Report--Bill Passed",
         "actionUrl": null,
         "date": "03/30/2023",
@@ -253,7 +242,7 @@
         "recordings": []
     },
     {
-        "id": "HB944-0023",
+        "id": "HB944-0022",
         "bill": "HB 944",
         "session": "20231",
         "action": "(H) Rereferred to Committee",
@@ -261,6 +250,39 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB944-0023",
+        "bill": "HB 944",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB944-0024",
+        "bill": "HB 944",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB944-0025",
+        "bill": "HB 944",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
