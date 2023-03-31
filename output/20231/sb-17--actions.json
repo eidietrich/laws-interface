@@ -163,6 +163,7 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47573?agendaId=250807",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46627?agendaId=246153"
         ]
     },
@@ -207,9 +208,10 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46195?agendaId=247931"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46195?agendaId=247931",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47695?agendaId=257099"
         ]
     },
     {
@@ -276,7 +278,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46588?agendaId=260975",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49187?agendaId=261702"
+        ]
     },
     {
         "id": "SB17-0025",
@@ -298,6 +303,28 @@
         "date": "03/25/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB17-0027",
+        "bill": "SB 17",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB17-0028",
+        "bill": "SB 17",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
