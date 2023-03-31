@@ -240,6 +240,7 @@
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48630?agendaId=262762",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47070?agendaId=251382"
         ]
     },
@@ -284,9 +285,10 @@
         "actionUrl": null,
         "date": "02/14/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46212?agendaId=252615"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46212?agendaId=252615",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48739?agendaId=264169"
         ]
     },
     {
@@ -342,6 +344,17 @@
         "date": "03/14/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ9-0031",
+        "bill": "SJ 9",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": "(H) Agriculture",
         "recordings": []
     }
 ]
