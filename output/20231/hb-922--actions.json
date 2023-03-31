@@ -283,7 +283,9 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45546?agendaId=266548"
+        ]
     },
     {
         "id": "HB922-0026",
@@ -337,6 +339,28 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB922-0031",
+        "bill": "HB 922",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB922-0032",
+        "bill": "HB 922",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
