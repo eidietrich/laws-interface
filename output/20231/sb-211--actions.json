@@ -229,7 +229,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48121?agendaId=249949"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48121?agendaId=249949",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48525?agendaId=261784"
         ]
     },
     {
@@ -295,8 +296,9 @@
         "actionUrl": null,
         "date": "02/21/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48867?agendaId=266149",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46217?agendaId=253820"
         ]
     },
@@ -362,6 +364,17 @@
         "action": "(H) Hearing Canceled",
         "actionUrl": null,
         "date": "03/24/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB211-0033",
+        "bill": "SB 211",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "04/04/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": []

@@ -306,6 +306,7 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48581?agendaId=262429",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46741?agendaId=250646"
         ]
     },
@@ -372,9 +373,10 @@
         "actionUrl": null,
         "date": "02/15/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46213?agendaId=253021"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46213?agendaId=253021",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48763?agendaId=264431"
         ]
     },
     {
@@ -440,6 +442,20 @@
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49179?agendaId=261456",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48278?agendaId=260845"
+        ]
+    },
+    {
+        "id": "SB222-0040",
+        "bill": "SB 222",
+        "session": "20231",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
         "committee": "(H) State Administration",
         "recordings": []
     }

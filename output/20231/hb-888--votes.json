@@ -67,5 +67,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 888",
+        "session": "20231",
+        "action_id": "HB888-0028",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 15,
+            "N": 8
+        }
     }
 ]
