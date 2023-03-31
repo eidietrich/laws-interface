@@ -251,7 +251,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46370?agendaId=249359"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46370?agendaId=249359",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48467?agendaId=259093"
         ]
     },
     {
@@ -335,28 +336,18 @@
         "id": "HB288-0030",
         "bill": "HB 288",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "03/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB288-0031",
-        "bill": "HB 288",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258844",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256118"
         ]
     },
     {
-        "id": "HB288-0032",
+        "id": "HB288-0031",
         "bill": "HB 288",
         "session": "20231",
         "action": "(H) Rereferred to Committee",
@@ -367,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "HB288-0033",
+        "id": "HB288-0032",
         "bill": "HB 288",
         "session": "20231",
         "action": "(H) Hearing",
@@ -381,7 +372,7 @@
         ]
     },
     {
-        "id": "HB288-0034",
+        "id": "HB288-0033",
         "bill": "HB 288",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Passed as Amended",
@@ -392,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "HB288-0035",
+        "id": "HB288-0034",
         "bill": "HB 288",
         "session": "20231",
         "action": "(H) Committee Report--Bill Passed as Amended",
@@ -403,13 +394,35 @@
         "recordings": []
     },
     {
-        "id": "HB288-0036",
+        "id": "HB288-0035",
         "bill": "HB 288",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB288-0036",
+        "bill": "HB 288",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB288-0037",
+        "bill": "HB 288",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
