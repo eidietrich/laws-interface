@@ -290,8 +290,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46278?agendaId=245550",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47550?agendaId=247737"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47550?agendaId=247737",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46278?agendaId=245550"
         ]
     },
     {
@@ -380,7 +380,9 @@
         "date": "03/13/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49082?agendaId=262879"
+        ]
     },
     {
         "id": "HB81-0034",
@@ -449,7 +451,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49201?agendaId=261963",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49194?agendaId=261678"
+        ]
     },
     {
         "id": "HB81-0040",
@@ -458,6 +463,17 @@
         "action": "(S) Tabled in Committee",
         "actionUrl": null,
         "date": "03/23/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB81-0041",
+        "bill": "HB 81",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "03/30/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []

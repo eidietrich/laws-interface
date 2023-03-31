@@ -1,15 +1,103 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0816TAH230327.pdf",
         "bill": "HB 816",
         "session": "20231",
         "action_id": "HB816-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "March 27, 2023",
+        "description": "Rep. Vinton made a Motion that HB 816 Do Pass",
         "totals": {
             "Y": 14,
             "N": 7
-        }
+        },
+        "votes": [
+            {
+                "name": "Fielder, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Vinton, Sue",
+                "vote": "Y"
+            },
+            {
+                "name": "Abbott, Kim;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Knudsen, Rhonda",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "Y"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "N"
+            },
+            {
+                "name": "Nikolakakos, George",
+                "vote": "Y"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "N"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "N"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Cohenour, Jill;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Butcher, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "Y"
+            },
+            {
+                "name": "Barker, Brad",
+                "vote": "Y"
+            }
+        ]
     }
 ]
