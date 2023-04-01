@@ -6,7 +6,7 @@
         "action_id": "HB963-0027",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 21,
             "N": 0
@@ -19,10 +19,23 @@
         "action_id": "HB963-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 12,
             "N": 9
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 963",
+        "session": "20231",
+        "action_id": "HB963-0035",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 16,
+            "N": 7
         }
     }
 ]

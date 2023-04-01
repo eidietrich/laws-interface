@@ -91,5 +91,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 907",
+        "session": "20231",
+        "action_id": "HB907-0036",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 18,
+            "N": 5
+        }
     }
 ]
