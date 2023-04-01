@@ -196,6 +196,7 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48885?agendaId=266612",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48136?agendaId=254002"
         ]
     },
@@ -282,22 +283,33 @@
         "id": "SB359-0025",
         "bill": "SB 359",
         "session": "20231",
-        "action": "(H) Referred to Committee",
+        "action": "(H) First Reading",
         "actionUrl": null,
         "date": "03/15/2023",
         "hasVote": false,
-        "committee": "(H) Judiciary",
+        "committee": null,
         "recordings": []
     },
     {
         "id": "SB359-0026",
         "bill": "SB 359",
         "session": "20231",
-        "action": "(H) First Reading",
+        "action": "(H) Hearing",
         "actionUrl": null,
-        "date": "03/15/2023",
+        "date": "04/01/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB359-0027",
+        "bill": "SB 359",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "04/01/2023",
+        "hasVote": false,
+        "committee": "(H) Judiciary",
         "recordings": []
     }
 ]
