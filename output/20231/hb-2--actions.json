@@ -493,6 +493,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Natural Resources and Transportation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47580?agendaId=251031",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45669?agendaId=246221"
         ]
     },
@@ -638,6 +639,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Education",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47690?agendaId=257055",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46021?agendaId=247945"
         ]
     },
@@ -684,6 +686,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Education",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47690?agendaId=257055",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46021?agendaId=247945"
         ]
     },
@@ -994,6 +997,7 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Natural Resources and Transportation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48505?agendaId=259520",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48053?agendaId=249721"
         ]
     },
@@ -1095,7 +1099,8 @@
         "hasVote": false,
         "committee": "(H) Joint Appropriations Subcommittee on Natural Resources and Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48056?agendaId=250553"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48056?agendaId=250553",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48569?agendaId=262347"
         ]
     },
     {
@@ -1612,8 +1617,13 @@
         "actionUrl": null,
         "date": "03/22/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46151?agendaId=261976",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49227?agendaId=263114",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46151?agendaId=262764",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49227?agendaId=263116"
+        ]
     },
     {
         "id": "HB2-0146",
@@ -1668,6 +1678,28 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB2-0151",
+        "bill": "HB 2",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB2-0152",
+        "bill": "HB 2",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
         "recordings": []
     }
 ]
