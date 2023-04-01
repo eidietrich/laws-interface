@@ -229,6 +229,7 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48971?agendaId=263628",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48910?agendaId=255134"
         ]
     },
@@ -275,6 +276,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258880",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256154"
         ]
     },
@@ -340,6 +342,17 @@
         "action": "(S) Hearing Canceled",
         "actionUrl": null,
         "date": "03/20/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB601-0031",
+        "bill": "HB 601",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/04/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": []

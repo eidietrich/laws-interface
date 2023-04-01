@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45146?agendaId=247284"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45146?agendaId=247284",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47658?agendaId=256816"
         ]
     },
     {
@@ -308,7 +309,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46121?agendaId=251701"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46121?agendaId=251701",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48646?agendaId=262898"
         ]
     },
     {
@@ -375,6 +377,17 @@
         "date": "03/16/2023",
         "hasVote": true,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB234-0034",
+        "bill": "HB 234",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": false,
+        "committee": "(S) Education and Cultural Resources",
         "recordings": []
     }
 ]
