@@ -294,7 +294,9 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47794?agendaId=267572"
+        ]
     },
     {
         "id": "HB950-0027",
@@ -316,6 +318,28 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB950-0029",
+        "bill": "HB 950",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB950-0030",
+        "bill": "HB 950",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
