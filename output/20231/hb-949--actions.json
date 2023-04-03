@@ -247,17 +247,6 @@
         "id": "HB949-0022",
         "bill": "HB 949",
         "session": "20231",
-        "action": "(H) Hearing",
-        "actionUrl": null,
-        "date": "03/30/2023",
-        "hasVote": false,
-        "committee": "(H) Appropriations",
-        "recordings": []
-    },
-    {
-        "id": "HB949-0023",
-        "bill": "HB 949",
-        "session": "20231",
         "action": "(H) Committee Report--Bill Passed as Amended",
         "actionUrl": null,
         "date": "03/30/2023",
@@ -266,7 +255,7 @@
         "recordings": []
     },
     {
-        "id": "HB949-0024",
+        "id": "HB949-0023",
         "bill": "HB 949",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -277,10 +266,21 @@
         "recordings": []
     },
     {
-        "id": "HB949-0025",
+        "id": "HB949-0024",
         "bill": "HB 949",
         "session": "20231",
         "action": "(H) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB949-0025",
+        "bill": "HB 949",
+        "session": "20231",
+        "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": false,
@@ -307,6 +307,28 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB949-0028",
+        "bill": "HB 949",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB949-0029",
+        "bill": "HB 949",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
