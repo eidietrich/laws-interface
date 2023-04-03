@@ -903,5 +903,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 745",
+        "session": "20231",
+        "action_id": "HB745-0029",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
     }
 ]
