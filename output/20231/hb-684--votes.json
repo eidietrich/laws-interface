@@ -931,5 +931,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0684PHS230331.pdf",
+        "bill": "HB 684",
+        "session": "20231",
+        "action_id": "HB684-0029",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 31, 2023",
+        "description": "Sen. Glimm made a Motion that HB 684 Be Concurred In",
+        "totals": {
+            "Y": 6,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Molnar, Brad;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "N"
+            },
+            {
+                "name": "McGillvray, Tom;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]
