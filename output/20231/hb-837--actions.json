@@ -214,11 +214,33 @@
         "id": "HB837-0019",
         "bill": "HB 837",
         "session": "20231",
-        "action": "(H) Hearing",
+        "action": "(H) Tabled in Committee",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": false,
+        "committee": "(H) Education",
+        "recordings": []
+    },
+    {
+        "id": "HB837-0020",
+        "bill": "HB 837",
+        "session": "20231",
+        "action": "(H) Taken from Table in Committee",
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(H) Education",
+        "recordings": []
+    },
+    {
+        "id": "HB837-0021",
+        "bill": "HB 837",
+        "session": "20231",
+        "action": "(H) Motion Failed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
