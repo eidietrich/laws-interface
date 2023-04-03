@@ -65,17 +65,110 @@
         ]
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0533FCS230331.pdf",
+        "bill": "SB 533",
+        "session": "20231",
+        "action_id": "SB533-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 31, 2023",
+        "description": "Sen. Glimm made a Motion that SB 533 Do Pass",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1556&P_SESS=20231",
         "bill": "SB 533",
         "session": "20231",
-        "action_id": "SB533-0028",
+        "action_id": "SB533-0029",
         "type": "floor",
         "seq_number": "S1556",
         "date": "March 31, 2023",
-        "description": "AMD Do Adopt-SB0533.001.001 Noland",
+        "description": "Do Pass As Amended",
         "totals": {
-            "Y": 29,
-            "N": 21,
+            "Y": 48,
+            "N": 2,
             "E": 0,
             "A": 0
         },
@@ -86,15 +179,15 @@
             },
             {
                 "name": "Flowers, Pat",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Lynch, Ryan",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Sales, Walt",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Beard, Becky",
@@ -106,7 +199,7 @@
             },
             {
                 "name": "Mandeville, Forrest",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Salomon, Daniel",
@@ -118,11 +211,11 @@
             },
             {
                 "name": "Friedel, Chris",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Manzella, Theresa",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Small, Jason",
@@ -130,7 +223,7 @@
             },
             {
                 "name": "Boldman, Ellie",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Fuller, John",
@@ -138,7 +231,7 @@
             },
             {
                 "name": "McClafferty, Edith (Edie)",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Tempel, Russel (Russ)",
@@ -170,7 +263,7 @@
             },
             {
                 "name": "McKamey, Wendy",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Usher, Barry",
@@ -182,11 +275,11 @@
             },
             {
                 "name": "Gross, Jen",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Molnar, Brad",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Vance, Shelley",
@@ -194,15 +287,15 @@
             },
             {
                 "name": "Dunwell, Mary Ann",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Hayman, Denise",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Morigeau, Shane",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Vermeire, Terry",
@@ -210,7 +303,7 @@
             },
             {
                 "name": "Ellis, Janet",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Hertz, Greg",
@@ -222,7 +315,7 @@
             },
             {
                 "name": "Webber, Susan",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Ellsworth, Jason",
@@ -238,7 +331,7 @@
             },
             {
                 "name": "Welborn, Jeffrey",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Emrich, Daniel",
@@ -246,11 +339,11 @@
             },
             {
                 "name": "Kelker, Kathy",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Olsen, Andrea",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Zolnikov, Daniel",
@@ -262,11 +355,11 @@
             },
             {
                 "name": "Lang, Mike",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Pope, Christopher",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Fitzpatrick, Steve",
@@ -286,7 +379,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1557&P_SESS=20231",
         "bill": "SB 533",
         "session": "20231",
-        "action_id": "SB533-0029",
+        "action_id": "SB533-0030",
         "type": "floor",
         "seq_number": "S1557",
         "date": "March 31, 2023",
