@@ -163,8 +163,8 @@
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47516?agendaId=247558",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47515?agendaId=245407",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47516?agendaId=247558",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45924?agendaId=244202"
         ]
     },
@@ -211,7 +211,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247124"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247124",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47638?agendaId=256714"
         ]
     },
     {
@@ -278,7 +279,9 @@
         "date": "03/13/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49082?agendaId=262881"
+        ]
     },
     {
         "id": "HB80-0025",
@@ -332,8 +335,11 @@
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46236?agendaId=260924",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49183?agendaId=261495"
+        ]
     },
     {
         "id": "HB80-0030",
@@ -375,6 +381,39 @@
         "action": "(H) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB80-0034",
+        "bill": "HB 80",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB80-0035",
+        "bill": "HB 80",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB80-0036",
+        "bill": "HB 80",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/03/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

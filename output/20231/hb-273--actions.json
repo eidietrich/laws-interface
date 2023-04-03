@@ -251,7 +251,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45325?agendaId=248955"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45325?agendaId=248955",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48431?agendaId=258389"
         ]
     },
     {
@@ -297,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46115?agendaId=249802"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46115?agendaId=249802",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48511?agendaId=259583"
         ]
     },
     {
@@ -365,7 +367,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46759?agendaId=260611"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46759?agendaId=260611",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49171?agendaId=261214"
         ]
     },
     {
@@ -409,8 +412,11 @@
         "actionUrl": null,
         "date": "03/22/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46238?agendaId=262080",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49226?agendaId=263139"
+        ]
     },
     {
         "id": "HB273-0037",
@@ -452,6 +458,61 @@
         "action": "(H) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB273-0041",
+        "bill": "HB 273",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB273-0042",
+        "bill": "HB 273",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB273-0043",
+        "bill": "HB 273",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB273-0044",
+        "bill": "HB 273",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB273-0045",
+        "bill": "HB 273",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/03/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
