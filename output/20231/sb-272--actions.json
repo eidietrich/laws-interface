@@ -242,5 +242,38 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": []
+    },
+    {
+        "id": "SB272-0022",
+        "bill": "SB 272",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB272-0023",
+        "bill": "SB 272",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Motion Failed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB272-0024",
+        "bill": "SB 272",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
     }
 ]
