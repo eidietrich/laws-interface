@@ -152,7 +152,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46734?agendaId=247228"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46734?agendaId=247228",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47653?agendaId=256779"
         ]
     },
     {
@@ -207,8 +208,9 @@
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48532?agendaId=261881",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46203?agendaId=250055"
         ]
     },
@@ -333,8 +335,10 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46155?agendaId=266261"
+        ]
     },
     {
         "id": "SB86-0030",
@@ -366,6 +370,28 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB86-0033",
+        "bill": "SB 86",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB86-0034",
+        "bill": "SB 86",
+        "session": "20231",
+        "action": "(S) 2nd Reading House Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
