@@ -262,6 +262,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47668?agendaId=256868",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45407?agendaId=247404"
         ]
     },
@@ -372,9 +373,10 @@
         "actionUrl": null,
         "date": "02/15/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46213?agendaId=253017"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46213?agendaId=253017",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48763?agendaId=264433"
         ]
     },
     {
@@ -453,8 +455,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265018",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263866"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263866",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265018"
         ]
     },
     {
@@ -487,6 +489,39 @@
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB169-0044",
+        "bill": "SB 169",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB169-0045",
+        "bill": "SB 169",
+        "session": "20231",
+        "action": "(H) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB169-0046",
+        "bill": "SB 169",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
