@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48122?agendaId=250231"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48122?agendaId=250231",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48555?agendaId=262118"
         ]
     },
     {
@@ -262,9 +263,10 @@
         "actionUrl": null,
         "date": "02/15/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46213?agendaId=253016"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46213?agendaId=253016",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48763?agendaId=264427"
         ]
     },
     {
@@ -330,6 +332,31 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263870",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265012"
+        ]
+    },
+    {
+        "id": "SB216-0030",
+        "bill": "SB 216",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB216-0031",
+        "bill": "SB 216",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
     }

@@ -322,8 +322,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49069?agendaId=259659",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45581?agendaId=258016"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45581?agendaId=258016",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49069?agendaId=259659"
         ]
     },
     {
@@ -411,6 +411,17 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": false,
+        "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB11-0037",
+        "bill": "SB 11",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": "(H) Judiciary",
         "recordings": []
     }
