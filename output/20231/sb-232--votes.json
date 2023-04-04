@@ -802,5 +802,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 232",
+        "session": "20231",
+        "action_id": "SB232-0047",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 17,
+            "N": 1
+        }
     }
 ]
