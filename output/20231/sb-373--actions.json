@@ -251,6 +251,7 @@
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48844?agendaId=265773",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46852?agendaId=253633"
         ]
     },
@@ -397,7 +398,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47914?agendaId=260820",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49178?agendaId=261434"
+        ]
     },
     {
         "id": "SB373-0036",
@@ -429,6 +433,28 @@
         "actionUrl": null,
         "date": "03/21/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB373-0039",
+        "bill": "SB 373",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB373-0040",
+        "bill": "SB 373",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
