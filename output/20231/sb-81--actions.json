@@ -219,9 +219,10 @@
         "actionUrl": null,
         "date": "01/20/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46195?agendaId=247936"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46195?agendaId=247936",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47695?agendaId=257102"
         ]
     },
     {
@@ -289,6 +290,7 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49147?agendaId=261090",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47850?agendaId=260314"
         ]
     },
@@ -379,6 +381,17 @@
         "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB81-0034",
+        "bill": "SB 81",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/04/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

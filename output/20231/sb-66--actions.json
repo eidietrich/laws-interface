@@ -152,6 +152,7 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47590?agendaId=251129",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46733?agendaId=246453"
         ]
     },
@@ -196,9 +197,10 @@
         "actionUrl": null,
         "date": "01/30/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46201?agendaId=249515"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46201?agendaId=249515",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48480?agendaId=259200"
         ]
     },
     {
@@ -266,6 +268,7 @@
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48860?agendaId=266096",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48259?agendaId=253751"
         ]
     },
@@ -356,6 +359,17 @@
         "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB66-0032",
+        "bill": "SB 66",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/04/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
