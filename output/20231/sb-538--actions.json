@@ -379,6 +379,17 @@
         "id": "SB538-0034",
         "bill": "SB 538",
         "session": "20231",
+        "action": "(S) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB538-0035",
+        "bill": "SB 538",
+        "session": "20231",
         "action": "(S) Committee Executive Action--Bill Passed",
         "actionUrl": null,
         "date": "04/03/2023",
@@ -387,7 +398,7 @@
         "recordings": []
     },
     {
-        "id": "SB538-0035",
+        "id": "SB538-0036",
         "bill": "SB 538",
         "session": "20231",
         "action": "(S) Committee Report--Bill Passed",
@@ -398,13 +409,24 @@
         "recordings": []
     },
     {
-        "id": "SB538-0036",
+        "id": "SB538-0037",
         "bill": "SB 538",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB538-0038",
+        "bill": "SB 538",
+        "session": "20231",
+        "action": "(S) 3rd Reading Passed",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
