@@ -2298,5 +2298,66 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0408EDS230403.pdf",
+        "bill": "HB 408",
+        "session": "20231",
+        "action_id": "HB408-0046",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 03, 2023",
+        "description": "Sen. Tempel made a Motion that HB 408 Be Concurred In as Amended",
+        "totals": {
+            "Y": 6,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "N"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Emrich, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Olsen, Andrea;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            }
+        ]
     }
 ]
