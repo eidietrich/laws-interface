@@ -229,6 +229,7 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48547?agendaId=262128",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47825?agendaId=250251"
         ]
     },
@@ -374,7 +375,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46125?agendaId=252594"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46125?agendaId=252594",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48738?agendaId=264149"
         ]
     },
     {
@@ -398,7 +400,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46302?agendaId=252868"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46302?agendaId=252868",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48771?agendaId=264502"
         ]
     },
     {
@@ -474,6 +477,17 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "03/13/2023",
+        "hasVote": false,
+        "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB345-0043",
+        "bill": "HB 345",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/07/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": []
