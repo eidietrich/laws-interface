@@ -6,7 +6,7 @@
         "action_id": "SB407-0021",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 0
@@ -497,6 +497,87 @@
             },
             {
                 "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0407LOH230404.pdf",
+        "bill": "SB 407",
+        "session": "20231",
+        "action_id": "SB407-0035",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 04, 2023",
+        "description": "Rep. Bertoglio made a Motion that SB 407 Be Concurred In as Amended",
+        "totals": {
+            "Y": 15,
+            "N": 1
+        },
+        "votes": [
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Cohenour, Jill;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "N"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry",
                 "vote": "Y"
             }
         ]
