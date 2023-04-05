@@ -284,6 +284,7 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48649?agendaId=262961",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46795?agendaId=251817"
         ]
     },
@@ -328,8 +329,11 @@
         "actionUrl": null,
         "date": "02/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48818?agendaId=265483",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46215?agendaId=253405"
+        ]
     },
     {
         "id": "SB262-0030",
@@ -383,6 +387,31 @@
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47914?agendaId=260819",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49178?agendaId=261429"
+        ]
+    },
+    {
+        "id": "SB262-0035",
+        "bill": "SB 262",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB262-0036",
+        "bill": "SB 262",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
         "committee": "(H) Business and Labor",
         "recordings": []
     }
