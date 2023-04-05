@@ -372,7 +372,8 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266845"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266845",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49356?agendaId=269515"
         ]
     },
     {
@@ -482,8 +483,11 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49430?agendaId=269207",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46246?agendaId=268851"
+        ]
     },
     {
         "id": "SB564-0044",
@@ -516,6 +520,17 @@
         "date": "04/04/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB564-0047",
+        "bill": "SB 564",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": "(H) Human Services",
         "recordings": []
     }
 ]

@@ -208,9 +208,10 @@
         "actionUrl": null,
         "date": "01/16/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46191?agendaId=246524"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46191?agendaId=246524",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47585?agendaId=251081"
         ]
     },
     {
@@ -313,6 +314,28 @@
         "date": "03/22/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB23-0028",
+        "bill": "SB 23",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB23-0029",
+        "bill": "SB 23",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

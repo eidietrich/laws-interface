@@ -527,5 +527,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 485",
+        "session": "20231",
+        "action_id": "SB485-0044",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 4
+        }
     }
 ]
