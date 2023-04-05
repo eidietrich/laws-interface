@@ -251,6 +251,7 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48687?agendaId=263501",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48128?agendaId=252094"
         ]
     },
@@ -295,8 +296,9 @@
         "actionUrl": null,
         "date": "02/16/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48783?agendaId=264845",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46214?agendaId=253167"
         ]
     },
@@ -364,7 +366,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49189?agendaId=261516",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49188?agendaId=261745"
+        ]
     },
     {
         "id": "SB263-0033",
@@ -386,6 +391,28 @@
         "date": "03/25/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
+        "id": "SB263-0035",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB263-0036",
+        "bill": "SB 263",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48650?agendaId=262939",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46638?agendaId=251781"
         ]
     },
@@ -262,8 +263,9 @@
         "actionUrl": null,
         "date": "02/21/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48867?agendaId=266148",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46217?agendaId=253819"
         ]
     },
@@ -331,7 +333,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46588?agendaId=260976",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49187?agendaId=261703"
+        ]
     },
     {
         "id": "SB237-0030",
@@ -353,6 +358,28 @@
         "date": "03/25/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB237-0032",
+        "bill": "SB 237",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB237-0033",
+        "bill": "SB 237",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
