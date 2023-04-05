@@ -57,12 +57,12 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S845&P_SESS=20231",
+        "url": null,
         "bill": "SB 370",
         "session": "20231",
         "action_id": "SB370-0023",
         "type": "floor",
-        "seq_number": "S845",
+        "seq_number": "SXXX",
         "date": "March 01, 2023",
         "description": "Do Pass",
         "totals": {
@@ -278,14 +278,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S970&P_SESS=20231",
         "bill": "SB 370",
         "session": "20231",
-        "action_id": "SB370-0025",
+        "action_id": "SB370-0030",
         "type": "floor",
         "seq_number": "S970",
         "date": "March 02, 2023",
         "description": "Do Pass",
         "totals": {
-            "Y": 32,
-            "N": 18,
+            "Y": 31,
+            "N": 19,
             "E": 0,
             "A": 0
         },
@@ -324,7 +324,7 @@
             },
             {
                 "name": "Bogner, Kenneth",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Friedel, Chris",
