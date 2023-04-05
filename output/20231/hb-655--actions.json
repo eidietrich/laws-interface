@@ -389,7 +389,8 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266840"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266840",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49356?agendaId=269509"
         ]
     },
     {
@@ -412,6 +413,28 @@
         "date": "04/03/2023",
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
+        "id": "HB655-0037",
+        "bill": "HB 655",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB655-0038",
+        "bill": "HB 655",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
