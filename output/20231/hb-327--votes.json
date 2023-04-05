@@ -911,5 +911,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0327HIS230404.pdf",
+        "bill": "HB 327",
+        "session": "20231",
+        "action_id": "HB327-0033",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 04, 2023",
+        "description": "Sen. Olsen made a Motion that HB 327 Be Concurred In",
+        "totals": {
+            "Y": 12,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            }
+        ]
     }
 ]

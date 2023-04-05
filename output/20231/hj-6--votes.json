@@ -903,5 +903,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HJ0006ENS230404.pdf",
+        "bill": "HJ 6",
+        "session": "20231",
+        "action_id": "HJ6-0030",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 04, 2023",
+        "description": "Sen. Small made a Motion that HJ 6 Be Concurred In",
+        "totals": {
+            "Y": 11,
+            "N": 1
+        },
+        "votes": [
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "N"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            }
+        ]
     }
 ]

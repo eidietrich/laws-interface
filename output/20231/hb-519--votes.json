@@ -939,7 +939,7 @@
         "action_id": "HB519-0035",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 12,
             "N": 11
@@ -1468,6 +1468,71 @@
             },
             {
                 "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0519HIS230404.pdf",
+        "bill": "HB 519",
+        "session": "20231",
+        "action_id": "HB519-0048",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 04, 2023",
+        "description": "Sen. Olsen made a Motion that HB 519 Be Concurred In",
+        "totals": {
+            "Y": 10,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "N"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
                 "vote": "Y"
             }
         ]
