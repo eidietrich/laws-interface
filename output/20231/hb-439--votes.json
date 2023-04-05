@@ -911,5 +911,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0439HIS230404.pdf",
+        "bill": "HB 439",
+        "session": "20231",
+        "action_id": "HB439-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 04, 2023",
+        "description": "Sen. Olsen made a Motion that HB 439 Be Concurred In as Amended",
+        "totals": {
+            "Y": 7,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            }
+        ]
     }
 ]

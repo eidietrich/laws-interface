@@ -240,8 +240,8 @@
         "hasVote": false,
         "committee": "(H) Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47437?agendaId=245808",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47234?agendaId=243938"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47234?agendaId=243938",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47437?agendaId=245808"
         ]
     },
     {
@@ -356,7 +356,8 @@
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47103?agendaId=249136"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47103?agendaId=249136",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48449?agendaId=258538"
         ]
     },
     {
@@ -402,8 +403,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264598",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263213"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263213",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264598"
         ]
     },
     {
@@ -446,6 +447,17 @@
         "action": "(H) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB26-0040",
+        "bill": "HB 26",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/05/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

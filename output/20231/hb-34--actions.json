@@ -152,8 +152,8 @@
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47525?agendaId=247620",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46540?agendaId=245055"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46540?agendaId=245055",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47525?agendaId=247620"
         ]
     },
     {
@@ -210,7 +210,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247116"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247116",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47638?agendaId=256707"
         ]
     },
     {
@@ -278,7 +279,8 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46654?agendaId=260584"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46654?agendaId=260584",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49168?agendaId=261201"
         ]
     },
     {
@@ -324,8 +326,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264605",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263220"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263220",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264605"
         ]
     },
     {
@@ -368,6 +370,17 @@
         "action": "(H) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB34-0033",
+        "bill": "HB 34",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/05/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(H) Transportation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48543?agendaId=261942",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46896?agendaId=250162"
         ]
     },
@@ -264,7 +265,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46123?agendaId=252184"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46123?agendaId=252184",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48688?agendaId=263575"
         ]
     },
     {
@@ -330,6 +332,31 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": false,
+        "committee": "(S) Highways and Transportation",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47120?agendaId=266374",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49335?agendaId=268415"
+        ]
+    },
+    {
+        "id": "HB365-0030",
+        "bill": "HB 365",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB365-0031",
+        "bill": "HB 365",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": "(S) Highways and Transportation",
         "recordings": []
     }
