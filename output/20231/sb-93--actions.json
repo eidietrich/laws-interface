@@ -152,6 +152,7 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48538?agendaId=261913",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46740?agendaId=250128"
         ]
     },
@@ -262,8 +263,9 @@
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48925?agendaId=267085",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46219?agendaId=254471"
         ]
     },
@@ -298,7 +300,10 @@
         "date": "02/24/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48944?agendaId=267221",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48887?agendaId=258022"
+        ]
     },
     {
         "id": "SB93-0027",
@@ -385,6 +390,20 @@
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48283?agendaId=265202",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49288?agendaId=267920"
+        ]
+    },
+    {
+        "id": "SB93-0035",
+        "bill": "SB 93",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
         "committee": "(H) State Administration",
         "recordings": []
     }
