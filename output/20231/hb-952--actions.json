@@ -273,7 +273,8 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46507?agendaId=266804"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46507?agendaId=266804",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49361?agendaId=269057"
         ]
     },
     {
@@ -318,7 +319,9 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49394?agendaId=268568"
+        ]
     },
     {
         "id": "HB952-0029",
@@ -361,8 +364,11 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49429?agendaId=269318",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46159?agendaId=268824"
+        ]
     },
     {
         "id": "HB952-0033",
@@ -383,6 +389,17 @@
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB952-0035",
+        "bill": "HB 952",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

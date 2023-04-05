@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48286?agendaId=267517"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48286?agendaId=267517",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49371?agendaId=269643"
         ]
     },
     {
@@ -273,8 +274,11 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49429?agendaId=269311",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46159?agendaId=268817"
+        ]
     },
     {
         "id": "HB941-0025",
@@ -295,6 +299,17 @@
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB941-0027",
+        "bill": "HB 941",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

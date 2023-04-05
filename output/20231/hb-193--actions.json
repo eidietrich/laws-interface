@@ -363,7 +363,9 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49394?agendaId=268553"
+        ]
     },
     {
         "id": "HB193-0033",
@@ -417,8 +419,11 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49429?agendaId=269290",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46159?agendaId=268795"
+        ]
     },
     {
         "id": "HB193-0038",
@@ -439,6 +444,39 @@
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB193-0040",
+        "bill": "HB 193",
+        "session": "20231",
+        "action": "(H) Transmitted to Senate",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB193-0041",
+        "bill": "HB 193",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB193-0042",
+        "bill": "HB 193",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
