@@ -229,7 +229,8 @@
         "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47190?agendaId=266402"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47190?agendaId=266402",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49340?agendaId=268432"
         ]
     },
     {
@@ -328,8 +329,10 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268580"
+        ]
     },
     {
         "id": "HB914-0030",
@@ -382,6 +385,17 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "04/04/2023",
+        "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "HB914-0035",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/12/2023",
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": []
