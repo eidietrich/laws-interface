@@ -228,7 +228,10 @@
         "date": "03/28/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47855?agendaId=266247",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49319?agendaId=268249"
+        ]
     },
     {
         "id": "HB911-0021",
@@ -245,6 +248,17 @@
         "id": "HB911-0022",
         "bill": "HB 911",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0023",
+        "bill": "HB 911",
+        "session": "20231",
         "action": "(H) Tabled in Committee",
         "actionUrl": null,
         "date": "03/29/2023",
@@ -253,12 +267,78 @@
         "recordings": []
     },
     {
-        "id": "HB911-0023",
+        "id": "HB911-0024",
         "bill": "HB 911",
         "session": "20231",
-        "action": "(H) Fiscal Note Received",
+        "action": "(H) Fiscal Note Unsigned",
         "actionUrl": null,
-        "date": "03/29/2023",
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0025",
+        "bill": "HB 911",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0026",
+        "bill": "HB 911",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0027",
+        "bill": "HB 911",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0028",
+        "bill": "HB 911",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0029",
+        "bill": "HB 911",
+        "session": "20231",
+        "action": "(H) Sponsor Rebuttal to Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB911-0030",
+        "bill": "HB 911",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
