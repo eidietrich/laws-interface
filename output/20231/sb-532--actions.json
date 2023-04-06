@@ -228,7 +228,10 @@
         "date": "03/28/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49317?agendaId=268295",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48210?agendaId=266014"
+        ]
     },
     {
         "id": "SB532-0021",
@@ -272,6 +275,17 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB532-0025",
+        "bill": "SB 532",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

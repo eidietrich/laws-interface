@@ -228,7 +228,10 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266843",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49356?agendaId=269507"
+        ]
     },
     {
         "id": "SB552-0021",
@@ -239,6 +242,61 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
+        "id": "SB552-0022",
+        "bill": "SB 552",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/30/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB552-0023",
+        "bill": "SB 552",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB552-0024",
+        "bill": "SB 552",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB552-0025",
+        "bill": "SB 552",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB552-0026",
+        "bill": "SB 552",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

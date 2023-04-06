@@ -317,7 +317,8 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46792?agendaId=250140"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46792?agendaId=250140",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48535?agendaId=261917"
         ]
     },
     {
@@ -372,9 +373,10 @@
         "actionUrl": null,
         "date": "02/09/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46209?agendaId=251987"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46209?agendaId=251987",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48670?agendaId=263420"
         ]
     },
     {
@@ -398,7 +400,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48683?agendaId=252429"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48683?agendaId=252429",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48719?agendaId=264070"
         ]
     },
     {
@@ -410,6 +413,17 @@
         "date": "02/23/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB225-0037",
+        "bill": "SB 225",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

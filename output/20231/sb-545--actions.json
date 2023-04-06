@@ -228,7 +228,10 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(S) Local Government",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49354?agendaId=269536",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46816?agendaId=266898"
+        ]
     },
     {
         "id": "SB545-0021",
@@ -270,6 +273,28 @@
         "action": "(S) Fiscal Note Printed",
         "actionUrl": null,
         "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB545-0025",
+        "bill": "SB 545",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB545-0026",
+        "bill": "SB 545",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

@@ -229,7 +229,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48161?agendaId=266563"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48161?agendaId=266563",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49350?agendaId=268943"
         ]
     },
     {
@@ -241,6 +242,50 @@
         "date": "03/30/2023",
         "hasVote": true,
         "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "SB556-0022",
+        "bill": "SB 556",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB556-0023",
+        "bill": "SB 556",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB556-0024",
+        "bill": "SB 556",
+        "session": "20231",
+        "action": "(S) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB556-0025",
+        "bill": "SB 556",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -272,7 +272,10 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45594?agendaId=267450",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49365?agendaId=269621"
+        ]
     },
     {
         "id": "SB553-0025",
@@ -283,6 +286,17 @@
         "date": "03/30/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "SB553-0026",
+        "bill": "SB 553",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

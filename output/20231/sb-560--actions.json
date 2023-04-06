@@ -305,7 +305,9 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46765?agendaId=268151"
+        ]
     },
     {
         "id": "SB560-0028",
@@ -316,6 +318,17 @@
         "date": "03/31/2023",
         "hasVote": true,
         "committee": "(S) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SB560-0029",
+        "bill": "SB 560",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

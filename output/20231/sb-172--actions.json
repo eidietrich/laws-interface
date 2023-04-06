@@ -421,8 +421,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263867",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265017"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265017",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263867"
         ]
     },
     {
@@ -445,6 +445,28 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB172-0040",
+        "bill": "SB 172",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB172-0041",
+        "bill": "SB 172",
+        "session": "20231",
+        "action": "(H) 2nd Reading Not Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

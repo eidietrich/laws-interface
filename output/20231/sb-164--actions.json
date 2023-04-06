@@ -251,6 +251,7 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48492?agendaId=259280",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46739?agendaId=249591"
         ]
     },
@@ -295,9 +296,10 @@
         "actionUrl": null,
         "date": "02/02/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46204?agendaId=250328"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46204?agendaId=250328",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48710?agendaId=262181"
         ]
     },
     {
@@ -389,6 +391,28 @@
         "date": "03/16/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB164-0035",
+        "bill": "SB 164",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB164-0036",
+        "bill": "SB 164",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

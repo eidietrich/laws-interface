@@ -306,6 +306,7 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49354?agendaId=269540",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46816?agendaId=266899"
         ]
     },
@@ -351,7 +352,9 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45595?agendaId=267915"
+        ]
     },
     {
         "id": "SB549-0032",
@@ -394,8 +397,11 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49430?agendaId=269228",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46246?agendaId=268869"
+        ]
     },
     {
         "id": "SB549-0036",
@@ -416,6 +422,17 @@
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB549-0038",
+        "bill": "SB 549",
+        "session": "20231",
+        "action": "(S) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
