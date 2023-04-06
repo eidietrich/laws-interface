@@ -9,7 +9,7 @@
             "Y": 60,
             "N": 39
         },
-        "error": "Skipped previously missing vote page"
+        "error": "Missing vote page"
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0303JUH230202.pdf",
@@ -1354,6 +1354,59 @@
             },
             {
                 "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0303PHS230405.pdf",
+        "bill": "HB 303",
+        "session": "20231",
+        "action_id": "HB303-0037",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 05, 2023",
+        "description": "Sen. Lenz made a Motion that HB 303 Be Concurred In",
+        "totals": {
+            "Y": 6,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "McGillvray, Tom",
                 "vote": "Y"
             }
         ]
