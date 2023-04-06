@@ -927,5 +927,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0282LOS230405.pdf",
+        "bill": "HB 282",
+        "session": "20231",
+        "action_id": "HB282-0037",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 05, 2023",
+        "description": "Sen. Mandeville made a Motion that HB 282 Be Concurred In as Amended",
+        "totals": {
+            "Y": 6,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]

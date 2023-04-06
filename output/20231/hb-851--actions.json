@@ -327,7 +327,10 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49301?agendaId=268176",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46919?agendaId=265665"
+        ]
     },
     {
         "id": "HB851-0030",
@@ -338,6 +341,17 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
+        "id": "HB851-0031",
+        "bill": "HB 851",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

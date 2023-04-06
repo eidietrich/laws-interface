@@ -261,7 +261,10 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49209?agendaId=265304",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49289?agendaId=265990"
+        ]
     },
     {
         "id": "HB848-0024",
@@ -278,18 +281,18 @@
         "id": "HB848-0025",
         "bill": "HB 848",
         "session": "20231",
-        "action": "(H) Tabled in Committee",
+        "action": "(H) Fiscal Note Unsigned",
         "actionUrl": null,
         "date": "03/28/2023",
-        "hasVote": true,
-        "committee": "(H) Taxation",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
         "id": "HB848-0026",
         "bill": "HB 848",
         "session": "20231",
-        "action": "(H) Fiscal Note Unsigned",
+        "action": "(H) Fiscal Note Printed",
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": false,
@@ -300,9 +303,20 @@
         "id": "HB848-0027",
         "bill": "HB 848",
         "session": "20231",
-        "action": "(H) Fiscal Note Printed",
+        "action": "(H) Tabled in Committee",
         "actionUrl": null,
         "date": "03/28/2023",
+        "hasVote": true,
+        "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB848-0028",
+        "bill": "HB 848",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

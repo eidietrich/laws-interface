@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0348STS230405.pdf",
+        "bill": "HB 348",
+        "session": "20231",
+        "action_id": "HB348-0032",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 05, 2023",
+        "description": "Sen. McKamey made a Motion that HB 348 Be Concurred In as Amended",
+        "totals": {
+            "Y": 9,
+            "N": 1
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]

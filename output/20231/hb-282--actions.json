@@ -229,6 +229,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48366?agendaId=257592",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45149?agendaId=248328"
         ]
     },
@@ -341,7 +342,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46121?agendaId=251707"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46121?agendaId=251707",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48646?agendaId=262905"
         ]
     },
     {
@@ -407,6 +409,20 @@
         "actionUrl": null,
         "date": "03/22/2023",
         "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46813?agendaId=262293",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49230?agendaId=263168"
+        ]
+    },
+    {
+        "id": "HB282-0037",
+        "bill": "HB 282",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": true,
         "committee": "(S) Local Government",
         "recordings": []
     }
