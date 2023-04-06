@@ -501,16 +501,72 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SJ0010FEH230405.pdf",
         "bill": "SJ 10",
         "session": "20231",
         "action_id": "SJ10-0040",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "RELATIONS",
+        "description": "Rep. Galloway made a Motion that SJ 10 Be Concurred In",
         "totals": {
             "Y": 10,
             "N": 3
-        }
+        },
+        "votes": [
+            {
+                "name": "Bishop, Laurie",
+                "vote": "N"
+            },
+            {
+                "name": "Brewster, Larry;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "N"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
     }
 ]

@@ -501,16 +501,72 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0033FEH230405.pdf",
         "bill": "SB 33",
         "session": "20231",
         "action_id": "SB33-0031",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "RELATIONS",
+        "description": "Rep. Galloway made a Motion that SB 33 Be Concurred In",
         "totals": {
             "Y": 13,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Brewster, Larry;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
     }
 ]

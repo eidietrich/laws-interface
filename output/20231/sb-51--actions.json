@@ -152,7 +152,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46737?agendaId=248839"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46737?agendaId=248839",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48429?agendaId=257899"
         ]
     },
     {
@@ -218,8 +219,9 @@
         "actionUrl": null,
         "date": "02/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48532?agendaId=261878",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46203?agendaId=250052"
         ]
     },
@@ -296,6 +298,31 @@
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/20/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49179?agendaId=261455",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48278?agendaId=260844"
+        ]
+    },
+    {
+        "id": "SB51-0027",
+        "bill": "SB 51",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SB51-0028",
+        "bill": "SB 51",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/06/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": []
