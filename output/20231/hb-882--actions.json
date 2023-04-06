@@ -250,7 +250,10 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46920?agendaId=267429",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49363?agendaId=269555"
+        ]
     },
     {
         "id": "HB882-0023",
@@ -261,6 +264,50 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
+        "id": "HB882-0024",
+        "bill": "HB 882",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "03/31/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB882-0025",
+        "bill": "HB 882",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB882-0026",
+        "bill": "HB 882",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB882-0027",
+        "bill": "HB 882",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
