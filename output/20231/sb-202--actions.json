@@ -185,7 +185,8 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46687?agendaId=249579"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46687?agendaId=249579",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48491?agendaId=259250"
         ]
     },
     {
@@ -229,9 +230,10 @@
         "actionUrl": null,
         "date": "02/06/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46206?agendaId=250899"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46206?agendaId=250899",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48598?agendaId=262507"
         ]
     },
     {
@@ -298,7 +300,10 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46435?agendaId=261593",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49212?agendaId=262489"
+        ]
     },
     {
         "id": "SB202-0027",
@@ -315,11 +320,55 @@
         "id": "SB202-0028",
         "bill": "SB 202",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB202-0029",
+        "bill": "SB 202",
+        "session": "20231",
         "action": "(H) Committee Report--Bill Concurred",
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
+        "recordings": []
+    },
+    {
+        "id": "SB202-0030",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB202-0031",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(H) 2nd Reading Motion to Amend Failed",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB202-0032",
+        "bill": "SB 202",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
