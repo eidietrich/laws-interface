@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47560?agendaId=250735",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45403?agendaId=245924"
         ]
     },
@@ -295,8 +296,9 @@
         "actionUrl": null,
         "date": "01/27/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48459?agendaId=259080",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46200?agendaId=249334"
         ]
     },
@@ -321,6 +323,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48565?agendaId=262242",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48493?agendaId=250447"
         ]
     },
@@ -479,6 +482,28 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "SB148-0043",
+        "bill": "SB 148",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB148-0044",
+        "bill": "SB 148",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

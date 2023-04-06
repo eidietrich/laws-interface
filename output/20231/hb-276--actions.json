@@ -523,7 +523,10 @@
         "date": "03/30/2023",
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49384?agendaId=269863",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47085?agendaId=267699"
+        ]
     },
     {
         "id": "HB276-0047",
@@ -545,6 +548,39 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
+        "recordings": []
+    },
+    {
+        "id": "HB276-0049",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB276-0050",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concur Motion Failed",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB276-0051",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
