@@ -284,8 +284,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49206?agendaId=261806",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47851?agendaId=261303"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47851?agendaId=261303",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49206?agendaId=261806"
         ]
     },
     {
@@ -352,6 +352,17 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB634-0032",
+        "bill": "HB 634",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
