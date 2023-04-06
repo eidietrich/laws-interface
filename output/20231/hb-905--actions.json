@@ -283,7 +283,10 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48285?agendaId=266523",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49344?agendaId=268930"
+        ]
     },
     {
         "id": "HB905-0026",
@@ -294,6 +297,50 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB905-0027",
+        "bill": "HB 905",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB905-0028",
+        "bill": "HB 905",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB905-0029",
+        "bill": "HB 905",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB905-0030",
+        "bill": "HB 905",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

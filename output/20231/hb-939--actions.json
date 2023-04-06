@@ -228,7 +228,10 @@
         "date": "03/29/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45546?agendaId=266549",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49346?agendaId=268951"
+        ]
     },
     {
         "id": "HB939-0021",
@@ -239,6 +242,17 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "HB939-0022",
+        "bill": "HB 939",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -251,7 +251,8 @@
         "hasVote": false,
         "committee": "(H) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48285?agendaId=266524"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48285?agendaId=266524",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49344?agendaId=268926"
         ]
     },
     {
@@ -328,8 +329,10 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268052"
+        ]
     },
     {
         "id": "HB951-0030",
@@ -350,6 +353,17 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB951-0032",
+        "bill": "HB 951",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

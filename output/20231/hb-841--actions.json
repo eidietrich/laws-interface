@@ -272,7 +272,10 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48283?agendaId=265200",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49288?agendaId=267922"
+        ]
     },
     {
         "id": "HB841-0025",
@@ -283,6 +286,17 @@
         "date": "03/28/2023",
         "hasVote": true,
         "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB841-0026",
+        "bill": "HB 841",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

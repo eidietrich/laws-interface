@@ -239,7 +239,10 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Education",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49304?agendaId=267999",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46395?agendaId=265569"
+        ]
     },
     {
         "id": "HB875-0022",
@@ -283,6 +286,17 @@
         "date": "03/29/2023",
         "hasVote": true,
         "committee": "(H) Education",
+        "recordings": []
+    },
+    {
+        "id": "HB875-0026",
+        "bill": "HB 875",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

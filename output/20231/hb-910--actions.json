@@ -306,7 +306,8 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46507?agendaId=266802"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46507?agendaId=266802",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49361?agendaId=269060"
         ]
     },
     {
@@ -318,6 +319,17 @@
         "date": "03/30/2023",
         "hasVote": true,
         "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HB910-0029",
+        "bill": "HB 910",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

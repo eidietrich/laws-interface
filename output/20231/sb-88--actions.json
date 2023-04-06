@@ -141,8 +141,8 @@
         "hasVote": false,
         "committee": "(S) Fish and Game",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47492?agendaId=247590",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47133?agendaId=244769"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47133?agendaId=244769",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47492?agendaId=247590"
         ]
     },
     {
@@ -197,8 +197,9 @@
         "actionUrl": null,
         "date": "01/18/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47635?agendaId=256734",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46193?agendaId=247148"
         ]
     },
@@ -291,6 +292,28 @@
         "date": "03/17/2023",
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
+        "recordings": []
+    },
+    {
+        "id": "SB88-0026",
+        "bill": "SB 88",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB88-0027",
+        "bill": "SB 88",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

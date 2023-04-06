@@ -349,7 +349,10 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46593?agendaId=265589",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49305?agendaId=268017"
+        ]
     },
     {
         "id": "HB827-0032",
@@ -360,6 +363,17 @@
         "date": "03/27/2023",
         "hasVote": true,
         "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB827-0033",
+        "bill": "HB 827",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Appropriation Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
