@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "3/4 of Each House",
             "Simple",
-            "2/3 of Each House",
-            "3/4 of Each House"
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -11502,8 +11502,8 @@
         "sponsor": "Jonathan Karlen",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 96",
-        "statusDate": "02/15/2023",
-        "lastAction": "(H) 2nd Reading Not Passed as Amended *",
+        "statusDate": "04/06/2023",
+        "lastAction": "(H) Missed Deadline for Revenue Bill Transmittal *",
         "billStatus": "Probably Dead",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0280",
         "legalNoteUrl": null,
@@ -11547,8 +11547,8 @@
             "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/03/2023",
-        "amendedReturnDeadline": "04/21/2023"
+        "transmittalDeadline": "04/04/2023",
+        "amendedReturnDeadline": "04/26/2023"
     },
     {
         "key": "HB 281",
@@ -34104,8 +34104,8 @@
         "sponsor": "Marty Malone",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 59",
-        "statusDate": "03/28/2023",
-        "lastAction": "(H) 2nd Reading Not Passed as Amended *",
+        "statusDate": "04/06/2023",
+        "lastAction": "(H) Missed Deadline for Revenue Bill Transmittal *",
         "billStatus": "Probably Dead",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0820",
         "legalNoteUrl": null,
@@ -34150,7 +34150,7 @@
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/21/2023"
+        "amendedReturnDeadline": "04/26/2023"
     },
     {
         "key": "HB 821",
@@ -37766,8 +37766,8 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "04/03/2023",
-        "lastAction": "(H) 2nd Reading Not Passed *",
+        "statusDate": "04/06/2023",
+        "lastAction": "(H) Missed Deadline for Revenue Bill Transmittal *",
         "billStatus": "Probably Dead",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0894",
         "legalNoteUrl": null,
@@ -37792,7 +37792,7 @@
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/21/2023"
+        "amendedReturnDeadline": "04/26/2023"
     },
     {
         "key": "HB 895",
@@ -41173,8 +41173,8 @@
         "sponsor": "Alice Buckley",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 63",
-        "statusDate": "04/03/2023",
-        "lastAction": "(H) 2nd Reading Not Passed *",
+        "statusDate": "04/06/2023",
+        "lastAction": "(H) Missed Deadline for Revenue Bill Transmittal *",
         "billStatus": "Probably Dead",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0967",
         "legalNoteUrl": null,
@@ -41209,7 +41209,7 @@
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/21/2023"
+        "amendedReturnDeadline": "04/26/2023"
     },
     {
         "key": "HB 968",
@@ -41903,6 +41903,50 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
         "amendedReturnDeadline": "04/13/2023"
+    },
+    {
+        "key": "HJ 15",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=15&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC1030.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC1030.pdf",
+        "lc": "LC1030",
+        "title": "Resolution requesting interim study on shared use paths",
+        "sponsor": "Dave Fern",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 5",
+        "statusDate": "04/06/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Dave Fern",
+        "subjects": [
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature, Interim Studies",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Interim Study Resolutions",
+        "transmittalDeadline": "04/28/2023",
+        "amendedReturnDeadline": "05/06/2023"
     },
     {
         "key": "HR 1",
@@ -42858,8 +42902,8 @@
         "sponsor": "Jeffrey W Welborn",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 36",
-        "statusDate": "04/04/2023",
-        "lastAction": "(S) Sent to Enrolling",
+        "statusDate": "04/06/2023",
+        "lastAction": "(S) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -42884,7 +42928,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 18",
@@ -43048,8 +43092,8 @@
         "sponsor": "Shane A Morigeau",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 48",
-        "statusDate": "04/04/2023",
-        "lastAction": "(S) Sent to Enrolling",
+        "statusDate": "04/06/2023",
+        "lastAction": "(S) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0022",
         "legalNoteUrl": null,
@@ -43079,7 +43123,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 23",
@@ -45594,8 +45638,8 @@
         "sponsor": "Shane A Morigeau",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 48",
-        "statusDate": "04/05/2023",
-        "lastAction": "(S) Sent to Enrolling",
+        "statusDate": "04/06/2023",
+        "lastAction": "(S) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -53332,7 +53376,7 @@
         "sponsor": "Greg Hertz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 6",
-        "statusDate": "03/24/2023; 08:00 AM, Rm 137",
+        "statusDate": "03/24/2023; 07:00 AM, Rm 137",
         "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -53363,7 +53407,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/12/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 269",
@@ -61624,7 +61668,7 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "04/05/2023; 03:00 PM, Rm 137",
+        "statusDate": "04/05/2023; 07:00 AM, Rm 137",
         "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -61650,7 +61694,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 465",
@@ -61834,7 +61878,7 @@
         "sponsor": "Jeremy Trebas",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 13",
-        "statusDate": "04/05/2023; 03:00 PM, Rm 137",
+        "statusDate": "04/05/2023; 07:00 AM, Rm 137",
         "lastAction": "(H) Hearing",
         "billStatus": "In Second House Committee--Nontabled",
         "fiscalNotesListUrl": null,
@@ -61865,7 +61909,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 470",
@@ -64092,8 +64136,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
@@ -69577,8 +69621,8 @@
         "sponsor": "Walt Sales",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 35",
-        "statusDate": "04/03/2023",
-        "lastAction": "(S) Sent to Enrolling",
+        "statusDate": "04/06/2023",
+        "lastAction": "(S) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -69603,7 +69647,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SR 60",
@@ -69811,8 +69855,8 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "04/03/2023",
-        "lastAction": "(S) Sent to Enrolling",
+        "statusDate": "04/06/2023",
+        "lastAction": "(S) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -69837,7 +69881,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SR 66",
