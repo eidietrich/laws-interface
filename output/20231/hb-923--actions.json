@@ -328,7 +328,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47921?agendaId=266483"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47921?agendaId=266483",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49348?agendaId=268537"
         ]
     },
     {
@@ -373,6 +374,17 @@
         "date": "04/02/2023",
         "hasVote": true,
         "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "HB923-0034",
+        "bill": "HB 923",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Revenue Bill Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
