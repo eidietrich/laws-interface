@@ -196,7 +196,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47793?agendaId=266454"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47793?agendaId=266454",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49349?agendaId=268451"
         ]
     },
     {
@@ -208,6 +209,17 @@
         "date": "03/30/2023",
         "hasVote": true,
         "committee": "(H) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB934-0019",
+        "bill": "HB 934",
+        "session": "20231",
+        "action": "(H) Missed Deadline for Referendum Proposal Transmittal",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
