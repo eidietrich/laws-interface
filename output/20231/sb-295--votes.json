@@ -668,5 +668,98 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0295FIH230406.pdf",
+        "bill": "SB 295",
+        "session": "20231",
+        "action_id": "SB295-0050",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 06, 2023",
+        "description": "Rep. Hinkle made a Motion that SB 295 Be Concurred In as Amended",
+        "totals": {
+            "Y": 13,
+            "N": 6
+        },
+        "votes": [
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Ler, Brandon;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "Marler, Marilyn;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "N"
+            },
+            {
+                "name": "RunningWolf, Tyson;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Vinton, Sue;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Butcher, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            }
+        ]
     }
 ]
