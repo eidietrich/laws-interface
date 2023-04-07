@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(S) Energy and Telecommunications",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48929?agendaId=267155",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47040?agendaId=254528"
         ]
     },
@@ -320,7 +321,10 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46593?agendaId=265591",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49305?agendaId=268014"
+        ]
     },
     {
         "id": "SB398-0029",
@@ -342,6 +346,28 @@
         "date": "03/28/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB398-0031",
+        "bill": "SB 398",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB398-0032",
+        "bill": "SB 398",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
