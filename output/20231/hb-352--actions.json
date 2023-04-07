@@ -480,7 +480,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266881"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266881",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49352?agendaId=268984"
         ]
     },
     {
@@ -536,6 +537,17 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB352-0048",
+        "bill": "HB 352",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": "(S) Education and Cultural Resources",
         "recordings": []
     }
 ]
