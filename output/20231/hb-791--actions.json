@@ -456,7 +456,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46154?agendaId=265357"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46154?agendaId=265357",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49294?agendaId=267956"
         ]
     },
     {
@@ -522,6 +523,17 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB791-0047",
+        "bill": "HB 791",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
         "committee": "(S) Judiciary",
         "recordings": []
     }
