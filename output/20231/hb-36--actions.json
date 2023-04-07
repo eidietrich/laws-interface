@@ -458,7 +458,8 @@
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46867?agendaId=265653"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46867?agendaId=265653",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49303?agendaId=268167"
         ]
     },
     {
@@ -502,8 +503,11 @@
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49430?agendaId=269215",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46246?agendaId=268859"
+        ]
     },
     {
         "id": "HB36-0045",
@@ -524,6 +528,17 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB36-0047",
+        "bill": "HB 36",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/06/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }

@@ -911,5 +911,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0761HIS230406.pdf",
+        "bill": "HB 761",
+        "session": "20231",
+        "action_id": "HB761-0038",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 06, 2023",
+        "description": "Sen. Friedel made a Motion that HB 761 Be Concurred In",
+        "totals": {
+            "Y": 8,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Beard, Becky;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Glimm, Carl;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Mandeville, Forrest;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            }
+        ]
     }
 ]

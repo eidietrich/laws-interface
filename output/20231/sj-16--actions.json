@@ -306,6 +306,7 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48989?agendaId=267416",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46646?agendaId=255336"
         ]
     },
@@ -419,7 +420,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46588?agendaId=260977",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49187?agendaId=261704"
+        ]
     },
     {
         "id": "SJ16-0038",
@@ -441,6 +445,28 @@
         "date": "03/21/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SJ16-0040",
+        "bill": "SJ 16",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ16-0041",
+        "bill": "SJ 16",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

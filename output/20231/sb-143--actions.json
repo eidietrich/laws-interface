@@ -251,7 +251,8 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47589?agendaId=246796"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47589?agendaId=246796",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47598?agendaId=251093"
         ]
     },
     {
@@ -317,8 +318,9 @@
         "actionUrl": null,
         "date": "01/24/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48374?agendaId=257692",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46197?agendaId=248543"
         ]
     },
@@ -387,8 +389,8 @@
         "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49215?agendaId=262786",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47188?agendaId=261663"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47188?agendaId=261663",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49215?agendaId=262786"
         ]
     },
     {
@@ -411,6 +413,28 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB143-0037",
+        "bill": "SB 143",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB143-0038",
+        "bill": "SB 143",
+        "session": "20231",
+        "action": "(H) 2nd Reading Not Concurred",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

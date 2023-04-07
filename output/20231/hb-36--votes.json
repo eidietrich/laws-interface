@@ -489,7 +489,7 @@
         "action_id": "HB36-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -1298,6 +1298,99 @@
             {
                 "name": "Regier, Keith",
                 "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0036FCS230406.pdf",
+        "bill": "HB 36",
+        "session": "20231",
+        "action_id": "HB36-0047",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 06, 2023",
+        "description": "Sen. Glimm made a Motion that HB 36 Be Concurred In",
+        "totals": {
+            "Y": 14,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "N"
+            },
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "N"
+            },
+            {
+                "name": "Morigeau, Shane;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "N"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "N"
             }
         ]
     }
