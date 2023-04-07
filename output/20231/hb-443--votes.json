@@ -931,5 +931,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0443BUS230406.pdf",
+        "bill": "HB 443",
+        "session": "20231",
+        "action_id": "HB443-0030",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 06, 2023",
+        "description": "Sen. Noland made a Motion that HB 443 Be Concurred In as Amended",
+        "totals": {
+            "Y": 7,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Curdy, Willis",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            }
+        ]
     }
 ]
