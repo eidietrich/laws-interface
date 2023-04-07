@@ -262,6 +262,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47616?agendaId=256296",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45145?agendaId=246958"
         ]
     },
@@ -308,6 +309,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48375?agendaId=257671",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46110?agendaId=248500"
         ]
     },
@@ -332,7 +334,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46288?agendaId=249044"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46288?agendaId=249044",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48443?agendaId=258511"
         ]
     },
     {
@@ -407,7 +410,7 @@
         "session": "20231",
         "action": "(S) Referred to Committee",
         "actionUrl": null,
-        "date": "03/20/2023",
+        "date": "03/21/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
@@ -420,6 +423,31 @@
         "actionUrl": null,
         "date": "03/24/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49261?agendaId=265050",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45590?agendaId=263854"
+        ]
+    },
+    {
+        "id": "HB163-0038",
+        "bill": "HB 163",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB163-0039",
+        "bill": "HB 163",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }

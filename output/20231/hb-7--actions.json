@@ -257,7 +257,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266873"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46156?agendaId=266873",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49352?agendaId=268976"
         ]
     },
     {
@@ -323,6 +324,19 @@
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45597?agendaId=269109"
+        ]
+    },
+    {
+        "id": "HB7-0029",
+        "bill": "HB 7",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }

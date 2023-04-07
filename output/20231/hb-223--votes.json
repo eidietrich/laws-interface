@@ -1462,5 +1462,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 223",
+        "session": "20231",
+        "action_id": "HB223-0054",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 2
+        }
     }
 ]
