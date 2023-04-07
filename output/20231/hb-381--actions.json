@@ -528,8 +528,11 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49376?agendaId=269713",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46244?agendaId=267638"
+        ]
     },
     {
         "id": "HB381-0047",
@@ -561,6 +564,17 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB381-0050",
+        "bill": "HB 381",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }
