@@ -550,8 +550,10 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46245?agendaId=268080"
+        ]
     },
     {
         "id": "HB91-0049",
@@ -560,6 +562,39 @@
         "action": "(S) Rereferred to Committee",
         "actionUrl": null,
         "date": "03/31/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB91-0050",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0051",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0052",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/13/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
