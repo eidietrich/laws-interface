@@ -935,5 +935,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0543STS230407.pdf",
+        "bill": "HB 543",
+        "session": "20231",
+        "action_id": "HB543-0033",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 07, 2023",
+        "description": "Sen. Noland made a Motion that HB 543 Be Concurred In",
+        "totals": {
+            "Y": 8,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            }
+        ]
     }
 ]
