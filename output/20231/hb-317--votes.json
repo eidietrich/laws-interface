@@ -935,5 +935,58 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0317PHS230407.pdf",
+        "bill": "HB 317",
+        "session": "20231",
+        "action_id": "HB317-0038",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 07, 2023",
+        "description": "Sen. Lenz made a Motion that HB 317 Be Concurred In as Amended",
+        "totals": {
+            "Y": 7,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Beard, Becky",
+                "vote": "Y"
+            },
+            {
+                "name": "Glimm, Carl",
+                "vote": "N"
+            },
+            {
+                "name": "Gross, Jen",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Kelker, Kathy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Molnar, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            }
+        ]
     }
 ]
