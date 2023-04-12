@@ -152,8 +152,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47261?agendaId=244115",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45037?agendaId=243492"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45037?agendaId=243492",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47261?agendaId=244115"
         ]
     },
     {
@@ -257,6 +257,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47692?agendaId=257062",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45408?agendaId=247878"
         ]
     },
@@ -323,9 +324,10 @@
         "actionUrl": null,
         "date": "02/07/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46207?agendaId=251317"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46207?agendaId=251317",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48623?agendaId=262727"
         ]
     },
     {
@@ -448,6 +450,17 @@
         "action": "(H) Returned from Enrolling",
         "actionUrl": null,
         "date": "03/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB18-0040",
+        "bill": "HB 18",
+        "session": "20231",
+        "action": "(H) Signed by Speaker",
+        "actionUrl": null,
+        "date": "04/07/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
