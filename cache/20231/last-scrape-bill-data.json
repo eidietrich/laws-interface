@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -525,8 +525,8 @@
         "sponsor": "John Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 77",
-        "statusDate": "04/11/2023",
-        "lastAction": "(H) Signed by Governor",
+        "statusDate": "04/12/2023",
+        "lastAction": "Chapter Number Assigned",
         "billStatus": "Became Law",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0013",
         "legalNoteUrl": null,
@@ -7955,8 +7955,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -14234,8 +14234,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15417,8 +15417,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -16820,8 +16820,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -21569,8 +21569,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -22981,8 +22981,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -33786,8 +33786,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -36474,8 +36474,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -37821,8 +37821,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -38742,8 +38742,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -38959,8 +38959,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -39680,8 +39680,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -41110,8 +41110,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -41918,6 +41918,50 @@
         "draftRequestor": null,
         "billRequestor": null,
         "primarySponsor": "Dave Fern",
+        "subjects": [
+            {
+                "subject": "Highways and Roads",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature, Interim Studies",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Interim Study Resolutions",
+        "transmittalDeadline": "04/28/2023",
+        "amendedReturnDeadline": "05/06/2023"
+    },
+    {
+        "key": "HJ 16",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=16&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC2780.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC2780.pdf",
+        "lc": "LC2780",
+        "title": "Interim study on traffic incidents involving bicycles and motor vehicles",
+        "sponsor": "Scot Kerns",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 23",
+        "statusDate": "04/12/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Scot Kerns",
         "subjects": [
             {
                 "subject": "Highways and Roads",
@@ -53573,8 +53617,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -56300,8 +56344,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -57800,8 +57844,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -63918,8 +63962,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -64494,8 +64538,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -64882,8 +64926,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -65270,8 +65314,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -66306,8 +66350,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -66346,8 +66390,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Entire Legislature",
-            "Simple"
+            "Simple",
+            "2/3 of Entire Legislature"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
