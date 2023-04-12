@@ -196,6 +196,7 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48919?agendaId=267028",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48137?agendaId=254363"
         ]
     },
@@ -332,8 +333,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47918?agendaId=263885",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49265?agendaId=265023"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49265?agendaId=265023",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47918?agendaId=263885"
         ]
     },
     {
@@ -356,6 +357,28 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Business and Labor",
+        "recordings": []
+    },
+    {
+        "id": "SB411-0032",
+        "bill": "SB 411",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB411-0033",
+        "bill": "SB 411",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

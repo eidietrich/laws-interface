@@ -218,8 +218,8 @@
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47525?agendaId=247623",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46540?agendaId=245056"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46540?agendaId=245056",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47525?agendaId=247623"
         ]
     },
     {
@@ -243,7 +243,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247127"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247127",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47638?agendaId=256717"
         ]
     },
     {
@@ -267,6 +268,7 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47675?agendaId=256953",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46283?agendaId=247494"
         ]
     },
@@ -379,7 +381,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46125?agendaId=252588"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46125?agendaId=252588",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48738?agendaId=264143"
         ]
     },
     {
@@ -492,8 +495,11 @@
         "actionUrl": null,
         "date": "03/23/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263221",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264606"
+        ]
     },
     {
         "id": "HB114-0044",
@@ -514,6 +520,20 @@
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45592?agendaId=265922",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49318?agendaId=268288"
+        ]
+    },
+    {
+        "id": "HB114-0046",
+        "bill": "HB 114",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }

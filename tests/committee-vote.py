@@ -12,9 +12,9 @@ vote = Vote(
     #     "type": "committee"
     # },
     {
-        "url": "https://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0038JUH230106.pdf",
-        "bill": "HB 38",
-        "action_id": "HB38-0001",
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0073STH230404.pdf",
+        "bill": "SB 73",
+        "action_id": "SB73-0027",
         "type": "committee"
     },
 

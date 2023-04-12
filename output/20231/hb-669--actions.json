@@ -395,8 +395,10 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268032"
+        ]
     },
     {
         "id": "HB669-0036",
@@ -440,17 +442,6 @@
         "date": "04/04/2023",
         "hasVote": false,
         "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB669-0040",
-        "bill": "HB 669",
-        "session": "20231",
-        "action": "(S) Referred to Committee",
-        "actionUrl": null,
-        "date": "04/04/2023",
-        "hasVote": false,
-        "committee": "(S) Finance and Claims",
         "recordings": []
     }
 ]

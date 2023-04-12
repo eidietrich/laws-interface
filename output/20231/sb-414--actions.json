@@ -216,8 +216,9 @@
         "actionUrl": null,
         "date": "02/22/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48893?agendaId=266642",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46218?agendaId=254240"
         ]
     },
@@ -285,7 +286,10 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49128?agendaId=263950",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49267?agendaId=265071"
+        ]
     },
     {
         "id": "SB414-0026",
@@ -307,6 +311,28 @@
         "date": "03/24/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
+        "recordings": []
+    },
+    {
+        "id": "SB414-0028",
+        "bill": "SB 414",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB414-0029",
+        "bill": "SB 414",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

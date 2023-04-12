@@ -929,16 +929,19 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0322JUS230411.pdf",
         "bill": "HB 322",
         "session": "20231",
         "action_id": "HB322-0041",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "April 11, 2023",
+        "description": "Sen. Usher made a Motion that HB 322 Be Concurred In",
         "totals": {
-            "Y": 7,
-            "N": 4
-        }
+            "Y": 0,
+            "N": 0
+        },
+        "votes": []
     }
 ]
