@@ -457,7 +457,8 @@
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47014?agendaId=266345"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47014?agendaId=266345",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49339?agendaId=268395"
         ]
     },
     {
@@ -491,6 +492,28 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
+        "recordings": []
+    },
+    {
+        "id": "SB280-0044",
+        "bill": "SB 280",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB280-0045",
+        "bill": "SB 280",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
