@@ -467,8 +467,11 @@
         "actionUrl": null,
         "date": "03/30/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49376?agendaId=269714",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46244?agendaId=267639"
+        ]
     },
     {
         "id": "HB313-0042",
@@ -510,6 +513,39 @@
         "action": "(H) Sent to Enrolling",
         "actionUrl": null,
         "date": "04/03/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB313-0046",
+        "bill": "HB 313",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB313-0047",
+        "bill": "HB 313",
+        "session": "20231",
+        "action": "(H) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB313-0048",
+        "bill": "HB 313",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/12/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
