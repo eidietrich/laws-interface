@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48967?agendaId=267356",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46750?agendaId=254902"
         ]
     },
@@ -332,6 +333,7 @@
         "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49273?agendaId=265873",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49241?agendaId=265098"
         ]
     },
@@ -355,6 +357,28 @@
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "SB391-0032",
+        "bill": "SB 391",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB391-0033",
+        "bill": "SB 391",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
