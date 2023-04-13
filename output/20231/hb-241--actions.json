@@ -251,6 +251,7 @@
         "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48383?agendaId=257745",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47172?agendaId=248589"
         ]
     },
@@ -297,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46120?agendaId=251286"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46120?agendaId=251286",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48622?agendaId=262694"
         ]
     },
     {
@@ -363,6 +365,31 @@
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46812?agendaId=261022",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49191?agendaId=261733"
+        ]
+    },
+    {
+        "id": "HB241-0033",
+        "bill": "HB 241",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "03/22/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB241-0034",
+        "bill": "HB 241",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
         "committee": "(S) Local Government",
         "recordings": []
     }

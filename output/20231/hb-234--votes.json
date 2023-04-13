@@ -102,7 +102,7 @@
             "Y": 65,
             "N": 35
         },
-        "error": "Skipped previously missing vote page"
+        "error": "Missing vote page"
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H520&P_SESS=20231",
@@ -114,7 +114,7 @@
             "Y": 100,
             "N": 0
         },
-        "error": "Skipped previously missing vote page"
+        "error": "Missing vote page"
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H521&P_SESS=20231",
@@ -1166,6 +1166,67 @@
             },
             {
                 "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0234EDS230412.pdf",
+        "bill": "HB 234",
+        "session": "20231",
+        "action_id": "HB234-0035",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 12, 2023",
+        "description": "Sen. Tempel made a Motion that HB 234 Be Concurred In as Amended",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "N"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "N"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
                 "vote": "Y"
             }
         ]

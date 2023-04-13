@@ -196,7 +196,8 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46377?agendaId=252358"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46377?agendaId=252358",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48714?agendaId=264029"
         ]
     },
     {
@@ -311,7 +312,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46324?agendaId=260542"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46324?agendaId=260542",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49172?agendaId=261166"
         ]
     },
     {
@@ -395,10 +397,32 @@
         "id": "HB403-0035",
         "bill": "HB 403",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB403-0036",
+        "bill": "HB 403",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
+        "committee": "(S) Education and Cultural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB403-0037",
+        "bill": "HB 403",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
         "committee": "(S) Education and Cultural Resources",
         "recordings": []
     }
