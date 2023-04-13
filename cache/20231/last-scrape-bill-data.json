@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
             "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -1014,8 +1014,8 @@
         "sponsor": "Tom Welch",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 72",
-        "statusDate": "04/07/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0025",
         "legalNoteUrl": null,
@@ -1063,8 +1063,8 @@
         "sponsor": "George Nikolakakos",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 26",
-        "statusDate": "04/07/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0026",
         "legalNoteUrl": null,
@@ -1097,8 +1097,8 @@
         "sponsor": "Neil Duram",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 2",
-        "statusDate": "04/05/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -1400,8 +1400,8 @@
         "sponsor": "Steve Gist",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 25",
-        "statusDate": "04/07/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -1566,8 +1566,8 @@
         "sponsor": "Greg Oblander",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 40",
-        "statusDate": "04/05/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0038",
         "legalNoteUrl": null,
@@ -1752,8 +1752,8 @@
         "sponsor": "Jedediah Hinkle",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 67",
-        "statusDate": "04/06/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -2035,8 +2035,8 @@
         "sponsor": "Tony Brockman",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
-        "statusDate": "04/07/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -2147,8 +2147,8 @@
         "sponsor": "Katie Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 45",
-        "statusDate": "04/07/2023",
-        "lastAction": "(H) Signed by Speaker",
+        "statusDate": "04/12/2023",
+        "lastAction": "(S) Signed by President",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0052",
         "legalNoteUrl": null,
@@ -3372,9 +3372,9 @@
         "sponsor": "George Nikolakakos",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 26",
-        "statusDate": "04/13/2023; 08:00 AM, Rm 317",
-        "lastAction": "(S) Hearing",
-        "billStatus": "In Second House Committee--Nontabled",
+        "statusDate": "04/13/2023",
+        "lastAction": "(S) Tabled in Committee",
+        "billStatus": "In Second House Committee--Tabled",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0082",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0082",
@@ -4724,9 +4724,9 @@
         "sponsor": "Bill Mercer",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 46",
-        "statusDate": "04/05/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "04/13/2023",
+        "lastAction": "(S) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0115",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -7955,8 +7955,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -9859,9 +9859,9 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "04/07/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "04/13/2023",
+        "lastAction": "(S) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0242",
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -12506,9 +12506,9 @@
         "sponsor": "Edward Buttrey",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 21",
-        "statusDate": "04/07/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred as Amended",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "04/13/2023",
+        "lastAction": "(S) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0305",
@@ -15417,8 +15417,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -16820,8 +16820,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -21569,8 +21569,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -22981,8 +22981,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -31464,9 +31464,9 @@
         "sponsor": "Fiona Nave",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 57",
-        "statusDate": "03/31/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred as Amended",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "04/13/2023",
+        "lastAction": "(S) 2nd Reading Indefinitely Postponed *",
+        "billStatus": "Probably Dead",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0758",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0758",
@@ -31495,7 +31495,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "HB 759",
@@ -36474,8 +36474,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -37821,8 +37821,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -38742,8 +38742,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -38959,8 +38959,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -39680,8 +39680,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -41110,8 +41110,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -47627,40 +47627,6 @@
         "amendedReturnDeadline": "04/13/2023"
     },
     {
-        "key": "SB 128",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=128&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0128.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0128.pdf",
-        "lc": "LC2976",
-        "title": "Generally revise laws relating legislative exempt personal staff",
-        "sponsor": "Jason W Ellsworth",
-        "sponsorParty": "R",
-        "sponsorDistrict": "SD 43",
-        "statusDate": "04/07/2023",
-        "lastAction": "(S) Sent to Enrolling",
-        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
-        "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
-        "amendmentListUrl": null,
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Jason Ellsworth",
-        "subjects": [
-            {
-                "subject": "Legislature",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
         "key": "SB 129",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=129&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
@@ -53710,8 +53676,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -56767,9 +56733,9 @@
         "sponsor": "Mark Noland",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 5",
-        "statusDate": "03/27/2023",
-        "lastAction": "(H) Committee Report--Bill Concurred",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "04/13/2023",
+        "lastAction": "(H) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0345",
@@ -56788,7 +56754,7 @@
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/13/2023"
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 346",
@@ -57937,8 +57903,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -62815,9 +62781,9 @@
         "sponsor": "Daniel Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 22",
-        "statusDate": "04/12/2023",
-        "lastAction": "(H) Reconsidered Previous Action; Remains in 2nd Reading Process",
-        "billStatus": "In Second House--Out of Committee",
+        "statusDate": "04/13/2023",
+        "lastAction": "(H) 2nd Reading Not Concurred as Amended *",
+        "billStatus": "Probably Dead",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0488",
@@ -64055,8 +64021,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -64272,8 +64238,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
@@ -64631,8 +64597,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -65019,8 +64985,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -65407,8 +65373,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -66443,8 +66409,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -66483,8 +66449,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
