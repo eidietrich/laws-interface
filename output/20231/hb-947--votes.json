@@ -923,5 +923,62 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0947STS230412.pdf",
+        "bill": "HB 947",
+        "session": "20231",
+        "action_id": "HB947-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 12, 2023",
+        "description": "Sen. Hayman made a Motion that HB 947 Be Concurred In",
+        "totals": {
+            "Y": 8,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "McKamey, Wendy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Manzella, Theresa",
+                "vote": "Y"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley;byproxy",
+                "vote": "Y"
+            }
+        ]
     }
 ]
