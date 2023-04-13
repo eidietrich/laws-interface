@@ -927,5 +927,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 539",
+        "session": "20231",
+        "action_id": "HB539-0030",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 8,
+            "N": 2
+        }
     }
 ]
