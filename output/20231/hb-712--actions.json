@@ -345,7 +345,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46764?agendaId=266857"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46764?agendaId=266857",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49357?agendaId=269525"
         ]
     },
     {
@@ -368,6 +369,28 @@
         "date": "03/31/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "HB712-0033",
+        "bill": "HB 712",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB712-0034",
+        "bill": "HB 712",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
