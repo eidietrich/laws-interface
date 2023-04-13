@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47763?agendaId=252751"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47763?agendaId=252751",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48760?agendaId=264317"
         ]
     },
     {
@@ -286,6 +287,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48894?agendaId=266675",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46131?agendaId=254065"
         ]
     },
@@ -354,6 +356,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49155?agendaId=261099",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47978?agendaId=260325"
         ]
     },
@@ -387,6 +390,50 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB436-0035",
+        "bill": "HB 436",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Consideration",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB436-0036",
+        "bill": "HB 436",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB436-0037",
+        "bill": "HB 436",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concur Motion Failed",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB436-0038",
+        "bill": "HB 436",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
