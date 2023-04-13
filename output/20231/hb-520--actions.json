@@ -262,6 +262,7 @@
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48841?agendaId=265737",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46568?agendaId=253563"
         ]
     },
@@ -308,7 +309,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257515"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257515",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49064?agendaId=264358"
         ]
     },
     {
@@ -421,6 +423,31 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": "(S) Natural Resources",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46659?agendaId=267422",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49355?agendaId=269499"
+        ]
+    },
+    {
+        "id": "HB520-0038",
+        "bill": "HB 520",
+        "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB520-0039",
+        "bill": "HB 520",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": true,
         "committee": "(S) Natural Resources",
         "recordings": []
     }

@@ -923,5 +923,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 941",
+        "session": "20231",
+        "action_id": "HB941-0034",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 1
+        }
     }
 ]
