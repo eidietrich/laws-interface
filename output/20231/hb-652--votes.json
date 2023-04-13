@@ -1044,10 +1044,23 @@
         "action_id": "HB652-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 0
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 652",
+        "session": "20231",
+        "action_id": "HB652-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 5,
+            "N": 3
         }
     }
 ]
