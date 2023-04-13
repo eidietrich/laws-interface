@@ -9,7 +9,7 @@
     "sponsor": "Barry Usher",
     "sponsorParty": "R",
     "sponsorDistrict": "SD 20",
-    "statusDate": "04/05/2023; 03:00 PM, Rm 102",
+    "statusDate": "04/05/2023; 09:00 AM, Rm 102",
     "lastAction": "(H) Hearing",
     "billStatus": "In Second House Committee--Nontabled",
     "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0229",
@@ -19,6 +19,11 @@
     "billRequestor": null,
     "primarySponsor": "Barry Usher",
     "subjects": [
+        {
+            "subject": "Appropriations  (see also: State Finance)",
+            "fiscalCode": "Appropriation",
+            "voteReq": "Simple"
+        },
         {
             "subject": "Counties  (see also: Local Government)",
             "fiscalCode": "",
@@ -38,7 +43,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/13/2023"
+    "deadlineCategory": "Appropriation Bills",
+    "transmittalDeadline": "04/04/2023",
+    "amendedReturnDeadline": "04/26/2023"
 }

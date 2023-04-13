@@ -1767,5 +1767,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0731LOS230412.pdf",
+        "bill": "HB 731",
+        "session": "20231",
+        "action_id": "HB731-0033",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 12, 2023",
+        "description": "Sen. Bogner made a Motion that HB 731 Be Concurred In",
+        "totals": {
+            "Y": 5,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]

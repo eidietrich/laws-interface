@@ -927,5 +927,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0433LOS230412.pdf",
+        "bill": "HB 433",
+        "session": "20231",
+        "action_id": "HB433-0031",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 12, 2023",
+        "description": "Sen. Bogner made a Motion that HB 433 Be Concurred In",
+        "totals": {
+            "Y": 8,
+            "N": 1
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            }
+        ]
     }
 ]
