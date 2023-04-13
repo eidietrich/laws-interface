@@ -1091,5 +1091,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 93",
+        "session": "20231",
+        "action_id": "SB93-0043",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 16,
+            "N": 7
+        }
     }
 ]
