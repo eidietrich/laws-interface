@@ -1430,5 +1430,70 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0220ENS230413.pdf",
+        "bill": "HB 220",
+        "session": "20231",
+        "action_id": "HB220-0042",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 13, 2023",
+        "description": "Sen. Small made a Motion that HB 220 Be Concurred In",
+        "totals": {
+            "Y": 7,
+            "N": 5
+        },
+        "votes": [
+            {
+                "name": "Small, Jason",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Hayman, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Molnar, Brad;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Keith",
+                "vote": "Y"
+            },
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            }
+        ]
     }
 ]
