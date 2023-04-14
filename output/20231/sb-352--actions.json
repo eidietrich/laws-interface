@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48907?agendaId=266730",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46697?agendaId=254170"
         ]
     },
@@ -343,8 +344,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49069?agendaId=259658",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45581?agendaId=258018"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45581?agendaId=258018",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49069?agendaId=259658"
         ]
     },
     {
@@ -399,8 +400,11 @@
         "actionUrl": null,
         "date": "03/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46236?agendaId=260920",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49183?agendaId=261500"
+        ]
     },
     {
         "id": "SB352-0036",
@@ -465,6 +469,17 @@
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
+        "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "SB352-0042",
+        "bill": "SB 352",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
         "committee": "(H) Human Services",
         "recordings": []
     }

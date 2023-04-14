@@ -262,7 +262,8 @@
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47001?agendaId=252025"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47001?agendaId=252025",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48674?agendaId=263467"
         ]
     },
     {
@@ -363,7 +364,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257513"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46143?agendaId=257513",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49064?agendaId=264356"
         ]
     },
     {
@@ -387,8 +389,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45539?agendaId=260761",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49180?agendaId=261367"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49180?agendaId=261367",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45539?agendaId=260761"
         ]
     },
     {
@@ -454,8 +456,11 @@
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46154?agendaId=265355",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49294?agendaId=267954"
+        ]
     },
     {
         "id": "HB383-0041",
@@ -527,10 +532,43 @@
         "id": "HB383-0047",
         "bill": "HB 383",
         "session": "20231",
+        "action": "(S) First Reading",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB383-0048",
+        "bill": "HB 383",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB383-0049",
+        "bill": "HB 383",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
+        "committee": "(S) Fish and Game",
+        "recordings": []
+    },
+    {
+        "id": "HB383-0050",
+        "bill": "HB 383",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
         "committee": "(S) Fish and Game",
         "recordings": []
     }
