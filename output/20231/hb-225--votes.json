@@ -1382,7 +1382,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0225TAS230405.pdf",
         "bill": "HB 225",
         "session": "20231",
-        "action_id": "HB225-0047",
+        "action_id": "HB225-0046",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1447,7 +1447,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1855&P_SESS=20231",
         "bill": "HB 225",
         "session": "20231",
-        "action_id": "HB225-0050",
+        "action_id": "HB225-0049",
         "type": "floor",
         "seq_number": "S1855",
         "date": "April 11, 2023",
@@ -1657,6 +1657,99 @@
             },
             {
                 "name": "Regier, Keith",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0225FCS230413.pdf",
+        "bill": "HB 225",
+        "session": "20231",
+        "action_id": "HB225-0052",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 13, 2023",
+        "description": "Sen. Glimm made a Motion that HB 225 Be Concurred In",
+        "totals": {
+            "Y": 15,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
                 "vote": "Y"
             }
         ]
