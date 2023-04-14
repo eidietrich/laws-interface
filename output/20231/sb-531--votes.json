@@ -493,16 +493,109 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0531BUH230413.pdf",
         "bill": "SB 531",
         "session": "20231",
         "action_id": "SB531-0042",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "April 13, 2023",
+        "description": "Rep. Seekins-Crowe made a Motion that SB 531 Be Concurred In",
         "totals": {
             "Y": 13,
             "N": 6
+        },
+        "votes": [
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "N"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer",
+                "vote": "N"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "N"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Katie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": null,
+        "bill": "SB 531",
+        "session": "20231",
+        "action_id": "SB531-0043",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 7
         }
     }
 ]
