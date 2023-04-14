@@ -251,6 +251,7 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48380?agendaId=257720",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46286?agendaId=248473"
         ]
     },
@@ -291,28 +292,18 @@
         "id": "HB274-0026",
         "bill": "HB 274",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "01/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB274-0027",
-        "bill": "HB 274",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "01/27/2023",
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46113?agendaId=249313"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46113?agendaId=249313",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48462?agendaId=259061"
         ]
     },
     {
-        "id": "HB274-0028",
+        "id": "HB274-0027",
         "bill": "HB 274",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -323,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0029",
+        "id": "HB274-0028",
         "bill": "HB 274",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -334,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0030",
+        "id": "HB274-0029",
         "bill": "HB 274",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -345,7 +336,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0031",
+        "id": "HB274-0030",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) First Reading",
@@ -356,7 +347,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0032",
+        "id": "HB274-0031",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -367,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0033",
+        "id": "HB274-0032",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Hearing",
@@ -381,7 +372,7 @@
         ]
     },
     {
-        "id": "HB274-0034",
+        "id": "HB274-0033",
         "bill": "HB 274",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -392,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0035",
+        "id": "HB274-0034",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -403,7 +394,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0036",
+        "id": "HB274-0035",
         "bill": "HB 274",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -414,7 +405,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0037",
+        "id": "HB274-0036",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -425,7 +416,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0038",
+        "id": "HB274-0037",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -436,18 +427,21 @@
         "recordings": []
     },
     {
-        "id": "HB274-0039",
+        "id": "HB274-0038",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46241?agendaId=265388",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49295?agendaId=267986"
+        ]
     },
     {
-        "id": "HB274-0040",
+        "id": "HB274-0039",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -458,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HB274-0041",
+        "id": "HB274-0040",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -469,13 +463,35 @@
         "recordings": []
     },
     {
-        "id": "HB274-0042",
+        "id": "HB274-0041",
         "bill": "HB 274",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB274-0042",
+        "bill": "HB 274",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB274-0043",
+        "bill": "HB 274",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

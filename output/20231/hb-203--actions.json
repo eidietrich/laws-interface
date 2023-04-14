@@ -314,17 +314,6 @@
         "id": "HB203-0028",
         "bill": "HB 203",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "01/30/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB203-0029",
-        "bill": "HB 203",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "01/30/2023",
@@ -336,7 +325,7 @@
         ]
     },
     {
-        "id": "HB203-0030",
+        "id": "HB203-0029",
         "bill": "HB 203",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -347,7 +336,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0031",
+        "id": "HB203-0030",
         "bill": "HB 203",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -358,7 +347,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0032",
+        "id": "HB203-0031",
         "bill": "HB 203",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -369,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0033",
+        "id": "HB203-0032",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) First Reading",
@@ -380,7 +369,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0034",
+        "id": "HB203-0033",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -391,7 +380,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0035",
+        "id": "HB203-0034",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Hearing",
@@ -405,7 +394,7 @@
         ]
     },
     {
-        "id": "HB203-0036",
+        "id": "HB203-0035",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -416,7 +405,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0037",
+        "id": "HB203-0036",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -427,7 +416,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0038",
+        "id": "HB203-0037",
         "bill": "HB 203",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -438,7 +427,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0039",
+        "id": "HB203-0038",
         "bill": "HB 203",
         "session": "20231",
         "action": "(H) Revised Fiscal Note Requested",
@@ -449,7 +438,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0040",
+        "id": "HB203-0039",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -460,18 +449,21 @@
         "recordings": []
     },
     {
-        "id": "HB203-0041",
+        "id": "HB203-0040",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/03/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49430?agendaId=269216",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46246?agendaId=268860"
+        ]
     },
     {
-        "id": "HB203-0042",
+        "id": "HB203-0041",
         "bill": "HB 203",
         "session": "20231",
         "action": "(H) Revised Fiscal Note Received",
@@ -482,7 +474,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0043",
+        "id": "HB203-0042",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -493,7 +485,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0044",
+        "id": "HB203-0043",
         "bill": "HB 203",
         "session": "20231",
         "action": "(H) Revised Fiscal Note Signed",
@@ -504,7 +496,7 @@
         "recordings": []
     },
     {
-        "id": "HB203-0045",
+        "id": "HB203-0044",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -515,13 +507,46 @@
         "recordings": []
     },
     {
-        "id": "HB203-0046",
+        "id": "HB203-0045",
         "bill": "HB 203",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/04/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB203-0046",
+        "bill": "HB 203",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB203-0047",
+        "bill": "HB 203",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB203-0048",
+        "bill": "HB 203",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
