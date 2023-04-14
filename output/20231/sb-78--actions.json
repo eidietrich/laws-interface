@@ -282,8 +282,9 @@
         "actionUrl": null,
         "date": "01/19/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47674?agendaId=256931",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46194?agendaId=247452"
         ]
     },
@@ -350,6 +351,20 @@
         "actionUrl": null,
         "date": "03/21/2023",
         "hasVote": false,
+        "committee": "(H) Agriculture",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46435?agendaId=261592",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49212?agendaId=262487"
+        ]
+    },
+    {
+        "id": "SB78-0032",
+        "bill": "SB 78",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
         "committee": "(H) Agriculture",
         "recordings": []
     }

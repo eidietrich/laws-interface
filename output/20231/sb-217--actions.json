@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48630?agendaId=262761",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47070?agendaId=251381"
         ]
     },
@@ -262,9 +263,10 @@
         "actionUrl": null,
         "date": "02/14/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46212?agendaId=252614"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46212?agendaId=252614",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48739?agendaId=264168"
         ]
     },
     {
@@ -330,6 +332,20 @@
         "actionUrl": null,
         "date": "03/21/2023",
         "hasVote": false,
+        "committee": "(H) Agriculture",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46435?agendaId=261594",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49212?agendaId=262488"
+        ]
+    },
+    {
+        "id": "SB217-0030",
+        "bill": "SB 217",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": true,
         "committee": "(H) Agriculture",
         "recordings": []
     }
