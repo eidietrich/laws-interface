@@ -1190,7 +1190,7 @@
         "action_id": "HB707-0042",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 9
@@ -1203,10 +1203,103 @@
         "action_id": "HB707-0044",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 7
         }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0707FCS230413.pdf",
+        "bill": "HB 707",
+        "session": "20231",
+        "action_id": "HB707-0045",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 13, 2023",
+        "description": "Sen. Glimm made a Motion that HB 707 Be Concurred In as Amended",
+        "totals": {
+            "Y": 11,
+            "N": 8
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "N"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "N"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Flowers, Pat;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "N"
+            }
+        ]
     }
 ]
