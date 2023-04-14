@@ -1210,5 +1210,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 680",
+        "session": "20231",
+        "action_id": "HB680-0047",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 8,
+            "N": 11
+        }
     }
 ]
