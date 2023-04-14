@@ -277,7 +277,7 @@
         "action_id": "SB296-0032",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -813,16 +813,104 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0296HUH230413.pdf",
         "bill": "SB 296",
         "session": "20231",
         "action_id": "SB296-0049",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "April 13, 2023",
+        "description": "Rep. Sheldon-Galloway made a Motion that SB 296 Be Concurred In",
         "totals": {
             "Y": 21,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Amy;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "Y"
+            },
+            {
+                "name": "Nikolakakos, George;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Abbott, Kim;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Zephyr, Zooey;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "Y"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "Y"
+            }
+        ]
     }
 ]

@@ -493,7 +493,7 @@
         ]
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0531BUH230413.pdf",
+        "url": null,
         "bill": "SB 531",
         "session": "20231",
         "action_id": "SB531-0042",
@@ -584,18 +584,5 @@
                 "vote": "Y"
             }
         ]
-    },
-    {
-        "url": null,
-        "bill": "SB 531",
-        "session": "20231",
-        "action_id": "SB531-0043",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Missing URL",
-        "totals": {
-            "Y": 12,
-            "N": 7
-        }
     }
 ]
