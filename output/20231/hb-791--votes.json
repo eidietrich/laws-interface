@@ -1463,7 +1463,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0791JUS230406.pdf",
         "bill": "HB 791",
         "session": "20231",
-        "action_id": "HB791-0047",
+        "action_id": "HB791-0048",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1524,7 +1524,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1877&P_SESS=20231",
         "bill": "HB 791",
         "session": "20231",
-        "action_id": "HB791-0050",
+        "action_id": "HB791-0051",
         "type": "floor",
         "seq_number": "S1877",
         "date": "April 11, 2023",
@@ -1737,5 +1737,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 791",
+        "session": "20231",
+        "action_id": "HB791-0054",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 9
+        }
     }
 ]

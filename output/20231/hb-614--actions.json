@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48912?agendaId=266968",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47769?agendaId=254256"
         ]
     },
@@ -275,6 +276,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258824",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256020"
         ]
     },
@@ -343,8 +345,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47982?agendaId=263894",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49264?agendaId=265038"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49264?agendaId=265038",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47982?agendaId=263894"
         ]
     },
     {
@@ -377,6 +379,94 @@
         "actionUrl": null,
         "date": "03/29/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0034",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(H) Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0035",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Consideration",
+        "actionUrl": null,
+        "date": "04/05/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0036",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0037",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(H) Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0038",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0039",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0040",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB614-0041",
+        "bill": "HB 614",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
