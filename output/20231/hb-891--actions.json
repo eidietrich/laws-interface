@@ -218,7 +218,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45545?agendaId=265909"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45545?agendaId=265909",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49325?agendaId=268224"
         ]
     },
     {
@@ -284,8 +285,10 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268578"
+        ]
     },
     {
         "id": "HB891-0026",
@@ -338,6 +341,17 @@
         "action": "(S) Referred to Committee",
         "actionUrl": null,
         "date": "04/04/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB891-0031",
+        "bill": "HB 891",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/17/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
