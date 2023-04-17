@@ -379,7 +379,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1586&P_SESS=20231",
         "bill": "SB 253",
         "session": "20231",
-        "action_id": "SB253-0044",
+        "action_id": "SB253-0047",
         "type": "floor",
         "seq_number": "S1586",
         "date": "April 03, 2023",
@@ -592,5 +592,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 253",
+        "session": "20231",
+        "action_id": "SB253-0052",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 21,
+            "N": 0
+        }
     }
 ]
