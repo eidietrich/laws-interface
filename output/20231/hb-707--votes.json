@@ -969,7 +969,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1774&P_SESS=20231",
         "bill": "HB 707",
         "session": "20231",
-        "action_id": "HB707-0039",
+        "action_id": "HB707-0038",
         "type": "floor",
         "seq_number": "S1774",
         "date": "April 06, 2023",
@@ -1187,10 +1187,10 @@
         "url": null,
         "bill": "HB 707",
         "session": "20231",
-        "action_id": "HB707-0042",
+        "action_id": "HB707-0041",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 9
@@ -1200,10 +1200,10 @@
         "url": null,
         "bill": "HB 707",
         "session": "20231",
-        "action_id": "HB707-0044",
+        "action_id": "HB707-0043",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 7
@@ -1213,7 +1213,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0707FCS230413.pdf",
         "bill": "HB 707",
         "session": "20231",
-        "action_id": "HB707-0045",
+        "action_id": "HB707-0044",
         "type": "committee",
         "seq_number": null,
         "error": null,
