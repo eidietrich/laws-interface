@@ -592,5 +592,18 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 506",
+        "session": "20231",
+        "action_id": "SB506-0041",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 17,
+            "N": 4
+        }
     }
 ]
