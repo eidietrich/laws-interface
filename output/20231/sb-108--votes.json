@@ -810,7 +810,7 @@
         "action_id": "SB108-0043",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 13,
             "N": 0
@@ -823,7 +823,7 @@
         "action_id": "SB108-0044",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 3
@@ -1323,5 +1323,31 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 108",
+        "session": "20231",
+        "action_id": "SB108-0051",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 18,
+            "N": 5
+        }
+    },
+    {
+        "url": null,
+        "bill": "SB 108",
+        "session": "20231",
+        "action_id": "SB108-0052",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 18,
+            "N": 5
+        }
     }
 ]
