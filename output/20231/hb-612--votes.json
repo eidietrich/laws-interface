@@ -1218,5 +1218,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 612",
+        "session": "20231",
+        "action_id": "HB612-0053",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 8
+        }
     }
 ]
