@@ -935,5 +935,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 861",
+        "session": "20231",
+        "action_id": "HB861-0034",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 1
+        }
     }
 ]
