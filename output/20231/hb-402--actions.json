@@ -467,7 +467,10 @@
         "date": "04/07/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46768?agendaId=270845",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49510?agendaId=272915"
+        ]
     },
     {
         "id": "HB402-0042",
@@ -506,17 +509,6 @@
         "id": "HB402-0045",
         "bill": "HB 402",
         "session": "20231",
-        "action": "(S) Hearing",
-        "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": false,
-        "committee": "(S) Finance and Claims",
-        "recordings": []
-    },
-    {
-        "id": "HB402-0046",
-        "bill": "HB 402",
-        "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Carried",
         "actionUrl": null,
         "date": "04/17/2023",
@@ -525,21 +517,34 @@
         "recordings": []
     },
     {
-        "id": "HB402-0047",
+        "id": "HB402-0046",
         "bill": "HB 402",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred as Amended",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": null,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273639"
+        ]
+    },
+    {
+        "id": "HB402-0047",
+        "bill": "HB 402",
+        "session": "20231",
+        "action": "(S) Rereferred to Committee",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
         "recordings": []
     },
     {
         "id": "HB402-0048",
         "bill": "HB 402",
         "session": "20231",
-        "action": "(S) Rereferred to Committee",
+        "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": false,

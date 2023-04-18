@@ -434,8 +434,11 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271775",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273706"
+        ]
     },
     {
         "id": "SB278-0039",
@@ -467,6 +470,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB278-0042",
+        "bill": "SB 278",
+        "session": "20231",
+        "action": "(H) Returned to Senate with Amendments",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

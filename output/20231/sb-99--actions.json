@@ -499,8 +499,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47786?agendaId=260808",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49177?agendaId=261425"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49177?agendaId=261425",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47786?agendaId=260808"
         ]
     },
     {
@@ -557,8 +557,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46152?agendaId=263190",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49248?agendaId=264565"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49248?agendaId=264565",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46152?agendaId=263190"
         ]
     },
     {
@@ -733,21 +733,23 @@
         "id": "SB99-0065",
         "bill": "SB 99",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
+        "action": "(S) 2nd Reading Governor's Proposed Amendments Adopted",
         "actionUrl": null,
         "date": "04/17/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273841"
+        ]
     },
     {
         "id": "SB99-0066",
         "bill": "SB 99",
         "session": "20231",
-        "action": "(S) 2nd Reading Governor's Proposed Amendments Adopted",
+        "action": "(H) Returned with Governor's Proposed Amendments",
         "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": true,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },

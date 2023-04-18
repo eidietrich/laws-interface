@@ -329,8 +329,9 @@
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49038?agendaId=272141",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46223?agendaId=256173"
         ]
     },
@@ -432,6 +433,7 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49448?agendaId=271004",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46511?agendaId=269429"
         ]
     },
@@ -498,8 +500,11 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271760",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273693"
+        ]
     },
     {
         "id": "SB328-0045",
@@ -531,6 +536,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB328-0048",
+        "bill": "SB 328",
+        "session": "20231",
+        "action": "(H) Returned to Senate with Amendments",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

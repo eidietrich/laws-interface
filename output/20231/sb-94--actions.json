@@ -616,8 +616,11 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271782",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273766"
+        ]
     },
     {
         "id": "SB94-0055",
@@ -639,7 +642,10 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49534?agendaId=273655",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49523?agendaId=272439"
+        ]
     },
     {
         "id": "SB94-0057",
@@ -693,6 +699,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB94-0062",
+        "bill": "SB 94",
+        "session": "20231",
+        "action": "(H) Returned to Senate with Amendments",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

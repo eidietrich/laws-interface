@@ -318,9 +318,10 @@
         "actionUrl": null,
         "date": "03/02/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46227?agendaId=256480"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46227?agendaId=256480",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49042?agendaId=272819"
         ]
     },
     {
@@ -469,7 +470,7 @@
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
-        "committee": "(H) Human Services",
+        "committee": "(H) Appropriations",
         "recordings": []
     },
     {
@@ -501,6 +502,17 @@
         "action": "(H) Rereferred to Committee",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB352-0045",
+        "bill": "SB 352",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []

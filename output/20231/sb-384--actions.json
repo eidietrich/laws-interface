@@ -318,8 +318,11 @@
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49038?agendaId=272097",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46223?agendaId=256053"
+        ]
     },
     {
         "id": "SB384-0029",
@@ -385,7 +388,10 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(H) Energy, Technology and Federal Relations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46977?agendaId=270077",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49473?agendaId=271617"
+        ]
     },
     {
         "id": "SB384-0035",
@@ -450,8 +456,10 @@
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46168?agendaId=273004"
+        ]
     },
     {
         "id": "SB384-0041",
@@ -483,6 +491,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB384-0044",
+        "bill": "SB 384",
+        "session": "20231",
+        "action": "(H) Returned to Senate with Amendments",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
