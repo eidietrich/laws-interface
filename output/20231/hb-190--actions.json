@@ -633,17 +633,6 @@
         "id": "HB190-0056",
         "bill": "HB 190",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/11/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB190-0057",
-        "bill": "HB 190",
-        "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/11/2023",
@@ -652,7 +641,7 @@
         "recordings": []
     },
     {
-        "id": "HB190-0058",
+        "id": "HB190-0057",
         "bill": "HB 190",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -663,13 +652,24 @@
         "recordings": []
     },
     {
-        "id": "HB190-0059",
+        "id": "HB190-0058",
         "bill": "HB 190",
         "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/13/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB190-0059",
+        "bill": "HB 190",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     },
@@ -682,6 +682,50 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB190-0061",
+        "bill": "HB 190",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB190-0062",
+        "bill": "HB 190",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB190-0063",
+        "bill": "HB 190",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB190-0064",
+        "bill": "HB 190",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
