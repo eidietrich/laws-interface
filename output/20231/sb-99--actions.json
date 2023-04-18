@@ -565,17 +565,6 @@
         "id": "SB99-0050",
         "bill": "SB 99",
         "session": "20231",
-        "action": "(H) Scheduled for 3rd Reading",
-        "actionUrl": null,
-        "date": "03/24/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB99-0051",
-        "bill": "SB 99",
-        "session": "20231",
         "action": "(H) 3rd Reading Concurred",
         "actionUrl": null,
         "date": "03/24/2023",
@@ -584,7 +573,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0052",
+        "id": "SB99-0051",
         "bill": "SB 99",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
@@ -595,7 +584,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0053",
+        "id": "SB99-0052",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) 2nd Reading House Amendments Concurred",
@@ -609,7 +598,7 @@
         ]
     },
     {
-        "id": "SB99-0054",
+        "id": "SB99-0053",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -620,7 +609,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0055",
+        "id": "SB99-0054",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) 3rd Reading Passed as Amended by House",
@@ -631,12 +620,23 @@
         "recordings": []
     },
     {
-        "id": "SB99-0056",
+        "id": "SB99-0055",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) Sent to Enrolling",
         "actionUrl": null,
         "date": "03/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB99-0056",
+        "bill": "SB 99",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/05/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -656,7 +656,7 @@
         "id": "SB99-0058",
         "bill": "SB 99",
         "session": "20231",
-        "action": "(S) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -667,17 +667,6 @@
         "id": "SB99-0059",
         "bill": "SB 99",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB99-0060",
-        "bill": "SB 99",
-        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "04/13/2023",
@@ -686,7 +675,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0061",
+        "id": "SB99-0060",
         "bill": "SB 99",
         "session": "20231",
         "action": "(H) Signed by Speaker",
@@ -697,7 +686,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0062",
+        "id": "SB99-0061",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) Transmitted to Governor",
@@ -708,7 +697,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0063",
+        "id": "SB99-0062",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) Returned with Governor's Proposed Amendments",
@@ -719,7 +708,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0064",
+        "id": "SB99-0063",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -730,7 +719,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0065",
+        "id": "SB99-0064",
         "bill": "SB 99",
         "session": "20231",
         "action": "(S) 2nd Reading Governor's Proposed Amendments Adopted",
@@ -743,7 +732,7 @@
         ]
     },
     {
-        "id": "SB99-0066",
+        "id": "SB99-0065",
         "bill": "SB 99",
         "session": "20231",
         "action": "(H) Returned with Governor's Proposed Amendments",
@@ -754,7 +743,7 @@
         "recordings": []
     },
     {
-        "id": "SB99-0067",
+        "id": "SB99-0066",
         "bill": "SB 99",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -765,13 +754,35 @@
         "recordings": []
     },
     {
-        "id": "SB99-0068",
+        "id": "SB99-0067",
         "bill": "SB 99",
         "session": "20231",
         "action": "(H) 2nd Reading Governor's Proposed Amendments Adopted",
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB99-0068",
+        "bill": "SB 99",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB99-0069",
+        "bill": "SB 99",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

@@ -323,8 +323,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265015",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263869"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47790?agendaId=263869",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49266?agendaId=265015"
         ]
     },
     {
@@ -390,8 +390,11 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46162?agendaId=270257",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49488?agendaId=271949"
+        ]
     },
     {
         "id": "SB184-0035",
@@ -444,6 +447,28 @@
         "action": "(S) Returned from Enrolling",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB184-0040",
+        "bill": "SB 184",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB184-0041",
+        "bill": "SB 184",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
