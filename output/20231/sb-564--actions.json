@@ -372,8 +372,8 @@
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266845",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49356?agendaId=269515"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49356?agendaId=269515",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46712?agendaId=266845"
         ]
     },
     {
@@ -553,7 +553,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46518?agendaId=272655"
+        ]
     },
     {
         "id": "SB564-0050",
@@ -592,10 +594,21 @@
         "id": "SB564-0053",
         "bill": "SB 564",
         "session": "20231",
-        "action": "(S) Revised Fiscal Note Requested",
+        "action": "(H) Scheduled for 2nd Reading",
         "actionUrl": null,
-        "date": "04/14/2023",
+        "date": "04/18/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB564-0054",
+        "bill": "SB 564",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
