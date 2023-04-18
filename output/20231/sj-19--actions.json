@@ -250,7 +250,9 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46772?agendaId=273501"
+        ]
     },
     {
         "id": "SJ19-0023",
@@ -260,6 +262,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": "(S) State Administration",
+        "recordings": []
+    },
+    {
+        "id": "SJ19-0024",
+        "bill": "SJ 19",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Passed",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": []
     }
