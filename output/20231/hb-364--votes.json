@@ -6,7 +6,7 @@
         "action_id": "HB364-0020",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 15,
             "N": 0
@@ -979,10 +979,23 @@
         ]
     },
     {
+        "url": null,
+        "bill": "HB 364",
+        "session": "20231",
+        "action_id": "HB364-0048",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 18,
+            "N": 1
+        }
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2079&P_SESS=20231",
         "bill": "HB 364",
         "session": "20231",
-        "action_id": "HB364-0049",
+        "action_id": "HB364-0050",
         "type": "floor",
         "seq_number": "S2079",
         "date": "April 17, 2023",
@@ -1195,5 +1208,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 364",
+        "session": "20231",
+        "action_id": "HB364-0055",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 18,
+            "N": 1
+        }
     }
 ]

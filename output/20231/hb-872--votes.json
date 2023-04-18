@@ -943,5 +943,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 872",
+        "session": "20231",
+        "action_id": "HB872-0042",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 5,
+            "N": 4
+        }
     }
 ]

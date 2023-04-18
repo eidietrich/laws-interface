@@ -1307,5 +1307,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 743",
+        "session": "20231",
+        "action_id": "HB743-0045",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 16,
+            "N": 3
+        }
     }
 ]

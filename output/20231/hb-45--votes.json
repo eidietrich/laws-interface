@@ -1079,10 +1079,23 @@
         ]
     },
     {
+        "url": null,
+        "bill": "HB 45",
+        "session": "20231",
+        "action_id": "HB45-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2078&P_SESS=20231",
         "bill": "HB 45",
         "session": "20231",
-        "action_id": "HB45-0041",
+        "action_id": "HB45-0043",
         "type": "floor",
         "seq_number": "S2078",
         "date": "April 17, 2023",
@@ -1295,5 +1308,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 45",
+        "session": "20231",
+        "action_id": "HB45-0046",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
     }
 ]
