@@ -251,8 +251,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48161?agendaId=266564",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49350?agendaId=268942"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49350?agendaId=268942",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48161?agendaId=266564"
         ]
     },
     {
@@ -432,7 +432,9 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46607?agendaId=273083"
+        ]
     },
     {
         "id": "SB557-0039",
@@ -442,6 +444,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB557-0040",
+        "bill": "SB 557",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": []
     }

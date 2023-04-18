@@ -254,8 +254,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49293?agendaId=265843",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49291?agendaId=267933"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49291?agendaId=267933",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49293?agendaId=265843"
         ]
     },
     {
@@ -391,7 +391,10 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46605?agendaId=272175",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49535?agendaId=273661"
+        ]
     },
     {
         "id": "SB334-0035",
@@ -401,6 +404,17 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": "(H) Natural Resources",
+        "recordings": []
+    },
+    {
+        "id": "SB334-0036",
+        "bill": "SB 334",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": []
     }
