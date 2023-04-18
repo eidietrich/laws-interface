@@ -486,7 +486,10 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(H) Legislative Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49383?agendaId=269853",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49462?agendaId=271265"
+        ]
     },
     {
         "id": "SB485-0044",
@@ -529,8 +532,10 @@
         "actionUrl": null,
         "date": "04/13/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46167?agendaId=272468"
+        ]
     },
     {
         "id": "SB485-0048",
@@ -574,6 +579,28 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB485-0052",
+        "bill": "SB 485",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB485-0053",
+        "bill": "SB 485",
+        "session": "20231",
+        "action": "(H) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

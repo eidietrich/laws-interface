@@ -435,7 +435,10 @@
         "date": "04/07/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46872?agendaId=270855",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49512?agendaId=272901"
+        ]
     },
     {
         "id": "HB346-0039",
@@ -457,6 +460,39 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
+        "recordings": []
+    },
+    {
+        "id": "HB346-0041",
+        "bill": "HB 346",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB346-0042",
+        "bill": "HB 346",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concur Motion Failed",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB346-0043",
+        "bill": "HB 346",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
