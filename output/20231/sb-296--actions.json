@@ -329,8 +329,9 @@
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49038?agendaId=272159",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46223?agendaId=256163"
         ]
     },
@@ -547,7 +548,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46518?agendaId=272654"
+        ]
     },
     {
         "id": "SB296-0049",
@@ -569,6 +572,28 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "SB296-0051",
+        "bill": "SB 296",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB296-0052",
+        "bill": "SB 296",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

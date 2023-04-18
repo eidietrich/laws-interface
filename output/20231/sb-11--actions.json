@@ -285,8 +285,9 @@
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49038?agendaId=272106",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46223?agendaId=256065"
         ]
     },
@@ -413,6 +414,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49395?agendaId=270212",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47795?agendaId=267795"
         ]
     },
@@ -479,8 +481,11 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271818",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273748"
+        ]
     },
     {
         "id": "SB11-0043",
@@ -502,6 +507,42 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49534?agendaId=273654",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49523?agendaId=272438"
+        ]
+    },
+    {
+        "id": "SB11-0045",
+        "bill": "SB 11",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB11-0046",
+        "bill": "SB 11",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB11-0047",
+        "bill": "SB 11",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

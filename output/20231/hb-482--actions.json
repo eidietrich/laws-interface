@@ -542,7 +542,10 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49466?agendaId=271572",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46871?agendaId=270057"
+        ]
     },
     {
         "id": "HB482-0049",
@@ -585,6 +588,28 @@
         "actionUrl": null,
         "date": "04/13/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB482-0053",
+        "bill": "HB 482",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB482-0054",
+        "bill": "HB 482",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

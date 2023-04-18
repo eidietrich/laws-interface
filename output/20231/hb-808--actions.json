@@ -254,6 +254,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49045?agendaId=272552",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49044?agendaId=257291"
         ]
     },
@@ -366,8 +367,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48161?agendaId=266559",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49350?agendaId=268939"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49350?agendaId=268939",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48161?agendaId=266559"
         ]
     },
     {
@@ -444,8 +445,10 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273840"
+        ]
     },
     {
         "id": "HB808-0040",
@@ -454,6 +457,17 @@
         "action": "(S) 2nd Reading Indefinitely Postponed",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB808-0041",
+        "bill": "HB 808",
+        "session": "20231",
+        "action": "(S) Reconsidered Previous Action; Placed on 2nd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []

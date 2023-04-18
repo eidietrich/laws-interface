@@ -647,7 +647,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45604?agendaId=272349"
+        ]
     },
     {
         "id": "HB597-0058",
@@ -680,6 +682,39 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB597-0061",
+        "bill": "HB 597",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB597-0062",
+        "bill": "HB 597",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB597-0063",
+        "bill": "HB 597",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
