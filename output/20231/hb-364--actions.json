@@ -475,7 +475,10 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(S) Local Government",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46819?agendaId=270039",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49474?agendaId=271398"
+        ]
     },
     {
         "id": "HB364-0043",
@@ -562,8 +565,10 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273379"
+        ]
     },
     {
         "id": "HB364-0051",
@@ -629,6 +634,39 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB364-0057",
+        "bill": "HB 364",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB364-0058",
+        "bill": "HB 364",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB364-0059",
+        "bill": "HB 364",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

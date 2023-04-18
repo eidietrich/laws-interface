@@ -468,7 +468,10 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49466?agendaId=271573",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46871?agendaId=270055"
+        ]
     },
     {
         "id": "HB396-0042",
@@ -511,8 +514,10 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46253?agendaId=272000"
+        ]
     },
     {
         "id": "HB396-0046",
@@ -534,7 +539,9 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45605?agendaId=272939"
+        ]
     },
     {
         "id": "HB396-0048",
@@ -556,6 +563,28 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB396-0050",
+        "bill": "HB 396",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB396-0051",
+        "bill": "HB 396",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

@@ -331,6 +331,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49045?agendaId=272544",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49044?agendaId=257283"
         ]
     },
@@ -484,10 +485,10 @@
         "id": "HB676-0043",
         "bill": "HB 676",
         "session": "20231",
-        "action": "(S) 2nd Reading Concurred as Amended",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/14/2023",
-        "hasVote": true,
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
@@ -495,10 +496,34 @@
         "id": "HB676-0044",
         "bill": "HB 676",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(S) 2nd Reading Concurred as Amended",
         "actionUrl": null,
         "date": "04/14/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46255?agendaId=273024"
+        ]
+    },
+    {
+        "id": "HB676-0045",
+        "bill": "HB 676",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB676-0046",
+        "bill": "HB 676",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

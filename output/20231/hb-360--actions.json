@@ -354,7 +354,10 @@
         "date": "04/07/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46768?agendaId=270844",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49510?agendaId=272916"
+        ]
     },
     {
         "id": "HB360-0032",
@@ -396,6 +399,30 @@
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273378"
+        ]
+    },
+    {
+        "id": "HB360-0036",
+        "bill": "HB 360",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB360-0037",
+        "bill": "HB 360",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []

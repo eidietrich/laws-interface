@@ -312,6 +312,7 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49409?agendaId=270684",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46817?agendaId=268188"
         ]
     },
@@ -366,6 +367,30 @@
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273366"
+        ]
+    },
+    {
+        "id": "HB35-0033",
+        "bill": "HB 35",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB35-0034",
+        "bill": "HB 35",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []

@@ -331,8 +331,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258815",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256011"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256011",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258815"
         ]
     },
     {
@@ -421,7 +421,10 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(S) State Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49471?agendaId=271516",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46767?agendaId=270027"
+        ]
     },
     {
         "id": "HB580-0038",
@@ -463,6 +466,41 @@
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273640"
+        ]
+    },
+    {
+        "id": "HB580-0042",
+        "bill": "HB 580",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB580-0043",
+        "bill": "HB 580",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB580-0044",
+        "bill": "HB 580",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
