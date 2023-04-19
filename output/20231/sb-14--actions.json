@@ -309,6 +309,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49399?agendaId=270444",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45595?agendaId=267908"
         ]
     },
@@ -456,7 +457,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272370"
+        ]
     },
     {
         "id": "SB14-0041",
@@ -489,6 +492,39 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB14-0044",
+        "bill": "SB 14",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB14-0045",
+        "bill": "SB 14",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB14-0046",
+        "bill": "SB 14",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

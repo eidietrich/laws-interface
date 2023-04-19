@@ -480,8 +480,8 @@
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48206?agendaId=262052",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49223?agendaId=262859"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49223?agendaId=262859",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48206?agendaId=262052"
         ]
     },
     {
@@ -526,6 +526,72 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB136-0047",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB136-0048",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB136-0049",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB136-0050",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB136-0051",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Failed",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB136-0052",
+        "bill": "HB 136",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
