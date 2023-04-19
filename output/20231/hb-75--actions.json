@@ -323,8 +323,8 @@
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47117?agendaId=260044",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49145?agendaId=260681"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49145?agendaId=260681",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47117?agendaId=260044"
         ]
     },
     {
@@ -480,6 +480,17 @@
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB75-0043",
+        "bill": "HB 75",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
