@@ -229,8 +229,8 @@
         "hasVote": false,
         "committee": "(H) Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46920?agendaId=266952",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49363?agendaId=269558"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49363?agendaId=269558",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46920?agendaId=266952"
         ]
     },
     {
@@ -276,7 +276,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268579"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268579",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49407?agendaId=270532"
         ]
     },
     {
@@ -343,7 +344,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47125?agendaId=272682"
+        ]
     },
     {
         "id": "HB902-0031",
@@ -365,6 +368,28 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
+        "recordings": []
+    },
+    {
+        "id": "HB902-0033",
+        "bill": "HB 902",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB902-0034",
+        "bill": "HB 902",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

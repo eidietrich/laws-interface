@@ -253,6 +253,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49045?agendaId=272590",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49044?agendaId=257329"
         ]
     },
@@ -332,8 +333,8 @@
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47084?agendaId=266364",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49333?agendaId=268409"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49333?agendaId=268409",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47084?agendaId=266364"
         ]
     },
     {
@@ -388,8 +389,9 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49401?agendaId=270567",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46245?agendaId=268078"
         ]
     },
@@ -434,8 +436,10 @@
         "actionUrl": null,
         "date": "04/13/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46167?agendaId=272460"
+        ]
     },
     {
         "id": "HB738-0039",
@@ -478,6 +482,19 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46169?agendaId=273447"
+        ]
+    },
+    {
+        "id": "HB738-0043",
+        "bill": "HB 738",
+        "session": "20231",
+        "action": "(H) Conference Committee Appointed",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
