@@ -927,5 +927,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 969",
+        "session": "20231",
+        "action_id": "HB969-0036",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 7,
+            "N": 3
+        }
     }
 ]
