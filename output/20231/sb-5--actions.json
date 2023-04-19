@@ -461,8 +461,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46235?agendaId=260527",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49159?agendaId=261160"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49159?agendaId=261160",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46235?agendaId=260527"
         ]
     },
     {
@@ -571,6 +571,17 @@
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB5-0051",
+        "bill": "SB 5",
+        "session": "20231",
+        "action": "(S) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
