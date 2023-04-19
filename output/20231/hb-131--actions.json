@@ -315,8 +315,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49269?agendaId=265547",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46240?agendaId=264304"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46240?agendaId=264304",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49269?agendaId=265547"
         ]
     },
     {
@@ -378,7 +378,7 @@
         "id": "HB131-0033",
         "bill": "HB 131",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -389,17 +389,6 @@
         "id": "HB131-0034",
         "bill": "HB 131",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB131-0035",
-        "bill": "HB 131",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -408,7 +397,7 @@
         "recordings": []
     },
     {
-        "id": "HB131-0036",
+        "id": "HB131-0035",
         "bill": "HB 131",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -419,12 +408,23 @@
         "recordings": []
     },
     {
-        "id": "HB131-0037",
+        "id": "HB131-0036",
         "bill": "HB 131",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB131-0037",
+        "bill": "HB 131",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
