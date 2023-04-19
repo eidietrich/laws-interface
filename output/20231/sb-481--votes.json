@@ -499,10 +499,23 @@
         "action_id": "SB481-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 17,
             "N": 1
+        }
+    },
+    {
+        "url": null,
+        "bill": "SB 481",
+        "session": "20231",
+        "action_id": "SB481-0039",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 12,
+            "N": 6
         }
     }
 ]
