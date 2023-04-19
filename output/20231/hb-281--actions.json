@@ -378,8 +378,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49083?agendaId=258452",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48150?agendaId=258209"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48150?agendaId=258209",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49083?agendaId=258452"
         ]
     },
     {
@@ -488,7 +488,7 @@
         "id": "HB281-0043",
         "bill": "HB 281",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "03/28/2023",
         "hasVote": false,
@@ -499,17 +499,6 @@
         "id": "HB281-0044",
         "bill": "HB 281",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "03/28/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB281-0045",
-        "bill": "HB 281",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -518,7 +507,7 @@
         "recordings": []
     },
     {
-        "id": "HB281-0046",
+        "id": "HB281-0045",
         "bill": "HB 281",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -529,12 +518,23 @@
         "recordings": []
     },
     {
-        "id": "HB281-0047",
+        "id": "HB281-0046",
         "bill": "HB 281",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB281-0047",
+        "bill": "HB 281",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

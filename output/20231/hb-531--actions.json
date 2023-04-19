@@ -370,8 +370,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49376?agendaId=269710",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46244?agendaId=267635"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46244?agendaId=267635",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49376?agendaId=269710"
         ]
     },
     {
@@ -433,7 +433,7 @@
         "id": "HB531-0038",
         "bill": "HB 531",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
@@ -444,17 +444,6 @@
         "id": "HB531-0039",
         "bill": "HB 531",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/06/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB531-0040",
-        "bill": "HB 531",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -463,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HB531-0041",
+        "id": "HB531-0040",
         "bill": "HB 531",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -474,12 +463,23 @@
         "recordings": []
     },
     {
-        "id": "HB531-0042",
+        "id": "HB531-0041",
         "bill": "HB 531",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB531-0042",
+        "bill": "HB 531",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
