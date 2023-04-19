@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
+            "Simple",
             "2/3 of Each House",
-            "Simple"
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -12496,40 +12496,6 @@
         "amendedReturnDeadline": "04/18/2023"
     },
     {
-        "key": "HB 305",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=305&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0305.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0305.pdf",
-        "lc": "LC0761",
-        "title": "Generally revise alcohol laws relating to manufacturing and retail",
-        "sponsor": "Edward Buttrey",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 21",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0305",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Edward Buttrey",
-        "subjects": [
-            {
-                "subject": "Alcohol and Drugs",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
         "key": "HB 306",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=306&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -12865,45 +12831,6 @@
             },
             {
                 "subject": "Professions and Occupations O-Z",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 314",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=314&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0314.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0314.pdf",
-        "lc": "LC3466",
-        "title": "Revise compensation for members of boards, commissions, and councils",
-        "sponsor": "Tony Brockman",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 9",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0314",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0314",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Tony Brockman",
-        "subjects": [
-            {
-                "subject": "Public Officers and Employees",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "State Government",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -14234,8 +14161,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -16921,70 +16848,6 @@
         "amendedReturnDeadline": "04/26/2023"
     },
     {
-        "key": "HB 408",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=408&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0408.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0408.pdf",
-        "lc": "LC2921",
-        "title": "Revise student scholarship organization and innovative education tax credits",
-        "sponsor": "Sue Vinton",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 56",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0408",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0408",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Sue Vinton",
-        "subjects": [
-            {
-                "subject": "Appropriations  (see also: State Finance)",
-                "fiscalCode": "Appropriation",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Revenue, State",
-                "fiscalCode": "Revenue",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "School Finance",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Schools and Education",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation (Generally)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Corporations",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Individual Income",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "Revenue Bills",
-        "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
-    },
-    {
         "key": "HB 409",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=409&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -17574,50 +17437,6 @@
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
         "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 423",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=423&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0423.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0423.pdf",
-        "lc": "LC0867",
-        "title": "Revise laws related to compensation for wrongfully convicted individuals",
-        "sponsor": "Amy Regier",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 6",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0423",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0423",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Amy Regier",
-        "subjects": [
-            {
-                "subject": "Appropriations  (see also: State Finance)",
-                "fiscalCode": "Appropriation",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Criminal Procedure  (see also: Law Enforcement)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "State Government",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "Appropriation Bills",
-        "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
     },
     {
         "key": "HB 424",
@@ -18253,50 +18072,6 @@
             },
             {
                 "subject": "Recreation/Parks/Sports",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 439",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=439&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0439.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0439.pdf",
-        "lc": "LC0992",
-        "title": "Create a GVW fee for electric vehicles and hybrids being permanently registered",
-        "sponsor": "Denley M Loge",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 14",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0439",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0439",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Denley Loge",
-        "subjects": [
-            {
-                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation (Generally)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Taxation--Transportation and Vehicles",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -21812,8 +21587,8 @@
         "sponsor": "Michael Yakawich",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 51",
-        "statusDate": "04/17/2023",
-        "lastAction": "(H) Sent to Enrolling",
+        "statusDate": "04/19/2023",
+        "lastAction": "(H) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0523",
         "legalNoteUrl": null,
@@ -22056,8 +21831,8 @@
         "sponsor": "Tony Brockman",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 9",
-        "statusDate": "04/17/2023",
-        "lastAction": "(H) Sent to Enrolling",
+        "statusDate": "04/19/2023",
+        "lastAction": "(H) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -24231,60 +24006,6 @@
             },
             {
                 "subject": "Social Services",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 583",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=583&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0583.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0583.pdf",
-        "lc": "LC2766",
-        "title": "Revise occupations and education laws for military license reciprocity",
-        "sponsor": "Brad Barker",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 58",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0583",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Brad Barker",
-        "subjects": [
-            {
-                "subject": "Professions and Occupations  Generally",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Professions and Occupations A-D",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Professions and Occupations E-N",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Professions and Occupations O-Z",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -33791,8 +33512,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -56726,8 +56447,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -64566,8 +64287,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
@@ -67986,8 +67707,8 @@
         "sponsor": "Andrea Olsen",
         "sponsorParty": "D",
         "sponsorDistrict": "SD 50",
-        "statusDate": "04/18/2023",
-        "lastAction": "(S) Referred to Committee -- (S) Agriculture, Livestock and Irrigation",
+        "statusDate": "04/20/2023; 03:00 PM",
+        "lastAction": "(S) Hearing -- (S) Agriculture, Livestock and Irrigation",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -71084,8 +70805,8 @@
         "key": "SR 72",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=72&P_BLTP_BILL_TYP_CD=SR&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC4642.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC4642.pdf",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SR0072.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SR0072.pdf",
         "lc": "LC4642",
         "title": "Confirm governor's appointees for coal board",
         "sponsor": "Walt Sales",
