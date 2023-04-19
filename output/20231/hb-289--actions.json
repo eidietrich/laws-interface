@@ -270,17 +270,6 @@
         "id": "HB289-0024",
         "bill": "HB 289",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/06/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB289-0025",
-        "bill": "HB 289",
-        "session": "20231",
         "action": "(H) 2nd Reading Motion to Amend Failed",
         "actionUrl": null,
         "date": "02/06/2023",
@@ -289,7 +278,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0026",
+        "id": "HB289-0025",
         "bill": "HB 289",
         "session": "20231",
         "action": "(H) 2nd Reading Passed",
@@ -303,7 +292,7 @@
         ]
     },
     {
-        "id": "HB289-0027",
+        "id": "HB289-0026",
         "bill": "HB 289",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -314,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0028",
+        "id": "HB289-0027",
         "bill": "HB 289",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -325,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0029",
+        "id": "HB289-0028",
         "bill": "HB 289",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -336,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0030",
+        "id": "HB289-0029",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) First Reading",
@@ -347,7 +336,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0031",
+        "id": "HB289-0030",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -358,7 +347,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0032",
+        "id": "HB289-0031",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Hearing Canceled",
@@ -369,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0033",
+        "id": "HB289-0032",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Hearing",
@@ -378,12 +367,12 @@
         "hasVote": false,
         "committee": "(S) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46658?agendaId=265600",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49297?agendaId=268096"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49297?agendaId=268096",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46658?agendaId=265600"
         ]
     },
     {
-        "id": "HB289-0034",
+        "id": "HB289-0033",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -394,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0035",
+        "id": "HB289-0034",
         "bill": "HB 289",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -405,7 +394,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0036",
+        "id": "HB289-0035",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -416,7 +405,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0037",
+        "id": "HB289-0036",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -427,18 +416,21 @@
         "recordings": []
     },
     {
-        "id": "HB289-0038",
+        "id": "HB289-0037",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46249?agendaId=270293",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49484?agendaId=271984"
+        ]
     },
     {
-        "id": "HB289-0039",
+        "id": "HB289-0038",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -449,7 +441,7 @@
         "recordings": []
     },
     {
-        "id": "HB289-0040",
+        "id": "HB289-0039",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -460,13 +452,35 @@
         "recordings": []
     },
     {
-        "id": "HB289-0041",
+        "id": "HB289-0040",
         "bill": "HB 289",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/11/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB289-0041",
+        "bill": "HB 289",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB289-0042",
+        "bill": "HB 289",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
