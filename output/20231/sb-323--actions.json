@@ -248,28 +248,18 @@
         "id": "SB323-0022",
         "bill": "SB 323",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "03/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB323-0023",
-        "bill": "SB 323",
-        "session": "20231",
         "action": "(S) 2nd Reading Passed",
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49038?agendaId=272135",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46223?agendaId=256092"
         ]
     },
     {
-        "id": "SB323-0024",
+        "id": "SB323-0023",
         "bill": "SB 323",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -280,7 +270,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0025",
+        "id": "SB323-0024",
         "bill": "SB 323",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -291,7 +281,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0026",
+        "id": "SB323-0025",
         "bill": "SB 323",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -302,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0027",
+        "id": "SB323-0026",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Referred to Committee",
@@ -313,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0028",
+        "id": "SB323-0027",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) First Reading",
@@ -324,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0029",
+        "id": "SB323-0028",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Hearing",
@@ -338,7 +328,7 @@
         ]
     },
     {
-        "id": "SB323-0030",
+        "id": "SB323-0029",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -349,7 +339,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0031",
+        "id": "SB323-0030",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -360,7 +350,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0032",
+        "id": "SB323-0031",
         "bill": "SB 323",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -371,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0033",
+        "id": "SB323-0032",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -382,18 +372,21 @@
         "recordings": []
     },
     {
-        "id": "SB323-0034",
+        "id": "SB323-0033",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271758",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273691"
+        ]
     },
     {
-        "id": "SB323-0035",
+        "id": "SB323-0034",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -404,7 +397,7 @@
         "recordings": []
     },
     {
-        "id": "SB323-0036",
+        "id": "SB323-0035",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -415,13 +408,35 @@
         "recordings": []
     },
     {
-        "id": "SB323-0037",
+        "id": "SB323-0036",
         "bill": "SB 323",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB323-0037",
+        "bill": "SB 323",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB323-0038",
+        "bill": "SB 323",
+        "session": "20231",
+        "action": "(S) 2nd Reading House Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
