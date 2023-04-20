@@ -239,7 +239,9 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46928?agendaId=273521"
+        ]
     },
     {
         "id": "HJ16-0022",
@@ -261,6 +263,28 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(H) Transportation",
+        "recordings": []
+    },
+    {
+        "id": "HJ16-0024",
+        "bill": "HJ 16",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ16-0025",
+        "bill": "HJ 16",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
