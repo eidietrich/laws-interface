@@ -400,8 +400,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46759?agendaId=260608",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49171?agendaId=261217"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49171?agendaId=261217",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46759?agendaId=260608"
         ]
     },
     {
@@ -510,7 +510,7 @@
         "id": "HB173-0045",
         "bill": "HB 173",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -521,17 +521,6 @@
         "id": "HB173-0046",
         "bill": "HB 173",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB173-0047",
-        "bill": "HB 173",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -540,7 +529,7 @@
         "recordings": []
     },
     {
-        "id": "HB173-0048",
+        "id": "HB173-0047",
         "bill": "HB 173",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -551,12 +540,23 @@
         "recordings": []
     },
     {
-        "id": "HB173-0049",
+        "id": "HB173-0048",
         "bill": "HB 173",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB173-0049",
+        "bill": "HB 173",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
