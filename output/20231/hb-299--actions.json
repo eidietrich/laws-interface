@@ -469,8 +469,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46241?agendaId=265378",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49295?agendaId=267976"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49295?agendaId=267976",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46241?agendaId=265378"
         ]
     },
     {
@@ -532,7 +532,7 @@
         "id": "HB299-0047",
         "bill": "HB 299",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -543,17 +543,6 @@
         "id": "HB299-0048",
         "bill": "HB 299",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB299-0049",
-        "bill": "HB 299",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -562,7 +551,7 @@
         "recordings": []
     },
     {
-        "id": "HB299-0050",
+        "id": "HB299-0049",
         "bill": "HB 299",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -573,12 +562,23 @@
         "recordings": []
     },
     {
-        "id": "HB299-0051",
+        "id": "HB299-0050",
         "bill": "HB 299",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB299-0051",
+        "bill": "HB 299",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

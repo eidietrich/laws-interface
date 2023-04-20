@@ -323,8 +323,8 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46811?agendaId=260621",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49169?agendaId=261223"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49169?agendaId=261223",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46811?agendaId=260621"
         ]
     },
     {
@@ -370,8 +370,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46241?agendaId=265376",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49295?agendaId=267974"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49295?agendaId=267974",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46241?agendaId=265376"
         ]
     },
     {
@@ -433,7 +433,7 @@
         "id": "HB246-0038",
         "bill": "HB 246",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -444,17 +444,6 @@
         "id": "HB246-0039",
         "bill": "HB 246",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB246-0040",
-        "bill": "HB 246",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -463,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HB246-0041",
+        "id": "HB246-0040",
         "bill": "HB 246",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -474,12 +463,23 @@
         "recordings": []
     },
     {
-        "id": "HB246-0042",
+        "id": "HB246-0041",
         "bill": "HB 246",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB246-0042",
+        "bill": "HB 246",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

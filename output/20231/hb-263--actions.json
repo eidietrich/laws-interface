@@ -323,8 +323,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49068?agendaId=259652",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48149?agendaId=257974"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48149?agendaId=257974",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49068?agendaId=259652"
         ]
     },
     {
@@ -444,17 +444,6 @@
         "id": "HB263-0039",
         "bill": "HB 263",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "03/28/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB263-0040",
-        "bill": "HB 263",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -463,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HB263-0041",
+        "id": "HB263-0040",
         "bill": "HB 263",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -474,12 +463,23 @@
         "recordings": []
     },
     {
-        "id": "HB263-0042",
+        "id": "HB263-0041",
         "bill": "HB 263",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB263-0042",
+        "bill": "HB 263",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
