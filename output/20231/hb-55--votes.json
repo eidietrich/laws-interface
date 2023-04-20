@@ -1852,5 +1852,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0055LOS230419.pdf",
+        "bill": "HB 55",
+        "session": "20231",
+        "action_id": "HB55-0061",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 19, 2023",
+        "description": "Sen. Bogner made a Motion that HB 55 Be Concurred In as Amended",
+        "totals": {
+            "Y": 7,
+            "N": 2
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "N"
+            }
+        ]
     }
 ]
