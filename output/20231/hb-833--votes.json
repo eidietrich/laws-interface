@@ -1012,5 +1012,66 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0833EDS230419.pdf",
+        "bill": "HB 833",
+        "session": "20231",
+        "action_id": "HB833-0041",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 19, 2023",
+        "description": "Sen. McClafferty made a Motion that HB 833 Be Concurred In",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Tempel, Russel(Russ)",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie)",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fitzpatrick, Steve;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "N"
+            },
+            {
+                "name": "Hertz, Greg;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "O'Brien, Shannon",
+                "vote": "Y"
+            },
+            {
+                "name": "Olsen, Andrea",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Keith;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Webber, Susan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            }
+        ]
     }
 ]

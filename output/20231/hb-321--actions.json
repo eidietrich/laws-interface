@@ -458,7 +458,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268575"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268575",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49407?agendaId=270529"
         ]
     },
     {
@@ -553,10 +554,34 @@
         "id": "HB321-0049",
         "bill": "HB 321",
         "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/07/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB321-0050",
+        "bill": "HB 321",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": "(S) Education and Cultural Resources",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46875?agendaId=273113"
+        ]
+    },
+    {
+        "id": "HB321-0051",
+        "bill": "HB 321",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
         "committee": "(S) Education and Cultural Resources",
         "recordings": []
     }
