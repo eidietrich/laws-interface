@@ -240,8 +240,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49209?agendaId=265301",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49289?agendaId=265986"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49289?agendaId=265986",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49209?agendaId=265301"
         ]
     },
     {
@@ -399,7 +399,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48222?agendaId=272409"
+        ]
     },
     {
         "id": "HB840-0036",
@@ -421,6 +423,28 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB840-0038",
+        "bill": "HB 840",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB840-0039",
+        "bill": "HB 840",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

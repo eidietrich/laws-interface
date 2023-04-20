@@ -339,8 +339,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47793?agendaId=266451",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49349?agendaId=268449"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49349?agendaId=268449",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47793?agendaId=266451"
         ]
     },
     {
@@ -487,7 +487,10 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47992?agendaId=271877",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49525?agendaId=273560"
+        ]
     },
     {
         "id": "HB915-0044",
@@ -509,6 +512,28 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB915-0046",
+        "bill": "HB 915",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB915-0047",
+        "bill": "HB 915",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concur Motion Failed",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
