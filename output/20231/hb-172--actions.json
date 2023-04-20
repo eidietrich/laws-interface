@@ -433,8 +433,8 @@
         "hasVote": false,
         "committee": "(S) State Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46759?agendaId=260607",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49171?agendaId=261216"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49171?agendaId=261216",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46759?agendaId=260607"
         ]
     },
     {
@@ -554,17 +554,6 @@
         "id": "HB172-0049",
         "bill": "HB 172",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "04/03/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB172-0050",
-        "bill": "HB 172",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/05/2023",
@@ -573,7 +562,7 @@
         "recordings": []
     },
     {
-        "id": "HB172-0051",
+        "id": "HB172-0050",
         "bill": "HB 172",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -584,12 +573,23 @@
         "recordings": []
     },
     {
-        "id": "HB172-0052",
+        "id": "HB172-0051",
         "bill": "HB 172",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB172-0052",
+        "bill": "HB 172",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
