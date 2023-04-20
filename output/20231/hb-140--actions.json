@@ -236,17 +236,6 @@
         "id": "HB140-0021",
         "bill": "HB 140",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "01/24/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB140-0022",
-        "bill": "HB 140",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "01/24/2023",
@@ -258,7 +247,7 @@
         ]
     },
     {
-        "id": "HB140-0023",
+        "id": "HB140-0022",
         "bill": "HB 140",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -269,7 +258,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0024",
+        "id": "HB140-0023",
         "bill": "HB 140",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -280,7 +269,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0025",
+        "id": "HB140-0024",
         "bill": "HB 140",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -291,7 +280,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0026",
+        "id": "HB140-0025",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -302,7 +291,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0027",
+        "id": "HB140-0026",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) First Reading",
@@ -313,7 +302,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0028",
+        "id": "HB140-0027",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Hearing",
@@ -328,7 +317,7 @@
         ]
     },
     {
-        "id": "HB140-0029",
+        "id": "HB140-0028",
         "bill": "HB 140",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -339,7 +328,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0030",
+        "id": "HB140-0029",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -350,7 +339,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0031",
+        "id": "HB140-0030",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -361,7 +350,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0032",
+        "id": "HB140-0031",
         "bill": "HB 140",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -372,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0033",
+        "id": "HB140-0032",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -383,18 +372,21 @@
         "recordings": []
     },
     {
-        "id": "HB140-0034",
+        "id": "HB140-0033",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/07/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46250?agendaId=270769",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49509?agendaId=272880"
+        ]
     },
     {
-        "id": "HB140-0035",
+        "id": "HB140-0034",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -405,7 +397,7 @@
         "recordings": []
     },
     {
-        "id": "HB140-0036",
+        "id": "HB140-0035",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -416,13 +408,35 @@
         "recordings": []
     },
     {
-        "id": "HB140-0037",
+        "id": "HB140-0036",
         "bill": "HB 140",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB140-0037",
+        "bill": "HB 140",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB140-0038",
+        "bill": "HB 140",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
