@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -733,50 +733,6 @@
             },
             {
                 "subject": "Money Transfer",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "Appropriation Bills",
-        "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
-    },
-    {
-        "key": "HB 19",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=19&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0019.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0019.pdf",
-        "lc": "LC0364",
-        "title": "Revising laws related to Indian affairs and economic development",
-        "sponsor": "Tyson T Running Wolf",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 16",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0019",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0019",
-        "draftRequestor": null,
-        "billRequestor": "State-Tribal Relations Committee",
-        "primarySponsor": "Tyson Running Wolf",
-        "subjects": [
-            {
-                "subject": "Appropriations  (see also: State Finance)",
-                "fiscalCode": "Appropriation",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Economic Development",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Indians",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -5729,45 +5685,6 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
-        "key": "HB 140",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=140&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0140.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0140.pdf",
-        "lc": "LC3602",
-        "title": "Establishing modernization and risk analysis committee",
-        "sponsor": "Llew Jones",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 18",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0140",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0140",
-        "draftRequestor": null,
-        "billRequestor": "Legislative Finance Committee",
-        "primarySponsor": "Llew Jones",
-        "subjects": [
-            {
-                "subject": "Legislature",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
         "key": "HB 141",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=141&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -5985,50 +5902,6 @@
             },
             {
                 "subject": "Property",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 147",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=147&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0147.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0147.pdf",
-        "lc": "LC0156",
-        "title": "Enhance Medicaid rates for certain children's mental health services",
-        "sponsor": "Jane Gillette",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 64",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0147",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0147",
-        "draftRequestor": null,
-        "billRequestor": "Children, Families, Health, and Human Services Interim Committee",
-        "primarySponsor": "Jane Gillette",
-        "subjects": [
-            {
-                "subject": "Mental Illness or Incapacity  (see also: Institutions)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Minors  (see also: Family Law)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Social Services",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -7955,8 +7828,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -8630,45 +8503,6 @@
             },
             {
                 "subject": "State Government",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 214",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=214&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0214.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0214.pdf",
-        "lc": "LC0733",
-        "title": "Revise education laws related to remote instruction",
-        "sponsor": "Marta Bertoglio",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 75",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0214",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0214",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Marta Bertoglio",
-        "subjects": [
-            {
-                "subject": "School Finance",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -11101,55 +10935,6 @@
         "amendedReturnDeadline": "04/26/2023"
     },
     {
-        "key": "HB 270",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=270&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0270.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0270.pdf",
-        "lc": "LC2298",
-        "title": "Extend sunset on natural resource operation funding",
-        "sponsor": "Joshua Kassmier",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 27",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0270",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0270",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Joshua Kassmier",
-        "subjects": [
-            {
-                "subject": "Mining and Minerals  (see also: Oil and Gas)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Money Transfer",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Oil and Gas  (see also: Mining and Minerals; Taxation--Oil and Gas)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
         "key": "HB 271",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=271&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -11752,45 +11537,6 @@
             },
             {
                 "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 287",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=287&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0287.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0287.pdf",
-        "lc": "LC0519",
-        "title": "Revise laws related to Indian language preservation",
-        "sponsor": "Jonathan Windy Boy",
-        "sponsorParty": "D",
-        "sponsorDistrict": "HD 32",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0287",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Jonathan Windy Boy",
-        "subjects": [
-            {
-                "subject": "Indians",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Schools and Education",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -14234,8 +13980,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -15417,8 +15163,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -16820,8 +16566,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -21569,8 +21315,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -22981,8 +22727,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -23973,50 +23719,6 @@
         "subjects": [
             {
                 "subject": "Abortion",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "General Bills",
-        "transmittalDeadline": "03/03/2023",
-        "amendedReturnDeadline": "04/18/2023"
-    },
-    {
-        "key": "HB 576",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=576&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0576.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0576.pdf",
-        "lc": "LC1611",
-        "title": "Revise laws related to water and coal mining",
-        "sponsor": "Rhonda Knudsen",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 34",
-        "statusDate": "04/18/2023",
-        "lastAction": "(S) Returned to House with Amendments",
-        "billStatus": "Returned to First House with Second House Amendments",
-        "fiscalNotesListUrl": null,
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0576",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Rhonda Knudsen",
-        "subjects": [
-            {
-                "subject": "Environmental Protection",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Mining and Minerals  (see also: Oil and Gas)",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Water",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -28253,50 +27955,6 @@
         "amendedReturnDeadline": "04/12/2023"
     },
     {
-        "key": "HB 679",
-        "session": "20231",
-        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=679&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
-        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0679.htm",
-        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0679.pdf",
-        "lc": "LC2491",
-        "title": "Require certain vehicles to carry traction control devices",
-        "sponsor": "Denley M Loge",
-        "sponsorParty": "R",
-        "sponsorDistrict": "HD 14",
-        "statusDate": "04/20/2023",
-        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
-        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0679",
-        "legalNoteUrl": null,
-        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0679",
-        "draftRequestor": null,
-        "billRequestor": null,
-        "primarySponsor": "Denley Loge",
-        "subjects": [
-            {
-                "subject": "Appropriations  (see also: State Finance)",
-                "fiscalCode": "Appropriation",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Highways and Roads",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            },
-            {
-                "subject": "Rule Making",
-                "fiscalCode": "",
-                "voteReq": "Simple"
-            }
-        ],
-        "voteRequirements": [
-            "Simple"
-        ],
-        "deadlineCategory": "Appropriation Bills",
-        "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
-    },
-    {
         "key": "HB 680",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=680&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -30659,8 +30317,8 @@
         "sponsor": "Ross H Fitzgerald",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 17",
-        "statusDate": "04/19/2023",
-        "lastAction": "(H) Conference Committee Appointed",
+        "statusDate": "04/20/2023",
+        "lastAction": "(S) Conference Committee Appointed",
         "billStatus": "In Conference or Free Conference Committee Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -33791,8 +33449,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -36479,8 +36137,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -37826,8 +37484,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -38747,8 +38405,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -38964,8 +38622,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -39685,8 +39343,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -41115,8 +40773,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -43790,9 +43448,9 @@
         "sponsor": "Keith Regier",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 3",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) 2nd Reading House Amendments Not Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
+        "statusDate": "04/20/2023",
+        "lastAction": "(S) Conference Committee Appointed",
+        "billStatus": "In Conference or Free Conference Committee Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0019",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0019",
@@ -54419,8 +54077,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -57112,8 +56770,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -58617,8 +58275,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -60719,9 +60377,9 @@
         "sponsor": "Forrest Mandeville",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 29",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) 2nd Reading House Amendments Not Concurred",
-        "billStatus": "In Process to Consider Second House Amendments",
+        "statusDate": "04/20/2023",
+        "lastAction": "(S) Conference Committee Appointed",
+        "billStatus": "In Conference or Free Conference Committee Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0424",
@@ -64735,8 +64393,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -64952,8 +64610,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
@@ -65311,8 +64969,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -65699,8 +65357,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -66087,8 +65745,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -67123,8 +66781,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -67163,8 +66821,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Entire Legislature"
+            "2/3 of Entire Legislature",
+            "Simple"
         ],
         "deadlineCategory": "REFERENDUM PROPOSALS",
         "transmittalDeadline": "04/04/2023",
@@ -68697,6 +68355,94 @@
             },
             {
                 "subject": "Judges and Justices  (see also: Courts)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature, Interim Studies",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Interim Study Resolutions",
+        "transmittalDeadline": "04/28/2023",
+        "amendedReturnDeadline": "05/06/2023"
+    },
+    {
+        "key": "SJ 35",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=35&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3216.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3216.pdf",
+        "lc": "LC3216",
+        "title": "Study of education opportunities for certain inmates",
+        "sponsor": "Brad Molnar",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 28",
+        "statusDate": "04/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Brad Molnar",
+        "subjects": [
+            {
+                "subject": "Corrections",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature, Interim Studies",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Schools and Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Vocational Education",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Interim Study Resolutions",
+        "transmittalDeadline": "04/28/2023",
+        "amendedReturnDeadline": "05/06/2023"
+    },
+    {
+        "key": "SJ 36",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=36&P_BLTP_BILL_TYP_CD=SJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC0804.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC0804.pdf",
+        "lc": "LC0804",
+        "title": "Interim study of outdoor recreation economy",
+        "sponsor": "Ellie Boldman",
+        "sponsorParty": "D",
+        "sponsorDistrict": "SD 45",
+        "statusDate": "04/20/2023",
+        "lastAction": "(S) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Ellie Boldman",
+        "subjects": [
+            {
+                "subject": "Fish and Wildlife",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             },
