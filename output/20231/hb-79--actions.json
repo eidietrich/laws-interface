@@ -497,8 +497,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49085?agendaId=258602",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45582?agendaId=258266"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45582?agendaId=258266",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49085?agendaId=258602"
         ]
     },
     {
@@ -640,17 +640,6 @@
         "id": "HB79-0056",
         "bill": "HB 79",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "03/28/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB79-0057",
-        "bill": "HB 79",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -659,7 +648,7 @@
         "recordings": []
     },
     {
-        "id": "HB79-0058",
+        "id": "HB79-0057",
         "bill": "HB 79",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -670,12 +659,23 @@
         "recordings": []
     },
     {
-        "id": "HB79-0059",
+        "id": "HB79-0058",
         "bill": "HB 79",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB79-0059",
+        "bill": "HB 79",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
