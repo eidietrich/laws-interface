@@ -935,9 +935,22 @@
         "action_id": "HB846-0037",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 12,
+            "N": 0
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 846",
+        "session": "20231",
+        "action_id": "HB846-0038",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 8,
             "N": 0
         }
     }
