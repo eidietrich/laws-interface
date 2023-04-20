@@ -491,8 +491,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49072?agendaId=259698",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46231?agendaId=258061"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46231?agendaId=258061",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49072?agendaId=259698"
         ]
     },
     {
@@ -645,17 +645,6 @@
         "id": "HB38-0057",
         "bill": "HB 38",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "04/03/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB38-0058",
-        "bill": "HB 38",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/05/2023",
@@ -664,7 +653,7 @@
         "recordings": []
     },
     {
-        "id": "HB38-0059",
+        "id": "HB38-0058",
         "bill": "HB 38",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -675,12 +664,23 @@
         "recordings": []
     },
     {
-        "id": "HB38-0060",
+        "id": "HB38-0059",
         "bill": "HB 38",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB38-0060",
+        "bill": "HB 38",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

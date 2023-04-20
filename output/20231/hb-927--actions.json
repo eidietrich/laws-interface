@@ -229,8 +229,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47855?agendaId=266248",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49319?agendaId=268248"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49319?agendaId=268248",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47855?agendaId=266248"
         ]
     },
     {
@@ -265,8 +265,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46332?agendaId=266782",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49358?agendaId=269037"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49358?agendaId=269037",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46332?agendaId=266782"
         ]
     },
     {
@@ -364,10 +364,10 @@
         "id": "HB927-0032",
         "bill": "HB 927",
         "session": "20231",
-        "action": "(H) 3rd Reading Passed",
+        "action": "(H) Transmitted to Senate",
         "actionUrl": null,
         "date": "04/04/2023",
-        "hasVote": true,
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
@@ -375,10 +375,10 @@
         "id": "HB927-0033",
         "bill": "HB 927",
         "session": "20231",
-        "action": "(H) Transmitted to Senate",
+        "action": "(H) 3rd Reading Passed",
         "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
+        "date": "04/04/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -408,10 +408,56 @@
         "id": "HB927-0036",
         "bill": "HB 927",
         "session": "20231",
+        "action": "(H) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB927-0037",
+        "bill": "HB 927",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB927-0038",
+        "bill": "HB 927",
+        "session": "20231",
+        "action": "(H) Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB927-0039",
+        "bill": "HB 927",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46823?agendaId=273101"
+        ]
+    },
+    {
+        "id": "HB927-0040",
+        "bill": "HB 927",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
         "committee": "(S) Local Government",
         "recordings": []
     }

@@ -915,5 +915,58 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0938LOS230419.pdf",
+        "bill": "HB 938",
+        "session": "20231",
+        "action_id": "HB938-0035",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 19, 2023",
+        "description": "Sen. Bogner made a Motion that HB 938 Be Concurred In",
+        "totals": {
+            "Y": 9,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]

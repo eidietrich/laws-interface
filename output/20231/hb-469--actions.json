@@ -240,7 +240,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47832?agendaId=252792"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47832?agendaId=252792",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48755?agendaId=264368"
         ]
     },
     {
@@ -354,7 +355,10 @@
         "date": "03/20/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49180?agendaId=261368",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45539?agendaId=260763"
+        ]
     },
     {
         "id": "HB469-0032",
@@ -441,6 +445,20 @@
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46819?agendaId=270042",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49474?agendaId=271395"
+        ]
+    },
+    {
+        "id": "HB469-0040",
+        "bill": "HB 469",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
         "committee": "(S) Local Government",
         "recordings": []
     }
