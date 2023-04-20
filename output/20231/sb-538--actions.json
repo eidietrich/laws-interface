@@ -262,8 +262,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48160?agendaId=266004",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49320?agendaId=268304"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49320?agendaId=268304",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48160?agendaId=266004"
         ]
     },
     {
@@ -367,6 +367,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49427?agendaId=270816",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49418?agendaId=268791"
         ]
     },
@@ -473,10 +474,34 @@
         "id": "SB538-0042",
         "bill": "SB 538",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "04/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB538-0043",
+        "bill": "SB 538",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": "(H) Business and Labor",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47933?agendaId=272962"
+        ]
+    },
+    {
+        "id": "SB538-0044",
+        "bill": "SB 538",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
         "committee": "(H) Business and Labor",
         "recordings": []
     }

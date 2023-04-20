@@ -281,7 +281,7 @@
         "action_id": "SB538-0033",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -597,5 +597,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 538",
+        "session": "20231",
+        "action_id": "SB538-0044",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 14,
+            "N": 5
+        }
     }
 ]

@@ -447,17 +447,6 @@
         "id": "HB18-0039",
         "bill": "HB 18",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "03/23/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB18-0040",
-        "bill": "HB 18",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -466,7 +455,7 @@
         "recordings": []
     },
     {
-        "id": "HB18-0041",
+        "id": "HB18-0040",
         "bill": "HB 18",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -477,12 +466,23 @@
         "recordings": []
     },
     {
-        "id": "HB18-0042",
+        "id": "HB18-0041",
         "bill": "HB 18",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB18-0042",
+        "bill": "HB 18",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
