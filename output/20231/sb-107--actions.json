@@ -390,8 +390,11 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46162?agendaId=270243",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49488?agendaId=271935"
+        ]
     },
     {
         "id": "SB107-0035",
@@ -466,6 +469,17 @@
         "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB107-0042",
+        "bill": "SB 107",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

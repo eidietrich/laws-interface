@@ -455,8 +455,8 @@
         "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49141?agendaId=260696",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47187?agendaId=260072"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47187?agendaId=260072",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49141?agendaId=260696"
         ]
     },
     {
@@ -500,8 +500,11 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46162?agendaId=270246",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49488?agendaId=271938"
+        ]
     },
     {
         "id": "SB142-0045",
@@ -565,6 +568,17 @@
         "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB142-0051",
+        "bill": "SB 142",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

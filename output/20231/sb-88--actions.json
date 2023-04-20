@@ -268,8 +268,8 @@
         "hasVote": false,
         "committee": "(H) Fish, Wildlife and Parks",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49096?agendaId=259455",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47010?agendaId=258343"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47010?agendaId=258343",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49096?agendaId=259455"
         ]
     },
     {
@@ -313,8 +313,11 @@
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46162?agendaId=270242",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49488?agendaId=271934"
+        ]
     },
     {
         "id": "SB88-0028",
@@ -389,6 +392,17 @@
         "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB88-0035",
+        "bill": "SB 88",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

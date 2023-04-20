@@ -400,8 +400,8 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47785?agendaId=260273",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49152?agendaId=260714"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49152?agendaId=260714",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47785?agendaId=260273"
         ]
     },
     {
@@ -445,8 +445,11 @@
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46161?agendaId=269914",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49464?agendaId=271307"
+        ]
     },
     {
         "id": "SB105-0040",
@@ -543,6 +546,17 @@
         "action": "(S) Returned from Enrolling",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB105-0049",
+        "bill": "SB 105",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

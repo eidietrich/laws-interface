@@ -437,8 +437,11 @@
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46161?agendaId=269912",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49464?agendaId=271305"
+        ]
     },
     {
         "id": "SB95-0039",
@@ -460,7 +463,10 @@
         "date": "04/06/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49494?agendaId=272039",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46338?agendaId=270324"
+        ]
     },
     {
         "id": "SB95-0041",
@@ -471,6 +477,50 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB95-0042",
+        "bill": "SB 95",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB95-0043",
+        "bill": "SB 95",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB95-0044",
+        "bill": "SB 95",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB95-0045",
+        "bill": "SB 95",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
         "recordings": []
     }
 ]
