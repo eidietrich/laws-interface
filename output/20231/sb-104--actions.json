@@ -545,7 +545,10 @@
         "date": "04/06/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47861?agendaId=270140",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49475?agendaId=271668"
+        ]
     },
     {
         "id": "SB104-0049",
@@ -567,6 +570,28 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB104-0051",
+        "bill": "SB 104",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB104-0052",
+        "bill": "SB 104",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

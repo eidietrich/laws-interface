@@ -554,26 +554,18 @@
         "id": "HB276-0049",
         "bill": "HB 276",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/06/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB276-0050",
-        "bill": "HB 276",
-        "session": "20231",
         "action": "(S) 2nd Reading Concur Motion Failed",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46249?agendaId=270288",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49484?agendaId=271979"
+        ]
     },
     {
-        "id": "HB276-0051",
+        "id": "HB276-0050",
         "bill": "HB 276",
         "session": "20231",
         "action": "(S) 2nd Reading Indefinitely Postponed",
@@ -584,12 +576,34 @@
         "recordings": []
     },
     {
-        "id": "HB276-0052",
+        "id": "HB276-0051",
         "bill": "HB 276",
         "session": "20231",
         "action": "(S) Reconsidered Previous Action; Remains in 2nd Reading Process",
         "actionUrl": null,
         "date": "04/07/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB276-0052",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB276-0053",
+        "bill": "HB 276",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/20/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
