@@ -284,8 +284,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45546?agendaId=266548",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49346?agendaId=268948"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49346?agendaId=268948",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45546?agendaId=266548"
         ]
     },
     {
@@ -364,7 +364,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268048"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268048",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49407?agendaId=270521"
         ]
     },
     {
@@ -431,7 +432,10 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45603?agendaId=271863",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49522?agendaId=273548"
+        ]
     },
     {
         "id": "HB922-0039",
@@ -453,6 +457,28 @@
         "date": "04/12/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB922-0041",
+        "bill": "HB 922",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB922-0042",
+        "bill": "HB 922",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

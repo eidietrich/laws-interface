@@ -550,8 +550,9 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49401?agendaId=270569",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46245?agendaId=268080"
         ]
     },
@@ -597,7 +598,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45604?agendaId=272340"
+        ]
     },
     {
         "id": "HB91-0053",
@@ -625,9 +628,53 @@
         "id": "HB91-0055",
         "bill": "HB 91",
         "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0056",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0057",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0058",
+        "bill": "HB 91",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB91-0059",
+        "bill": "HB 91",
+        "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
         "actionUrl": null,
-        "date": "04/14/2023",
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
