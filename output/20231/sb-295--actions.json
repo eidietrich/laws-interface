@@ -446,17 +446,6 @@
         "id": "SB295-0040",
         "bill": "SB 295",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/24/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB295-0041",
-        "bill": "SB 295",
-        "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Carried",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -465,7 +454,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0042",
+        "id": "SB295-0041",
         "bill": "SB 295",
         "session": "20231",
         "action": "(S) 2nd Reading Passed as Amended",
@@ -479,7 +468,7 @@
         ]
     },
     {
-        "id": "SB295-0043",
+        "id": "SB295-0042",
         "bill": "SB 295",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -490,7 +479,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0044",
+        "id": "SB295-0043",
         "bill": "SB 295",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -501,7 +490,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0045",
+        "id": "SB295-0044",
         "bill": "SB 295",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -512,7 +501,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0046",
+        "id": "SB295-0045",
         "bill": "SB 295",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -523,7 +512,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0047",
+        "id": "SB295-0046",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Referred to Committee",
@@ -534,7 +523,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0048",
+        "id": "SB295-0047",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) First Reading",
@@ -545,7 +534,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0049",
+        "id": "SB295-0048",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Hearing",
@@ -559,7 +548,7 @@
         ]
     },
     {
-        "id": "SB295-0050",
+        "id": "SB295-0049",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -570,7 +559,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0051",
+        "id": "SB295-0050",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -581,7 +570,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0052",
+        "id": "SB295-0051",
         "bill": "SB 295",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -592,7 +581,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0053",
+        "id": "SB295-0052",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -603,18 +592,21 @@
         "recordings": []
     },
     {
-        "id": "SB295-0054",
+        "id": "SB295-0053",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271792",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273719"
+        ]
     },
     {
-        "id": "SB295-0055",
+        "id": "SB295-0054",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -625,7 +617,7 @@
         "recordings": []
     },
     {
-        "id": "SB295-0056",
+        "id": "SB295-0055",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -636,13 +628,35 @@
         "recordings": []
     },
     {
-        "id": "SB295-0057",
+        "id": "SB295-0056",
         "bill": "SB 295",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB295-0057",
+        "bill": "SB 295",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB295-0058",
+        "bill": "SB 295",
+        "session": "20231",
+        "action": "(S) 2nd Reading House Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
