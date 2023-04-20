@@ -1271,5 +1271,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 482",
+        "session": "20231",
+        "action_id": "HB482-0057",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 17,
+            "N": 2
+        }
     }
 ]
