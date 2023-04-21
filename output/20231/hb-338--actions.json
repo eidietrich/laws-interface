@@ -248,17 +248,6 @@
         "id": "HB338-0022",
         "bill": "HB 338",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/21/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB338-0023",
-        "bill": "HB 338",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "02/21/2023",
@@ -270,7 +259,7 @@
         ]
     },
     {
-        "id": "HB338-0024",
+        "id": "HB338-0023",
         "bill": "HB 338",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -281,7 +270,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0025",
+        "id": "HB338-0024",
         "bill": "HB 338",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -292,7 +281,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0026",
+        "id": "HB338-0025",
         "bill": "HB 338",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -303,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0027",
+        "id": "HB338-0026",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) First Reading",
@@ -314,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0028",
+        "id": "HB338-0027",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -325,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0029",
+        "id": "HB338-0028",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Hearing",
@@ -334,11 +323,12 @@
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49406?agendaId=270691",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46869?agendaId=268202"
         ]
     },
     {
-        "id": "HB338-0030",
+        "id": "HB338-0029",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -349,7 +339,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0031",
+        "id": "HB338-0030",
         "bill": "HB 338",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -360,7 +350,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0032",
+        "id": "HB338-0031",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -371,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0033",
+        "id": "HB338-0032",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -382,18 +372,20 @@
         "recordings": []
     },
     {
-        "id": "HB338-0034",
+        "id": "HB338-0033",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46253?agendaId=271999"
+        ]
     },
     {
-        "id": "HB338-0035",
+        "id": "HB338-0034",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -404,7 +396,7 @@
         "recordings": []
     },
     {
-        "id": "HB338-0036",
+        "id": "HB338-0035",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -415,13 +407,35 @@
         "recordings": []
     },
     {
-        "id": "HB338-0037",
+        "id": "HB338-0036",
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB338-0037",
+        "bill": "HB 338",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB338-0038",
+        "bill": "HB 338",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Not Concurred",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
