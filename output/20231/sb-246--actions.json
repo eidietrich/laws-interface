@@ -510,6 +510,17 @@
         "id": "SB246-0045",
         "bill": "SB 246",
         "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB246-0046",
+        "bill": "SB 246",
+        "session": "20231",
         "action": "(H) Tabled in Committee",
         "actionUrl": null,
         "date": "04/20/2023",
@@ -518,13 +529,35 @@
         "recordings": []
     },
     {
-        "id": "SB246-0046",
+        "id": "SB246-0047",
+        "bill": "SB 246",
+        "session": "20231",
+        "action": "(H) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB246-0048",
         "bill": "SB 246",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred",
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": true,
+        "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB246-0049",
+        "bill": "SB 246",
+        "session": "20231",
+        "action": "(H) Committee Report--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": []
     }

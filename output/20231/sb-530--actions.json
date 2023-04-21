@@ -331,6 +331,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49399?agendaId=270436",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45595?agendaId=267914"
         ]
     },
@@ -456,7 +457,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272377"
+        ]
     },
     {
         "id": "SB530-0041",
@@ -484,7 +487,7 @@
         "id": "SB530-0043",
         "bill": "SB 530",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(S) Revised Fiscal Note Requested",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": false,
@@ -495,11 +498,77 @@
         "id": "SB530-0044",
         "bill": "SB 530",
         "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB530-0045",
+        "bill": "SB 530",
+        "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB530-0046",
+        "bill": "SB 530",
+        "session": "20231",
+        "action": "(S) Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB530-0047",
+        "bill": "SB 530",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB530-0048",
+        "bill": "SB 530",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB530-0049",
+        "bill": "SB 530",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB530-0050",
+        "bill": "SB 530",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

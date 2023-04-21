@@ -6,7 +6,7 @@
         "action_id": "SB298-0037",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 10,
             "N": 2
@@ -16,10 +16,10 @@
         "url": null,
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0039",
+        "action_id": "SB298-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 8,
             "N": 3
@@ -29,7 +29,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0298FIS230321.pdf",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0040",
+        "action_id": "SB298-0039",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -94,7 +94,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1426&P_SESS=20231",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0044",
+        "action_id": "SB298-0043",
         "type": "floor",
         "seq_number": "S1426",
         "date": "March 27, 2023",
@@ -312,10 +312,10 @@
         "url": null,
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0048",
+        "action_id": "SB298-0047",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -325,7 +325,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0298FCS230331.pdf",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0055",
+        "action_id": "SB298-0054",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -418,7 +418,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1587&P_SESS=20231",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0058",
+        "action_id": "SB298-0057",
         "type": "floor",
         "seq_number": "S1587",
         "date": "April 03, 2023",
@@ -631,5 +631,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "SB 298",
+        "session": "20231",
+        "action_id": "SB298-0062",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 19,
+            "N": 0
+        }
     }
 ]
