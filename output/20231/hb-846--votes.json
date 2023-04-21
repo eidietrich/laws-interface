@@ -935,7 +935,7 @@
         "action_id": "HB846-0037",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 12,
             "N": 0
@@ -948,10 +948,26 @@
         "action_id": "HB846-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 8,
             "N": 0
         }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0846FIS230420.pdf",
+        "bill": "HB 846",
+        "session": "20231",
+        "action_id": "HB846-0039",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 20, 2023",
+        "description": "Sen. Flowers made a Motion that HB 846 Be Concurred In",
+        "totals": {
+            "Y": 0,
+            "N": 0
+        },
+        "votes": []
     }
 ]
