@@ -270,28 +270,18 @@
         "id": "SB445-0024",
         "bill": "SB 445",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "03/02/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB445-0025",
-        "bill": "SB 445",
-        "session": "20231",
         "action": "(S) 2nd Reading Passed",
         "actionUrl": null,
         "date": "03/02/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46227?agendaId=256518"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46227?agendaId=256518",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49042?agendaId=272771"
         ]
     },
     {
-        "id": "SB445-0026",
+        "id": "SB445-0025",
         "bill": "SB 445",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -302,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0027",
+        "id": "SB445-0026",
         "bill": "SB 445",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -313,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0028",
+        "id": "SB445-0027",
         "bill": "SB 445",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -324,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0029",
+        "id": "SB445-0028",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Referred to Committee",
@@ -335,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0030",
+        "id": "SB445-0029",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) First Reading",
@@ -346,7 +336,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0031",
+        "id": "SB445-0030",
         "bill": "SB 445",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -357,7 +347,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0032",
+        "id": "SB445-0031",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Hearing",
@@ -365,10 +355,13 @@
         "date": "04/05/2023",
         "hasVote": false,
         "committee": "(H) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49458?agendaId=271045",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47798?agendaId=269763"
+        ]
     },
     {
-        "id": "SB445-0033",
+        "id": "SB445-0032",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -379,7 +372,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0034",
+        "id": "SB445-0033",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -390,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0035",
+        "id": "SB445-0034",
         "bill": "SB 445",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -401,7 +394,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0036",
+        "id": "SB445-0035",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -412,18 +405,21 @@
         "recordings": []
     },
     {
-        "id": "SB445-0037",
+        "id": "SB445-0036",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46166?agendaId=271836",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49527?agendaId=273764"
+        ]
     },
     {
-        "id": "SB445-0038",
+        "id": "SB445-0037",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -434,7 +430,7 @@
         "recordings": []
     },
     {
-        "id": "SB445-0039",
+        "id": "SB445-0038",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -445,13 +441,46 @@
         "recordings": []
     },
     {
-        "id": "SB445-0040",
+        "id": "SB445-0039",
         "bill": "SB 445",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB445-0040",
+        "bill": "SB 445",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB445-0041",
+        "bill": "SB 445",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB445-0042",
+        "bill": "SB 445",
+        "session": "20231",
+        "action": "(S) 2nd Reading House Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

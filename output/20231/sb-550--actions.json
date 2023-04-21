@@ -339,8 +339,8 @@
         "hasVote": false,
         "committee": "(S) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48211?agendaId=266536",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49347?agendaId=268959"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49347?agendaId=268959",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48211?agendaId=266536"
         ]
     },
     {
@@ -386,6 +386,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49399?agendaId=270434",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45595?agendaId=267916"
         ]
     },
@@ -500,7 +501,9 @@
         "date": "04/13/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272378"
+        ]
     },
     {
         "id": "SB550-0045",
@@ -544,6 +547,39 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(H) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "SB550-0049",
+        "bill": "SB 550",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB550-0050",
+        "bill": "SB 550",
+        "session": "20231",
+        "action": "(H) 2nd Reading Motion to Amend Failed",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB550-0051",
+        "bill": "SB 550",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
