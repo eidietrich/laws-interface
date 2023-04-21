@@ -405,8 +405,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47851?agendaId=261304",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49206?agendaId=261807"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49206?agendaId=261807",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47851?agendaId=261304"
         ]
     },
     {
@@ -463,8 +463,8 @@
         "hasVote": false,
         "committee": "(H) Appropriations",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46332?agendaId=266781",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49358?agendaId=269034"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49358?agendaId=269034",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46332?agendaId=266781"
         ]
     },
     {
@@ -577,6 +577,17 @@
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": false,
+        "committee": "(S) Local Government",
+        "recordings": []
+    },
+    {
+        "id": "HB816-0052",
+        "bill": "HB 816",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
         "committee": "(S) Local Government",
         "recordings": []
     }
