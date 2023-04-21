@@ -10,8 +10,8 @@
     "sponsorParty": "R",
     "sponsorDistrict": "SD 20",
     "statusDate": "04/20/2023",
-    "lastAction": "(H) Committee Report--Bill Concurred as Amended",
-    "billStatus": "In Second House--Out of Committee",
+    "lastAction": "(C) Draft Delivered to Requester",
+    "billStatus": "In Drafting Process",
     "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0095",
     "legalNoteUrl": null,
     "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0095",
@@ -19,6 +19,11 @@
     "billRequestor": "Criminal Justice Oversight Council",
     "primarySponsor": "Barry Usher",
     "subjects": [
+        {
+            "subject": "Appropriations  (see also: State Finance)",
+            "fiscalCode": "Appropriation",
+            "voteReq": "Simple"
+        },
         {
             "subject": "Counties  (see also: Local Government)",
             "fiscalCode": "",
@@ -48,7 +53,7 @@
     "voteRequirements": [
         "Simple"
     ],
-    "deadlineCategory": "General Bills",
-    "transmittalDeadline": "03/03/2023",
-    "amendedReturnDeadline": "04/18/2023"
+    "deadlineCategory": "Appropriation Bills",
+    "transmittalDeadline": "04/04/2023",
+    "amendedReturnDeadline": "04/26/2023"
 }
