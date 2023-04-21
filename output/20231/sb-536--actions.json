@@ -229,8 +229,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45592?agendaId=265926",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49318?agendaId=268285"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49318?agendaId=268285",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45592?agendaId=265926"
         ]
     },
     {
@@ -307,8 +307,9 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49401?agendaId=270558",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46245?agendaId=268068"
         ]
     },
@@ -371,10 +372,34 @@
         "id": "SB536-0033",
         "bill": "SB 536",
         "session": "20231",
+        "action": "(C) Amendments Available",
+        "actionUrl": null,
+        "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB536-0034",
+        "bill": "SB 536",
+        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "04/13/2023",
         "hasVote": false,
+        "committee": "(H) Local Government",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47195?agendaId=272703"
+        ]
+    },
+    {
+        "id": "SB536-0035",
+        "bill": "SB 536",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": true,
         "committee": "(H) Local Government",
         "recordings": []
     }
