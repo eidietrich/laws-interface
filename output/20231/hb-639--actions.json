@@ -254,8 +254,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258828",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256111"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256111",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258828"
         ]
     },
     {
@@ -368,8 +368,9 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49401?agendaId=270561",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46245?agendaId=268072"
         ]
     },
@@ -479,6 +480,17 @@
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB639-0043",
+        "bill": "HB 639",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/21/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

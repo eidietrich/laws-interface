@@ -445,8 +445,9 @@
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49401?agendaId=270572",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46245?agendaId=268084"
         ]
     },
@@ -556,6 +557,17 @@
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB425-0050",
+        "bill": "HB 425",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/21/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
