@@ -513,8 +513,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49134?agendaId=260470",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46234?agendaId=259942"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46234?agendaId=259942",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49134?agendaId=260470"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46154?agendaId=265351",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49294?agendaId=267950"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49294?agendaId=267950",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46154?agendaId=265351"
         ]
     },
     {
@@ -616,6 +616,17 @@
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": false,
+        "committee": "Conference Committee on HB 185",
+        "recordings": []
+    },
+    {
+        "id": "HB185-0055",
+        "bill": "HB 185",
+        "session": "20231",
+        "action": "(H) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": true,
         "committee": "Conference Committee on HB 185",
         "recordings": []
     }
