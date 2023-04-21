@@ -381,8 +381,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263217",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264602"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49247?agendaId=264602",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46239?agendaId=263217"
         ]
     },
     {
@@ -491,6 +491,17 @@
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB310-0044",
+        "bill": "HB 310",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/21/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

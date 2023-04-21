@@ -367,8 +367,8 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48155?agendaId=261345",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49205?agendaId=261986"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49205?agendaId=261986",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48155?agendaId=261345"
         ]
     },
     {
@@ -414,8 +414,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49269?agendaId=265542",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46240?agendaId=264299"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46240?agendaId=264299",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49269?agendaId=265542"
         ]
     },
     {
@@ -439,8 +439,8 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45592?agendaId=265923",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49318?agendaId=268289"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49318?agendaId=268289",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45592?agendaId=265923"
         ]
     },
     {
@@ -524,7 +524,7 @@
         "id": "HB292-0046",
         "bill": "HB 292",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
@@ -535,7 +535,7 @@
         "id": "HB292-0047",
         "bill": "HB 292",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
@@ -546,17 +546,6 @@
         "id": "HB292-0048",
         "bill": "HB 292",
         "session": "20231",
-        "action": "(H) Signed by Speaker",
-        "actionUrl": null,
-        "date": "04/06/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB292-0049",
-        "bill": "HB 292",
-        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "04/12/2023",
@@ -565,12 +554,23 @@
         "recordings": []
     },
     {
-        "id": "HB292-0050",
+        "id": "HB292-0049",
         "bill": "HB 292",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB292-0050",
+        "bill": "HB 292",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/21/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
