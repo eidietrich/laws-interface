@@ -422,8 +422,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49156?agendaId=260728",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47913?agendaId=260289"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47913?agendaId=260289",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49156?agendaId=260728"
         ]
     },
     {
@@ -467,8 +467,11 @@
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46161?agendaId=269927",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49464?agendaId=271320"
+        ]
     },
     {
         "id": "SB214-0042",
@@ -565,6 +568,17 @@
         "action": "(S) Returned from Enrolling",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB214-0051",
+        "bill": "SB 214",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/19/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
