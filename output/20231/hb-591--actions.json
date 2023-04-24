@@ -259,29 +259,18 @@
         "id": "HB591-0023",
         "bill": "HB 591",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "03/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB591-0024",
-        "bill": "HB 591",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "03/01/2023",
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258821",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256017"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46136?agendaId=256017",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49037?agendaId=258821"
         ]
     },
     {
-        "id": "HB591-0025",
+        "id": "HB591-0024",
         "bill": "HB 591",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -292,7 +281,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0026",
+        "id": "HB591-0025",
         "bill": "HB 591",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -303,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0027",
+        "id": "HB591-0026",
         "bill": "HB 591",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -314,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0028",
+        "id": "HB591-0027",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) First Reading",
@@ -325,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0029",
+        "id": "HB591-0028",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -336,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0030",
+        "id": "HB591-0029",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) Hearing",
@@ -345,12 +334,12 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48157?agendaId=263069",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49237?agendaId=264516"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49237?agendaId=264516",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48157?agendaId=263069"
         ]
     },
     {
-        "id": "HB591-0031",
+        "id": "HB591-0030",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -361,7 +350,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0032",
+        "id": "HB591-0031",
         "bill": "HB 591",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -372,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0033",
+        "id": "HB591-0032",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -383,7 +372,7 @@
         "recordings": []
     },
     {
-        "id": "HB591-0034",
+        "id": "HB591-0033",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -394,18 +383,20 @@
         "recordings": []
     },
     {
-        "id": "HB591-0035",
+        "id": "HB591-0034",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46255?agendaId=273029"
+        ]
     },
     {
-        "id": "HB591-0036",
+        "id": "HB591-0035",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -416,13 +407,35 @@
         "recordings": []
     },
     {
-        "id": "HB591-0037",
+        "id": "HB591-0036",
         "bill": "HB 591",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB591-0037",
+        "bill": "HB 591",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB591-0038",
+        "bill": "HB 591",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/24/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

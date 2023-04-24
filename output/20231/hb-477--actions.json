@@ -270,17 +270,6 @@
         "id": "HB477-0024",
         "bill": "HB 477",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "03/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB477-0025",
-        "bill": "HB 477",
-        "session": "20231",
         "action": "(H) 2nd Reading Passed",
         "actionUrl": null,
         "date": "03/01/2023",
@@ -292,7 +281,7 @@
         ]
     },
     {
-        "id": "HB477-0026",
+        "id": "HB477-0025",
         "bill": "HB 477",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -303,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0027",
+        "id": "HB477-0026",
         "bill": "HB 477",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -314,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0028",
+        "id": "HB477-0027",
         "bill": "HB 477",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -325,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0029",
+        "id": "HB477-0028",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) First Reading",
@@ -336,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0030",
+        "id": "HB477-0029",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -347,7 +336,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0031",
+        "id": "HB477-0030",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Hearing",
@@ -356,11 +345,12 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49396?agendaId=270452",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48163?agendaId=267854"
         ]
     },
     {
-        "id": "HB477-0032",
+        "id": "HB477-0031",
         "bill": "HB 477",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -371,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0033",
+        "id": "HB477-0032",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -382,7 +372,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0034",
+        "id": "HB477-0033",
         "bill": "HB 477",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -393,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0035",
+        "id": "HB477-0034",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -404,7 +394,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0036",
+        "id": "HB477-0035",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -415,18 +405,20 @@
         "recordings": []
     },
     {
-        "id": "HB477-0037",
+        "id": "HB477-0036",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/13/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46254?agendaId=272507"
+        ]
     },
     {
-        "id": "HB477-0038",
+        "id": "HB477-0037",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -437,7 +429,7 @@
         "recordings": []
     },
     {
-        "id": "HB477-0039",
+        "id": "HB477-0038",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -448,13 +440,35 @@
         "recordings": []
     },
     {
-        "id": "HB477-0040",
+        "id": "HB477-0039",
         "bill": "HB 477",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB477-0040",
+        "bill": "HB 477",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB477-0041",
+        "bill": "HB 477",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/24/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
