@@ -1311,5 +1311,98 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0544FCS230419.pdf",
+        "bill": "HB 544",
+        "session": "20231",
+        "action_id": "HB544-0045",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 19, 2023",
+        "description": "Sen. Glimm made a Motion that HB 544 Be Concurred In",
+        "totals": {
+            "Y": 13,
+            "N": 6
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "N"
+            },
+            {
+                "name": "Lenz, Dennis;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            }
+        ]
     }
 ]
