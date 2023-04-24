@@ -265,8 +265,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46145?agendaId=258281",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49093?agendaId=258994"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49093?agendaId=258994",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46145?agendaId=258281"
         ]
     },
     {
@@ -334,8 +334,8 @@
         "hasVote": false,
         "committee": "(S) Energy and Telecommunications",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47049?agendaId=266355",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49336?agendaId=268403"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49336?agendaId=268403",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47049?agendaId=266355"
         ]
     },
     {
@@ -379,8 +379,11 @@
         "actionUrl": null,
         "date": "04/11/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46252?agendaId=271141",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49564?agendaId=273142"
+        ]
     },
     {
         "id": "HJ6-0034",
@@ -444,6 +447,39 @@
         "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/17/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ6-0040",
+        "bill": "HJ 6",
+        "session": "20231",
+        "action": "(H) Signed by Speaker",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ6-0041",
+        "bill": "HJ 6",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ6-0042",
+        "bill": "HJ 6",
+        "session": "20231",
+        "action": "(H) Filed with Secretary of State",
+        "actionUrl": null,
+        "date": "04/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
