@@ -915,5 +915,71 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0914LOS230421.pdf",
+        "bill": "HB 914",
+        "session": "20231",
+        "action_id": "HB914-0036",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 21, 2023",
+        "description": "Sen. Zolnikov made a Motion that HB 914 Be Concurred In as Amended",
+        "totals": {
+            "Y": 6,
+            "N": 3
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "N"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "N"
+            },
+            {
+                "name": "Friedel, Chris;byproxy",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": null,
+        "bill": "HB 914",
+        "session": "20231",
+        "action_id": "HB914-0039",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 6,
+            "N": 4
+        }
     }
 ]
