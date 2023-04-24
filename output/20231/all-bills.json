@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
+            "3/4 of Each House",
             "2/3 of Each House",
-            "3/4 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -14234,8 +14234,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33737,8 +33737,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -42261,8 +42261,8 @@
         "sponsor": "Brad Barker",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 58",
-        "statusDate": "04/21/2023; 12:00 PM, Rm 472",
-        "lastAction": "(H) Hearing -- (H) Local Government",
+        "statusDate": "04/21/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Local Government",
         "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -42715,6 +42715,55 @@
         "amendedReturnDeadline": "05/06/2023"
     },
     {
+        "key": "HJ 34",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=34&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HJ0034.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HJ0034.pdf",
+        "lc": "LC3530",
+        "title": "Interim study of short term rentals",
+        "sponsor": "Sherry Essmann",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 52",
+        "statusDate": "04/21/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Local Government",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Sherry Essmann",
+        "subjects": [
+            {
+                "subject": "Housing",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature, Interim Studies",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Local Government  (see also: City Subjects; County Subjects)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Taxation (Generally)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Interim Study Resolutions",
+        "transmittalDeadline": "04/28/2023",
+        "amendedReturnDeadline": "05/06/2023"
+    },
+    {
         "key": "HJ 35",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=35&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
@@ -42886,9 +42935,9 @@
         "sponsor": "Steve Gist",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 25",
-        "statusDate": "04/21/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Natural Resources",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -42925,9 +42974,9 @@
         "sponsor": "Dave Fern",
         "sponsorParty": "D",
         "sponsorDistrict": "HD 5",
-        "statusDate": "04/21/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Energy, Technology and Federal Relations",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -42964,9 +43013,9 @@
         "sponsor": "Tanner Smith",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 11",
-        "statusDate": "04/21/2023",
-        "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Referred to Committee -- (H) Human Services",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -48119,9 +48168,9 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "04/21/2023",
-        "lastAction": "(H) Conference Committee Appointed",
-        "billStatus": "In Conference or Free Conference Committee Process",
+        "statusDate": "04/25/2023; 12:00 PM, Rm 350",
+        "lastAction": "(S) Hearing -- Conference Committee on SB 116",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=SB0116",
@@ -50273,8 +50322,8 @@
         "sponsor": "Steve Fitzpatrick",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 10",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50400,8 +50449,8 @@
         "sponsor": "Forrest Mandeville",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 29",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50512,8 +50561,8 @@
         "sponsor": "Kenneth Bogner",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 19",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50551,8 +50600,8 @@
         "sponsor": "Wendy McKamey",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 12",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50678,8 +50727,8 @@
         "sponsor": "Daniel Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 22",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -50732,8 +50781,8 @@
         "sponsor": "Daniel Zolnikov",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 22",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/SB0178",
         "legalNoteUrl": null,
@@ -50864,8 +50913,8 @@
         "sponsor": "Dennis R Lenz",
         "sponsorParty": "R",
         "sponsorDistrict": "SD 27",
-        "statusDate": "04/19/2023",
-        "lastAction": "(S) Signed by President",
+        "statusDate": "04/24/2023",
+        "lastAction": "(H) Signed by Speaker",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
@@ -57512,8 +57561,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -65352,8 +65401,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
