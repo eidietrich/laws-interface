@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48486?agendaId=259229",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46465?agendaId=249562"
         ]
     },
@@ -297,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46120?agendaId=251288"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46120?agendaId=251288",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48622?agendaId=262695"
         ]
     },
     {
@@ -364,7 +366,10 @@
         "date": "03/22/2023",
         "hasVote": false,
         "committee": "(S) Public Health, Welfare and Safety",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49232?agendaId=263152",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46709?agendaId=262270"
+        ]
     },
     {
         "id": "HB312-0033",
@@ -373,6 +378,17 @@
         "action": "(S) Tabled in Committee",
         "actionUrl": null,
         "date": "03/24/2023",
+        "hasVote": true,
+        "committee": "(S) Public Health, Welfare and Safety",
+        "recordings": []
+    },
+    {
+        "id": "HB312-0034",
+        "bill": "HB 312",
+        "session": "20231",
+        "action": "(S) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "04/24/2023",
         "hasVote": true,
         "committee": "(S) Public Health, Welfare and Safety",
         "recordings": []
