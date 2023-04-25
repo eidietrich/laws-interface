@@ -997,7 +997,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2318&P_SESS=20231",
         "bill": "HB 517",
         "session": "20231",
-        "action_id": "HB517-0034",
+        "action_id": "HB517-0033",
         "type": "floor",
         "seq_number": "S2318",
         "date": "April 19, 2023",
@@ -1215,15 +1215,15 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2319&P_SESS=20231",
         "bill": "HB 517",
         "session": "20231",
-        "action_id": "HB517-0035",
+        "action_id": "HB517-0034",
         "type": "floor",
         "seq_number": "S2319",
         "date": "April 19, 2023",
-        "description": "Do Concur As Amended",
+        "description": "AMD Do Adopt-HB0517.002.001 Regier K",
         "totals": {
-            "Y": 28,
-            "N": 22,
-            "E": 0,
+            "Y": 34,
+            "N": 14,
+            "E": 2,
             "A": 0
         },
         "votes": [
@@ -1241,7 +1241,7 @@
             },
             {
                 "name": "Sales, Walt",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Beard, Becky",
@@ -1257,7 +1257,7 @@
             },
             {
                 "name": "Salomon, Daniel",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Bogner, Kenneth",
@@ -1273,7 +1273,7 @@
             },
             {
                 "name": "Small, Jason",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Boldman, Ellie",
@@ -1289,7 +1289,7 @@
             },
             {
                 "name": "Tempel, Russel (Russ)",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Brown, Bob",
@@ -1329,7 +1329,7 @@
             },
             {
                 "name": "Gross, Jen",
-                "vote": "N"
+                "vote": "E"
             },
             {
                 "name": "Molnar, Brad",
@@ -1385,15 +1385,15 @@
             },
             {
                 "name": "Welborn, Jeffrey",
-                "vote": "N"
-            },
-            {
-                "name": "Emrich, Daniel",
                 "vote": "Y"
             },
             {
+                "name": "Emrich, Daniel",
+                "vote": "E"
+            },
+            {
                 "name": "Kelker, Kathy",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Olsen, Andrea",
@@ -1405,7 +1405,7 @@
             },
             {
                 "name": "Esp, John",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Lang, Mike",
@@ -1433,7 +1433,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2413&P_SESS=20231",
         "bill": "HB 517",
         "session": "20231",
-        "action_id": "HB517-0038",
+        "action_id": "HB517-0037",
         "type": "floor",
         "seq_number": "S2413",
         "date": "April 21, 2023",
@@ -1651,15 +1651,15 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2452&P_SESS=20231",
         "bill": "HB 517",
         "session": "20231",
-        "action_id": "HB517-0039",
+        "action_id": "HB517-0038",
         "type": "floor",
         "seq_number": "S2452",
-        "date": "April 24, 2023",
-        "description": "ReconsAction -Fitzpatrick",
+        "date": "April 21, 2023",
+        "description": "Do Concur",
         "totals": {
-            "Y": 26,
+            "Y": 27,
             "N": 23,
-            "E": 1,
+            "E": 0,
             "A": 0
         },
         "votes": [
@@ -1773,7 +1773,7 @@
             },
             {
                 "name": "Vance, Shelley",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Dunwell, Mary Ann",
@@ -1825,7 +1825,7 @@
             },
             {
                 "name": "Emrich, Daniel",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Kelker, Kathy",
@@ -1841,7 +1841,7 @@
             },
             {
                 "name": "Esp, John",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Lang, Mike",
@@ -1869,7 +1869,7 @@
         "url": null,
         "bill": "HB 517",
         "session": "20231",
-        "action_id": "HB517-0041",
+        "action_id": "HB517-0040",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
