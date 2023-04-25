@@ -1052,7 +1052,7 @@
         "action_id": "HB816-0052",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 8,
             "N": 1
@@ -1065,10 +1065,63 @@
         "action_id": "HB816-0053",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 6,
             "N": 0
         }
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0816LOS230424.pdf",
+        "bill": "HB 816",
+        "session": "20231",
+        "action_id": "HB816-0054",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 24, 2023",
+        "description": "Sen. Bogner made a Motion that HB 816 Be Concurred In as Amended",
+        "totals": {
+            "Y": 9,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]
