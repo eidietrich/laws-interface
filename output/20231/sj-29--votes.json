@@ -1,15 +1,55 @@
 [
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SJ0029LOS230424.pdf",
         "bill": "SJ 29",
         "session": "20231",
         "action_id": "SJ29-0017",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "April 24, 2023",
+        "description": "Sen. Bogner made a Motion that SJ 29 Do Pass",
         "totals": {
             "Y": 9,
             "N": 0
-        }
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Trebas, Jeremy",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Zolnikov, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]
