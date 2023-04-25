@@ -342,7 +342,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268582"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46158?agendaId=268582",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49407?agendaId=270536"
         ]
     },
     {
@@ -420,7 +421,10 @@
         "date": "04/07/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48218?agendaId=270650",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49506?agendaId=272852"
+        ]
     },
     {
         "id": "HB925-0038",
@@ -453,6 +457,116 @@
         "date": "04/17/2023",
         "hasVote": false,
         "committee": "(S) Taxation",
+        "recordings": []
+    },
+    {
+        "id": "HB925-0041",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0042",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Consideration",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0043",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0044",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0045",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0046",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/25/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0047",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/25/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0048",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/25/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0049",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concur as Amended Motion Failed",
+        "actionUrl": null,
+        "date": "04/25/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB925-0050",
+        "bill": "HB 925",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "04/25/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
