@@ -1747,5 +1747,30 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2469&P_SESS=20231",
+        "bill": "HB 971",
+        "session": "20231",
+        "action_id": "HB971-0048",
+        "type": "floor",
+        "totals": {
+            "Y": 35,
+            "N": 14
+        },
+        "error": "Missing vote page"
+    },
+    {
+        "url": null,
+        "bill": "HB 971",
+        "session": "20231",
+        "action_id": "HB971-0053",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 7,
+            "N": 4
+        }
     }
 ]

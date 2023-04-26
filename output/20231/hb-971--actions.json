@@ -536,7 +536,7 @@
         "action": "(S) Rules Suspended to Accept Late Transmittal of Bill",
         "actionUrl": null,
         "date": "04/24/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -566,10 +566,32 @@
         "id": "HB971-0051",
         "bill": "HB 971",
         "session": "20231",
+        "action": "(C) Draft Delivered to Requester",
+        "actionUrl": null,
+        "date": "04/25/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB971-0052",
+        "bill": "HB 971",
+        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB971-0053",
+        "bill": "HB 971",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
         "committee": "(S) Judiciary",
         "recordings": []
     }
