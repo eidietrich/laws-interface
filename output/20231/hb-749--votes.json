@@ -1287,10 +1287,23 @@
         "action_id": "HB749-0047",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 0,
             "N": 19
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 749",
+        "session": "20231",
+        "action_id": "HB749-0048",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 17,
+            "N": 0
         }
     }
 ]

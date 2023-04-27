@@ -458,6 +458,7 @@
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49579?agendaId=274839",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46875?agendaId=273115"
         ]
     },
@@ -502,8 +503,11 @@
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49637?agendaId=275145",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46257?agendaId=273928"
+        ]
     },
     {
         "id": "HB749-0045",
@@ -525,7 +529,10 @@
         "date": "04/20/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49669?agendaId=276549",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45609?agendaId=274899"
+        ]
     },
     {
         "id": "HB749-0047",
@@ -534,6 +541,17 @@
         "action": "(S) Tabled in Committee",
         "actionUrl": null,
         "date": "04/20/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB749-0048",
+        "bill": "HB 749",
+        "session": "20231",
+        "action": "(S) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "04/27/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []

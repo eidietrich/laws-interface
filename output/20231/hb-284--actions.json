@@ -425,8 +425,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49463?agendaId=271379",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46248?agendaId=269959"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46248?agendaId=269959",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49463?agendaId=271379"
         ]
     },
     {
@@ -483,7 +483,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46167?agendaId=272455"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46167?agendaId=272455",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49552?agendaId=274128"
         ]
     },
     {
@@ -512,9 +513,9 @@
         "id": "HB284-0045",
         "bill": "HB 284",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(H) Sent to Enrolling",
         "actionUrl": null,
-        "date": "04/18/2023",
+        "date": "04/14/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -570,6 +571,17 @@
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB284-0051",
+        "bill": "HB 284",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/27/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
