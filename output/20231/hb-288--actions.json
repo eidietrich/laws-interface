@@ -493,7 +493,10 @@
         "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49657?agendaId=276235",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46877?agendaId=274510"
+        ]
     },
     {
         "id": "HB288-0044",
@@ -558,8 +561,11 @@
         "actionUrl": null,
         "date": "04/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49713?agendaId=275980",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46260?agendaId=275722"
+        ]
     },
     {
         "id": "HB288-0050",
@@ -635,6 +641,19 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45613?agendaId=277003"
+        ]
+    },
+    {
+        "id": "HB288-0057",
+        "bill": "HB 288",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
     }
