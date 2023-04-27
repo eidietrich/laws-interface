@@ -470,8 +470,11 @@
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49637?agendaId=275131",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46257?agendaId=273919"
+        ]
     },
     {
         "id": "HB403-0042",
@@ -493,7 +496,10 @@
         "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49641?agendaId=276005",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45608?agendaId=274342"
+        ]
     },
     {
         "id": "HB403-0044",
@@ -502,6 +508,17 @@
         "action": "(S) Tabled in Committee",
         "actionUrl": null,
         "date": "04/19/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB403-0045",
+        "bill": "HB 403",
+        "session": "20231",
+        "action": "(S) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "04/26/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
         "recordings": []
