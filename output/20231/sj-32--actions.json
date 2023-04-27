@@ -206,7 +206,9 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47163?agendaId=276831"
+        ]
     },
     {
         "id": "SJ32-0019",
@@ -228,6 +230,28 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "(S) Fish and Game",
+        "recordings": []
+    },
+    {
+        "id": "SJ32-0021",
+        "bill": "SJ 32",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ32-0022",
+        "bill": "SJ 32",
+        "session": "20231",
+        "action": "(S) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

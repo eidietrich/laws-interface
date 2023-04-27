@@ -486,6 +486,7 @@
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49605?agendaId=275231",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49606?agendaId=273865"
         ]
     },
@@ -564,7 +565,10 @@
         "date": "04/24/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49746?agendaId=276936",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49730?agendaId=276105"
+        ]
     },
     {
         "id": "HB562-0050",
@@ -607,8 +611,10 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46263?agendaId=277290"
+        ]
     },
     {
         "id": "HB562-0054",
@@ -617,6 +623,17 @@
         "action": "(S) 2nd Reading Indefinitely Postponed",
         "actionUrl": null,
         "date": "04/26/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB562-0055",
+        "bill": "HB 562",
+        "session": "20231",
+        "action": "(S) Reconsidered Previous Action; Remains in 2nd Reading Process",
+        "actionUrl": null,
+        "date": "04/27/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
