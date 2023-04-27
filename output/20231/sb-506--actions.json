@@ -458,7 +458,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272374"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272374",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49548?agendaId=274056"
         ]
     },
     {
@@ -487,26 +488,18 @@
         "id": "SB506-0043",
         "bill": "SB 506",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/19/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB506-0044",
-        "bill": "SB 506",
-        "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49644?agendaId=275458",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46171?agendaId=274401"
+        ]
     },
     {
-        "id": "SB506-0045",
+        "id": "SB506-0044",
         "bill": "SB 506",
         "session": "20231",
         "action": "(H) Rereferred to Committee",
@@ -517,7 +510,7 @@
         "recordings": []
     },
     {
-        "id": "SB506-0046",
+        "id": "SB506-0045",
         "bill": "SB 506",
         "session": "20231",
         "action": "(H) Hearing",
@@ -528,7 +521,7 @@
         "recordings": []
     },
     {
-        "id": "SB506-0047",
+        "id": "SB506-0046",
         "bill": "SB 506",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -539,7 +532,7 @@
         "recordings": []
     },
     {
-        "id": "SB506-0048",
+        "id": "SB506-0047",
         "bill": "SB 506",
         "session": "20231",
         "action": "(H) Tabled in Committee",
@@ -550,7 +543,7 @@
         "recordings": []
     },
     {
-        "id": "SB506-0049",
+        "id": "SB506-0048",
         "bill": "SB 506",
         "session": "20231",
         "action": "(H) Taken from Table in Committee",
@@ -561,7 +554,7 @@
         "recordings": []
     },
     {
-        "id": "SB506-0050",
+        "id": "SB506-0049",
         "bill": "SB 506",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -572,7 +565,7 @@
         "recordings": []
     },
     {
-        "id": "SB506-0051",
+        "id": "SB506-0050",
         "bill": "SB 506",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -583,13 +576,46 @@
         "recordings": []
     },
     {
-        "id": "SB506-0052",
+        "id": "SB506-0051",
         "bill": "SB 506",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/21/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0052",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0053",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB506-0054",
+        "bill": "SB 506",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
