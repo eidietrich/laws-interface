@@ -228,7 +228,10 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": "(H) Energy, Technology and Federal Relations",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49759?agendaId=276977",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49748?agendaId=276695"
+        ]
     },
     {
         "id": "HJ26-0021",
@@ -261,6 +264,39 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "(H) Energy, Technology and Federal Relations",
+        "recordings": []
+    },
+    {
+        "id": "HJ26-0024",
+        "bill": "HJ 26",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ26-0025",
+        "bill": "HJ 26",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HJ26-0026",
+        "bill": "HJ 26",
+        "session": "20231",
+        "action": "(H) 2nd Reading Passed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
