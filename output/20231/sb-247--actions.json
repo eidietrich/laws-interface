@@ -690,9 +690,10 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46253?agendaId=272301"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46253?agendaId=272301",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49526?agendaId=273903"
         ]
     },
     {
@@ -725,6 +726,28 @@
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": false,
+        "committee": "Conference Committee on SB 247",
+        "recordings": []
+    },
+    {
+        "id": "SB247-0065",
+        "bill": "SB 247",
+        "session": "20231",
+        "action": "(S) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": "Conference Committee on SB 247",
+        "recordings": []
+    },
+    {
+        "id": "SB247-0066",
+        "bill": "SB 247",
+        "session": "20231",
+        "action": "(H) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": "Conference Committee on SB 247",
         "recordings": []
     }
