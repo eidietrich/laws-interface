@@ -458,6 +458,7 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49568?agendaId=274361",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47866?agendaId=272949"
         ]
     },
@@ -487,26 +488,18 @@
         "id": "SB510-0043",
         "bill": "SB 510",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/20/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB510-0044",
-        "bill": "SB 510",
-        "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49682?agendaId=276136",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46172?agendaId=274961"
+        ]
     },
     {
-        "id": "SB510-0045",
+        "id": "SB510-0044",
         "bill": "SB 510",
         "session": "20231",
         "action": "(H) Rereferred to Committee",
@@ -517,7 +510,7 @@
         "recordings": []
     },
     {
-        "id": "SB510-0046",
+        "id": "SB510-0045",
         "bill": "SB 510",
         "session": "20231",
         "action": "(H) Tabled in Committee",
@@ -528,7 +521,7 @@
         "recordings": []
     },
     {
-        "id": "SB510-0047",
+        "id": "SB510-0046",
         "bill": "SB 510",
         "session": "20231",
         "action": "(H) Taken from Table in Committee",
@@ -539,7 +532,7 @@
         "recordings": []
     },
     {
-        "id": "SB510-0048",
+        "id": "SB510-0047",
         "bill": "SB 510",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -550,7 +543,7 @@
         "recordings": []
     },
     {
-        "id": "SB510-0049",
+        "id": "SB510-0048",
         "bill": "SB 510",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -561,7 +554,7 @@
         "recordings": []
     },
     {
-        "id": "SB510-0050",
+        "id": "SB510-0049",
         "bill": "SB 510",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -569,6 +562,39 @@
         "date": "04/24/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB510-0050",
+        "bill": "SB 510",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB510-0051",
+        "bill": "SB 510",
+        "session": "20231",
+        "action": "(H) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB510-0052",
+        "bill": "SB 510",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
