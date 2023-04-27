@@ -370,8 +370,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46247?agendaId=269390",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49440?agendaId=270987"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49440?agendaId=270987",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46247?agendaId=269390"
         ]
     },
     {
@@ -433,7 +433,7 @@
         "id": "HB371-0038",
         "bill": "HB 371",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": false,
@@ -444,17 +444,6 @@
         "id": "HB371-0039",
         "bill": "HB 371",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/14/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB371-0040",
-        "bill": "HB 371",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/20/2023",
@@ -463,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HB371-0041",
+        "id": "HB371-0040",
         "bill": "HB 371",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -474,12 +463,23 @@
         "recordings": []
     },
     {
-        "id": "HB371-0042",
+        "id": "HB371-0041",
         "bill": "HB 371",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB371-0042",
+        "bill": "HB 371",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/27/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

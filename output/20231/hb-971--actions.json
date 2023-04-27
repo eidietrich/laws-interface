@@ -405,6 +405,7 @@
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49610?agendaId=275109",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46608?agendaId=273490"
         ]
     },
@@ -482,8 +483,11 @@
         "actionUrl": null,
         "date": "04/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49720?agendaId=276026",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46173?agendaId=275563"
+        ]
     },
     {
         "id": "HB971-0044",
@@ -582,7 +586,9 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48000?agendaId=277045"
+        ]
     },
     {
         "id": "HB971-0053",
@@ -604,6 +610,39 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
+        "recordings": []
+    },
+    {
+        "id": "HB971-0055",
+        "bill": "HB 971",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB971-0056",
+        "bill": "HB 971",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Failed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB971-0057",
+        "bill": "HB 971",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

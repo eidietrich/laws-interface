@@ -482,7 +482,10 @@
         "date": "04/20/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49669?agendaId=276553",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45609?agendaId=274903"
+        ]
     },
     {
         "id": "HB952-0043",
@@ -535,6 +538,30 @@
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/26/2023",
+        "hasVote": true,
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46263?agendaId=277294"
+        ]
+    },
+    {
+        "id": "HB952-0048",
+        "bill": "HB 952",
+        "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB952-0049",
+        "bill": "HB 952",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/27/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
