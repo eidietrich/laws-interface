@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -398,9 +398,9 @@
         "sponsor": "Mike Hopkins",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 92",
-        "statusDate": "04/24/2023",
-        "lastAction": "(S) Returned to House with Amendments",
-        "billStatus": "Returned to First House with Second House Amendments",
+        "statusDate": "04/27/2023",
+        "lastAction": "(H) 2nd Reading Senate Amendments Not Concurred",
+        "billStatus": "In Process to Consider Second House Amendments",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0010",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0010",
@@ -434,7 +434,7 @@
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "amendedReturnDeadline": "04/28/2023"
     },
     {
         "key": "HB 11",
@@ -4143,9 +4143,9 @@
         "sponsor": "Jane Gillette",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 64",
-        "statusDate": "04/24/2023",
-        "lastAction": "(S) Returned to House with Amendments",
-        "billStatus": "Returned to First House with Second House Amendments",
+        "statusDate": "04/27/2023",
+        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
+        "billStatus": "In Process to Consider Second House Amendments",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0101",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0101",
@@ -4179,7 +4179,7 @@
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "amendedReturnDeadline": "04/28/2023"
     },
     {
         "key": "HB 102",
@@ -5568,9 +5568,9 @@
         "sponsor": "Marta Bertoglio",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 75",
-        "statusDate": "04/21/2023",
-        "lastAction": "(S) Returned to House with Amendments",
-        "billStatus": "Returned to First House with Second House Amendments",
+        "statusDate": "04/27/2023",
+        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
+        "billStatus": "In Process to Consider Second House Amendments",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0136",
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0136",
@@ -5604,7 +5604,7 @@
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
-        "amendedReturnDeadline": "04/26/2023"
+        "amendedReturnDeadline": "04/28/2023"
     },
     {
         "key": "HB 137",
@@ -23395,9 +23395,9 @@
         "sponsor": "Marty Malone",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 59",
-        "statusDate": "04/18/2023",
-        "lastAction": "(S) Returned to House with Amendments",
-        "billStatus": "Returned to First House with Second House Amendments",
+        "statusDate": "04/27/2023",
+        "lastAction": "(H) 2nd Reading Senate Amendments Concurred",
+        "billStatus": "In Process to Consider Second House Amendments",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0561",
@@ -24805,9 +24805,9 @@
         "sponsor": "Denley M Loge",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 14",
-        "statusDate": "04/21/2023",
-        "lastAction": "(H) Returned with Governor's Proposed Amendments",
-        "billStatus": "Returned With Governor's Proposed Amendments or Line Item Veto",
+        "statusDate": "04/27/2023",
+        "lastAction": "(H) 2nd Reading Governor's Proposed Amendments Adopted",
+        "billStatus": "In Process to Consider Governor's Proposed Amendments or Line Item Veto",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0596",
@@ -42728,6 +42728,45 @@
         "deadlineCategory": "Interim Study Resolutions",
         "transmittalDeadline": "04/28/2023",
         "amendedReturnDeadline": "05/06/2023"
+    },
+    {
+        "key": "HJ 33",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=33&P_BLTP_BILL_TYP_CD=HJ&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HJ0033.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HJ0033.pdf",
+        "lc": "LC3816",
+        "title": "Study of abortion complications and abortion pill side effects",
+        "sponsor": "Lola Sheldon-Galloway",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 22",
+        "statusDate": "04/27/2023",
+        "lastAction": "(H) Committee Executive Action--Bill Passed -- (H) Business and Labor",
+        "billStatus": "In First House Committee--Nontabled",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Lola Sheldon-Galloway",
+        "subjects": [
+            {
+                "subject": "Abortion",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature, Interim Studies",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "Interim Study Resolutions",
+        "transmittalDeadline": "04/28/2023",
+        "amendedReturnDeadline": "05/05/2023"
     },
     {
         "key": "HJ 34",
@@ -65426,8 +65465,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
