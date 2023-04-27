@@ -574,6 +574,7 @@
         "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49578?agendaId=274654",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49550?agendaId=273124"
         ]
     },
@@ -651,8 +652,11 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49743?agendaId=276873",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49742?agendaId=276603"
+        ]
     },
     {
         "id": "HB16-0058",
@@ -674,6 +678,17 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB16-0060",
+        "bill": "HB 16",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": "Conference Committee on HB 16",
         "recordings": []
     }
 ]
