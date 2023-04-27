@@ -562,17 +562,6 @@
         "id": "HB479-0050",
         "bill": "HB 479",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/18/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB479-0051",
-        "bill": "HB 479",
-        "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Failed",
         "actionUrl": null,
         "date": "04/18/2023",
@@ -581,18 +570,21 @@
         "recordings": []
     },
     {
-        "id": "HB479-0052",
+        "id": "HB479-0051",
         "bill": "HB 479",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49637?agendaId=275125",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46257?agendaId=273930"
+        ]
     },
     {
-        "id": "HB479-0053",
+        "id": "HB479-0052",
         "bill": "HB 479",
         "session": "20231",
         "action": "(S) Rereferred to Committee",
@@ -603,7 +595,7 @@
         "recordings": []
     },
     {
-        "id": "HB479-0054",
+        "id": "HB479-0053",
         "bill": "HB 479",
         "session": "20231",
         "action": "(S) Hearing",
@@ -611,10 +603,13 @@
         "date": "04/18/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49616?agendaId=274292",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49631?agendaId=275697"
+        ]
     },
     {
-        "id": "HB479-0055",
+        "id": "HB479-0054",
         "bill": "HB 479",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -625,7 +620,7 @@
         "recordings": []
     },
     {
-        "id": "HB479-0056",
+        "id": "HB479-0055",
         "bill": "HB 479",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -636,7 +631,7 @@
         "recordings": []
     },
     {
-        "id": "HB479-0057",
+        "id": "HB479-0056",
         "bill": "HB 479",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -644,6 +639,83 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB479-0057",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(S) 2nd Reading Pass Consideration",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB479-0058",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB479-0059",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB479-0060",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB479-0061",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(S) 2nd Reading Motion to Amend Carried",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB479-0062",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB479-0063",
+        "bill": "HB 479",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

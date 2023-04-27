@@ -433,7 +433,8 @@
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47125?agendaId=272683"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47125?agendaId=272683",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49563?agendaId=274345"
         ]
     },
     {
@@ -500,7 +501,9 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45613?agendaId=277004"
+        ]
     },
     {
         "id": "HB904-0045",
@@ -511,6 +514,39 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB904-0046",
+        "bill": "HB 904",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB904-0047",
+        "bill": "HB 904",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB904-0048",
+        "bill": "HB 904",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
         "recordings": []
     }
 ]
