@@ -524,7 +524,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272376"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272376",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49548?agendaId=274058"
         ]
     },
     {
@@ -568,8 +569,11 @@
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49682?agendaId=276138",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46172?agendaId=274963"
+        ]
     },
     {
         "id": "SB529-0051",
@@ -619,17 +623,6 @@
         "id": "SB529-0055",
         "bill": "SB 529",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/24/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB529-0056",
-        "bill": "SB 529",
-        "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/24/2023",
@@ -638,7 +631,7 @@
         "recordings": []
     },
     {
-        "id": "SB529-0057",
+        "id": "SB529-0056",
         "bill": "SB 529",
         "session": "20231",
         "action": "(H) Rereferred to Committee",
@@ -649,7 +642,7 @@
         "recordings": []
     },
     {
-        "id": "SB529-0058",
+        "id": "SB529-0057",
         "bill": "SB 529",
         "session": "20231",
         "action": "(H) Hearing",
@@ -660,7 +653,7 @@
         "recordings": []
     },
     {
-        "id": "SB529-0059",
+        "id": "SB529-0058",
         "bill": "SB 529",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -671,7 +664,7 @@
         "recordings": []
     },
     {
-        "id": "SB529-0060",
+        "id": "SB529-0059",
         "bill": "SB 529",
         "session": "20231",
         "action": "(S) Revised Fiscal Note Requested",
@@ -682,7 +675,7 @@
         "recordings": []
     },
     {
-        "id": "SB529-0061",
+        "id": "SB529-0060",
         "bill": "SB 529",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -693,13 +686,35 @@
         "recordings": []
     },
     {
-        "id": "SB529-0062",
+        "id": "SB529-0061",
         "bill": "SB 529",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB529-0062",
+        "bill": "SB 529",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB529-0063",
+        "bill": "SB 529",
+        "session": "20231",
+        "action": "(H) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
