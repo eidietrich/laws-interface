@@ -435,7 +435,10 @@
         "date": "04/24/2023",
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49726?agendaId=276424",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49716?agendaId=275811"
+        ]
     },
     {
         "id": "HB914-0039",
@@ -452,11 +455,11 @@
         "id": "HB914-0040",
         "bill": "HB 914",
         "session": "20231",
-        "action": "(S) Committee Report--Bill Concurred as Amended",
+        "action": "(H) Revised Fiscal Note Received",
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": false,
-        "committee": "(S) Business, Labor, and Economic Affairs",
+        "committee": null,
         "recordings": []
     },
     {
@@ -467,7 +470,7 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": false,
-        "committee": "(S) Business, Labor, and Economic Affairs",
+        "committee": "(S) Local Government",
         "recordings": []
     },
     {
@@ -478,6 +481,72 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB914-0043",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/24/2023",
+        "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "HB914-0044",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB914-0045",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB914-0046",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB914-0047",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concur Motion Failed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB914-0048",
+        "bill": "HB 914",
+        "session": "20231",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

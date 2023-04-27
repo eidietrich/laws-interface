@@ -628,7 +628,10 @@
         "date": "04/20/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49669?agendaId=276552",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45609?agendaId=274898"
+        ]
     },
     {
         "id": "HB648-0056",
@@ -650,6 +653,28 @@
         "date": "04/24/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB648-0058",
+        "bill": "HB 648",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB648-0059",
+        "bill": "HB 648",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
