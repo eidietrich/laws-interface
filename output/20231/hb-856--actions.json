@@ -388,7 +388,10 @@
         "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Legislative Administration",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49596?agendaId=274205",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49635?agendaId=275955"
+        ]
     },
     {
         "id": "HB856-0035",
@@ -410,7 +413,10 @@
         "date": "04/20/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49664?agendaId=275369",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49684?agendaId=276383"
+        ]
     },
     {
         "id": "HB856-0037",
@@ -442,6 +448,28 @@
         "actionUrl": null,
         "date": "04/25/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB856-0040",
+        "bill": "HB 856",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB856-0041",
+        "bill": "HB 856",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
