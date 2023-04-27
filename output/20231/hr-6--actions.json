@@ -349,7 +349,10 @@
         "date": "04/06/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46440?agendaId=270335",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49493?agendaId=272043"
+        ]
     },
     {
         "id": "HR6-0032",
@@ -371,6 +374,28 @@
         "date": "04/14/2023",
         "hasVote": false,
         "committee": "(H) Agriculture",
+        "recordings": []
+    },
+    {
+        "id": "HR6-0034",
+        "bill": "HR 6",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HR6-0035",
+        "bill": "HR 6",
+        "session": "20231",
+        "action": "(H) Resolution Adopted",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
