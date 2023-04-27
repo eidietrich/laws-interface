@@ -295,8 +295,10 @@
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46258?agendaId=274869"
+        ]
     },
     {
         "id": "SJ19-0027",
@@ -351,6 +353,17 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ19-0032",
+        "bill": "SJ 19",
+        "session": "20231",
+        "action": "(H) Hearing",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": "(H) State Administration",
         "recordings": []
     }
 ]
