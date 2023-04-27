@@ -368,8 +368,9 @@
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49575?agendaId=274580",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46255?agendaId=273037"
         ]
     },
@@ -446,6 +447,17 @@
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB488-0040",
+        "bill": "HB 488",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "04/26/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

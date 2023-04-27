@@ -2616,5 +2616,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 55",
+        "session": "20231",
+        "action_id": "HB55-0083",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 11,
+            "N": 8
+        }
     }
 ]

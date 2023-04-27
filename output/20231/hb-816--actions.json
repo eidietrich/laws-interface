@@ -578,7 +578,10 @@
         "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Local Government",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49652?agendaId=276227",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49626?agendaId=274522"
+        ]
     },
     {
         "id": "HB816-0052",
@@ -662,6 +665,28 @@
         "bill": "HB 816",
         "session": "20231",
         "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB816-0060",
+        "bill": "HB 816",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred as Amended",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB816-0061",
+        "bill": "HB 816",
+        "session": "20231",
+        "action": "(S) Committee Report--Bill Concurred as Amended",
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": false,
