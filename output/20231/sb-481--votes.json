@@ -499,7 +499,7 @@
         "action_id": "SB481-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 17,
             "N": 1
@@ -512,7 +512,7 @@
         "action_id": "SB481-0039",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 12,
             "N": 5
@@ -1021,6 +1021,115 @@
             },
             {
                 "name": "Zolnikov, Katie",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0481APH230426.pdf",
+        "bill": "SB 481",
+        "session": "20231",
+        "action_id": "SB481-0047",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 26, 2023",
+        "description": "Rep. Keenan made a Motion that SB 481 Be Concurred In as Amended",
+        "totals": {
+            "Y": 13,
+            "N": 10
+        },
+        "votes": [
+            {
+                "name": "Keenan, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Bedey, David",
+                "vote": "N"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "N"
+            },
+            {
+                "name": "Caferro, Mary",
+                "vote": "N"
+            },
+            {
+                "name": "Kerr-Carpenter, Emma",
+                "vote": "N"
+            },
+            {
+                "name": "Falk, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzpatrick, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "Y"
+            },
+            {
+                "name": "Hamilton, Jim",
+                "vote": "N"
+            },
+            {
+                "name": "Hastings, Naarah",
+                "vote": "Y"
+            },
+            {
+                "name": "Hellegaard, Lyn",
+                "vote": "Y"
+            },
+            {
+                "name": "Hopkins, Mike",
+                "vote": "N"
+            },
+            {
+                "name": "Keogh, Connie",
+                "vote": "N"
+            },
+            {
+                "name": "Mercer, Bill",
+                "vote": "Y"
+            },
+            {
+                "name": "Moore, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Nave, Fiona",
+                "vote": "Y"
+            },
+            {
+                "name": "StewartPeregoy, Sharon",
+                "vote": "N"
+            },
+            {
+                "name": "Read, Joe",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Matt;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Schillinger, Jerry",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul",
+                "vote": "N"
+            },
+            {
+                "name": "WindyBoy, Jonathan",
+                "vote": "N"
+            },
+            {
+                "name": "Jones, Llew",
                 "vote": "Y"
             }
         ]
