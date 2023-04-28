@@ -355,7 +355,10 @@
         "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49641?agendaId=276002",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45608?agendaId=274223"
+        ]
     },
     {
         "id": "HB864-0032",
@@ -409,8 +412,10 @@
         "actionUrl": null,
         "date": "04/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46262?agendaId=276766"
+        ]
     },
     {
         "id": "HB864-0037",
@@ -431,6 +436,17 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB864-0039",
+        "bill": "HB 864",
+        "session": "20231",
+        "action": "(S) Returned to House with Amendments",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

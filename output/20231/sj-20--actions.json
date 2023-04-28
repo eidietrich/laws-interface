@@ -206,7 +206,10 @@
         "date": "04/18/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49634?agendaId=275703",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47126?agendaId=274002"
+        ]
     },
     {
         "id": "SJ20-0019",
@@ -249,8 +252,10 @@
         "actionUrl": null,
         "date": "04/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46262?agendaId=277071"
+        ]
     },
     {
         "id": "SJ20-0023",
@@ -272,6 +277,28 @@
         "date": "04/26/2023",
         "hasVote": true,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ20-0025",
+        "bill": "SJ 20",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ20-0026",
+        "bill": "SJ 20",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": "(H) Transportation",
         "recordings": []
     }
 ]

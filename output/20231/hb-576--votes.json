@@ -1337,7 +1337,7 @@
         "action_id": "HB576-0031",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 2
@@ -1350,7 +1350,7 @@
         "action_id": "HB576-0032",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 6,
             "N": 4
@@ -1857,7 +1857,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2449&P_SESS=20231",
         "bill": "HB 576",
         "session": "20231",
-        "action_id": "HB576-0042",
+        "action_id": "HB576-0041",
         "type": "floor",
         "seq_number": "H2449",
         "date": "April 21, 2023",

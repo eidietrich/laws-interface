@@ -447,6 +447,7 @@
         "hasVote": false,
         "committee": "(S) Education and Cultural Resources",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49579?agendaId=274838",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46875?agendaId=273114"
         ]
     },
@@ -491,8 +492,11 @@
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49637?agendaId=275144",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46257?agendaId=273927"
+        ]
     },
     {
         "id": "HB588-0044",
@@ -514,7 +518,10 @@
         "date": "04/19/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49641?agendaId=276001",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45608?agendaId=274343"
+        ]
     },
     {
         "id": "HB588-0046",
@@ -557,6 +564,17 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB588-0050",
+        "bill": "HB 588",
+        "session": "20231",
+        "action": "(S) Returned to House",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

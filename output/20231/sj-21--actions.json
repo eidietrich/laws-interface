@@ -251,6 +251,7 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49581?agendaId=274830",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46823?agendaId=273104"
         ]
     },
@@ -306,8 +307,10 @@
         "actionUrl": null,
         "date": "04/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46262?agendaId=277073"
+        ]
     },
     {
         "id": "SJ21-0028",
@@ -329,6 +332,28 @@
         "date": "04/26/2023",
         "hasVote": true,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ21-0030",
+        "bill": "SJ 21",
+        "session": "20231",
+        "action": "(S) Transmitted to House",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ21-0031",
+        "bill": "SJ 21",
+        "session": "20231",
+        "action": "(H) Referred to Committee",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": "(H) Local Government",
         "recordings": []
     }
 ]
