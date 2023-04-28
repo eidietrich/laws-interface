@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -14234,8 +14234,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33791,8 +33791,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33942,8 +33942,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 77",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred as Amended",
-        "billStatus": "In Second House--Out of Committee",
+        "lastAction": "(S) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0817",
@@ -40335,8 +40335,8 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 86",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Committee Report--Bill Concurred as Amended",
-        "billStatus": "In Second House--Out of Committee",
+        "lastAction": "(S) 2nd Reading Concurred",
+        "billStatus": "In Second House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0949",
@@ -43445,6 +43445,50 @@
         "deadlineCategory": "No Deadline",
         "transmittalDeadline": "05/05/2023",
         "amendedReturnDeadline": "05/05/2023"
+    },
+    {
+        "key": "HR 10",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=10&P_BLTP_BILL_TYP_CD=HR&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/lchtml/LC3925.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/LC3925.pdf",
+        "lc": "LC3925",
+        "title": "Resolution recognizing the Vatican's repudiation of the Doctrine of Discovery",
+        "sponsor": "Jonathan Windy Boy",
+        "sponsorParty": "D",
+        "sponsorDistrict": "HD 32",
+        "statusDate": "04/28/2023",
+        "lastAction": "(H) Introduced",
+        "billStatus": "In First House--Introduced",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Jonathan Windy Boy",
+        "subjects": [
+            {
+                "subject": "Indians",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Religion",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "SB 1",
@@ -57620,8 +57664,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -69326,7 +69370,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "SD 28",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Committee Report--Bill Passed",
+        "lastAction": "(S) 2nd Reading Passed",
         "billStatus": "In First House--Through 2nd Reading",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
