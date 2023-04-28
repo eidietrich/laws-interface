@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
+            "3/4 of Each House",
             "2/3 of Each House",
-            "Simple",
-            "3/4 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -12815,7 +12815,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 48",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0312",
         "legalNoteUrl": null,
@@ -14541,7 +14541,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 58",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0352",
         "legalNoteUrl": null,
@@ -16316,7 +16316,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 56",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0393",
         "legalNoteUrl": "https://leg.mt.gov/laws/bills/2023/LRC/HB0393",
@@ -34781,7 +34781,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 58",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0833",
         "legalNoteUrl": null,
@@ -36826,7 +36826,7 @@
         "sponsorParty": "R",
         "sponsorDistrict": "HD 44",
         "statusDate": "04/28/2023",
-        "lastAction": "(S) Returned to House",
+        "lastAction": "(H) Sent to Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0874",
         "legalNoteUrl": null,
@@ -43459,7 +43459,7 @@
         "sponsorDistrict": "HD 32",
         "statusDate": "04/28/2023",
         "lastAction": "(H) Introduced",
-        "billStatus": "In First House--Introduced",
+        "billStatus": "In First House Committee--Nontabled",
         "fiscalNotesListUrl": null,
         "legalNoteUrl": null,
         "amendmentListUrl": null,
@@ -65509,8 +65509,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "3/4 of Each House"
+            "3/4 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
