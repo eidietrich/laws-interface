@@ -625,8 +625,8 @@
         "session": "20231",
         "action": "(S) Tabled in Committee",
         "actionUrl": null,
-        "date": "04/27/2023",
-        "hasVote": true,
+        "date": "04/26/2023",
+        "hasVote": false,
         "committee": "(S) Finance and Claims",
         "recordings": []
     },
@@ -635,6 +635,17 @@
         "bill": "HB 649",
         "session": "20231",
         "action": "(S) Taken from Table in Committee",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB649-0057",
+        "bill": "HB 649",
+        "session": "20231",
+        "action": "(S) Tabled in Committee",
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": true,
