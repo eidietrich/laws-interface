@@ -715,8 +715,9 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49612?agendaId=274738",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273841"
         ]
     },
@@ -750,8 +751,11 @@
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49625?agendaId=275033",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46170?agendaId=273946"
+        ]
     },
     {
         "id": "SB99-0067",
@@ -870,6 +874,17 @@
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB99-0078",
+        "bill": "SB 99",
+        "session": "20231",
+        "action": "Chapter Number Assigned",
+        "actionUrl": null,
+        "date": "04/28/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
