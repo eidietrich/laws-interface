@@ -367,8 +367,8 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49438?agendaId=270884",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47987?agendaId=269135"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47987?agendaId=269135",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49438?agendaId=270884"
         ]
     },
     {
@@ -423,8 +423,9 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49612?agendaId=274729",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273842"
         ]
     },
@@ -502,8 +503,11 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49743?agendaId=276916",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49742?agendaId=276646"
+        ]
     },
     {
         "id": "HB359-0045",
@@ -535,6 +539,28 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": "Free Conference Committee on HB 359",
+        "recordings": []
+    },
+    {
+        "id": "HB359-0048",
+        "bill": "HB 359",
+        "session": "20231",
+        "action": "(S) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
+        "committee": "Free Conference Committee on HB 359",
+        "recordings": []
+    },
+    {
+        "id": "HB359-0049",
+        "bill": "HB 359",
+        "session": "20231",
+        "action": "(H) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
         "committee": "Free Conference Committee on HB 359",
         "recordings": []
     }

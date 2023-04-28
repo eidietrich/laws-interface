@@ -380,8 +380,9 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49612?agendaId=274701",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273388"
         ]
     },
@@ -437,8 +438,11 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49743?agendaId=276896",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49742?agendaId=276626"
+        ]
     },
     {
         "id": "HB539-0039",
@@ -470,6 +474,28 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": "Free Conference Committee on HB 539",
+        "recordings": []
+    },
+    {
+        "id": "HB539-0042",
+        "bill": "HB 539",
+        "session": "20231",
+        "action": "(S) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
+        "committee": "Free Conference Committee on HB 539",
+        "recordings": []
+    },
+    {
+        "id": "HB539-0043",
+        "bill": "HB 539",
+        "session": "20231",
+        "action": "(H) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
         "committee": "Free Conference Committee on HB 539",
         "recordings": []
     }

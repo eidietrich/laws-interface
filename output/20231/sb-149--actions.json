@@ -459,8 +459,11 @@
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49675?agendaId=276183",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46259?agendaId=275000"
+        ]
     },
     {
         "id": "SB149-0041",
@@ -514,6 +517,28 @@
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": false,
+        "committee": "Conference Committee on SB 149",
+        "recordings": []
+    },
+    {
+        "id": "SB149-0046",
+        "bill": "SB 149",
+        "session": "20231",
+        "action": "(S) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": "Conference Committee on SB 149",
+        "recordings": []
+    },
+    {
+        "id": "SB149-0047",
+        "bill": "SB 149",
+        "session": "20231",
+        "action": "(H) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": "Conference Committee on SB 149",
         "recordings": []
     }

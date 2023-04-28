@@ -492,8 +492,11 @@
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49658?agendaId=275664",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46258?agendaId=274439"
+        ]
     },
     {
         "id": "SB407-0044",
@@ -525,6 +528,28 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": "Free Conference Committee on SB 407",
+        "recordings": []
+    },
+    {
+        "id": "SB407-0047",
+        "bill": "SB 407",
+        "session": "20231",
+        "action": "(S) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
+        "committee": "Free Conference Committee on SB 407",
+        "recordings": []
+    },
+    {
+        "id": "SB407-0048",
+        "bill": "SB 407",
+        "session": "20231",
+        "action": "(H) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": true,
         "committee": "Free Conference Committee on SB 407",
         "recordings": []
     }
