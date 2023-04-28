@@ -412,22 +412,14 @@
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49675?agendaId=276178",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46259?agendaId=274994"
+        ]
     },
     {
         "id": "HB855-0037",
-        "bill": "HB 855",
-        "session": "20231",
-        "action": "(S) Scheduled for 3rd Reading",
-        "actionUrl": null,
-        "date": "04/21/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB855-0038",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -438,7 +430,7 @@
         "recordings": []
     },
     {
-        "id": "HB855-0039",
+        "id": "HB855-0038",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) Reconsidered Previous Action; Remains in 3rd Reading Process",
@@ -449,7 +441,7 @@
         "recordings": []
     },
     {
-        "id": "HB855-0040",
+        "id": "HB855-0039",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) Taken from 3rd Reading; Placed on 2nd Reading",
@@ -460,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HB855-0041",
+        "id": "HB855-0040",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -471,7 +463,7 @@
         "recordings": []
     },
     {
-        "id": "HB855-0042",
+        "id": "HB855-0041",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) 2nd Reading Pass Consideration",
@@ -482,7 +474,7 @@
         "recordings": []
     },
     {
-        "id": "HB855-0043",
+        "id": "HB855-0042",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -493,13 +485,24 @@
         "recordings": []
     },
     {
-        "id": "HB855-0044",
+        "id": "HB855-0043",
         "bill": "HB 855",
         "session": "20231",
         "action": "(S) 2nd Reading Motion to Amend Carried",
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB855-0044",
+        "bill": "HB 855",
+        "session": "20231",
+        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
@@ -511,17 +514,30 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46263?agendaId=277297"
+        ]
     },
     {
         "id": "HB855-0046",
         "bill": "HB 855",
         "session": "20231",
-        "action": "(C) Printed - New Version Available&nbsp&nbsp",
+        "action": "(S) Scheduled for 3rd Reading",
         "actionUrl": null,
-        "date": "04/26/2023",
+        "date": "04/28/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB855-0047",
+        "bill": "HB 855",
+        "session": "20231",
+        "action": "(S) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

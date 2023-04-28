@@ -436,6 +436,7 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49567?agendaId=274449",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47933?agendaId=272960"
         ]
     },
@@ -546,8 +547,11 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49743?agendaId=276908",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49742?agendaId=276638"
+        ]
     },
     {
         "id": "SB516-0049",
@@ -602,6 +606,28 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "(H) Appropriations",
+        "recordings": []
+    },
+    {
+        "id": "SB516-0054",
+        "bill": "SB 516",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB516-0055",
+        "bill": "SB 516",
+        "session": "20231",
+        "action": "(H) 3rd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]
