@@ -514,8 +514,11 @@
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49625?agendaId=275034",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46170?agendaId=273947"
+        ]
     },
     {
         "id": "HB282-0046",
@@ -547,6 +550,28 @@
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": false,
+        "committee": "Conference Committee on HB 282",
+        "recordings": []
+    },
+    {
+        "id": "HB282-0049",
+        "bill": "HB 282",
+        "session": "20231",
+        "action": "(S) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
+        "committee": "Conference Committee on HB 282",
+        "recordings": []
+    },
+    {
+        "id": "HB282-0050",
+        "bill": "HB 282",
+        "session": "20231",
+        "action": "(H) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": true,
         "committee": "Conference Committee on HB 282",
         "recordings": []
     }
