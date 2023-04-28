@@ -467,9 +467,10 @@
         "actionUrl": null,
         "date": "04/14/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49570?agendaId=273254"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49570?agendaId=273254",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49585?agendaId=274590"
         ]
     },
     {
@@ -513,8 +514,11 @@
         "actionUrl": null,
         "date": "04/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49720?agendaId=276027",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46173?agendaId=275564"
+        ]
     },
     {
         "id": "HB317-0046",
@@ -546,6 +550,28 @@
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": false,
+        "committee": "Conference Committee on HB 317",
+        "recordings": []
+    },
+    {
+        "id": "HB317-0049",
+        "bill": "HB 317",
+        "session": "20231",
+        "action": "(S) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": true,
+        "committee": "Conference Committee on HB 317",
+        "recordings": []
+    },
+    {
+        "id": "HB317-0050",
+        "bill": "HB 317",
+        "session": "20231",
+        "action": "(H) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": true,
         "committee": "Conference Committee on HB 317",
         "recordings": []
     }
