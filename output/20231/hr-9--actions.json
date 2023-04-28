@@ -217,7 +217,10 @@
         "date": "04/21/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49725?agendaId=276245",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49679?agendaId=275543"
+        ]
     },
     {
         "id": "HR9-0020",
@@ -250,6 +253,28 @@
         "date": "04/24/2023",
         "hasVote": false,
         "committee": "(H) Human Services",
+        "recordings": []
+    },
+    {
+        "id": "HR9-0023",
+        "bill": "HR 9",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HR9-0024",
+        "bill": "HR 9",
+        "session": "20231",
+        "action": "(H) Resolution Adopted",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

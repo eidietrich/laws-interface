@@ -516,7 +516,7 @@
         "action": "(S) Free Conference Committee Report Received",
         "actionUrl": null,
         "date": "04/25/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": "Free Conference Committee on HB 576",
         "recordings": []
     },
@@ -527,7 +527,7 @@
         "action": "(H) Free Conference Committee Report Received",
         "actionUrl": null,
         "date": "04/25/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": "Free Conference Committee on HB 576",
         "recordings": []
     },
@@ -539,6 +539,17 @@
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB576-0048",
+        "bill": "HB 576",
+        "session": "20231",
+        "action": "(H) 2nd Reading Free Conference Committee Report Adopted",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
