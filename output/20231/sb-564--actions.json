@@ -532,7 +532,8 @@
         "hasVote": false,
         "committee": "(H) Human Services",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46518?agendaId=272655"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46518?agendaId=272655",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49557?agendaId=274298"
         ]
     },
     {
@@ -587,8 +588,11 @@
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49625?agendaId=275048",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46170?agendaId=273961"
+        ]
     },
     {
         "id": "SB564-0053",
@@ -642,8 +646,10 @@
         "actionUrl": null,
         "date": "04/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46262?agendaId=276761"
+        ]
     },
     {
         "id": "SB564-0058",
@@ -664,6 +670,17 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB564-0060",
+        "bill": "SB 564",
+        "session": "20231",
+        "action": "(S) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
