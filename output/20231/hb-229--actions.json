@@ -445,8 +445,9 @@
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49612?agendaId=274721",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273630"
         ]
     },
@@ -502,8 +503,11 @@
         "actionUrl": null,
         "date": "04/24/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49743?agendaId=276884",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49742?agendaId=276614"
+        ]
     },
     {
         "id": "HB229-0045",
@@ -523,6 +527,28 @@
         "action": "(S) Conference Committee Appointed",
         "actionUrl": null,
         "date": "04/25/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB229-0047",
+        "bill": "HB 229",
+        "session": "20231",
+        "action": "(H) Conference Committee Dissolved",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB229-0048",
+        "bill": "HB 229",
+        "session": "20231",
+        "action": "(H) Free Conference Committee Appointed",
+        "actionUrl": null,
+        "date": "04/28/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

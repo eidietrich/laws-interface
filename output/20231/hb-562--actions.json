@@ -596,17 +596,6 @@
         "id": "HB562-0052",
         "bill": "HB 562",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/26/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB562-0053",
-        "bill": "HB 562",
-        "session": "20231",
         "action": "(S) 2nd Reading Concur Motion Failed",
         "actionUrl": null,
         "date": "04/26/2023",
@@ -617,7 +606,7 @@
         ]
     },
     {
-        "id": "HB562-0054",
+        "id": "HB562-0053",
         "bill": "HB 562",
         "session": "20231",
         "action": "(S) 2nd Reading Indefinitely Postponed",
@@ -628,12 +617,34 @@
         "recordings": []
     },
     {
-        "id": "HB562-0055",
+        "id": "HB562-0054",
         "bill": "HB 562",
         "session": "20231",
         "action": "(S) Reconsidered Previous Action; Remains in 2nd Reading Process",
         "actionUrl": null,
         "date": "04/27/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB562-0055",
+        "bill": "HB 562",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB562-0056",
+        "bill": "HB 562",
+        "session": "20231",
+        "action": "(S) 2nd Reading Concurred",
+        "actionUrl": null,
+        "date": "04/28/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
