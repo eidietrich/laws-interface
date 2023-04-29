@@ -184,7 +184,9 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": "(S) Highways and Transportation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47128?agendaId=276822"
+        ]
     },
     {
         "id": "SR74-0017",
@@ -216,6 +218,28 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR74-0020",
+        "bill": "SR 74",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SR74-0021",
+        "bill": "SR 74",
+        "session": "20231",
+        "action": "(S) Resolution Adopted",
+        "actionUrl": null,
+        "date": "04/29/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
