@@ -270,17 +270,6 @@
         "id": "SB285-0024",
         "bill": "SB 285",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "02/23/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB285-0025",
-        "bill": "SB 285",
-        "session": "20231",
         "action": "(S) 2nd Reading Passed",
         "actionUrl": null,
         "date": "02/23/2023",
@@ -292,7 +281,7 @@
         ]
     },
     {
-        "id": "SB285-0026",
+        "id": "SB285-0025",
         "bill": "SB 285",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -303,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0027",
+        "id": "SB285-0026",
         "bill": "SB 285",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -314,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0028",
+        "id": "SB285-0027",
         "bill": "SB 285",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -325,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0029",
+        "id": "SB285-0028",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) Referred to Committee",
@@ -336,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0030",
+        "id": "SB285-0029",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) First Reading",
@@ -344,6 +333,17 @@
         "date": "03/14/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB285-0030",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(H) Hearing Canceled",
+        "actionUrl": null,
+        "date": "03/16/2023",
+        "hasVote": false,
+        "committee": "(H) Natural Resources",
         "recordings": []
     },
     {
@@ -361,29 +361,18 @@
         "id": "SB285-0032",
         "bill": "SB 285",
         "session": "20231",
-        "action": "(H) Hearing Canceled",
-        "actionUrl": null,
-        "date": "03/16/2023",
-        "hasVote": false,
-        "committee": "(H) Natural Resources",
-        "recordings": []
-    },
-    {
-        "id": "SB285-0033",
-        "bill": "SB 285",
-        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "03/27/2023",
         "hasVote": false,
         "committee": "(H) Natural Resources",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46593?agendaId=265590",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49305?agendaId=268013"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49305?agendaId=268013",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46593?agendaId=265590"
         ]
     },
     {
-        "id": "SB285-0034",
+        "id": "SB285-0033",
         "bill": "SB 285",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -394,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0035",
+        "id": "SB285-0034",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -405,7 +394,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0036",
+        "id": "SB285-0035",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -416,7 +405,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0037",
+        "id": "SB285-0036",
         "bill": "SB 285",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -427,7 +416,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0038",
+        "id": "SB285-0037",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -438,7 +427,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0039",
+        "id": "SB285-0038",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) 2nd Reading Motion to Amend Carried",
@@ -449,7 +438,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0040",
+        "id": "SB285-0039",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) 2nd Reading Concurred as Amended",
@@ -458,11 +447,12 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49446?agendaId=270963",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46160?agendaId=269359"
         ]
     },
     {
-        "id": "SB285-0041",
+        "id": "SB285-0040",
         "bill": "SB 285",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -473,7 +463,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0042",
+        "id": "SB285-0041",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -484,7 +474,7 @@
         "recordings": []
     },
     {
-        "id": "SB285-0043",
+        "id": "SB285-0042",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -495,13 +485,35 @@
         "recordings": []
     },
     {
-        "id": "SB285-0044",
+        "id": "SB285-0043",
         "bill": "SB 285",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB285-0044",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB285-0045",
+        "bill": "SB 285",
+        "session": "20231",
+        "action": "(S) 2nd Reading House Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/29/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

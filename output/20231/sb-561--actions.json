@@ -259,17 +259,6 @@
         "id": "SB561-0023",
         "bill": "SB 561",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/03/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB561-0024",
-        "bill": "SB 561",
-        "session": "20231",
         "action": "(S) 2nd Reading Passed",
         "actionUrl": null,
         "date": "04/03/2023",
@@ -281,7 +270,7 @@
         ]
     },
     {
-        "id": "SB561-0025",
+        "id": "SB561-0024",
         "bill": "SB 561",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -292,7 +281,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0026",
+        "id": "SB561-0025",
         "bill": "SB 561",
         "session": "20231",
         "action": "(S) 3rd Reading Passed",
@@ -303,7 +292,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0027",
+        "id": "SB561-0026",
         "bill": "SB 561",
         "session": "20231",
         "action": "(S) Transmitted to House",
@@ -314,7 +303,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0028",
+        "id": "SB561-0027",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Referred to Committee",
@@ -325,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0029",
+        "id": "SB561-0028",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) First Reading",
@@ -336,7 +325,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0030",
+        "id": "SB561-0029",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Hearing Canceled",
@@ -347,7 +336,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0031",
+        "id": "SB561-0030",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Hearing Canceled",
@@ -358,7 +347,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0032",
+        "id": "SB561-0031",
         "bill": "SB 561",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -369,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0033",
+        "id": "SB561-0032",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Hearing",
@@ -378,11 +367,12 @@
         "hasVote": false,
         "committee": "(H) Agriculture",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46442?agendaId=272645"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46442?agendaId=272645",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49554?agendaId=274237"
         ]
     },
     {
-        "id": "SB561-0034",
+        "id": "SB561-0033",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Committee Executive Action--Bill Concurred as Amended",
@@ -393,7 +383,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0035",
+        "id": "SB561-0034",
         "bill": "SB 561",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -404,7 +394,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0036",
+        "id": "SB561-0035",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Committee Report--Bill Concurred as Amended",
@@ -415,7 +405,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0037",
+        "id": "SB561-0036",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -426,18 +416,21 @@
         "recordings": []
     },
     {
-        "id": "SB561-0038",
+        "id": "SB561-0037",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/18/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49625?agendaId=275047",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46170?agendaId=273960"
+        ]
     },
     {
-        "id": "SB561-0039",
+        "id": "SB561-0038",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -448,7 +441,7 @@
         "recordings": []
     },
     {
-        "id": "SB561-0040",
+        "id": "SB561-0039",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -459,13 +452,35 @@
         "recordings": []
     },
     {
-        "id": "SB561-0041",
+        "id": "SB561-0040",
         "bill": "SB 561",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB561-0041",
+        "bill": "SB 561",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/29/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB561-0042",
+        "bill": "SB 561",
+        "session": "20231",
+        "action": "(S) 2nd Reading House Amendments Concurred",
+        "actionUrl": null,
+        "date": "04/29/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
