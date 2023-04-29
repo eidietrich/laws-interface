@@ -194,11 +194,8 @@
         "actionUrl": null,
         "date": "02/06/2023",
         "hasVote": false,
-        "committee": "(H) Education",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46374?agendaId=250937",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48602?agendaId=262564"
-        ]
+        "committee": "Conference Committee on HB 338",
+        "recordings": []
     },
     {
         "id": "HB338-0018",
@@ -379,9 +376,10 @@
         "actionUrl": null,
         "date": "04/12/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46253?agendaId=271999"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46253?agendaId=271999",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49526?agendaId=273874"
         ]
     },
     {
@@ -436,8 +434,11 @@
         "actionUrl": null,
         "date": "04/21/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49720?agendaId=276028",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46173?agendaId=275565"
+        ]
     },
     {
         "id": "HB338-0039",
@@ -466,6 +467,28 @@
         "bill": "HB 338",
         "session": "20231",
         "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": "Conference Committee on HB 338",
+        "recordings": []
+    },
+    {
+        "id": "HB338-0042",
+        "bill": "HB 338",
+        "session": "20231",
+        "action": "(S) Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": "Conference Committee on HB 338",
+        "recordings": []
+    },
+    {
+        "id": "HB338-0043",
+        "bill": "HB 338",
+        "session": "20231",
+        "action": "(H) Conference Committee Report Received",
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": false,
