@@ -504,7 +504,10 @@
         "date": "04/21/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49710?agendaId=276328",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45610?agendaId=275385"
+        ]
     },
     {
         "id": "HB469-0045",
@@ -569,14 +572,16 @@
         "actionUrl": null,
         "date": "04/25/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46262?agendaId=276762"
+        ]
     },
     {
         "id": "HB469-0051",
         "bill": "HB 469",
         "session": "20231",
-        "action": "(H) Revised Fiscal Note Signed",
+        "action": "(H) Revised Fiscal Note Printed",
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
@@ -587,7 +592,7 @@
         "id": "HB469-0052",
         "bill": "HB 469",
         "session": "20231",
-        "action": "(S) Scheduled for 3rd Reading",
+        "action": "(H) Revised Fiscal Note Signed",
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": false,
@@ -598,10 +603,32 @@
         "id": "HB469-0053",
         "bill": "HB 469",
         "session": "20231",
+        "action": "(S) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB469-0054",
+        "bill": "HB 469",
+        "session": "20231",
         "action": "(S) 3rd Reading Concurred",
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB469-0055",
+        "bill": "HB 469",
+        "session": "20231",
+        "action": "(S) Returned to House with Amendments",
+        "actionUrl": null,
+        "date": "04/26/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
