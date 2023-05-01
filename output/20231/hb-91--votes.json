@@ -1033,16 +1033,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H532&P_SESS=20231",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0036",
+        "action_id": "HB91-0035",
         "type": "floor",
         "seq_number": "H532",
-        "date": "February 08, 2023",
+        "date": "February 07, 2023",
         "description": "Do Pass",
         "totals": {
-            "Y": 72,
-            "N": 26,
-            "E": 1,
-            "A": 1
+            "Y": 74,
+            "N": 23,
+            "E": 0,
+            "A": 3
         },
         "votes": [
             {
@@ -1163,7 +1163,7 @@
             },
             {
                 "name": "Gist, Steve",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Lynch, Jennifer",
@@ -1191,7 +1191,7 @@
             },
             {
                 "name": "Brewster, Larry",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Gunderson, Steve",
@@ -1215,7 +1215,7 @@
             },
             {
                 "name": "Marshall, Ron",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Sprunger, Courtenay",
@@ -1235,7 +1235,7 @@
             },
             {
                 "name": "Stafman, Ed",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Butcher, Edward",
@@ -1311,7 +1311,7 @@
             },
             {
                 "name": "Nave, Fiona",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Vinton, Sue",
@@ -1347,7 +1347,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "E"
+                "vote": "A"
             },
             {
                 "name": "Dooling, Julie",
@@ -1383,7 +1383,7 @@
             },
             {
                 "name": "Essmann, Sherry",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Kassmier, Joshua",
@@ -1391,11 +1391,11 @@
             },
             {
                 "name": "Phalen, Bob",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Wirth, Zack",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Etchart, Jodee",
@@ -1407,7 +1407,7 @@
             },
             {
                 "name": "Read, Joe",
-                "vote": "N"
+                "vote": "A"
             },
             {
                 "name": "Yakawich, Michael",
@@ -1451,7 +1451,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0091EDS230327.pdf",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0041",
+        "action_id": "HB91-0040",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1512,7 +1512,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1570&P_SESS=20231",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0046",
+        "action_id": "HB91-0045",
         "type": "floor",
         "seq_number": "S1570",
         "date": "March 31, 2023",
@@ -1730,7 +1730,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0091FCS230413.pdf",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0051",
+        "action_id": "HB91-0050",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1823,7 +1823,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2385&P_SESS=20231",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0059",
+        "action_id": "HB91-0058",
         "type": "floor",
         "seq_number": "S2385",
         "date": "April 20, 2023",
@@ -2041,7 +2041,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2386&P_SESS=20231",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0060",
+        "action_id": "HB91-0059",
         "type": "floor",
         "seq_number": "S2386",
         "date": "April 20, 2023",
@@ -2259,7 +2259,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2503&P_SESS=20231",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0063",
+        "action_id": "HB91-0062",
         "type": "floor",
         "seq_number": "S2503",
         "date": "April 24, 2023",
@@ -2477,7 +2477,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2704&P_SESS=20231",
         "bill": "HB 91",
         "session": "20231",
-        "action_id": "HB91-0066",
+        "action_id": "HB91-0065",
         "type": "floor",
         "seq_number": "H2704",
         "date": "April 28, 2023",
@@ -2888,6 +2888,424 @@
             {
                 "name": "Zolnikov, Katie",
                 "vote": "Y"
+            }
+        ]
+    },
+    {
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2765&P_SESS=20231",
+        "bill": "HB 91",
+        "session": "20231",
+        "action_id": "HB91-0067",
+        "type": "floor",
+        "seq_number": "H2765",
+        "date": "May 01, 2023",
+        "description": "Do Concur",
+        "totals": {
+            "Y": 64,
+            "N": 31,
+            "E": 2,
+            "A": 3
+        },
+        "votes": [
+            {
+                "name": "Abbott, Kim",
+                "vote": "Y"
+            },
+            {
+                "name": "Fielder, Paul",
+                "vote": "N"
+            },
+            {
+                "name": "Kerr-Carpenter, Emma",
+                "vote": "Y"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Fitzgerald, Ross",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg",
+                "vote": "N"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Barker, Brad",
+                "vote": "A"
+            },
+            {
+                "name": "Fitzpatrick, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey",
+                "vote": "Y"
+            },
+            {
+                "name": "Running Wolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "France, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Rhonda",
+                "vote": "N"
+            },
+            {
+                "name": "Rusk, Wayne",
+                "vote": "Y"
+            },
+            {
+                "name": "Bedey, David",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Schillinger, Jerry",
+                "vote": "N"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Galloway, Steven",
+                "vote": "N"
+            },
+            {
+                "name": "Ler, Brandon",
+                "vote": "N"
+            },
+            {
+                "name": "Seekins-Crowe, Kerri",
+                "vote": "N"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillette, Jane",
+                "vote": "N"
+            },
+            {
+                "name": "Loge, Denley",
+                "vote": "Y"
+            },
+            {
+                "name": "Sheldon-Galloway, Lola",
+                "vote": "N"
+            },
+            {
+                "name": "Binkley, Michele",
+                "vote": "Y"
+            },
+            {
+                "name": "Gist, Steve",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Jennifer",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Laura",
+                "vote": "Y"
+            },
+            {
+                "name": "Bishop, Laurie",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "A"
+            },
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Tanner",
+                "vote": "N"
+            },
+            {
+                "name": "Brewster, Larry",
+                "vote": "Y"
+            },
+            {
+                "name": "Gunderson, Steve",
+                "vote": "N"
+            },
+            {
+                "name": "Marler, Marilyn",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "A"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Hamilton, Jim",
+                "vote": "Y"
+            },
+            {
+                "name": "Marshall, Ron",
+                "vote": "N"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Buckley, Alice",
+                "vote": "Y"
+            },
+            {
+                "name": "Harvey, Derek",
+                "vote": "Y"
+            },
+            {
+                "name": "Matthews, Eric",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Butcher, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Hastings, Naarah",
+                "vote": "N"
+            },
+            {
+                "name": "Mercer, Bill",
+                "vote": "N"
+            },
+            {
+                "name": "Stewart Peregoy, Sharon",
+                "vote": "Y"
+            },
+            {
+                "name": "Buttrey, Edward",
+                "vote": "Y"
+            },
+            {
+                "name": "Hawk, Donavon",
+                "vote": "Y"
+            },
+            {
+                "name": "Miner, Russel",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "Y"
+            },
+            {
+                "name": "Caferro, Mary",
+                "vote": "Y"
+            },
+            {
+                "name": "Hellegaard, Lyn",
+                "vote": "N"
+            },
+            {
+                "name": "Mitchell, Braxton",
+                "vote": "N"
+            },
+            {
+                "name": "Thane, Mark",
+                "vote": "Y"
+            },
+            {
+                "name": "Carlson, Jennifer",
+                "vote": "N"
+            },
+            {
+                "name": "Hinkle, Caleb",
+                "vote": "N"
+            },
+            {
+                "name": "Moore, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Tuss, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Carter, Robert",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinkle, Jedediah",
+                "vote": "N"
+            },
+            {
+                "name": "Nave, Fiona",
+                "vote": "E"
+            },
+            {
+                "name": "Vinton, Sue",
+                "vote": "N"
+            },
+            {
+                "name": "Cohenour, Jill",
+                "vote": "Y"
+            },
+            {
+                "name": "Hopkins, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Nicol, Nelly",
+                "vote": "N"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Deming, Lee",
+                "vote": "Y"
+            },
+            {
+                "name": "Howell, SJ",
+                "vote": "Y"
+            },
+            {
+                "name": "Nikolakakos, George",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin",
+                "vote": "E"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Jones, Llew",
+                "vote": "Y"
+            },
+            {
+                "name": "Oblander, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Duram, Neil",
+                "vote": "Y"
+            },
+            {
+                "name": "Karlen, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Windy Boy, Jonathan",
+                "vote": "Y"
+            },
+            {
+                "name": "Essmann, Sherry",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "Y"
+            },
+            {
+                "name": "Phalen, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "N"
+            },
+            {
+                "name": "Etchart, Jodee",
+                "vote": "N"
+            },
+            {
+                "name": "Keenan, Bob",
+                "vote": "N"
+            },
+            {
+                "name": "Read, Joe",
+                "vote": "N"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            },
+            {
+                "name": "Falk, Terry",
+                "vote": "N"
+            },
+            {
+                "name": "Keogh, Connie",
+                "vote": "Y"
+            },
+            {
+                "name": "Regier, Matt",
+                "vote": "N"
+            },
+            {
+                "name": "Zephyr, Zooey",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "Y"
+            },
+            {
+                "name": "Kerns, Scot",
+                "vote": "N"
+            },
+            {
+                "name": "Regier, Amy",
+                "vote": "N"
+            },
+            {
+                "name": "Zolnikov, Katie",
+                "vote": "N"
             }
         ]
     }
