@@ -1429,7 +1429,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2255&P_SESS=20231",
         "bill": "SB 116",
         "session": "20231",
-        "action_id": "SB116-0036",
+        "action_id": "SB116-0035",
         "type": "floor",
         "seq_number": "S2255",
         "date": "April 05, 2023",
@@ -1847,7 +1847,7 @@
         "url": null,
         "bill": "SB 116",
         "session": "20231",
-        "action_id": "SB116-0040",
+        "action_id": "SB116-0039",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -1860,7 +1860,7 @@
         "url": null,
         "bill": "SB 116",
         "session": "20231",
-        "action_id": "SB116-0041",
+        "action_id": "SB116-0040",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -1873,7 +1873,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2724&P_SESS=20231",
         "bill": "SB 116",
         "session": "20231",
-        "action_id": "SB116-0043",
+        "action_id": "SB116-0042",
         "type": "floor",
         "seq_number": "H2724",
         "date": "April 28, 2023",
@@ -2291,21 +2291,21 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2783&P_SESS=20231",
         "bill": "SB 116",
         "session": "20231",
-        "action_id": "SB116-0045",
+        "action_id": "SB116-0044",
         "type": "floor",
         "seq_number": "H2783",
-        "date": "May 01, 2023",
+        "date": "April 28, 2023",
         "description": "Do Adopt",
         "totals": {
-            "Y": 81,
-            "N": 14,
-            "E": 2,
-            "A": 3
+            "Y": 88,
+            "N": 12,
+            "E": 0,
+            "A": 0
         },
         "votes": [
             {
                 "name": "Abbott, Kim",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Fielder, Paul",
@@ -2333,11 +2333,11 @@
             },
             {
                 "name": "Romano, Melissa",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Barker, Brad",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Fitzpatrick, John",
@@ -2425,7 +2425,7 @@
             },
             {
                 "name": "Lynch, Jennifer",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Smith, Laura",
@@ -2437,11 +2437,11 @@
             },
             {
                 "name": "Green, Paul",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Malone, Marty",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Smith, Tanner",
@@ -2461,7 +2461,7 @@
             },
             {
                 "name": "Smith, Frank",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Brockman, Tony",
@@ -2489,7 +2489,7 @@
             },
             {
                 "name": "Matthews, Eric",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Stafman, Ed",
@@ -2505,11 +2505,11 @@
             },
             {
                 "name": "Mercer, Bill",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Stewart Peregoy, Sharon",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Buttrey, Edward",
@@ -2569,7 +2569,7 @@
             },
             {
                 "name": "Nave, Fiona",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Vinton, Sue",
@@ -2605,7 +2605,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Dooling, Julie",
@@ -2685,7 +2685,7 @@
             },
             {
                 "name": "Zephyr, Zooey",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Fern, Dave",
