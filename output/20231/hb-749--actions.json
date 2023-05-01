@@ -528,11 +528,8 @@
         "actionUrl": null,
         "date": "04/20/2023",
         "hasVote": false,
-        "committee": "(S) Finance and Claims",
-        "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49669?agendaId=276549",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45609?agendaId=274899"
-        ]
+        "committee": "(S) Education and Cultural Resources",
+        "recordings": []
     },
     {
         "id": "HB749-0047",
@@ -607,6 +604,17 @@
         "action": "(S) Returned to House",
         "actionUrl": null,
         "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB749-0054",
+        "bill": "HB 749",
+        "session": "20231",
+        "action": "(H) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "05/01/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
