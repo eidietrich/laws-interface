@@ -433,8 +433,8 @@
         "hasVote": false,
         "committee": "(H) Legislative Administration",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49057?agendaId=259865",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49132?agendaId=260198"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49132?agendaId=260198",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49057?agendaId=259865"
         ]
     },
     {
@@ -502,8 +502,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46150?agendaId=261536",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49211?agendaId=262416"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49211?agendaId=262416",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46150?agendaId=261536"
         ]
     },
     {
@@ -623,7 +623,7 @@
         "id": "SB176-0055",
         "bill": "SB 176",
         "session": "20231",
-        "action": "(S) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -634,9 +634,20 @@
         "id": "SB176-0056",
         "bill": "SB 176",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "action": "(S) Signed by President",
         "actionUrl": null,
-        "date": "04/05/2023",
+        "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB176-0057",
+        "bill": "SB 176",
+        "session": "20231",
+        "action": "(H) Signed by Speaker",
+        "actionUrl": null,
+        "date": "05/01/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
