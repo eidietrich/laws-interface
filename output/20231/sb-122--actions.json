@@ -469,7 +469,8 @@
         "hasVote": false,
         "committee": "(H) Taxation",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272371"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47865?agendaId=272371",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49548?agendaId=274051"
         ]
     },
     {
@@ -513,8 +514,11 @@
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49644?agendaId=275453",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46171?agendaId=274396"
+        ]
     },
     {
         "id": "SB122-0046",
@@ -611,6 +615,50 @@
         "action": "(H) Returned to Senate",
         "actionUrl": null,
         "date": "04/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB122-0055",
+        "bill": "SB 122",
+        "session": "20231",
+        "action": "(S) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB122-0056",
+        "bill": "SB 122",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB122-0057",
+        "bill": "SB 122",
+        "session": "20231",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB122-0058",
+        "bill": "SB 122",
+        "session": "20231",
+        "action": "(S) Returned from Enrolling",
+        "actionUrl": null,
+        "date": "05/01/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
