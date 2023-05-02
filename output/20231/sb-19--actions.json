@@ -589,9 +589,10 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46263?agendaId=277139"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46263?agendaId=277139",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49796?agendaId=277927"
         ]
     },
     {
@@ -635,8 +636,11 @@
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46178?agendaId=277853",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49849?agendaId=278245"
+        ]
     },
     {
         "id": "SB19-0056",
@@ -656,6 +660,17 @@
         "action": "(H) 3rd Reading Conference Committee Report Rejected",
         "actionUrl": null,
         "date": "05/01/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB19-0058",
+        "bill": "SB 19",
+        "session": "20231",
+        "action": "(H) Reconsidered Previous Action; Remains in 3rd Reading Process",
+        "actionUrl": null,
+        "date": "05/02/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
