@@ -939,7 +939,7 @@
         "action_id": "HB742-0031",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 8,
             "N": 3
@@ -1173,6 +1173,6 @@
             "Y": 29,
             "N": 20
         },
-        "error": "Missing vote page"
+        "error": "Skipped previously missing vote page"
     }
 ]
