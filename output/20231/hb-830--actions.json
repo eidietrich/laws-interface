@@ -350,17 +350,6 @@
         "id": "HB830-0031",
         "bill": "HB 830",
         "session": "20231",
-        "action": "(H) Scheduled for 3rd Reading",
-        "actionUrl": null,
-        "date": "04/03/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB830-0032",
-        "bill": "HB 830",
-        "session": "20231",
         "action": "(H) 3rd Reading Passed",
         "actionUrl": null,
         "date": "04/03/2023",
@@ -369,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0033",
+        "id": "HB830-0032",
         "bill": "HB 830",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -380,7 +369,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0034",
+        "id": "HB830-0033",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) First Reading",
@@ -391,7 +380,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0035",
+        "id": "HB830-0034",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -402,7 +391,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0036",
+        "id": "HB830-0035",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Hearing",
@@ -416,7 +405,7 @@
         ]
     },
     {
-        "id": "HB830-0037",
+        "id": "HB830-0036",
         "bill": "HB 830",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -427,7 +416,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0038",
+        "id": "HB830-0037",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -438,7 +427,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0039",
+        "id": "HB830-0038",
         "bill": "HB 830",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -449,7 +438,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0040",
+        "id": "HB830-0039",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -460,7 +449,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0041",
+        "id": "HB830-0040",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -471,18 +460,21 @@
         "recordings": []
     },
     {
-        "id": "HB830-0042",
+        "id": "HB830-0041",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46264?agendaId=277441",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49833?agendaId=278171"
+        ]
     },
     {
-        "id": "HB830-0043",
+        "id": "HB830-0042",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -493,7 +485,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0044",
+        "id": "HB830-0043",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -504,7 +496,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0045",
+        "id": "HB830-0044",
         "bill": "HB 830",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
@@ -515,7 +507,7 @@
         "recordings": []
     },
     {
-        "id": "HB830-0046",
+        "id": "HB830-0045",
         "bill": "HB 830",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -526,12 +518,36 @@
         "recordings": []
     },
     {
-        "id": "HB830-0047",
+        "id": "HB830-0046",
         "bill": "HB 830",
         "session": "20231",
         "action": "(H) 2nd Reading Senate Amendments Concurred",
         "actionUrl": null,
         "date": "05/01/2023",
+        "hasVote": true,
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46179?agendaId=278287"
+        ]
+    },
+    {
+        "id": "HB830-0047",
+        "bill": "HB 830",
+        "session": "20231",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB830-0048",
+        "bill": "HB 830",
+        "session": "20231",
+        "action": "(H) 3rd Reading Passed as Amended by Senate",
+        "actionUrl": null,
+        "date": "05/02/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []
