@@ -1162,5 +1162,17 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2813&P_SESS=20231",
+        "bill": "HB 742",
+        "session": "20231",
+        "action_id": "HB742-0035",
+        "type": "floor",
+        "totals": {
+            "Y": 29,
+            "N": 20
+        },
+        "error": "Missing vote page"
     }
 ]

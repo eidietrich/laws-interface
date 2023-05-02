@@ -648,7 +648,7 @@
         "id": "SB95-0057",
         "bill": "SB 95",
         "session": "20231",
-        "action": "(S) Conference Committee Appointed",
+        "action": "(H) Conference Committee Appointed",
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": false,
@@ -659,22 +659,22 @@
         "id": "SB95-0058",
         "bill": "SB 95",
         "session": "20231",
-        "action": "(H) Conference Committee Appointed",
+        "action": "(S) Hearing",
         "actionUrl": null,
-        "date": "05/01/2023",
+        "date": "05/02/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "Conference Committee on SB 95",
         "recordings": []
     },
     {
         "id": "SB95-0059",
         "bill": "SB 95",
         "session": "20231",
-        "action": "(S) Hearing",
+        "action": "(S) Conference Committee Appointed",
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": false,
-        "committee": "Conference Committee on SB 95",
+        "committee": null,
         "recordings": []
     }
 ]

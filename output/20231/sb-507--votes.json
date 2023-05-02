@@ -2183,5 +2183,17 @@
                 "vote": "N"
             }
         ]
+    },
+    {
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2807&P_SESS=20231",
+        "bill": "SB 507",
+        "session": "20231",
+        "action_id": "SB507-0061",
+        "type": "floor",
+        "totals": {
+            "Y": 49,
+            "N": 0
+        },
+        "error": "Missing vote page"
     }
 ]

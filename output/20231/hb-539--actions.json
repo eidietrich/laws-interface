@@ -401,17 +401,6 @@
         "id": "HB539-0035",
         "bill": "HB 539",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/24/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB539-0036",
-        "bill": "HB 539",
-        "session": "20231",
         "action": "(H) 2nd Reading Senate Amendments Not Concurred",
         "actionUrl": null,
         "date": "04/24/2023",
@@ -423,7 +412,7 @@
         ]
     },
     {
-        "id": "HB539-0037",
+        "id": "HB539-0036",
         "bill": "HB 539",
         "session": "20231",
         "action": "(H) Free Conference Committee Appointed",
@@ -434,7 +423,7 @@
         "recordings": []
     },
     {
-        "id": "HB539-0038",
+        "id": "HB539-0037",
         "bill": "HB 539",
         "session": "20231",
         "action": "(S) Free Conference Committee Appointed",
@@ -445,7 +434,7 @@
         "recordings": []
     },
     {
-        "id": "HB539-0039",
+        "id": "HB539-0038",
         "bill": "HB 539",
         "session": "20231",
         "action": "(S) Hearing",
@@ -453,6 +442,17 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "Free Conference Committee on HB 539",
+        "recordings": []
+    },
+    {
+        "id": "HB539-0039",
+        "bill": "HB 539",
+        "session": "20231",
+        "action": "(H) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "04/28/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     },
     {
@@ -503,9 +503,31 @@
         "id": "HB539-0044",
         "bill": "HB 539",
         "session": "20231",
-        "action": "(S) Scheduled for 3rd Reading",
+        "action": "(S) 3rd Reading Free Conference Committee Report Adopted",
         "actionUrl": null,
         "date": "05/01/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB539-0045",
+        "bill": "HB 539",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB539-0046",
+        "bill": "HB 539",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
