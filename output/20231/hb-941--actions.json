@@ -500,8 +500,11 @@
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46178?agendaId=277851",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49849?agendaId=278243"
+        ]
     },
     {
         "id": "HB941-0045",
@@ -540,7 +543,7 @@
         "id": "HB941-0048",
         "bill": "HB 941",
         "session": "20231",
-        "action": "(S) Conference Committee Report Received",
+        "action": "(H) Conference Committee Report Received",
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
@@ -551,9 +554,9 @@
         "id": "HB941-0049",
         "bill": "HB 941",
         "session": "20231",
-        "action": "(H) Conference Committee Report Received",
+        "action": "(S) Conference Committee Report Received",
         "actionUrl": null,
-        "date": "05/01/2023",
+        "date": "05/02/2023",
         "hasVote": true,
         "committee": "Conference Committee on HB 941",
         "recordings": []

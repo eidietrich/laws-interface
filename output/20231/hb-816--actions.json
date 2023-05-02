@@ -658,7 +658,10 @@
         "date": "04/27/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45614?agendaId=277401",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49817?agendaId=278527"
+        ]
     },
     {
         "id": "HB816-0059",
@@ -712,8 +715,11 @@
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46265?agendaId=277809",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49847?agendaId=278389"
+        ]
     },
     {
         "id": "HB816-0064",
@@ -756,8 +762,10 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46179?agendaId=278268"
+        ]
     },
     {
         "id": "HB816-0068",
@@ -801,6 +809,39 @@
         "date": "05/01/2023",
         "hasVote": false,
         "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB816-0072",
+        "bill": "HB 816",
+        "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": "Free Conference Committee on HB 816",
+        "recordings": []
+    },
+    {
+        "id": "HB816-0073",
+        "bill": "HB 816",
+        "session": "20231",
+        "action": "(H) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": true,
+        "committee": "Free Conference Committee on HB 816",
+        "recordings": []
+    },
+    {
+        "id": "HB816-0074",
+        "bill": "HB 816",
+        "session": "20231",
+        "action": "(S) Free Conference Committee Report Received",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": true,
+        "committee": "Free Conference Committee on HB 816",
         "recordings": []
     }
 ]

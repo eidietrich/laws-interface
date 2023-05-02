@@ -711,7 +711,7 @@
         "id": "SB481-0063",
         "bill": "SB 481",
         "session": "20231",
-        "action": "(H) Free Conference Committee Appointed",
+        "action": "(S) Free Conference Committee Appointed",
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": false,
@@ -722,9 +722,9 @@
         "id": "SB481-0064",
         "bill": "SB 481",
         "session": "20231",
-        "action": "(S) Hearing",
+        "action": "(H) Free Conference Committee Appointed",
         "actionUrl": null,
-        "date": "05/02/2023",
+        "date": "05/01/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -733,11 +733,11 @@
         "id": "SB481-0065",
         "bill": "SB 481",
         "session": "20231",
-        "action": "(S) Free Conference Committee Report Received",
+        "action": "(S) Hearing",
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": false,
-        "committee": "Free Conference Committee on SB 481",
+        "committee": null,
         "recordings": []
     },
     {
@@ -755,11 +755,11 @@
         "id": "SB481-0067",
         "bill": "SB 481",
         "session": "20231",
-        "action": "(S) Free Conference Committee Appointed",
+        "action": "(S) Free Conference Committee Report Received",
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "Free Conference Committee on SB 481",
         "recordings": []
     }
 ]

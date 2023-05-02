@@ -1052,7 +1052,7 @@
         "action_id": "HB816-0051",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 8,
             "N": 1
@@ -1065,7 +1065,7 @@
         "action_id": "HB816-0052",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 6,
             "N": 0
@@ -2070,5 +2070,31 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HB 816",
+        "session": "20231",
+        "action_id": "HB816-0073",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 4,
+            "N": 2
+        }
+    },
+    {
+        "url": null,
+        "bill": "HB 816",
+        "session": "20231",
+        "action_id": "HB816-0074",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 4,
+            "N": 2
+        }
     }
 ]
