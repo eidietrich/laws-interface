@@ -2710,18 +2710,18 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2798&P_SESS=20231",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2784&P_SESS=20231",
         "bill": "SB 247",
         "session": "20231",
-        "action_id": "SB247-0070",
+        "action_id": "SB247-0068",
         "type": "floor",
-        "seq_number": "S2798",
+        "seq_number": "H2784",
         "date": "May 01, 2023",
         "description": "Do Adopt",
         "totals": {
-            "Y": 49,
+            "Y": 50,
             "N": 0,
-            "E": 1,
+            "E": 0,
             "A": 0
         },
         "votes": [
@@ -2843,7 +2843,7 @@
             },
             {
                 "name": "Hayman, Denise",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Morigeau, Shane",
@@ -2928,12 +2928,12 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2784&P_SESS=20231",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2798&P_SESS=20231",
         "bill": "SB 247",
         "session": "20231",
-        "action_id": "SB247-0071",
+        "action_id": "SB247-0070",
         "type": "floor",
-        "seq_number": "H2784",
+        "seq_number": "S2798",
         "date": "May 01, 2023",
         "description": "Do Adopt",
         "totals": {

@@ -492,8 +492,10 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46179?agendaId=278281"
+        ]
     },
     {
         "id": "HB338-0044",
@@ -503,6 +505,17 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB338-0045",
+        "bill": "HB 338",
+        "session": "20231",
+        "action": "(S) 2nd Reading Conference Committee Report Adopted",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }

@@ -303,7 +303,7 @@
         "id": "HB903-0027",
         "bill": "HB 903",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
+        "action": "(H) Fiscal Note Signed",
         "actionUrl": null,
         "date": "03/31/2023",
         "hasVote": false,
@@ -314,17 +314,6 @@
         "id": "HB903-0028",
         "bill": "HB 903",
         "session": "20231",
-        "action": "(H) Fiscal Note Signed",
-        "actionUrl": null,
-        "date": "03/31/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB903-0029",
-        "bill": "HB 903",
-        "session": "20231",
         "action": "(H) Fiscal Note Printed",
         "actionUrl": null,
         "date": "03/31/2023",
@@ -333,7 +322,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0030",
+        "id": "HB903-0029",
         "bill": "HB 903",
         "session": "20231",
         "action": "(H) 2nd Reading Passed",
@@ -347,7 +336,7 @@
         ]
     },
     {
-        "id": "HB903-0031",
+        "id": "HB903-0030",
         "bill": "HB 903",
         "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
@@ -358,7 +347,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0032",
+        "id": "HB903-0031",
         "bill": "HB 903",
         "session": "20231",
         "action": "(H) 3rd Reading Passed",
@@ -369,7 +358,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0033",
+        "id": "HB903-0032",
         "bill": "HB 903",
         "session": "20231",
         "action": "(H) Transmitted to Senate",
@@ -380,7 +369,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0034",
+        "id": "HB903-0033",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) First Reading",
@@ -391,7 +380,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0035",
+        "id": "HB903-0034",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Referred to Committee",
@@ -402,7 +391,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0036",
+        "id": "HB903-0035",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Hearing",
@@ -416,7 +405,7 @@
         ]
     },
     {
-        "id": "HB903-0037",
+        "id": "HB903-0036",
         "bill": "HB 903",
         "session": "20231",
         "action": "(C) Amendments Available",
@@ -427,7 +416,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0038",
+        "id": "HB903-0037",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred as Amended",
@@ -438,7 +427,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0039",
+        "id": "HB903-0038",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred as Amended",
@@ -449,7 +438,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0040",
+        "id": "HB903-0039",
         "bill": "HB 903",
         "session": "20231",
         "action": "(C) Printed - New Version Available&nbsp&nbsp",
@@ -460,7 +449,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0041",
+        "id": "HB903-0040",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -471,18 +460,21 @@
         "recordings": []
     },
     {
-        "id": "HB903-0042",
+        "id": "HB903-0041",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46265?agendaId=277812",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49847?agendaId=278376"
+        ]
     },
     {
-        "id": "HB903-0043",
+        "id": "HB903-0042",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -493,7 +485,7 @@
         "recordings": []
     },
     {
-        "id": "HB903-0044",
+        "id": "HB903-0043",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -504,13 +496,35 @@
         "recordings": []
     },
     {
-        "id": "HB903-0045",
+        "id": "HB903-0044",
         "bill": "HB 903",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB903-0045",
+        "bill": "HB 903",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB903-0046",
+        "bill": "HB 903",
+        "session": "20231",
+        "action": "(H) 2nd Reading Senate Amendments Concurred",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": true,
         "committee": null,
         "recordings": []
     }
