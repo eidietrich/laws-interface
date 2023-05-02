@@ -452,17 +452,6 @@
         "id": "HB317-0040",
         "bill": "HB 317",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/14/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB317-0041",
-        "bill": "HB 317",
-        "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/14/2023",
@@ -474,7 +463,7 @@
         ]
     },
     {
-        "id": "HB317-0042",
+        "id": "HB317-0041",
         "bill": "HB 317",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -485,7 +474,7 @@
         "recordings": []
     },
     {
-        "id": "HB317-0043",
+        "id": "HB317-0042",
         "bill": "HB 317",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
@@ -496,18 +485,7 @@
         "recordings": []
     },
     {
-        "id": "HB317-0044",
-        "bill": "HB 317",
-        "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/21/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB317-0045",
+        "id": "HB317-0043",
         "bill": "HB 317",
         "session": "20231",
         "action": "(H) 2nd Reading Senate Amendments Not Concurred",
@@ -521,7 +499,7 @@
         ]
     },
     {
-        "id": "HB317-0046",
+        "id": "HB317-0044",
         "bill": "HB 317",
         "session": "20231",
         "action": "(H) Conference Committee Appointed",
@@ -532,7 +510,7 @@
         "recordings": []
     },
     {
-        "id": "HB317-0047",
+        "id": "HB317-0045",
         "bill": "HB 317",
         "session": "20231",
         "action": "(S) Conference Committee Appointed",
@@ -543,7 +521,7 @@
         "recordings": []
     },
     {
-        "id": "HB317-0048",
+        "id": "HB317-0046",
         "bill": "HB 317",
         "session": "20231",
         "action": "(S) Hearing",
@@ -554,7 +532,7 @@
         "recordings": []
     },
     {
-        "id": "HB317-0049",
+        "id": "HB317-0047",
         "bill": "HB 317",
         "session": "20231",
         "action": "(S) Conference Committee Report Received",
@@ -565,7 +543,7 @@
         "recordings": []
     },
     {
-        "id": "HB317-0050",
+        "id": "HB317-0048",
         "bill": "HB 317",
         "session": "20231",
         "action": "(H) Conference Committee Report Received",
@@ -573,6 +551,39 @@
         "date": "04/28/2023",
         "hasVote": true,
         "committee": "Conference Committee on HB 317",
+        "recordings": []
+    },
+    {
+        "id": "HB317-0049",
+        "bill": "HB 317",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB317-0050",
+        "bill": "HB 317",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB317-0051",
+        "bill": "HB 317",
+        "session": "20231",
+        "action": "(H) 2nd Reading Conference Committee Report Adopted",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": true,
+        "committee": null,
         "recordings": []
     }
 ]

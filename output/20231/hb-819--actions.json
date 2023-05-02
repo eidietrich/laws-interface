@@ -693,8 +693,11 @@
         "actionUrl": null,
         "date": "04/28/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46265?agendaId=277810",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49847?agendaId=278374"
+        ]
     },
     {
         "id": "HB819-0062",
@@ -748,8 +751,10 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46179?agendaId=278271"
+        ]
     },
     {
         "id": "HB819-0067",
@@ -788,7 +793,7 @@
         "id": "HB819-0070",
         "bill": "HB 819",
         "session": "20231",
-        "action": "(S) Free Conference Committee Report Received",
+        "action": "(H) Free Conference Committee Report Received",
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
@@ -799,9 +804,9 @@
         "id": "HB819-0071",
         "bill": "HB 819",
         "session": "20231",
-        "action": "(H) Free Conference Committee Report Received",
+        "action": "(S) Free Conference Committee Report Received",
         "actionUrl": null,
-        "date": "05/01/2023",
+        "date": "05/02/2023",
         "hasVote": true,
         "committee": "Free Conference Committee on HB 819",
         "recordings": []
