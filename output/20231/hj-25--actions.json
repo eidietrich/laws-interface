@@ -218,6 +218,7 @@
         "hasVote": false,
         "committee": "(H) Education",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49793?agendaId=277972",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46408?agendaId=277177"
         ]
     },
@@ -262,8 +263,11 @@
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49834?agendaId=278487",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46177?agendaId=277580"
+        ]
     },
     {
         "id": "HJ25-0024",
@@ -328,6 +332,19 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": false,
+        "committee": "(S) Education and Cultural Resources",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46882?agendaId=278614"
+        ]
+    },
+    {
+        "id": "HJ25-0030",
+        "bill": "HJ 25",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": true,
         "committee": "(S) Education and Cultural Resources",
         "recordings": []
     }

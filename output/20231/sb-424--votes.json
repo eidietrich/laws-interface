@@ -2698,18 +2698,18 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2785&P_SESS=20231",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2799&P_SESS=20231",
         "bill": "SB 424",
         "session": "20231",
-        "action_id": "SB424-0047",
+        "action_id": "SB424-0048",
         "type": "floor",
-        "seq_number": "H2785",
+        "seq_number": "S2799",
         "date": "May 01, 2023",
         "description": "Do Adopt",
         "totals": {
-            "Y": 36,
-            "N": 14,
-            "E": 0,
+            "Y": 33,
+            "N": 16,
+            "E": 1,
             "A": 0
         },
         "votes": [
@@ -2743,7 +2743,7 @@
             },
             {
                 "name": "Salomon, Daniel",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Bogner, Kenneth",
@@ -2819,7 +2819,7 @@
             },
             {
                 "name": "Molnar, Brad",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Vance, Shelley",
@@ -2831,7 +2831,7 @@
             },
             {
                 "name": "Hayman, Denise",
-                "vote": "N"
+                "vote": "E"
             },
             {
                 "name": "Morigeau, Shane",
@@ -2879,7 +2879,7 @@
             },
             {
                 "name": "Kelker, Kathy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Olsen, Andrea",
@@ -2916,12 +2916,12 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2799&P_SESS=20231",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2785&P_SESS=20231",
         "bill": "SB 424",
         "session": "20231",
         "action_id": "SB424-0050",
         "type": "floor",
-        "seq_number": "S2799",
+        "seq_number": "H2785",
         "date": "May 01, 2023",
         "description": "Do Adopt",
         "totals": {

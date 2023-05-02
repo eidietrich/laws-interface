@@ -207,6 +207,7 @@
         "hasVote": false,
         "committee": "(H) Agriculture",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49766?agendaId=277537",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46445?agendaId=276786"
         ]
     },
@@ -251,8 +252,11 @@
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49834?agendaId=278488",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46177?agendaId=277581"
+        ]
     },
     {
         "id": "HJ27-0023",
@@ -328,6 +332,17 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": false,
+        "committee": "(S) Business, Labor, and Economic Affairs",
+        "recordings": []
+    },
+    {
+        "id": "HJ27-0030",
+        "bill": "HJ 27",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Concurred",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": true,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": []
     }

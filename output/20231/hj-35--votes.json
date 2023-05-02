@@ -915,5 +915,50 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HJ0035LOS230501.pdf",
+        "bill": "HJ 35",
+        "session": "20231",
+        "action_id": "HJ35-0029",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "May 01, 2023",
+        "description": "Sen. Bogner made a Motion that HJ 35 Be Concurred In",
+        "totals": {
+            "Y": 7,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Boldman, Ellie;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Dunwell, MaryAnn",
+                "vote": "Y"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            }
+        ]
     }
 ]

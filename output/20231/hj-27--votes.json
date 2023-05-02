@@ -907,5 +907,18 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": null,
+        "bill": "HJ 27",
+        "session": "20231",
+        "action_id": "HJ27-0030",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing URL",
+        "totals": {
+            "Y": 10,
+            "N": 0
+        }
     }
 ]

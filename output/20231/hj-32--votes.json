@@ -493,5 +493,66 @@
                 "vote": "Y"
             }
         ]
+    },
+    {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HJ0032NAS230501.pdf",
+        "bill": "HJ 32",
+        "session": "20231",
+        "action_id": "HJ32-0027",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "May 01, 2023",
+        "description": "Sen. Sales made a Motion that HJ 32 Be Concurred In",
+        "totals": {
+            "Y": 11,
+            "N": 0
+        },
+        "votes": [
+            {
+                "name": "Sales, Walt",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Brown, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Gillespie, Bruce",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Small, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Usher, Barry",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            }
+        ]
     }
 ]
