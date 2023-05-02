@@ -1646,7 +1646,7 @@
         "action_id": "HB539-0040",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 5,
             "N": 1
@@ -1874,7 +1874,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2801&P_SESS=20231",
         "bill": "HB 539",
         "session": "20231",
-        "action_id": "HB539-0044",
+        "action_id": "HB539-0045",
         "type": "floor",
         "seq_number": "S2801",
         "date": "May 01, 2023",
