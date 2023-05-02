@@ -835,22 +835,33 @@
         "id": "SB529-0074",
         "bill": "SB 529",
         "session": "20231",
-        "action": "(S) Free Conference Committee Appointed",
+        "action": "(S) Free Conference Committee Report Received",
         "actionUrl": null,
         "date": "05/02/2023",
-        "hasVote": false,
-        "committee": null,
+        "hasVote": true,
+        "committee": "Free Conference Committee on SB 529",
         "recordings": []
     },
     {
         "id": "SB529-0075",
         "bill": "SB 529",
         "session": "20231",
-        "action": "(S) Free Conference Committee Report Received",
+        "action": "(H) Free Conference Committee Report Received",
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
         "committee": "Free Conference Committee on SB 529",
+        "recordings": []
+    },
+    {
+        "id": "SB529-0076",
+        "bill": "SB 529",
+        "session": "20231",
+        "action": "(S) Free Conference Committee Appointed",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
