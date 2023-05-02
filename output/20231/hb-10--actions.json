@@ -657,17 +657,6 @@
         "id": "HB10-0058",
         "bill": "HB 10",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/20/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB10-0059",
-        "bill": "HB 10",
-        "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/20/2023",
@@ -679,7 +668,7 @@
         ]
     },
     {
-        "id": "HB10-0060",
+        "id": "HB10-0059",
         "bill": "HB 10",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -690,7 +679,7 @@
         "recordings": []
     },
     {
-        "id": "HB10-0061",
+        "id": "HB10-0060",
         "bill": "HB 10",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -701,7 +690,7 @@
         "recordings": []
     },
     {
-        "id": "HB10-0062",
+        "id": "HB10-0061",
         "bill": "HB 10",
         "session": "20231",
         "action": "(S) Returned to House with Amendments",
@@ -712,29 +701,21 @@
         "recordings": []
     },
     {
-        "id": "HB10-0063",
-        "bill": "HB 10",
-        "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB10-0064",
+        "id": "HB10-0062",
         "bill": "HB 10",
         "session": "20231",
         "action": "(H) 2nd Reading Senate Amendments Not Concurred",
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49834?agendaId=278454",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46177?agendaId=277374"
+        ]
     },
     {
-        "id": "HB10-0065",
+        "id": "HB10-0063",
         "bill": "HB 10",
         "session": "20231",
         "action": "(H) Conference Committee Appointed",
@@ -745,7 +726,7 @@
         "recordings": []
     },
     {
-        "id": "HB10-0066",
+        "id": "HB10-0064",
         "bill": "HB 10",
         "session": "20231",
         "action": "(S) Conference Committee Appointed",
@@ -756,7 +737,7 @@
         "recordings": []
     },
     {
-        "id": "HB10-0067",
+        "id": "HB10-0065",
         "bill": "HB 10",
         "session": "20231",
         "action": "(S) Hearing",
@@ -767,7 +748,7 @@
         "recordings": []
     },
     {
-        "id": "HB10-0068",
+        "id": "HB10-0066",
         "bill": "HB 10",
         "session": "20231",
         "action": "(H) Conference Committee Report Received",
@@ -778,7 +759,7 @@
         "recordings": []
     },
     {
-        "id": "HB10-0069",
+        "id": "HB10-0067",
         "bill": "HB 10",
         "session": "20231",
         "action": "(S) Conference Committee Report Received",
@@ -786,6 +767,50 @@
         "date": "05/01/2023",
         "hasVote": true,
         "committee": "Conference Committee on HB 10",
+        "recordings": []
+    },
+    {
+        "id": "HB10-0068",
+        "bill": "HB 10",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB10-0069",
+        "bill": "HB 10",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB10-0070",
+        "bill": "HB 10",
+        "session": "20231",
+        "action": "(S) 2nd Reading Conference Committee Report Adopted",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB10-0071",
+        "bill": "HB 10",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]
