@@ -470,8 +470,11 @@
         "actionUrl": null,
         "date": "04/29/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49854?agendaId=278207",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49837?agendaId=278082"
+        ]
     },
     {
         "id": "SB561-0042",
@@ -492,6 +495,17 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB561-0044",
+        "bill": "SB 561",
+        "session": "20231",
+        "action": "(S) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

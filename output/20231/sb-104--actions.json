@@ -674,8 +674,11 @@
         "actionUrl": null,
         "date": "04/27/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49834?agendaId=278464",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46177?agendaId=277384"
+        ]
     },
     {
         "id": "SB104-0060",
@@ -692,6 +695,17 @@
         "id": "SB104-0061",
         "bill": "SB 104",
         "session": "20231",
+        "action": "(S) Revised Fiscal Note Requested",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB104-0062",
+        "bill": "SB 104",
+        "session": "20231",
         "action": "(H) Scheduled for 3rd Reading",
         "actionUrl": null,
         "date": "04/28/2023",
@@ -700,7 +714,7 @@
         "recordings": []
     },
     {
-        "id": "SB104-0062",
+        "id": "SB104-0063",
         "bill": "SB 104",
         "session": "20231",
         "action": "(H) 3rd Reading Concurred",
@@ -711,7 +725,7 @@
         "recordings": []
     },
     {
-        "id": "SB104-0063",
+        "id": "SB104-0064",
         "bill": "SB 104",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
@@ -722,7 +736,7 @@
         "recordings": []
     },
     {
-        "id": "SB104-0064",
+        "id": "SB104-0065",
         "bill": "SB 104",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -733,18 +747,20 @@
         "recordings": []
     },
     {
-        "id": "SB104-0065",
+        "id": "SB104-0066",
         "bill": "SB 104",
         "session": "20231",
         "action": "(S) 2nd Reading House Amendments Concurred",
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": " ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49873?agendaId=278740"
+        ]
     },
     {
-        "id": "SB104-0066",
+        "id": "SB104-0067",
         "bill": "SB 104",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -755,13 +771,57 @@
         "recordings": []
     },
     {
-        "id": "SB104-0067",
+        "id": "SB104-0068",
         "bill": "SB 104",
         "session": "20231",
         "action": "(S) 3rd Reading Passed as Amended by House",
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB104-0069",
+        "bill": "SB 104",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Received",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB104-0070",
+        "bill": "SB 104",
+        "session": "20231",
+        "action": "(C) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB104-0071",
+        "bill": "SB 104",
+        "session": "20231",
+        "action": "(S) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB104-0072",
+        "bill": "SB 104",
+        "session": "20231",
+        "action": "(S) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
