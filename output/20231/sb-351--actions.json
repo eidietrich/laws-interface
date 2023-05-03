@@ -455,17 +455,6 @@
         "id": "SB351-0040",
         "bill": "SB 351",
         "session": "20231",
-        "action": "(H) Scheduled for 3rd Reading",
-        "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB351-0041",
-        "bill": "SB 351",
-        "session": "20231",
         "action": "(H) 3rd Reading Concurred",
         "actionUrl": null,
         "date": "04/17/2023",
@@ -474,7 +463,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0042",
+        "id": "SB351-0041",
         "bill": "SB 351",
         "session": "20231",
         "action": "(H) Returned to Senate with Amendments",
@@ -485,7 +474,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0043",
+        "id": "SB351-0042",
         "bill": "SB 351",
         "session": "20231",
         "action": "(S) 2nd Reading House Amendments Not Concurred",
@@ -499,7 +488,7 @@
         ]
     },
     {
-        "id": "SB351-0044",
+        "id": "SB351-0043",
         "bill": "SB 351",
         "session": "20231",
         "action": "(S) Conference Committee Appointed",
@@ -510,7 +499,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0045",
+        "id": "SB351-0044",
         "bill": "SB 351",
         "session": "20231",
         "action": "(S) Conference Committee Dissolved",
@@ -521,7 +510,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0046",
+        "id": "SB351-0045",
         "bill": "SB 351",
         "session": "20231",
         "action": "(S) Free Conference Committee Appointed",
@@ -532,7 +521,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0047",
+        "id": "SB351-0046",
         "bill": "SB 351",
         "session": "20231",
         "action": "(H) Free Conference Committee Appointed",
@@ -543,7 +532,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0048",
+        "id": "SB351-0047",
         "bill": "SB 351",
         "session": "20231",
         "action": "(S) Free Conference Committee Report Received",
@@ -554,7 +543,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0049",
+        "id": "SB351-0048",
         "bill": "SB 351",
         "session": "20231",
         "action": "(H) Free Conference Committee Report Received",
@@ -565,7 +554,7 @@
         "recordings": []
     },
     {
-        "id": "SB351-0050",
+        "id": "SB351-0049",
         "bill": "SB 351",
         "session": "20231",
         "action": "(H) Scheduled for 2nd Reading",
@@ -576,13 +565,24 @@
         "recordings": []
     },
     {
-        "id": "SB351-0051",
+        "id": "SB351-0050",
         "bill": "SB 351",
         "session": "20231",
         "action": "(H) 2nd Reading Free Conference Committee Report Adopted",
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB351-0051",
+        "bill": "SB 351",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     },
@@ -601,10 +601,10 @@
         "id": "SB351-0053",
         "bill": "SB 351",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
+        "action": "(S) 2nd Reading Free Conference Committee Report Adopted",
         "actionUrl": null,
         "date": "05/02/2023",
-        "hasVote": false,
+        "hasVote": true,
         "committee": null,
         "recordings": []
     },
@@ -612,7 +612,18 @@
         "id": "SB351-0054",
         "bill": "SB 351",
         "session": "20231",
-        "action": "(S) 2nd Reading Free Conference Committee Report Adopted",
+        "action": "(H) Scheduled for 3rd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB351-0055",
+        "bill": "SB 351",
+        "session": "20231",
+        "action": "(H) 3rd Reading Free Conference Committee Report Adopted",
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
