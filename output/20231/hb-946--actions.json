@@ -492,8 +492,10 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46180?agendaId=278795"
+        ]
     },
     {
         "id": "HB946-0044",
@@ -548,7 +550,9 @@
         "date": "05/02/2023",
         "hasVote": false,
         "committee": "Conference Committee on HB 946",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46180?agendaId=278795"
+        ]
     },
     {
         "id": "HB946-0049",
@@ -580,8 +584,10 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46180?agendaId=278795"
+        ]
     },
     {
         "id": "HB946-0052",
@@ -591,6 +597,17 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB946-0053",
+        "bill": "HB 946",
+        "session": "20231",
+        "action": "(H) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "05/03/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

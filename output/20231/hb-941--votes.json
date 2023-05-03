@@ -1864,7 +1864,7 @@
         "action_id": "HB941-0046",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 5,
             "N": 1
@@ -1877,7 +1877,7 @@
         "action_id": "HB941-0047",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 5,
             "N": 1
@@ -2305,21 +2305,21 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2921&P_SESS=20231",
         "bill": "HB 941",
         "session": "20231",
-        "action_id": "HB941-0051",
+        "action_id": "HB941-0052",
         "type": "floor",
         "seq_number": "H2921",
         "date": "May 02, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 75,
+            "Y": 71,
             "N": 24,
-            "E": 0,
-            "A": 1
+            "E": 3,
+            "A": 2
         },
         "votes": [
             {
                 "name": "Abbott, Kim",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fielder, Paul",
@@ -2363,7 +2363,7 @@
             },
             {
                 "name": "Running Wolf, Tyson",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Baum, Denise",
@@ -2399,7 +2399,7 @@
             },
             {
                 "name": "Bergstrom, James",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Galloway, Steven",
@@ -2463,7 +2463,7 @@
             },
             {
                 "name": "Brewster, Larry",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gunderson, Steve",
@@ -2519,7 +2519,7 @@
             },
             {
                 "name": "Mercer, Bill",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Stewart Peregoy, Sharon",
@@ -2543,7 +2543,7 @@
             },
             {
                 "name": "Caferro, Mary",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Hellegaard, Lyn",
@@ -2551,7 +2551,7 @@
             },
             {
                 "name": "Mitchell, Braxton",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Thane, Mark",
@@ -2583,7 +2583,7 @@
             },
             {
                 "name": "Nave, Fiona",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Vinton, Sue",
@@ -2607,7 +2607,7 @@
             },
             {
                 "name": "Deming, Lee",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Howell, SJ",
@@ -2619,7 +2619,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Dooling, Julie",
@@ -2663,7 +2663,7 @@
             },
             {
                 "name": "Phalen, Bob",
-                "vote": "N"
+                "vote": "A"
             },
             {
                 "name": "Wirth, Zack",
@@ -2679,7 +2679,7 @@
             },
             {
                 "name": "Read, Joe",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Yakawich, Michael",
@@ -2687,7 +2687,7 @@
             },
             {
                 "name": "Falk, Terry",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Keogh, Connie",

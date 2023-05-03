@@ -939,7 +939,7 @@
         "action_id": "HB742-0031",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 8,
             "N": 3
@@ -1164,12 +1164,12 @@
         ]
     },
     {
-        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2873&P_SESS=20231",
+        "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2813&P_SESS=20231",
         "bill": "HB 742",
         "session": "20231",
         "action_id": "HB742-0035",
         "type": "floor",
-        "seq_number": "S2873",
+        "seq_number": "S2813",
         "date": "May 01, 2023",
         "description": "Do Concur",
         "totals": {

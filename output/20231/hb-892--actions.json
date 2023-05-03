@@ -547,8 +547,10 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46180?agendaId=278792"
+        ]
     },
     {
         "id": "HB892-0049",
@@ -580,6 +582,17 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB892-0052",
+        "bill": "HB 892",
+        "session": "20231",
+        "action": "(H) Sent to Enrolling",
+        "actionUrl": null,
+        "date": "05/03/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
