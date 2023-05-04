@@ -444,8 +444,8 @@
         "hasVote": false,
         "committee": "(H) Business and Labor",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49437?agendaId=270877",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47925?agendaId=269124"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47925?agendaId=269124",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49437?agendaId=270877"
         ]
     },
     {
@@ -579,6 +579,17 @@
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/24/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB269-0052",
+        "bill": "SB 269",
+        "session": "20231",
+        "action": "(S) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/02/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
