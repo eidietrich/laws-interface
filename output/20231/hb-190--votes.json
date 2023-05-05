@@ -6,7 +6,7 @@
         "action_id": "HB190-0030",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 18,
             "N": 0
@@ -1707,7 +1707,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0190FCS230414.pdf",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0057",
+        "action_id": "HB190-0058",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1800,7 +1800,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2144&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0062",
+        "action_id": "HB190-0063",
         "type": "floor",
         "seq_number": "S2144",
         "date": "April 17, 2023",
@@ -2018,14 +2018,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2201&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0064",
+        "action_id": "HB190-0065",
         "type": "floor",
         "seq_number": "S2201",
-        "date": "April 17, 2023",
+        "date": "April 18, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 43,
-            "N": 7,
+            "Y": 40,
+            "N": 10,
             "E": 0,
             "A": 0
         },
@@ -2060,7 +2060,7 @@
             },
             {
                 "name": "Salomon, Daniel",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Bogner, Kenneth",
@@ -2112,7 +2112,7 @@
             },
             {
                 "name": "Cuffe, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Glimm, Carl",
@@ -2176,7 +2176,7 @@
             },
             {
                 "name": "Ellsworth, Jason",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hinebauch, Steve",
@@ -2200,7 +2200,7 @@
             },
             {
                 "name": "Olsen, Andrea",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Zolnikov, Daniel",
@@ -2212,7 +2212,7 @@
             },
             {
                 "name": "Lang, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Pope, Christopher",
@@ -2236,7 +2236,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2487&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0070",
+        "action_id": "HB190-0071",
         "type": "floor",
         "seq_number": "H2487",
         "date": "April 24, 2023",
@@ -2654,7 +2654,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2537&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0072",
+        "action_id": "HB190-0073",
         "type": "floor",
         "seq_number": "H2537",
         "date": "April 26, 2023",

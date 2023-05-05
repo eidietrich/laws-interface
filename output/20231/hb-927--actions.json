@@ -447,6 +447,7 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49581?agendaId=274834",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46823?agendaId=273101"
         ]
     },
@@ -514,7 +515,10 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": "(S) Finance and Claims",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45612?agendaId=276659",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49750?agendaId=276947"
+        ]
     },
     {
         "id": "HB927-0046",
@@ -536,6 +540,28 @@
         "date": "04/26/2023",
         "hasVote": true,
         "committee": "(S) Finance and Claims",
+        "recordings": []
+    },
+    {
+        "id": "HB927-0048",
+        "bill": "HB 927",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB927-0049",
+        "bill": "HB 927",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/27/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

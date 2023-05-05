@@ -600,17 +600,6 @@
         "id": "HB450-0053",
         "bill": "HB 450",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "04/18/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB450-0054",
-        "bill": "HB 450",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/20/2023",
@@ -619,7 +608,7 @@
         "recordings": []
     },
     {
-        "id": "HB450-0055",
+        "id": "HB450-0054",
         "bill": "HB 450",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -630,12 +619,23 @@
         "recordings": []
     },
     {
-        "id": "HB450-0056",
+        "id": "HB450-0055",
         "bill": "HB 450",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB450-0056",
+        "bill": "HB 450",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/25/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

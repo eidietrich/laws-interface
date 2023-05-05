@@ -240,8 +240,8 @@
         "hasVote": false,
         "committee": "(H) Agriculture",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47488?agendaId=247566",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46415?agendaId=244721"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46415?agendaId=244721",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47488?agendaId=247566"
         ]
     },
     {
@@ -287,6 +287,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47673?agendaId=256905",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46107?agendaId=247426"
         ]
     },
@@ -354,7 +355,10 @@
         "date": "01/31/2023",
         "hasVote": false,
         "committee": "(S) Agriculture, Livestock and Irrigation",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48515?agendaId=259620",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47068?agendaId=249873"
+        ]
     },
     {
         "id": "HB94-0032",
@@ -397,9 +401,10 @@
         "actionUrl": null,
         "date": "02/13/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46211?agendaId=252331"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46211?agendaId=252331",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48708?agendaId=264022"
         ]
     },
     {
@@ -472,39 +477,6 @@
         "id": "HB94-0042",
         "bill": "HB 94",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB94-0043",
-        "bill": "HB 94",
-        "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB94-0044",
-        "bill": "HB 94",
-        "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB94-0045",
-        "bill": "HB 94",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "03/08/2023",
@@ -513,7 +485,7 @@
         "recordings": []
     },
     {
-        "id": "HB94-0046",
+        "id": "HB94-0043",
         "bill": "HB 94",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -524,7 +496,7 @@
         "recordings": []
     },
     {
-        "id": "HB94-0047",
+        "id": "HB94-0044",
         "bill": "HB 94",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
@@ -535,7 +507,7 @@
         "recordings": []
     },
     {
-        "id": "HB94-0048",
+        "id": "HB94-0045",
         "bill": "HB 94",
         "session": "20231",
         "action": "(H) Signed by Governor",
@@ -546,7 +518,7 @@
         "recordings": []
     },
     {
-        "id": "HB94-0049",
+        "id": "HB94-0046",
         "bill": "HB 94",
         "session": "20231",
         "action": "Chapter Number Assigned",

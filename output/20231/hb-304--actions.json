@@ -422,6 +422,7 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49409?agendaId=270685",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46817?agendaId=268190"
         ]
     },
@@ -495,18 +496,21 @@
         "id": "HB304-0044",
         "bill": "HB 304",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
+        "action": "(S) 2nd Reading Concur Motion Failed",
         "actionUrl": null,
         "date": "04/17/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
+        "hasVote": true,
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49612?agendaId=274713",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273633"
+        ]
     },
     {
         "id": "HB304-0045",
         "bill": "HB 304",
         "session": "20231",
-        "action": "(S) 2nd Reading Concur Motion Failed",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
@@ -517,10 +521,32 @@
         "id": "HB304-0046",
         "bill": "HB 304",
         "session": "20231",
-        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "action": "(H) Revised Fiscal Note Received",
         "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": true,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB304-0047",
+        "bill": "HB 304",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Signed",
+        "actionUrl": null,
+        "date": "04/18/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB304-0048",
+        "bill": "HB 304",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

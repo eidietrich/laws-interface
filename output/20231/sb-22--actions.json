@@ -488,7 +488,7 @@
         "id": "SB22-0043",
         "bill": "SB 22",
         "session": "20231",
-        "action": "(S) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/06/2023",
         "hasVote": false,
@@ -499,17 +499,6 @@
         "id": "SB22-0044",
         "bill": "SB 22",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/06/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB22-0045",
-        "bill": "SB 22",
-        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "04/12/2023",
@@ -518,7 +507,7 @@
         "recordings": []
     },
     {
-        "id": "SB22-0046",
+        "id": "SB22-0045",
         "bill": "SB 22",
         "session": "20231",
         "action": "(H) Signed by Speaker",
@@ -529,12 +518,23 @@
         "recordings": []
     },
     {
-        "id": "SB22-0047",
+        "id": "SB22-0046",
         "bill": "SB 22",
         "session": "20231",
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/14/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB22-0047",
+        "bill": "SB 22",
+        "session": "20231",
+        "action": "(S) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/24/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

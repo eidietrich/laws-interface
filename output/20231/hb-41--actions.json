@@ -298,7 +298,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247118"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46106?agendaId=247118",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47638?agendaId=256709"
         ]
     },
     {
@@ -399,6 +400,7 @@
         "hasVote": false,
         "committee": "(S) Business, Labor, and Economic Affairs",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48453?agendaId=259027",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45848?agendaId=249239"
         ]
     },
@@ -443,9 +445,10 @@
         "actionUrl": null,
         "date": "02/08/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46208?agendaId=251739"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46208?agendaId=251739",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48645?agendaId=262932"
         ]
     },
     {
@@ -518,17 +521,6 @@
         "id": "HB41-0046",
         "bill": "HB 41",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB41-0047",
-        "bill": "HB 41",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "03/08/2023",
@@ -537,7 +529,7 @@
         "recordings": []
     },
     {
-        "id": "HB41-0048",
+        "id": "HB41-0047",
         "bill": "HB 41",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -548,7 +540,7 @@
         "recordings": []
     },
     {
-        "id": "HB41-0049",
+        "id": "HB41-0048",
         "bill": "HB 41",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
@@ -559,7 +551,7 @@
         "recordings": []
     },
     {
-        "id": "HB41-0050",
+        "id": "HB41-0049",
         "bill": "HB 41",
         "session": "20231",
         "action": "(H) Signed by Governor",
@@ -570,7 +562,7 @@
         "recordings": []
     },
     {
-        "id": "HB41-0051",
+        "id": "HB41-0050",
         "bill": "HB 41",
         "session": "20231",
         "action": "Chapter Number Assigned",

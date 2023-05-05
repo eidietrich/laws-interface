@@ -1409,7 +1409,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1251&P_SESS=20231",
         "bill": "SB 5",
         "session": "20231",
-        "action_id": "SB5-0040",
+        "action_id": "SB5-0039",
         "type": "floor",
         "seq_number": "S1251",
         "date": "March 17, 2023",
@@ -1627,15 +1627,15 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1267&P_SESS=20231",
         "bill": "SB 5",
         "session": "20231",
-        "action_id": "SB5-0043",
+        "action_id": "SB5-0041",
         "type": "floor",
         "seq_number": "S1267",
-        "date": "March 18, 2023",
+        "date": "March 17, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 49,
-            "N": 0,
-            "E": 1,
+            "Y": 48,
+            "N": 2,
+            "E": 0,
             "A": 0
         },
         "votes": [
@@ -1773,11 +1773,11 @@
             },
             {
                 "name": "Hertz, Greg",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Noland, Mark",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Webber, Susan",
@@ -1813,7 +1813,7 @@
             },
             {
                 "name": "Zolnikov, Daniel",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Esp, John",

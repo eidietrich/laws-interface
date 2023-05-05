@@ -935,7 +935,7 @@
         "action_id": "HB304-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 9,
             "N": 0
@@ -948,7 +948,7 @@
         "action_id": "HB304-0040",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 6,
             "N": 1
@@ -1011,7 +1011,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2120&P_SESS=20231",
         "bill": "HB 304",
         "session": "20231",
-        "action_id": "HB304-0045",
+        "action_id": "HB304-0044",
         "type": "floor",
         "seq_number": "S2120",
         "date": "April 17, 2023",
@@ -1229,25 +1229,25 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2121&P_SESS=20231",
         "bill": "HB 304",
         "session": "20231",
-        "action_id": "HB304-0046",
+        "action_id": "HB304-0045",
         "type": "floor",
         "seq_number": "S2121",
         "date": "April 17, 2023",
-        "description": "Indefinitely Postpone -Fitzpatrick",
+        "description": "Do Concur",
         "totals": {
-            "Y": 40,
-            "N": 9,
-            "E": 1,
+            "Y": 15,
+            "N": 35,
+            "E": 0,
             "A": 0
         },
         "votes": [
             {
                 "name": "Bartel, Dan",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Flowers, Pat",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Lynch, Ryan",
@@ -1255,19 +1255,19 @@
             },
             {
                 "name": "Sales, Walt",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Beard, Becky",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fox, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Mandeville, Forrest",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Salomon, Daniel",
@@ -1279,7 +1279,7 @@
             },
             {
                 "name": "Friedel, Chris",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Manzella, Theresa",
@@ -1287,79 +1287,79 @@
             },
             {
                 "name": "Small, Jason",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Boldman, Ellie",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fuller, John",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "McClafferty, Edith (Edie)",
-                "vote": "E"
+                "vote": "N"
             },
             {
                 "name": "Tempel, Russel (Russ)",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Brown, Bob",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gillespie, Bruce",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "McGillvray, Tom",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Trebas, Jeremy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Cuffe, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Glimm, Carl",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "McKamey, Wendy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Usher, Barry",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Curdy, Willis",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Gross, Jen",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Molnar, Brad",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Vance, Shelley",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Dunwell, Mary Ann",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hayman, Denise",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Morigeau, Shane",
@@ -1371,7 +1371,7 @@
             },
             {
                 "name": "Ellis, Janet",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hertz, Greg",
@@ -1383,15 +1383,15 @@
             },
             {
                 "name": "Webber, Susan",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Ellsworth, Jason",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hinebauch, Steve",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "O'Brien, Shannon",
@@ -1399,7 +1399,7 @@
             },
             {
                 "name": "Welborn, Jeffrey",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Emrich, Daniel",
@@ -1419,23 +1419,23 @@
             },
             {
                 "name": "Esp, John",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Lang, Mike",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Pope, Christopher",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fitzpatrick, Steve",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Lenz, Dennis",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Regier, Keith",

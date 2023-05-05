@@ -228,7 +228,10 @@
         "date": "04/25/2023",
         "hasVote": false,
         "committee": "(S) Judiciary",
-        "recordings": []
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49754?agendaId=276942",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47999?agendaId=276492"
+        ]
     },
     {
         "id": "SJ34-0021",
@@ -271,8 +274,11 @@
         "actionUrl": null,
         "date": "04/26/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46263?agendaId=277295",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49796?agendaId=277946"
+        ]
     },
     {
         "id": "SJ34-0025",
@@ -281,6 +287,17 @@
         "action": "(S) 2nd Reading Indefinitely Postponed",
         "actionUrl": null,
         "date": "04/26/2023",
+        "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SJ34-0026",
+        "bill": "SJ 34",
+        "session": "20231",
+        "action": "(S) Motion Failed",
+        "actionUrl": null,
+        "date": "04/27/2023",
         "hasVote": true,
         "committee": null,
         "recordings": []

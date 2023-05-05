@@ -565,17 +565,6 @@
         "id": "HB493-0050",
         "bill": "HB 493",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB493-0051",
-        "bill": "HB 493",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/20/2023",
@@ -584,7 +573,7 @@
         "recordings": []
     },
     {
-        "id": "HB493-0052",
+        "id": "HB493-0051",
         "bill": "HB 493",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -595,12 +584,23 @@
         "recordings": []
     },
     {
-        "id": "HB493-0053",
+        "id": "HB493-0052",
         "bill": "HB 493",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB493-0053",
+        "bill": "HB 493",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/25/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

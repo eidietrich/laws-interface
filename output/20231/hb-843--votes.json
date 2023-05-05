@@ -6,7 +6,7 @@
         "action_id": "HB843-0025",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 19,
             "N": 0
@@ -16,15 +16,15 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0843FIH230330.pdf",
         "bill": "HB 843",
         "session": "20231",
-        "action_id": "HB843-0026",
+        "action_id": "HB843-0027",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "March 30, 2023",
-        "description": "Rep. Hinkle made a Motion that HB 843 Do Pass as Amended",
+        "description": "Rep. Deming made a Motion that HB 843 Do Pass as Amended",
         "totals": {
-            "Y": 14,
-            "N": 4
+            "Y": 19,
+            "N": 0
         },
         "votes": [
             {
@@ -36,15 +36,19 @@
                 "vote": "Y"
             },
             {
-                "name": "Loge, Denley;byproxy",
+                "name": "Loge, Denley",
                 "vote": "Y"
             },
             {
-                "name": "Ler, Brandon;byproxy",
+                "name": "Ler, Brandon",
                 "vote": "Y"
             },
             {
                 "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
                 "vote": "Y"
             },
             {
@@ -53,7 +57,7 @@
             },
             {
                 "name": "Duram, Neil",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Karlen, Jonathan",
@@ -61,7 +65,7 @@
             },
             {
                 "name": "Marler, Marilyn",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Miner, Russel",
@@ -69,7 +73,7 @@
             },
             {
                 "name": "Matthews, Eric",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "RunningWolf, Tyson;byproxy",
@@ -97,7 +101,7 @@
             },
             {
                 "name": "Fitzgerald, Ross",
-                "vote": "N"
+                "vote": "Y"
             }
         ]
     },
@@ -105,10 +109,10 @@
         "url": null,
         "bill": "HB 843",
         "session": "20231",
-        "action_id": "HB843-0031",
+        "action_id": "HB843-0032",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 17,
             "N": 6

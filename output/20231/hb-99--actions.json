@@ -200,6 +200,7 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47562?agendaId=250758",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46103?agendaId=246084"
         ]
     },
@@ -268,6 +269,7 @@
         "hasVote": false,
         "committee": "(S) Fish and Game",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48378?agendaId=257713",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47137?agendaId=248610"
         ]
     },
@@ -312,8 +314,9 @@
         "actionUrl": null,
         "date": "02/03/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48578?agendaId=262393",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46205?agendaId=250609"
         ]
     },
@@ -376,7 +379,7 @@
         "id": "HB99-0033",
         "bill": "HB 99",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "02/16/2023",
         "hasVote": false,
@@ -387,7 +390,7 @@
         "id": "HB99-0034",
         "bill": "HB 99",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "02/16/2023",
         "hasVote": false,
@@ -398,17 +401,6 @@
         "id": "HB99-0035",
         "bill": "HB 99",
         "session": "20231",
-        "action": "(H) Signed by Speaker",
-        "actionUrl": null,
-        "date": "02/16/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB99-0036",
-        "bill": "HB 99",
-        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "02/17/2023",
@@ -417,7 +409,7 @@
         "recordings": []
     },
     {
-        "id": "HB99-0037",
+        "id": "HB99-0036",
         "bill": "HB 99",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
@@ -428,7 +420,7 @@
         "recordings": []
     },
     {
-        "id": "HB99-0038",
+        "id": "HB99-0037",
         "bill": "HB 99",
         "session": "20231",
         "action": "(H) Signed by Governor",
@@ -439,7 +431,7 @@
         "recordings": []
     },
     {
-        "id": "HB99-0039",
+        "id": "HB99-0038",
         "bill": "HB 99",
         "session": "20231",
         "action": "Chapter Number Assigned",

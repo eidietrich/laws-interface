@@ -273,8 +273,8 @@
         "hasVote": false,
         "committee": "(S) Local Government",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47458?agendaId=246304",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46782?agendaId=244696"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46782?agendaId=244696",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47458?agendaId=246304"
         ]
     },
     {
@@ -320,8 +320,8 @@
         "hasVote": true,
         "committee": "  ",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47511?agendaId=246644",
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46188?agendaId=245329"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46188?agendaId=245329",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47511?agendaId=246644"
         ]
     },
     {
@@ -389,6 +389,7 @@
         "hasVote": false,
         "committee": "(H) Local Government",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48514?agendaId=259629",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47174?agendaId=249896"
         ]
     },
@@ -435,7 +436,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46123?agendaId=252180"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46123?agendaId=252180",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48688?agendaId=263571"
         ]
     },
     {
@@ -519,6 +521,17 @@
         "id": "SB103-0046",
         "bill": "SB 103",
         "session": "20231",
+        "action": "(H) Signed by Speaker",
+        "actionUrl": null,
+        "date": "03/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB103-0047",
+        "bill": "SB 103",
+        "session": "20231",
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "03/09/2023",
@@ -527,7 +540,7 @@
         "recordings": []
     },
     {
-        "id": "SB103-0047",
+        "id": "SB103-0048",
         "bill": "SB 103",
         "session": "20231",
         "action": "(S) Signed by Governor",
@@ -538,7 +551,7 @@
         "recordings": []
     },
     {
-        "id": "SB103-0048",
+        "id": "SB103-0049",
         "bill": "SB 103",
         "session": "20231",
         "action": "Chapter Number Assigned",

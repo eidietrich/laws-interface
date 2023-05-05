@@ -686,17 +686,6 @@
         "id": "HB331-0061",
         "bill": "HB 331",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB331-0062",
-        "bill": "HB 331",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/20/2023",
@@ -705,7 +694,7 @@
         "recordings": []
     },
     {
-        "id": "HB331-0063",
+        "id": "HB331-0062",
         "bill": "HB 331",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -716,12 +705,23 @@
         "recordings": []
     },
     {
-        "id": "HB331-0064",
+        "id": "HB331-0063",
         "bill": "HB 331",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "04/21/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB331-0064",
+        "bill": "HB 331",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "04/25/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

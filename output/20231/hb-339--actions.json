@@ -661,18 +661,21 @@
         "id": "HB339-0059",
         "bill": "HB 339",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
+        "action": "(S) 2nd Reading Concur Motion Failed",
         "actionUrl": null,
         "date": "04/17/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
+        "hasVote": true,
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49612?agendaId=274714",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46256?agendaId=273634"
+        ]
     },
     {
         "id": "HB339-0060",
         "bill": "HB 339",
         "session": "20231",
-        "action": "(S) 2nd Reading Concur Motion Failed",
+        "action": "(S) 2nd Reading Indefinitely Postponed",
         "actionUrl": null,
         "date": "04/17/2023",
         "hasVote": true,
@@ -683,10 +686,32 @@
         "id": "HB339-0061",
         "bill": "HB 339",
         "session": "20231",
-        "action": "(S) 2nd Reading Indefinitely Postponed",
+        "action": "(H) Revised Fiscal Note Received",
         "actionUrl": null,
-        "date": "04/17/2023",
-        "hasVote": true,
+        "date": "04/19/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB339-0062",
+        "bill": "HB 339",
+        "session": "20231",
+        "action": "(H) Fiscal Note Unsigned",
+        "actionUrl": null,
+        "date": "04/20/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB339-0063",
+        "bill": "HB 339",
+        "session": "20231",
+        "action": "(H) Revised Fiscal Note Printed",
+        "actionUrl": null,
+        "date": "04/21/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }

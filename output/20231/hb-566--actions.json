@@ -408,17 +408,6 @@
         "id": "HB566-0036",
         "bill": "HB 566",
         "session": "20231",
-        "action": "(S) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/11/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB566-0037",
-        "bill": "HB 566",
-        "session": "20231",
         "action": "(S) 2nd Reading Concurred",
         "actionUrl": null,
         "date": "04/11/2023",
@@ -428,6 +417,17 @@
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46252?agendaId=271140",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49564?agendaId=273141"
         ]
+    },
+    {
+        "id": "HB566-0037",
+        "bill": "HB 566",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "04/11/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
     },
     {
         "id": "HB566-0038",
@@ -466,26 +466,18 @@
         "id": "HB566-0041",
         "bill": "HB 566",
         "session": "20231",
-        "action": "(H) Scheduled for 2nd Reading",
-        "actionUrl": null,
-        "date": "04/19/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB566-0042",
-        "bill": "HB 566",
-        "session": "20231",
         "action": "(H) 2nd Reading Senate Amendments Not Concurred",
         "actionUrl": null,
         "date": "04/19/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49644?agendaId=275436",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46171?agendaId=274377"
+        ]
     },
     {
-        "id": "HB566-0043",
+        "id": "HB566-0042",
         "bill": "HB 566",
         "session": "20231",
         "action": "(H) Free Conference Committee Appointed",
@@ -496,7 +488,7 @@
         "recordings": []
     },
     {
-        "id": "HB566-0044",
+        "id": "HB566-0043",
         "bill": "HB 566",
         "session": "20231",
         "action": "(S) Free Conference Committee Appointed",
@@ -507,7 +499,7 @@
         "recordings": []
     },
     {
-        "id": "HB566-0045",
+        "id": "HB566-0044",
         "bill": "HB 566",
         "session": "20231",
         "action": "(S) Hearing",
@@ -518,7 +510,7 @@
         "recordings": []
     },
     {
-        "id": "HB566-0046",
+        "id": "HB566-0045",
         "bill": "HB 566",
         "session": "20231",
         "action": "(H) Free Conference Committee Report Received",
@@ -529,7 +521,7 @@
         "recordings": []
     },
     {
-        "id": "HB566-0047",
+        "id": "HB566-0046",
         "bill": "HB 566",
         "session": "20231",
         "action": "(S) Free Conference Committee Report Received",
@@ -537,6 +529,39 @@
         "date": "04/26/2023",
         "hasVote": false,
         "committee": "Free Conference Committee on HB 566",
+        "recordings": []
+    },
+    {
+        "id": "HB566-0047",
+        "bill": "HB 566",
+        "session": "20231",
+        "action": "(S) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/01/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB566-0048",
+        "bill": "HB 566",
+        "session": "20231",
+        "action": "(H) Scheduled for 2nd Reading",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB566-0049",
+        "bill": "HB 566",
+        "session": "20231",
+        "action": "(H) 2nd Reading Pass Consideration",
+        "actionUrl": null,
+        "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
         "recordings": []
     }
 ]

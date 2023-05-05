@@ -339,6 +339,7 @@
         "hasVote": false,
         "committee": "(S) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48373?agendaId=257638",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/45410?agendaId=248414"
         ]
     },
@@ -405,8 +406,9 @@
         "actionUrl": null,
         "date": "01/31/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48512?agendaId=259600",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46202?agendaId=249824"
         ]
     },
@@ -475,6 +477,7 @@
         "hasVote": false,
         "committee": "(H) Judiciary",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48667?agendaId=263326",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/47759?agendaId=251848"
         ]
     },
@@ -521,7 +524,8 @@
         "hasVote": true,
         "committee": "",
         "recordings": [
-            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46123?agendaId=252172"
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46123?agendaId=252172",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48688?agendaId=263563"
         ]
     },
     {
@@ -561,9 +565,9 @@
         "id": "SB191-0050",
         "bill": "SB 191",
         "session": "20231",
-        "action": "(S) Returned from Enrolling",
+        "action": "(S) Sent to Enrolling",
         "actionUrl": null,
-        "date": "02/23/2023",
+        "date": "02/14/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
@@ -572,7 +576,7 @@
         "id": "SB191-0051",
         "bill": "SB 191",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
+        "action": "(S) Returned from Enrolling",
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": false,
@@ -583,7 +587,7 @@
         "id": "SB191-0052",
         "bill": "SB 191",
         "session": "20231",
-        "action": "(S) Signed by President",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "02/23/2023",
         "hasVote": false,
@@ -594,6 +598,28 @@
         "id": "SB191-0053",
         "bill": "SB 191",
         "session": "20231",
+        "action": "(H) Signed by Speaker",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB191-0054",
+        "bill": "SB 191",
+        "session": "20231",
+        "action": "(S) Signed by President",
+        "actionUrl": null,
+        "date": "02/23/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB191-0055",
+        "bill": "SB 191",
+        "session": "20231",
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -602,7 +628,7 @@
         "recordings": []
     },
     {
-        "id": "SB191-0054",
+        "id": "SB191-0056",
         "bill": "SB 191",
         "session": "20231",
         "action": "(S) Signed by Governor",
@@ -613,7 +639,7 @@
         "recordings": []
     },
     {
-        "id": "SB191-0055",
+        "id": "SB191-0057",
         "bill": "SB 191",
         "session": "20231",
         "action": "Chapter Number Assigned",
