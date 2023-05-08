@@ -633,8 +633,11 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
-        "committee": null,
-        "recordings": []
+        "committee": "  ",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49882?agendaId=279098",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49873?agendaId=278739"
+        ]
     },
     {
         "id": "SB95-0056",
@@ -709,6 +712,17 @@
         "action": "(H) 2nd Reading Pass Consideration",
         "actionUrl": null,
         "date": "05/02/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB95-0063",
+        "bill": "SB 95",
+        "session": "20231",
+        "action": "(H) Died in Process",
+        "actionUrl": null,
+        "date": "05/08/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
