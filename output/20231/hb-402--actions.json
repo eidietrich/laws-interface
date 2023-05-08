@@ -676,8 +676,9 @@
         "actionUrl": null,
         "date": "05/01/2023",
         "hasVote": true,
-        "committee": " ",
+        "committee": "  ",
         "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49882?agendaId=279099",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49873?agendaId=278726"
         ]
     },
@@ -722,6 +723,17 @@
         "actionUrl": null,
         "date": "05/02/2023",
         "hasVote": true,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB402-0064",
+        "bill": "HB 402",
+        "session": "20231",
+        "action": "(H) Died in Process",
+        "actionUrl": null,
+        "date": "05/08/2023",
+        "hasVote": false,
         "committee": null,
         "recordings": []
     }
