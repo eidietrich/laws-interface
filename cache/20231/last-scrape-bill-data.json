@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
             "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -14234,8 +14234,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -32474,6 +32474,40 @@
         "amendedReturnDeadline": "04/18/2023"
     },
     {
+        "key": "HB 783",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=783&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0783.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0783.pdf",
+        "lc": "LC4586",
+        "title": "Generally revise laws related to alcohol",
+        "sponsor": "Fiona Nave",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 57",
+        "statusDate": "05/09/2023",
+        "lastAction": "(H) Returned from Enrolling",
+        "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0783",
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Fiona Nave",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/18/2023"
+    },
+    {
         "key": "HB 784",
         "session": "20231",
         "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=784&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
@@ -33757,8 +33791,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -34005,8 +34039,8 @@
         "sponsor": "Paul Green",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 41",
-        "statusDate": "05/05/2023",
-        "lastAction": "(H) Sent to Enrolling",
+        "statusDate": "05/09/2023",
+        "lastAction": "(H) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0819",
         "legalNoteUrl": null,
@@ -40447,8 +40481,8 @@
         "sponsor": "Courtenay Sprunger",
         "sponsorParty": "R",
         "sponsorDistrict": "HD 7",
-        "statusDate": "05/03/2023",
-        "lastAction": "(H) Sent to Enrolling",
+        "statusDate": "05/09/2023",
+        "lastAction": "(H) Returned from Enrolling",
         "billStatus": "Passed By Legislature--Enrolling and Final Preparation Process",
         "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0952",
         "legalNoteUrl": null,
@@ -57586,8 +57620,8 @@
             }
         ],
         "voteRequirements": [
-            "2/3 of Each House",
-            "Simple"
+            "Simple",
+            "2/3 of Each House"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
