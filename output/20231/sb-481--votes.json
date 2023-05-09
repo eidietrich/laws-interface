@@ -60,7 +60,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S993&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0024",
+        "action_id": "SB481-0025",
         "type": "floor",
         "seq_number": "S993",
         "date": "March 02, 2023",
@@ -278,7 +278,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1095&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0026",
+        "action_id": "SB481-0027",
         "type": "floor",
         "seq_number": "S1095",
         "date": "March 02, 2023",
@@ -496,10 +496,10 @@
         "url": null,
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0037",
+        "action_id": "SB481-0038",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": "Missing URL",
         "totals": {
             "Y": 17,
             "N": 1
@@ -507,19 +507,6 @@
     },
     {
         "url": null,
-        "bill": "SB 481",
-        "session": "20231",
-        "action_id": "SB481-0038",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Skipped previously missing vote page",
-        "totals": {
-            "Y": 12,
-            "N": 5
-        }
-    },
-    {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0481STH230419.pdf",
         "bill": "SB 481",
         "session": "20231",
         "action_id": "SB481-0039",
@@ -608,10 +595,99 @@
         ]
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0481STH230419.pdf",
+        "bill": "SB 481",
+        "session": "20231",
+        "action_id": "SB481-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 19, 2023",
+        "description": "Rep. Phalen made a Motion that SB 481 Be Concurred In as Amended",
+        "totals": {
+            "Y": 12,
+            "N": 6
+        },
+        "votes": [
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "N"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "N"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "N"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "N"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "N"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2515&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0043",
+        "action_id": "SB481-0044",
         "type": "floor",
         "seq_number": "H2515",
         "date": "April 24, 2023",
@@ -1029,7 +1105,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0481APH230426.pdf",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0049",
+        "action_id": "SB481-0050",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1138,7 +1214,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2631&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0053",
+        "action_id": "SB481-0054",
         "type": "floor",
         "seq_number": "H2631",
         "date": "April 27, 2023",
@@ -1556,7 +1632,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2632&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0054",
+        "action_id": "SB481-0055",
         "type": "floor",
         "seq_number": "H2632",
         "date": "April 27, 2023",
@@ -1974,7 +2050,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2702&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0057",
+        "action_id": "SB481-0058",
         "type": "floor",
         "seq_number": "H2702",
         "date": "April 28, 2023",
@@ -2392,7 +2468,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2766&P_SESS=20231",
         "bill": "SB 481",
         "session": "20231",
-        "action_id": "SB481-0061",
+        "action_id": "SB481-0062",
         "type": "floor",
         "seq_number": "S2766",
         "date": "May 01, 2023",

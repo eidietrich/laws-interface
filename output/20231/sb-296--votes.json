@@ -56,7 +56,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S930&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0029",
+        "action_id": "SB296-0030",
         "type": "floor",
         "seq_number": "S930",
         "date": "March 01, 2023",
@@ -274,20 +274,100 @@
         "url": null,
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0032",
+        "action_id": "SB296-0033",
         "type": "committee",
         "seq_number": null,
-        "error": "Skipped previously missing vote page",
+        "error": null,
+        "date": "March 31, 2023",
+        "description": "Sen. Lang made a Motion that SB 296 Do Pass as Amended",
         "totals": {
-            "Y": 19,
-            "N": 0
-        }
+            "Y": 12,
+            "N": 7
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "N"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "Y"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "Y"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "N"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane",
+                "vote": "Y"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "N"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "Y"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "Y"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "N"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "Y"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "N"
+            }
+        ]
     },
     {
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0296FCS230331.pdf",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0033",
+        "action_id": "SB296-0034",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -380,7 +460,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1654&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0037",
+        "action_id": "SB296-0038",
         "type": "floor",
         "seq_number": "S1654",
         "date": "April 03, 2023",
@@ -598,7 +678,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1673&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0039",
+        "action_id": "SB296-0040",
         "type": "floor",
         "seq_number": "S1673",
         "date": "April 04, 2023",
@@ -816,7 +896,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0296HUH230413.pdf",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0048",
+        "action_id": "SB296-0049",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -917,7 +997,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2311&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0050",
+        "action_id": "SB296-0051",
         "type": "floor",
         "seq_number": "H2311",
         "date": "April 18, 2023",
@@ -1335,7 +1415,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0296APH230421.pdf",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0053",
+        "action_id": "SB296-0054",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1444,7 +1524,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2598&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0058",
+        "action_id": "SB296-0059",
         "type": "floor",
         "seq_number": "H2598",
         "date": "April 27, 2023",
@@ -1862,7 +1942,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2669&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0060",
+        "action_id": "SB296-0061",
         "type": "floor",
         "seq_number": "H2669",
         "date": "April 28, 2023",
@@ -2280,25 +2360,25 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2825&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0063",
+        "action_id": "SB296-0064",
         "type": "floor",
         "seq_number": "S2825",
         "date": "May 02, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 27,
-            "N": 23,
+            "Y": 32,
+            "N": 18,
             "E": 0,
             "A": 0
         },
         "votes": [
             {
                 "name": "Bartel, Dan",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Flowers, Pat",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Lynch, Ryan",
@@ -2314,7 +2394,7 @@
             },
             {
                 "name": "Fox, Mike",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Mandeville, Forrest",
@@ -2342,7 +2422,7 @@
             },
             {
                 "name": "Boldman, Ellie",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Fuller, John",
@@ -2358,7 +2438,7 @@
             },
             {
                 "name": "Brown, Bob",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gillespie, Bruce",
@@ -2398,7 +2478,7 @@
             },
             {
                 "name": "Molnar, Brad",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Vance, Shelley",
@@ -2406,7 +2486,7 @@
             },
             {
                 "name": "Dunwell, Mary Ann",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Hayman, Denise",
@@ -2414,7 +2494,7 @@
             },
             {
                 "name": "Morigeau, Shane",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Vermeire, Terry",
@@ -2422,7 +2502,7 @@
             },
             {
                 "name": "Ellis, Janet",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Hertz, Greg",
@@ -2430,7 +2510,7 @@
             },
             {
                 "name": "Noland, Mark",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Webber, Susan",
@@ -2446,7 +2526,7 @@
             },
             {
                 "name": "O'Brien, Shannon",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Welborn, Jeffrey",
@@ -2482,7 +2562,7 @@
             },
             {
                 "name": "Fitzpatrick, Steve",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Lenz, Dennis",
@@ -2490,7 +2570,7 @@
             },
             {
                 "name": "Regier, Keith",
-                "vote": "Y"
+                "vote": "N"
             }
         ]
     },
@@ -2498,7 +2578,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2854&P_SESS=20231",
         "bill": "SB 296",
         "session": "20231",
-        "action_id": "SB296-0064",
+        "action_id": "SB296-0065",
         "type": "floor",
         "seq_number": "S2854",
         "date": "May 02, 2023",

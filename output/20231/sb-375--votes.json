@@ -64,7 +64,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1028&P_SESS=20231",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0023",
+        "action_id": "SB375-0024",
         "type": "floor",
         "seq_number": "S1028",
         "date": "March 02, 2023",
@@ -282,7 +282,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1115&P_SESS=20231",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0024",
+        "action_id": "SB375-0025",
         "type": "floor",
         "seq_number": "S1115",
         "date": "March 02, 2023",
@@ -500,23 +500,100 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0375AGH230413.pdf",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0029",
+        "action_id": "SB375-0030",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "April 13, 2023",
-        "description": "Rep. Carter made a Motion that SB 375 Be Concurred In",
+        "description": "Rep. Carter made a Motion that SB 375 Be Concurred In as Amended",
         "totals": {
-            "Y": 0,
-            "N": 0
+            "Y": 16,
+            "N": 3
         },
-        "votes": []
+        "votes": [
+            {
+                "name": "Malone, Marty",
+                "vote": "Y"
+            },
+            {
+                "name": "Fern, Dave",
+                "vote": "Y"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "N"
+            },
+            {
+                "name": "Anderson, Fred",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Sullivan, Katie",
+                "vote": "N"
+            },
+            {
+                "name": "Romano, Melissa",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "N"
+            },
+            {
+                "name": "Carter, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Barker, Brad",
+                "vote": "Y"
+            },
+            {
+                "name": "Knudsen, Casey;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Mitchell, Braxton;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Bergstrom, James",
+                "vote": "Y"
+            },
+            {
+                "name": "Kmetz, Greg;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "Y"
+            },
+            {
+                "name": "Kassmier, Joshua",
+                "vote": "Y"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2251&P_SESS=20231",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0033",
+        "action_id": "SB375-0034",
         "type": "floor",
         "seq_number": "H2251",
         "date": "April 17, 2023",
@@ -934,14 +1011,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2333&P_SESS=20231",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0035",
+        "action_id": "SB375-0036",
         "type": "floor",
         "seq_number": "H2333",
-        "date": "April 17, 2023",
+        "date": "April 18, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 73,
-            "N": 26,
+            "Y": 71,
+            "N": 28,
             "E": 1,
             "A": 0
         },
@@ -1044,7 +1121,7 @@
             },
             {
                 "name": "Bertoglio, Marta",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gillette, Jane",
@@ -1124,7 +1201,7 @@
             },
             {
                 "name": "Buckley, Alice",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Harvey, Derek",
@@ -1184,7 +1261,7 @@
             },
             {
                 "name": "Thane, Mark",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Carlson, Jennifer",
@@ -1224,7 +1301,7 @@
             },
             {
                 "name": "Hopkins, Mike",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Nicol, Nelly",
@@ -1248,7 +1325,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Dooling, Julie",
@@ -1300,7 +1377,7 @@
             },
             {
                 "name": "Etchart, Jodee",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Keenan, Bob",
@@ -1352,7 +1429,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2384&P_SESS=20231",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0038",
+        "action_id": "SB375-0039",
         "type": "floor",
         "seq_number": "S2384",
         "date": "April 20, 2023",
@@ -1570,7 +1647,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2402&P_SESS=20231",
         "bill": "SB 375",
         "session": "20231",
-        "action_id": "SB375-0040",
+        "action_id": "SB375-0041",
         "type": "floor",
         "seq_number": "S2402",
         "date": "April 21, 2023",
