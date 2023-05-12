@@ -102,7 +102,7 @@
             "Y": 99,
             "N": 0
         },
-        "error": "Missing vote page"
+        "error": "Skipped previously missing vote page"
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H257&P_SESS=20231",
@@ -1860,7 +1860,7 @@
         "action_id": "HB16-0058",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 4,
             "N": 2
@@ -1873,7 +1873,7 @@
         "action_id": "HB16-0059",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": "Skipped previously missing vote page",
         "totals": {
             "Y": 4,
             "N": 2
