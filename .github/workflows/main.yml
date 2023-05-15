@@ -43,19 +43,19 @@ jobs:
           https://api.github.com/repos/eidietrich/capitol-tracker-23/actions/workflows/main.yml/dispatches \
           -d '{"ref": "main"}'
       - name: Slack Notification on cached scrape SUCCESS
-        if: success() && github.event_name == 'schedule' && github.event.schedule == '*/20 * * * *'
+#         if: success() && github.event_name == 'schedule' && github.event.schedule == '*/20 * * * *'
         uses: tokorom/action-slack-incoming-webhook@main
         env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
         with:
-          text: "Shallow data scrape from LAWS was successful"
-      - name: Slack Notification on cached scrape SUCCESS
-        if: success() && github.event_name == 'schedule' && github.event.schedule != '*/20 * * * *'
-        uses: tokorom/action-slack-incoming-webhook@main
-        env:
-          INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
-        with:
-          text: "Deep data scrape from LAWS was successful"
+          text: "LAWS interface data updated"
+#       - name: Slack Notification on cached scrape SUCCESS
+#         if: success() && github.event_name == 'schedule' && github.event.schedule != '*/20 * * * *'
+#         uses: tokorom/action-slack-incoming-webhook@main
+#         env:
+#           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_ERIC_TEST_NOTIFICATIONS_WEBHOOK_URL }}
+#         with:
+#           text: "Deep data scrape from LAWS was successful"
       - name: Slack Notification on FAIL
         if: failure()
         uses: tokorom/action-slack-incoming-webhook@main
