@@ -466,28 +466,6 @@
         "id": "HB947-0041",
         "bill": "HB 947",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "05/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB947-0042",
-        "bill": "HB 947",
-        "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "05/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB947-0043",
-        "bill": "HB 947",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "05/04/2023",
@@ -496,12 +474,23 @@
         "recordings": []
     },
     {
-        "id": "HB947-0044",
+        "id": "HB947-0042",
         "bill": "HB 947",
         "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "05/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB947-0043",
+        "bill": "HB 947",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

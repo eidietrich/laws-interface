@@ -663,17 +663,6 @@
         "id": "HB322-0058",
         "bill": "HB 322",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "05/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB322-0059",
-        "bill": "HB 322",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "05/04/2023",
@@ -682,7 +671,7 @@
         "recordings": []
     },
     {
-        "id": "HB322-0060",
+        "id": "HB322-0059",
         "bill": "HB 322",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -693,12 +682,23 @@
         "recordings": []
     },
     {
-        "id": "HB322-0061",
+        "id": "HB322-0060",
         "bill": "HB 322",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "05/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB322-0061",
+        "bill": "HB 322",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

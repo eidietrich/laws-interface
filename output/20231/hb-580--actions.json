@@ -612,17 +612,6 @@
         "id": "HB580-0054",
         "bill": "HB 580",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "05/01/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB580-0055",
-        "bill": "HB 580",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "05/04/2023",
@@ -631,7 +620,7 @@
         "recordings": []
     },
     {
-        "id": "HB580-0056",
+        "id": "HB580-0055",
         "bill": "HB 580",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -642,12 +631,23 @@
         "recordings": []
     },
     {
-        "id": "HB580-0057",
+        "id": "HB580-0056",
         "bill": "HB 580",
         "session": "20231",
         "action": "(H) Transmitted to Governor",
         "actionUrl": null,
         "date": "05/08/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB580-0057",
+        "bill": "HB 580",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

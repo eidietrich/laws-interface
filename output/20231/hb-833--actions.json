@@ -623,17 +623,6 @@
         "id": "HB833-0055",
         "bill": "HB 833",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "05/02/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB833-0056",
-        "bill": "HB 833",
-        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "05/04/2023",
@@ -642,12 +631,23 @@
         "recordings": []
     },
     {
-        "id": "HB833-0057",
+        "id": "HB833-0056",
         "bill": "HB 833",
         "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "05/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB833-0057",
+        "bill": "HB 833",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

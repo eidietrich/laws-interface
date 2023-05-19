@@ -510,28 +510,6 @@
         "id": "HB880-0045",
         "bill": "HB 880",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "05/02/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB880-0046",
-        "bill": "HB 880",
-        "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "05/02/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HB880-0047",
-        "bill": "HB 880",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "05/04/2023",
@@ -540,12 +518,23 @@
         "recordings": []
     },
     {
-        "id": "HB880-0048",
+        "id": "HB880-0046",
         "bill": "HB 880",
         "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "05/04/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "HB880-0047",
+        "bill": "HB 880",
+        "session": "20231",
+        "action": "(H) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/18/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
