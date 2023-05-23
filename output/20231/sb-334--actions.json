@@ -560,17 +560,6 @@
         "id": "SB334-0049",
         "bill": "SB 334",
         "session": "20231",
-        "action": "(S) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "05/03/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "SB334-0050",
-        "bill": "SB 334",
-        "session": "20231",
         "action": "(S) Signed by President",
         "actionUrl": null,
         "date": "05/04/2023",
@@ -579,7 +568,7 @@
         "recordings": []
     },
     {
-        "id": "SB334-0051",
+        "id": "SB334-0050",
         "bill": "SB 334",
         "session": "20231",
         "action": "(H) Signed by Speaker",
@@ -590,12 +579,23 @@
         "recordings": []
     },
     {
-        "id": "SB334-0052",
+        "id": "SB334-0051",
         "bill": "SB 334",
         "session": "20231",
         "action": "(S) Transmitted to Governor",
         "actionUrl": null,
         "date": "05/12/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB334-0052",
+        "bill": "SB 334",
+        "session": "20231",
+        "action": "(S) Signed by Governor",
+        "actionUrl": null,
+        "date": "05/22/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
