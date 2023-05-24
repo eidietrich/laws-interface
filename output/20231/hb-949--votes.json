@@ -1296,7 +1296,7 @@
         "url": null,
         "bill": "HB 949",
         "session": "20231",
-        "action_id": "HB949-0040",
+        "action_id": "HB949-0041",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -1307,19 +1307,6 @@
     },
     {
         "url": null,
-        "bill": "HB 949",
-        "session": "20231",
-        "action_id": "HB949-0041",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Missing URL",
-        "totals": {
-            "Y": 19,
-            "N": 0
-        }
-    },
-    {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0949FCS230427.pdf",
         "bill": "HB 949",
         "session": "20231",
         "action_id": "HB949-0042",
@@ -1412,10 +1399,103 @@
         ]
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0949FCS230427.pdf",
+        "bill": "HB 949",
+        "session": "20231",
+        "action_id": "HB949-0043",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "April 27, 2023",
+        "description": "Sen. Glimm made a Motion that HB 949 Be Concurred In as Amended",
+        "totals": {
+            "Y": 13,
+            "N": 6
+        },
+        "votes": [
+            {
+                "name": "Glimm, Carl",
+                "vote": "Y"
+            },
+            {
+                "name": "Ellis, Janet",
+                "vote": "N"
+            },
+            {
+                "name": "Salomon, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "McGillvray, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Boldman, Ellie",
+                "vote": "N"
+            },
+            {
+                "name": "Bartel, Dan",
+                "vote": "Y"
+            },
+            {
+                "name": "Mandeville, Forrest",
+                "vote": "Y"
+            },
+            {
+                "name": "Morigeau, Shane;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Lenz, Dennis",
+                "vote": "Y"
+            },
+            {
+                "name": "Lang, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Lynch, Ryan",
+                "vote": "N"
+            },
+            {
+                "name": "Bogner, Kenneth;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Cuffe, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Vance, Shelley",
+                "vote": "Y"
+            },
+            {
+                "name": "Pope, Christopher",
+                "vote": "N"
+            },
+            {
+                "name": "Welborn, Jeffrey",
+                "vote": "Y"
+            },
+            {
+                "name": "Esp, John",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2725&P_SESS=20231",
         "bill": "HB 949",
         "session": "20231",
-        "action_id": "HB949-0046",
+        "action_id": "HB949-0047",
         "type": "floor",
         "seq_number": "S2725",
         "date": "April 28, 2023",
@@ -1633,7 +1713,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2733&P_SESS=20231",
         "bill": "HB 949",
         "session": "20231",
-        "action_id": "HB949-0047",
+        "action_id": "HB949-0048",
         "type": "floor",
         "seq_number": "S2733",
         "date": "April 28, 2023",
@@ -1851,7 +1931,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2802&P_SESS=20231",
         "bill": "HB 949",
         "session": "20231",
-        "action_id": "HB949-0050",
+        "action_id": "HB949-0051",
         "type": "floor",
         "seq_number": "H2802",
         "date": "May 02, 2023",
@@ -2269,7 +2349,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2889&P_SESS=20231",
         "bill": "HB 949",
         "session": "20231",
-        "action_id": "HB949-0052",
+        "action_id": "HB949-0053",
         "type": "floor",
         "seq_number": "H2889",
         "date": "May 02, 2023",
