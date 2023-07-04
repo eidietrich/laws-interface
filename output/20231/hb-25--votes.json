@@ -3,14 +3,14 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0025TAH230105.pdf",
         "bill": "HB 25",
         "session": "20231",
-        "action_id": "HB25-0021",
+        "action_id": "HB25-0019",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "January 05, 2023",
         "description": "Rep. Welch made a Motion that HB 25 Do Pass",
         "totals": {
-            "Y": 18,
+            "Y": 20,
             "N": 1
         },
         "votes": [
@@ -87,7 +87,15 @@
                 "vote": "Y"
             },
             {
+                "name": "Vinton, Sue",
+                "vote": "Y"
+            },
+            {
                 "name": "Welch, Tom",
+                "vote": "Y"
+            },
+            {
+                "name": "Butcher, Edward",
                 "vote": "Y"
             }
         ]
@@ -96,7 +104,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H66&P_SESS=20231",
         "bill": "HB 25",
         "session": "20231",
-        "action_id": "HB25-0024",
+        "action_id": "HB25-0022",
         "type": "floor",
         "seq_number": "H66",
         "date": "January 11, 2023",
@@ -514,15 +522,15 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H95&P_SESS=20231",
         "bill": "HB 25",
         "session": "20231",
-        "action_id": "HB25-0026",
+        "action_id": "HB25-0024",
         "type": "floor",
         "seq_number": "H95",
-        "date": "January 12, 2023",
+        "date": "January 11, 2023",
         "description": "Do Pass",
         "totals": {
-            "Y": 94,
+            "Y": 95,
             "N": 4,
-            "E": 1,
+            "E": 0,
             "A": 1
         },
         "votes": [
@@ -860,7 +868,7 @@
             },
             {
                 "name": "Windy Boy, Jonathan",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Etchart, Jodee",
@@ -908,7 +916,7 @@
             },
             {
                 "name": "Zephyr, Zooey",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Fielder, Paul",
@@ -916,7 +924,7 @@
             },
             {
                 "name": "Kerr-Carpenter, Emma",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Reksten, Linda",
@@ -932,7 +940,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0025TAS230201.pdf",
         "bill": "HB 25",
         "session": "20231",
-        "action_id": "HB25-0032",
+        "action_id": "HB25-0030",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -997,7 +1005,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1173&P_SESS=20231",
         "bill": "HB 25",
         "session": "20231",
-        "action_id": "HB25-0035",
+        "action_id": "HB25-0033",
         "type": "floor",
         "seq_number": "S1173",
         "date": "March 13, 2023",
@@ -1215,14 +1223,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1190&P_SESS=20231",
         "bill": "HB 25",
         "session": "20231",
-        "action_id": "HB25-0037",
+        "action_id": "HB25-0035",
         "type": "floor",
         "seq_number": "S1190",
-        "date": "March 14, 2023",
+        "date": "March 13, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 34,
-            "N": 16,
+            "Y": 33,
+            "N": 17,
             "E": 0,
             "A": 0
         },
@@ -1333,7 +1341,7 @@
             },
             {
                 "name": "Molnar, Brad",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Vance, Shelley",

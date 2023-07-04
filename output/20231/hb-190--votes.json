@@ -3,7 +3,7 @@
         "url": null,
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0030",
+        "action_id": "HB190-0029",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -16,15 +16,15 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0190STH230221.pdf",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0032",
+        "action_id": "HB190-0031",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "February 21, 2023",
-        "description": "Rep. Dooling made a Motion that HB 190 To Take from the Table",
+        "description": "Rep. Phalen made a Motion that HB 190 Do Pass as Amended",
         "totals": {
-            "Y": 9,
-            "N": 5
+            "Y": 10,
+            "N": 8
         },
         "votes": [
             {
@@ -41,6 +41,14 @@
             },
             {
                 "name": "Dooling, Julie",
+                "vote": "Y"
+            },
+            {
+                "name": "Frazer, Gregory;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Green, Paul;byproxy",
                 "vote": "Y"
             },
             {
@@ -68,12 +76,20 @@
                 "vote": "N"
             },
             {
+                "name": "Sprunger, Courtenay;byproxy",
+                "vote": "Y"
+            },
+            {
                 "name": "Stafman, Ed",
                 "vote": "N"
             },
             {
                 "name": "Walsh, Kenneth",
-                "vote": "Y"
+                "vote": "N"
+            },
+            {
+                "name": "Weatherwax, Marvin;byproxy",
+                "vote": "N"
             },
             {
                 "name": "Wirth, Zack",
@@ -89,7 +105,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H773&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0035",
+        "action_id": "HB190-0034",
         "type": "floor",
         "seq_number": "H773",
         "date": "February 24, 2023",
@@ -507,7 +523,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0190APH230227.pdf",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0039",
+        "action_id": "HB190-0038",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -596,7 +612,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1079&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0043",
+        "action_id": "HB190-0041",
         "type": "floor",
         "seq_number": "H1079",
         "date": "March 02, 2023",
@@ -1014,16 +1030,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1227&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0044",
+        "action_id": "HB190-0042",
         "type": "floor",
         "seq_number": "H1227",
-        "date": "March 02, 2023",
+        "date": "March 03, 2023",
         "description": "Do Pass",
         "totals": {
-            "Y": 88,
-            "N": 12,
-            "E": 0,
-            "A": 0
+            "Y": 86,
+            "N": 11,
+            "E": 2,
+            "A": 1
         },
         "votes": [
             {
@@ -1056,7 +1072,7 @@
             },
             {
                 "name": "Romano, Melissa",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Barker, Brad",
@@ -1072,7 +1088,7 @@
             },
             {
                 "name": "Running Wolf, Tyson",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Baum, Denise",
@@ -1232,7 +1248,7 @@
             },
             {
                 "name": "Stewart Peregoy, Sharon",
-                "vote": "N"
+                "vote": "A"
             },
             {
                 "name": "Buttrey, Edward",
@@ -1252,7 +1268,7 @@
             },
             {
                 "name": "Caferro, Mary",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hellegaard, Lyn",
@@ -1292,7 +1308,7 @@
             },
             {
                 "name": "Nave, Fiona",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Vinton, Sue",
@@ -1328,7 +1344,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "N"
+                "vote": "E"
             },
             {
                 "name": "Dooling, Julie",
@@ -1432,7 +1448,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0190STS230329.pdf",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0052",
+        "action_id": "HB190-0050",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1489,7 +1505,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1857&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0054",
+        "action_id": "HB190-0052",
         "type": "floor",
         "seq_number": "S1857",
         "date": "April 11, 2023",
@@ -1707,7 +1723,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/HB0190FCS230414.pdf",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0058",
+        "action_id": "HB190-0056",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -1800,7 +1816,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2144&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0063",
+        "action_id": "HB190-0061",
         "type": "floor",
         "seq_number": "S2144",
         "date": "April 17, 2023",
@@ -2018,14 +2034,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2201&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0065",
+        "action_id": "HB190-0063",
         "type": "floor",
         "seq_number": "S2201",
-        "date": "April 18, 2023",
+        "date": "April 17, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 40,
-            "N": 10,
+            "Y": 43,
+            "N": 7,
             "E": 0,
             "A": 0
         },
@@ -2060,7 +2076,7 @@
             },
             {
                 "name": "Salomon, Daniel",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Bogner, Kenneth",
@@ -2112,7 +2128,7 @@
             },
             {
                 "name": "Cuffe, Mike",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Glimm, Carl",
@@ -2176,7 +2192,7 @@
             },
             {
                 "name": "Ellsworth, Jason",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Hinebauch, Steve",
@@ -2200,7 +2216,7 @@
             },
             {
                 "name": "Olsen, Andrea",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Zolnikov, Daniel",
@@ -2212,7 +2228,7 @@
             },
             {
                 "name": "Lang, Mike",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Pope, Christopher",
@@ -2236,7 +2252,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2487&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0071",
+        "action_id": "HB190-0069",
         "type": "floor",
         "seq_number": "H2487",
         "date": "April 24, 2023",
@@ -2654,16 +2670,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2537&P_SESS=20231",
         "bill": "HB 190",
         "session": "20231",
-        "action_id": "HB190-0073",
+        "action_id": "HB190-0071",
         "type": "floor",
         "seq_number": "H2537",
-        "date": "April 26, 2023",
+        "date": "April 24, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 91,
-            "N": 8,
-            "E": 1,
-            "A": 0
+            "Y": 87,
+            "N": 12,
+            "E": 0,
+            "A": 1
         },
         "votes": [
             {
@@ -2696,7 +2712,7 @@
             },
             {
                 "name": "Romano, Melissa",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Barker, Brad",
@@ -2712,7 +2728,7 @@
             },
             {
                 "name": "Running Wolf, Tyson",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Baum, Denise",
@@ -2720,7 +2736,7 @@
             },
             {
                 "name": "France, Tom",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Knudsen, Rhonda",
@@ -2824,7 +2840,7 @@
             },
             {
                 "name": "Smith, Frank",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Brockman, Tony",
@@ -2888,11 +2904,11 @@
             },
             {
                 "name": "Sullivan, Katie",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Caferro, Mary",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Hellegaard, Lyn",
@@ -2968,7 +2984,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "E"
+                "vote": "N"
             },
             {
                 "name": "Dooling, Julie",
@@ -3000,7 +3016,7 @@
             },
             {
                 "name": "Windy Boy, Jonathan",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Essmann, Sherry",
@@ -3048,7 +3064,7 @@
             },
             {
                 "name": "Zephyr, Zooey",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fern, Dave",
