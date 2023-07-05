@@ -117,7 +117,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/HB0963APH230401.pdf",
         "bill": "HB 963",
         "session": "20231",
-        "action_id": "HB963-0035",
+        "action_id": "HB963-0036",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -226,7 +226,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1685&P_SESS=20231",
         "bill": "HB 963",
         "session": "20231",
-        "action_id": "HB963-0038",
+        "action_id": "HB963-0039",
         "type": "floor",
         "seq_number": "H1685",
         "date": "April 03, 2023",
@@ -644,7 +644,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1779&P_SESS=20231",
         "bill": "HB 963",
         "session": "20231",
-        "action_id": "HB963-0040",
+        "action_id": "HB963-0041",
         "type": "floor",
         "seq_number": "H1779",
         "date": "April 04, 2023",
@@ -1062,7 +1062,7 @@
         "url": null,
         "bill": "HB 963",
         "session": "20231",
-        "action_id": "HB963-0046",
+        "action_id": "HB963-0047",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -1075,15 +1075,15 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2419&P_SESS=20231",
         "bill": "HB 963",
         "session": "20231",
-        "action_id": "HB963-0047",
+        "action_id": "HB963-0048",
         "type": "floor",
         "seq_number": "S2419",
         "date": "April 21, 2023",
         "description": "Take HB 963 from TAS-Molnar",
         "totals": {
-            "Y": 25,
-            "N": 25,
-            "E": 0,
+            "Y": 17,
+            "N": 32,
+            "E": 1,
             "A": 0
         },
         "votes": [
@@ -1093,7 +1093,7 @@
             },
             {
                 "name": "Flowers, Pat",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Lynch, Ryan",
@@ -1125,7 +1125,7 @@
             },
             {
                 "name": "Friedel, Chris",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Manzella, Theresa",
@@ -1137,11 +1137,11 @@
             },
             {
                 "name": "Boldman, Ellie",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Fuller, John",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "McClafferty, Edith (Edie)",
@@ -1153,7 +1153,7 @@
             },
             {
                 "name": "Brown, Bob",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gillespie, Bruce",
@@ -1177,7 +1177,7 @@
             },
             {
                 "name": "McKamey, Wendy",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Usher, Barry",
@@ -1185,11 +1185,11 @@
             },
             {
                 "name": "Curdy, Willis",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Gross, Jen",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Molnar, Brad",
@@ -1213,7 +1213,7 @@
             },
             {
                 "name": "Vermeire, Terry",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Ellis, Janet",
@@ -1225,7 +1225,7 @@
             },
             {
                 "name": "Noland, Mark",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Webber, Susan",
@@ -1293,7 +1293,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2449&P_SESS=20231",
         "bill": "HB 963",
         "session": "20231",
-        "action_id": "HB963-0048",
+        "action_id": "HB963-0049",
         "type": "floor",
         "seq_number": "S2449",
         "date": "April 21, 2023",

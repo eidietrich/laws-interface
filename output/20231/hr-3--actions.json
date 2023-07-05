@@ -201,17 +201,6 @@
         "id": "HR3-0018",
         "bill": "HR 3",
         "session": "20231",
-        "action": "(H) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "02/27/2023",
-        "hasVote": true,
-        "committee": "(H) State Administration",
-        "recordings": []
-    },
-    {
-        "id": "HR3-0019",
-        "bill": "HR 3",
-        "session": "20231",
         "action": "(H) Hearing",
         "actionUrl": null,
         "date": "02/27/2023",
@@ -223,10 +212,21 @@
         ]
     },
     {
+        "id": "HR3-0019",
+        "bill": "HR 3",
+        "session": "20231",
+        "action": "(H) Committee Executive Action--Resolution Adopted",
+        "actionUrl": null,
+        "date": "02/27/2023",
+        "hasVote": true,
+        "committee": "(H) State Administration",
+        "recordings": []
+    },
+    {
         "id": "HR3-0020",
         "bill": "HR 3",
         "session": "20231",
-        "action": "(H) Committee Report--Bill Passed",
+        "action": "(H) Committee Report--Resolution Adopted",
         "actionUrl": null,
         "date": "02/27/2023",
         "hasVote": false,
@@ -295,7 +295,7 @@
         "id": "HR3-0026",
         "bill": "HR 3",
         "session": "20231",
-        "action": "(H) Returned from Enrolling",
+        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
         "actionUrl": null,
         "date": "04/05/2023",
         "hasVote": false,
@@ -306,39 +306,6 @@
         "id": "HR3-0027",
         "bill": "HR 3",
         "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HR3-0028",
-        "bill": "HR 3",
-        "session": "20231",
-        "action": "(H) Returned from Enrolling",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HR3-0029",
-        "bill": "HR 3",
-        "session": "20231",
-        "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
-        "actionUrl": null,
-        "date": "04/05/2023",
-        "hasVote": false,
-        "committee": null,
-        "recordings": []
-    },
-    {
-        "id": "HR3-0030",
-        "bill": "HR 3",
-        "session": "20231",
         "action": "(H) Signed by Speaker",
         "actionUrl": null,
         "date": "04/07/2023",
@@ -347,7 +314,7 @@
         "recordings": []
     },
     {
-        "id": "HR3-0031",
+        "id": "HR3-0028",
         "bill": "HR 3",
         "session": "20231",
         "action": "(H) Filed with Secretary of State",
