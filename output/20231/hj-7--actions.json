@@ -179,22 +179,22 @@
         "id": "HJ7-0016",
         "bill": "HJ 7",
         "session": "20231",
-        "action": "(H) Referred to Committee",
+        "action": "(H) First Reading",
         "actionUrl": null,
         "date": "02/10/2023",
         "hasVote": false,
-        "committee": "(H) Agriculture",
+        "committee": null,
         "recordings": []
     },
     {
         "id": "HJ7-0017",
         "bill": "HJ 7",
         "session": "20231",
-        "action": "(H) First Reading",
+        "action": "(H) Referred to Committee",
         "actionUrl": null,
         "date": "02/10/2023",
         "hasVote": false,
-        "committee": null,
+        "committee": "(H) Agriculture",
         "recordings": []
     },
     {
@@ -317,6 +317,20 @@
         "id": "HJ7-0028",
         "bill": "HJ 7",
         "session": "20231",
+        "action": "(S) Hearing",
+        "actionUrl": null,
+        "date": "03/20/2023",
+        "hasVote": false,
+        "committee": "(S) Natural Resources",
+        "recordings": [
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/49192?agendaId=261713",
+            "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46655?agendaId=260987"
+        ]
+    },
+    {
+        "id": "HJ7-0029",
+        "bill": "HJ 7",
+        "session": "20231",
         "action": "(S) Committee Executive Action--Bill Concurred",
         "actionUrl": null,
         "date": "03/20/2023",
@@ -325,7 +339,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0029",
+        "id": "HJ7-0030",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) Committee Report--Bill Concurred",
@@ -336,7 +350,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0030",
+        "id": "HJ7-0031",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) Scheduled for 2nd Reading",
@@ -347,7 +361,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0031",
+        "id": "HJ7-0032",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) 2nd Reading Concurred",
@@ -361,7 +375,7 @@
         ]
     },
     {
-        "id": "HJ7-0032",
+        "id": "HJ7-0033",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) Scheduled for 3rd Reading",
@@ -372,7 +386,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0033",
+        "id": "HJ7-0034",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) 3rd Reading Concurred",
@@ -383,7 +397,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0034",
+        "id": "HJ7-0035",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) Returned to House",
@@ -394,7 +408,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0035",
+        "id": "HJ7-0036",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(H) Sent to Enrolling",
@@ -405,7 +419,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0036",
+        "id": "HJ7-0037",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(H) Returned from Enrolling",
@@ -416,7 +430,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0037",
+        "id": "HJ7-0038",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(C) Printed - Enrolled Version Available&nbsp&nbsp",
@@ -427,7 +441,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0038",
+        "id": "HJ7-0039",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(H) Signed by Speaker",
@@ -438,7 +452,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0039",
+        "id": "HJ7-0040",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(S) Signed by President",
@@ -449,7 +463,7 @@
         "recordings": []
     },
     {
-        "id": "HJ7-0040",
+        "id": "HJ7-0041",
         "bill": "HJ 7",
         "session": "20231",
         "action": "(H) Filed with Secretary of State",
