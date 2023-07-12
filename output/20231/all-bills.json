@@ -341,8 +341,8 @@
         ],
         "voteRequirements": [
             "3/4 of Each House",
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -1119,6 +1119,50 @@
             },
             {
                 "subject": "Transportation  (see also: Motor Vehicles; Taxation--Transportation)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/18/2023"
+    },
+    {
+        "key": "HB 28",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=28&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0028.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0028.pdf",
+        "lc": "LC1199",
+        "title": "Increase legislator per diem reimbursements for lodging and meals",
+        "sponsor": "Rhonda Knudsen",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 34",
+        "statusDate": "03/28/2023",
+        "lastAction": "Chapter Number Assigned",
+        "billStatus": "Became Law",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0028",
+        "legalNoteUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0028",
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Rhonda Knudsen",
+        "subjects": [
+            {
+                "subject": "Appropriation Process",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Legislature",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "State Finance  (see also: Appropriations; Taxation Subjects)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -1979,6 +2023,40 @@
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
         "amendedReturnDeadline": "04/28/2023"
+    },
+    {
+        "key": "HB 49",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=49&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0049.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0049.pdf",
+        "lc": "LC0425",
+        "title": "Revising alcoholic beverage laws relating to wholesalers and distributors",
+        "sponsor": "Tony Brockman",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 9",
+        "statusDate": "04/19/2023",
+        "lastAction": "Chapter Number Assigned",
+        "billStatus": "Became Law",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0049",
+        "draftRequestor": null,
+        "billRequestor": "Department of Revenue",
+        "primarySponsor": "Tony Brockman",
+        "subjects": [
+            {
+                "subject": "Alcohol and Drugs",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/18/2023"
     },
     {
         "key": "HB 50",
@@ -14156,8 +14234,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -21536,6 +21614,40 @@
             },
             {
                 "subject": "State Government",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/18/2023"
+    },
+    {
+        "key": "HB 519",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=519&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/HB0519.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/HB0519.pdf",
+        "lc": "LC4451",
+        "title": "Authorize digital drivers licenses through a mobile application",
+        "sponsor": "Braxton Mitchell",
+        "sponsorParty": "R",
+        "sponsorDistrict": "HD 3",
+        "statusDate": "04/27/2023",
+        "lastAction": "Chapter Number Assigned",
+        "billStatus": "Became Law",
+        "fiscalNotesListUrl": "https://leg.mt.gov/laws/bills/2023/FNPDF/HB0519",
+        "legalNoteUrl": null,
+        "amendmentListUrl": "https://leg.mt.gov/laws/bills/2023/AmdPublicWeb/?bill=HB0519",
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Braxton Mitchell",
+        "subjects": [
+            {
+                "subject": "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
@@ -33679,8 +33791,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -57552,8 +57664,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -65397,8 +65509,8 @@
             }
         ],
         "voteRequirements": [
-            "3/4 of Each House",
-            "Simple"
+            "Simple",
+            "3/4 of Each House"
         ],
         "deadlineCategory": "Revenue Bills",
         "transmittalDeadline": "04/04/2023",
