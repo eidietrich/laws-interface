@@ -3,7 +3,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0007JUS230106.pdf",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0020",
+        "action_id": "SB7-0018",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -64,7 +64,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S15&P_SESS=20231",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0024",
+        "action_id": "SB7-0022",
         "type": "floor",
         "seq_number": "S15",
         "date": "January 10, 2023",
@@ -282,7 +282,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S16&P_SESS=20231",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0025",
+        "action_id": "SB7-0023",
         "type": "floor",
         "seq_number": "S16",
         "date": "January 10, 2023",
@@ -500,7 +500,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S37&P_SESS=20231",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0028",
+        "action_id": "SB7-0026",
         "type": "floor",
         "seq_number": "S37",
         "date": "January 12, 2023",
@@ -718,7 +718,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0007JUH230131.pdf",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0033",
+        "action_id": "SB7-0031",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -811,7 +811,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H446&P_SESS=20231",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0036",
+        "action_id": "SB7-0034",
         "type": "floor",
         "seq_number": "H446",
         "date": "February 02, 2023",
@@ -1229,15 +1229,15 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H474&P_SESS=20231",
         "bill": "SB 7",
         "session": "20231",
-        "action_id": "SB7-0038",
+        "action_id": "SB7-0036",
         "type": "floor",
         "seq_number": "H474",
-        "date": "February 03, 2023",
+        "date": "February 02, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 96,
+            "Y": 99,
             "N": 0,
-            "E": 3,
+            "E": 0,
             "A": 1
         },
         "votes": [
@@ -1299,7 +1299,7 @@
             },
             {
                 "name": "Knudsen, Rhonda",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Rusk, Wayne",
@@ -1455,7 +1455,7 @@
             },
             {
                 "name": "Hawk, Donavon",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Miner, Russel",
@@ -1499,7 +1499,7 @@
             },
             {
                 "name": "Carter, Robert",
-                "vote": "E"
+                "vote": "Y"
             },
             {
                 "name": "Hinkle, Jedediah",
@@ -1523,7 +1523,7 @@
             },
             {
                 "name": "Nicol, Nelly",
-                "vote": "A"
+                "vote": "Y"
             },
             {
                 "name": "Walsh, Kenneth",
@@ -1543,7 +1543,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Dooling, Julie",

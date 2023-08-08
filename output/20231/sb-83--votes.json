@@ -513,7 +513,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0083NAH230317.pdf",
         "bill": "SB 83",
         "session": "20231",
-        "action_id": "SB83-0026",
+        "action_id": "SB83-0027",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -590,7 +590,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1784&P_SESS=20231",
         "bill": "SB 83",
         "session": "20231",
-        "action_id": "SB83-0030",
+        "action_id": "SB83-0031",
         "type": "floor",
         "seq_number": "H1784",
         "date": "April 04, 2023",
@@ -1008,16 +1008,16 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H1851&P_SESS=20231",
         "bill": "SB 83",
         "session": "20231",
-        "action_id": "SB83-0032",
+        "action_id": "SB83-0033",
         "type": "floor",
         "seq_number": "H1851",
-        "date": "April 04, 2023",
+        "date": "April 05, 2023",
         "description": "Do Concur",
         "totals": {
-            "Y": 100,
+            "Y": 96,
             "N": 0,
-            "E": 0,
-            "A": 0
+            "E": 2,
+            "A": 2
         },
         "votes": [
             {
@@ -1306,7 +1306,7 @@
             },
             {
                 "name": "Walsh, Kenneth",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Deming, Lee",
@@ -1322,7 +1322,7 @@
             },
             {
                 "name": "Weatherwax, Marvin",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Dooling, Julie",
@@ -1358,7 +1358,7 @@
             },
             {
                 "name": "Essmann, Sherry",
-                "vote": "Y"
+                "vote": "E"
             },
             {
                 "name": "Kassmier, Joshua",
@@ -1394,7 +1394,7 @@
             },
             {
                 "name": "Keogh, Connie",
-                "vote": "Y"
+                "vote": "A"
             },
             {
                 "name": "Regier, Matt",
@@ -1426,7 +1426,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2254&P_SESS=20231",
         "bill": "SB 83",
         "session": "20231",
-        "action_id": "SB83-0035",
+        "action_id": "SB83-0036",
         "type": "floor",
         "seq_number": "S2254",
         "date": "April 18, 2023",
@@ -1644,7 +1644,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S2297&P_SESS=20231",
         "bill": "SB 83",
         "session": "20231",
-        "action_id": "SB83-0037",
+        "action_id": "SB83-0038",
         "type": "floor",
         "seq_number": "S2297",
         "date": "April 19, 2023",

@@ -3,36 +3,36 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0012JUS230111.pdf",
         "bill": "SB 12",
         "session": "20231",
-        "action_id": "SB12-0021",
+        "action_id": "SB12-0020",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "January 11, 2023",
-        "description": "Sen. Brown made a Motion that SB0012.001.001 Be Amended",
+        "description": "Sen. Regier made a Motion that SB 12 Do Pass",
         "totals": {
-            "Y": 3,
-            "N": 8
+            "Y": 8,
+            "N": 3
         },
         "votes": [
             {
                 "name": "Brown, Bob",
-                "vote": "N"
-            },
-            {
-                "name": "Emrich, Daniel",
-                "vote": "N"
-            },
-            {
-                "name": "Friedel, Chris",
-                "vote": "N"
-            },
-            {
-                "name": "Gross, Jen",
                 "vote": "Y"
             },
             {
-                "name": "Hinebauch, Steve",
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Friedel, Chris",
+                "vote": "Y"
+            },
+            {
+                "name": "Gross, Jen",
                 "vote": "N"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
             },
             {
                 "name": "Kelker, Kathy",
@@ -40,7 +40,7 @@
             },
             {
                 "name": "Manzella, Theresa",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Olsen, Andrea",
@@ -48,15 +48,15 @@
             },
             {
                 "name": "Regier, Keith",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Usher, Barry",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Webber, Susan;byproxy",
-                "vote": "Y"
+                "vote": "N"
             }
         ]
     },
@@ -64,7 +64,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S160&P_SESS=20231",
         "bill": "SB 12",
         "session": "20231",
-        "action_id": "SB12-0025",
+        "action_id": "SB12-0024",
         "type": "floor",
         "seq_number": "S160",
         "date": "January 23, 2023",
@@ -282,14 +282,14 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S185&P_SESS=20231",
         "bill": "SB 12",
         "session": "20231",
-        "action_id": "SB12-0027",
+        "action_id": "SB12-0026",
         "type": "floor",
         "seq_number": "S185",
-        "date": "January 24, 2023",
+        "date": "January 23, 2023",
         "description": "Do Pass",
         "totals": {
-            "Y": 46,
-            "N": 3,
+            "Y": 45,
+            "N": 4,
             "E": 1,
             "A": 0
         },
@@ -372,7 +372,7 @@
             },
             {
                 "name": "Trebas, Jeremy",
-                "vote": "N"
+                "vote": "Y"
             },
             {
                 "name": "Cuffe, Mike",
@@ -464,7 +464,7 @@
             },
             {
                 "name": "Olsen, Andrea",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Zolnikov, Daniel",
@@ -472,7 +472,7 @@
             },
             {
                 "name": "Esp, John",
-                "vote": "Y"
+                "vote": "N"
             },
             {
                 "name": "Lang, Mike",
@@ -500,7 +500,7 @@
         "url": null,
         "bill": "SB 12",
         "session": "20231",
-        "action_id": "SB12-0032",
+        "action_id": "SB12-0031",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
