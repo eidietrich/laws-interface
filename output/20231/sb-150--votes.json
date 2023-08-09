@@ -1,9 +1,22 @@
 [
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0150HUH230220.pdf",
+        "bill": "SB 150",
+        "session": "20231",
+        "action_id": "SB150-0018",
+        "type": "committee",
+        "seq_number": null,
+        "error": "Missing PDF",
+        "totals": {
+            "Y": 9,
+            "N": 0
+        }
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S722&P_SESS=20231",
         "bill": "SB 150",
         "session": "20231",
-        "action_id": "SB150-0021",
+        "action_id": "SB150-0022",
         "type": "floor",
         "seq_number": "S722",
         "date": "February 24, 2023",
@@ -221,7 +234,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S772&P_SESS=20231",
         "bill": "SB 150",
         "session": "20231",
-        "action_id": "SB150-0023",
+        "action_id": "SB150-0024",
         "type": "floor",
         "seq_number": "S772",
         "date": "February 27, 2023",
@@ -439,19 +452,19 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0150HUH230405.pdf",
         "bill": "SB 150",
         "session": "20231",
-        "action_id": "SB150-0028",
+        "action_id": "SB150-0029",
         "type": "committee",
         "seq_number": null,
         "error": null,
         "date": "April 05, 2023",
-        "description": "Rep. Buckley made a Motion that SB 150 Be Concurred In",
+        "description": "Rep. Sheldon-Galloway made a Motion that SB 150 Be Concurred In",
         "totals": {
-            "Y": 21,
-            "N": 0
+            "Y": 20,
+            "N": 1
         },
         "votes": [
             {
-                "name": "Sheldon-Galloway, Lola;byproxy",
+                "name": "Sheldon-Galloway, Lola",
                 "vote": "Y"
             },
             {
@@ -463,7 +476,7 @@
                 "vote": "Y"
             },
             {
-                "name": "Etchart, Jodee",
+                "name": "Etchart, Jodee;byproxy",
                 "vote": "Y"
             },
             {
@@ -475,7 +488,7 @@
                 "vote": "Y"
             },
             {
-                "name": "Nikolakakos, George;byproxy",
+                "name": "Nikolakakos, George",
                 "vote": "Y"
             },
             {
@@ -483,11 +496,11 @@
                 "vote": "Y"
             },
             {
-                "name": "Smith, Laura;byproxy",
+                "name": "Smith, Laura",
                 "vote": "Y"
             },
             {
-                "name": "Welch, Tom",
+                "name": "Welch, Tom;byproxy",
                 "vote": "Y"
             },
             {
@@ -496,14 +509,14 @@
             },
             {
                 "name": "Abbott, Kim",
+                "vote": "N"
+            },
+            {
+                "name": "Zephyr, Zooey",
                 "vote": "Y"
             },
             {
-                "name": "Zephyr, Zooey;byproxy",
-                "vote": "Y"
-            },
-            {
-                "name": "Frazer, Gregory;byproxy",
+                "name": "Frazer, Gregory",
                 "vote": "Y"
             },
             {
@@ -519,7 +532,7 @@
                 "vote": "Y"
             },
             {
-                "name": "Rusk, Wayne",
+                "name": "Rusk, Wayne;byproxy",
                 "vote": "Y"
             },
             {
@@ -540,7 +553,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2079&P_SESS=20231",
         "bill": "SB 150",
         "session": "20231",
-        "action_id": "SB150-0031",
+        "action_id": "SB150-0032",
         "type": "floor",
         "seq_number": "H2079",
         "date": "April 12, 2023",
@@ -958,7 +971,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2175&P_SESS=20231",
         "bill": "SB 150",
         "session": "20231",
-        "action_id": "SB150-0033",
+        "action_id": "SB150-0034",
         "type": "floor",
         "seq_number": "H2175",
         "date": "April 13, 2023",

@@ -496,7 +496,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0232FCS230301.pdf",
         "bill": "SB 232",
         "session": "20231",
-        "action_id": "SB232-0035",
+        "action_id": "SB232-0036",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -817,7 +817,7 @@
         }
     },
     {
-        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0232STH230414.pdf",
+        "url": null,
         "bill": "SB 232",
         "session": "20231",
         "action_id": "SB232-0048",
@@ -906,17 +906,93 @@
         ]
     },
     {
-        "url": null,
+        "url": "http://leg.mt.gov/bills/2023/minutes/house/votesheets/SB0232STH230414.pdf",
         "bill": "SB 232",
         "session": "20231",
         "action_id": "SB232-0049",
         "type": "committee",
         "seq_number": null,
-        "error": "Missing URL",
+        "error": null,
+        "date": "April 14, 2023",
+        "description": "Rep. Running Wolf made a Motion that SB 232 Be Concurred In",
         "totals": {
             "Y": 15,
             "N": 3
-        }
+        },
+        "votes": [
+            {
+                "name": "Phalen, Bob",
+                "vote": "Y"
+            },
+            {
+                "name": "Kortum, Kelly",
+                "vote": "Y"
+            },
+            {
+                "name": "Baum, Denise",
+                "vote": "Y"
+            },
+            {
+                "name": "Bertoglio, Marta",
+                "vote": "Y"
+            },
+            {
+                "name": "Brockman, Tony",
+                "vote": "N"
+            },
+            {
+                "name": "Frazer, Gregory",
+                "vote": "Y"
+            },
+            {
+                "name": "Green, Paul",
+                "vote": "Y"
+            },
+            {
+                "name": "Parry, Gary",
+                "vote": "Y"
+            },
+            {
+                "name": "Reksten, Linda",
+                "vote": "Y"
+            },
+            {
+                "name": "RunningWolf, Tyson",
+                "vote": "Y"
+            },
+            {
+                "name": "Smith, Frank",
+                "vote": "Y"
+            },
+            {
+                "name": "Sprunger, Courtenay",
+                "vote": "Y"
+            },
+            {
+                "name": "Stafman, Ed",
+                "vote": "Y"
+            },
+            {
+                "name": "Walsh, Kenneth",
+                "vote": "Y"
+            },
+            {
+                "name": "Weatherwax, Marvin",
+                "vote": "Y"
+            },
+            {
+                "name": "Yakawich, Michael",
+                "vote": "Y"
+            },
+            {
+                "name": "Wirth, Zack",
+                "vote": "N"
+            },
+            {
+                "name": "Dooling, Julie",
+                "vote": "N"
+            }
+        ]
     },
     {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2249&P_SESS=20231",

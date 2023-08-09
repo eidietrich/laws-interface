@@ -3,7 +3,7 @@
         "url": null,
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0037",
+        "action_id": "SB298-0038",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -14,19 +14,6 @@
     },
     {
         "url": null,
-        "bill": "SB 298",
-        "session": "20231",
-        "action_id": "SB298-0038",
-        "type": "committee",
-        "seq_number": null,
-        "error": "Missing URL",
-        "totals": {
-            "Y": 8,
-            "N": 3
-        }
-    },
-    {
-        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0298FIS230321.pdf",
         "bill": "SB 298",
         "session": "20231",
         "action_id": "SB298-0039",
@@ -91,10 +78,75 @@
         ]
     },
     {
+        "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0298FIS230321.pdf",
+        "bill": "SB 298",
+        "session": "20231",
+        "action_id": "SB298-0040",
+        "type": "committee",
+        "seq_number": null,
+        "error": null,
+        "date": "March 21, 2023",
+        "description": "Sen. Hertz made a Motion that SB 298 Do Pass as Amended",
+        "totals": {
+            "Y": 8,
+            "N": 4
+        },
+        "votes": [
+            {
+                "name": "Brown, Bob;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Fox, Mike",
+                "vote": "Y"
+            },
+            {
+                "name": "Curdy, Willis",
+                "vote": "N"
+            },
+            {
+                "name": "Ellsworth, Jason;byproxy",
+                "vote": "Y"
+            },
+            {
+                "name": "Emrich, Daniel",
+                "vote": "Y"
+            },
+            {
+                "name": "Flowers, Pat;byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Fuller, John",
+                "vote": "Y"
+            },
+            {
+                "name": "Hertz, Greg",
+                "vote": "Y"
+            },
+            {
+                "name": "McClafferty, Edith(Edie);byproxy",
+                "vote": "N"
+            },
+            {
+                "name": "Noland, Mark",
+                "vote": "N"
+            },
+            {
+                "name": "Vermeire, Terry",
+                "vote": "Y"
+            },
+            {
+                "name": "Hinebauch, Steve",
+                "vote": "Y"
+            }
+        ]
+    },
+    {
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1426&P_SESS=20231",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0043",
+        "action_id": "SB298-0044",
         "type": "floor",
         "seq_number": "S1426",
         "date": "March 27, 2023",
@@ -312,7 +364,7 @@
         "url": null,
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0047",
+        "action_id": "SB298-0048",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -325,7 +377,7 @@
         "url": "http://leg.mt.gov/bills/2023/minutes/senate/votesheets/SB0298FCS230331.pdf",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0054",
+        "action_id": "SB298-0056",
         "type": "committee",
         "seq_number": null,
         "error": null,
@@ -418,7 +470,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=S1587&P_SESS=20231",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0057",
+        "action_id": "SB298-0059",
         "type": "floor",
         "seq_number": "S1587",
         "date": "April 03, 2023",
@@ -636,7 +688,7 @@
         "url": null,
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0062",
+        "action_id": "SB298-0064",
         "type": "committee",
         "seq_number": null,
         "error": "Missing URL",
@@ -649,7 +701,7 @@
         "url": "http://laws.leg.mt.gov/legprd/LAW0211W$BLAC.VoteTabulation?P_VOTE_SEQ=H2762&P_SESS=20231",
         "bill": "SB 298",
         "session": "20231",
-        "action_id": "SB298-0063",
+        "action_id": "SB298-0065",
         "type": "floor",
         "seq_number": "H2762",
         "date": "May 01, 2023",
