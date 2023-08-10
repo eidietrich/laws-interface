@@ -201,28 +201,6 @@
         "id": "SB486-0018",
         "bill": "SB 486",
         "session": "20231",
-        "action": "(S) Taken from Table in Committee",
-        "actionUrl": null,
-        "date": "02/24/2023",
-        "hasVote": true,
-        "committee": "(S) Local Government",
-        "recordings": []
-    },
-    {
-        "id": "SB486-0019",
-        "bill": "SB 486",
-        "session": "20231",
-        "action": "(S) Taken from Table in Committee",
-        "actionUrl": null,
-        "date": "02/24/2023",
-        "hasVote": true,
-        "committee": "(S) Local Government",
-        "recordings": []
-    },
-    {
-        "id": "SB486-0020",
-        "bill": "SB 486",
-        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -234,7 +212,7 @@
         ]
     },
     {
-        "id": "SB486-0021",
+        "id": "SB486-0019",
         "bill": "SB 486",
         "session": "20231",
         "action": "(S) Tabled in Committee",
@@ -245,12 +223,23 @@
         "recordings": []
     },
     {
-        "id": "SB486-0022",
+        "id": "SB486-0020",
         "bill": "SB 486",
         "session": "20231",
         "action": "(S) Missed Deadline for General Bill Transmittal",
         "actionUrl": null,
         "date": "03/13/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB486-0021",
+        "bill": "SB 486",
+        "session": "20231",
+        "action": "(S) Died in Standing Committee",
+        "actionUrl": null,
+        "date": "05/02/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []

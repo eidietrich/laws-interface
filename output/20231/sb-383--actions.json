@@ -256,17 +256,6 @@
         "id": "SB383-0023",
         "bill": "SB 383",
         "session": "20231",
-        "action": "(S) Committee Executive Action--Bill Passed",
-        "actionUrl": null,
-        "date": "02/24/2023",
-        "hasVote": true,
-        "committee": "(S) Natural Resources",
-        "recordings": []
-    },
-    {
-        "id": "SB383-0024",
-        "bill": "SB 383",
-        "session": "20231",
         "action": "(S) Hearing",
         "actionUrl": null,
         "date": "02/24/2023",
@@ -276,6 +265,17 @@
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/46645?agendaId=254876",
             "http://sg001-harmony.sliq.net/00309/Harmony/en/PowerBrowser/PowerBrowserV2/20170221/-1/48965?agendaId=267342"
         ]
+    },
+    {
+        "id": "SB383-0024",
+        "bill": "SB 383",
+        "session": "20231",
+        "action": "(S) Committee Executive Action--Bill Passed",
+        "actionUrl": null,
+        "date": "02/24/2023",
+        "hasVote": true,
+        "committee": "(S) Natural Resources",
+        "recordings": []
     },
     {
         "id": "SB383-0025",
@@ -422,6 +422,17 @@
         "action": "(S) Missed Deadline for Revenue Bill Transmittal",
         "actionUrl": null,
         "date": "04/06/2023",
+        "hasVote": false,
+        "committee": null,
+        "recordings": []
+    },
+    {
+        "id": "SB383-0038",
+        "bill": "SB 383",
+        "session": "20231",
+        "action": "(S) Died in Standing Committee",
+        "actionUrl": null,
+        "date": "05/02/2023",
         "hasVote": false,
         "committee": null,
         "recordings": []
