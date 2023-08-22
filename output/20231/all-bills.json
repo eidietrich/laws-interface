@@ -340,9 +340,9 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
+            "2/3 of Each House",
             "3/4 of Each House",
-            "2/3 of Each House"
+            "Simple"
         ],
         "deadlineCategory": "Appropriation Bills",
         "transmittalDeadline": "04/04/2023",
@@ -14234,8 +14234,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -33791,8 +33791,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -57664,8 +57664,8 @@
             }
         ],
         "voteRequirements": [
-            "Simple",
-            "2/3 of Each House"
+            "2/3 of Each House",
+            "Simple"
         ],
         "deadlineCategory": "General Bills",
         "transmittalDeadline": "03/03/2023",
@@ -61171,6 +61171,45 @@
         "subjects": [
             {
                 "subject": "Health Care Services (see also: Health)",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            }
+        ],
+        "voteRequirements": [
+            "Simple"
+        ],
+        "deadlineCategory": "General Bills",
+        "transmittalDeadline": "03/03/2023",
+        "amendedReturnDeadline": "04/18/2023"
+    },
+    {
+        "key": "SB 423",
+        "session": "20231",
+        "billPageUrl": "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=423&P_BLTP_BILL_TYP_CD=SB&Z_ACTION=Find&P_SESS=20231",
+        "billTextUrl": "http://leg.mt.gov/bills/2023/billhtml/SB0423.htm",
+        "billPdfUrl": "http://leg.mt.gov/bills/2023/billpdf/SB0423.pdf",
+        "lc": "LC1705",
+        "title": "Generally revise liability related to firearm hold agreements",
+        "sponsor": "Kenneth Bogner",
+        "sponsorParty": "R",
+        "sponsorDistrict": "SD 19",
+        "statusDate": "05/04/2023",
+        "lastAction": "Chapter Number Assigned",
+        "billStatus": "Became Law",
+        "fiscalNotesListUrl": null,
+        "legalNoteUrl": null,
+        "amendmentListUrl": null,
+        "draftRequestor": null,
+        "billRequestor": null,
+        "primarySponsor": "Kenneth Bogner",
+        "subjects": [
+            {
+                "subject": "Guns and Weapons",
+                "fiscalCode": "",
+                "voteReq": "Simple"
+            },
+            {
+                "subject": "Liability  (see also: Remedies; Torts)",
                 "fiscalCode": "",
                 "voteReq": "Simple"
             }
